@@ -12,16 +12,35 @@
 ### 博客
 * CSDN：https://blog.csdn.net/yaokingson/
 * 博客园：https://www.cnblogs.com/yaoqs
-* 开源中国 https://my.oschina.net/yaoqs
+* 开源中国：https://my.oschina.net/yaoqs
+* 黑客派：https://hacpai.com/member/yaoqs
 
 ### 代码仓
 * Github https://github.com/yaoqs
 * 码云 https://gitee.com/yaoqs
 
+## 公开课
+* [慕课网-程序员的梦工厂](https://www.imooc.com/)
+* [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu)
+* [可汗学院 | 免费在线课程, 讲解以及练习](https://zh.khanacademy.org/)
+* [edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+* [大蕃薯视频教程均可在线观看,分享知识，分享精品课程、教学视频、视频资源的网站](http://www.da-fan-shu.cn/)
+* [网易云课堂 - 我的职业课堂](https://study.163.com/)
+* [网易公开课](http://open.163.com/)
+* [新浪公开课_新浪教育_新浪网](http://open.sina.com.cn/)
+* [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/)
+
+## 电子书/ebook
+* [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
+
 ## 影视资源网站
 
 ### 综合
 * [ED2000资源共享,电驴下载,eD2k,BT种子](https://www.ed2000.com/)
+
+### music
+* [Download mp3 music online. Best music collection in a format mp3. Buy music albums.](https://mp3fiesta.com/)
+* [预谋邂逅 - 豆瓣FM](https://douban.fm/)
 
 ### 高清下载
 * [YYeTs 人人影视|字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
@@ -40,4 +59,20 @@
 ### 在线
 * [酷绘视频 - 轻松随心看](http://www.kuhuiv.com/)
 
-## 资源搜索
+### 资源搜索
+* 海盗湾 The Pirate Bay:
+    * https://www.pirate-bay.net/
+    * https://tpb.wiki/
+* [Start | Zooqle: Verified torrents](https://zooqle.com)
+* [搜磁力 - 搜一搜，发现精彩世界](https://www.soucili.net/)
+* 屌丝搜-最懂屌丝的DHT磁力搜索引擎
+    * http://www.diaosisou8.com/
+    * http://www.diaosisou.cc/
+* [BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)
+* [爱问共享资料_在线资料分享平台](http://ishare.iask.sina.com.cn/)
+
+### ed2k
+* [VeryCD电驴大全](http://www.verycd.com/)
+* [eMule Xtreme Mod official homepage](http://www.xtreme-mod.net/)
+* [nodes.dat - nodes server for emule kademlia net](http://www.nodes-dat.com/)
+* [eMule-Project.net - eMule官方网站 - 下载，帮助，文档，新闻……](https://www.emule-project.net/)
