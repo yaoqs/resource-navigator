@@ -5,9 +5,10 @@
 ## My pages list
 ### [Github个人主页](https://yaoqs.github.com/)
 
+
 ## My blogs list
 ### 微博
-* 新浪微博 https://gitee.com/yaoqs
+* 新浪微博 https://weibo.com/lordyao
 
 ### 博客
 * CSDN：https://blog.csdn.net/yaokingson/
@@ -17,7 +18,9 @@
 
 ### 代码仓
 * Github https://github.com/yaoqs
+* GitLab https://gitlab.com/yaoqs
 * 码云 https://gitee.com/yaoqs
+
 
 ## 公开课
 * [慕课网-程序员的梦工厂](https://www.imooc.com/)
