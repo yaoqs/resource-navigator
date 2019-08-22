@@ -21,6 +21,9 @@
 * GitLab https://gitlab.com/yaoqs
 * 码云 https://gitee.com/yaoqs
 
+### Wolfram|Alpha
+[Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
+> Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
 
 ## 公开课
 * [慕课网-程序员的梦工厂](https://www.imooc.com/)
