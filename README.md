@@ -41,6 +41,7 @@
 
 ## 电子书/ebook
 * [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
+* [飘云阁电子书库] (https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
 
 ## 影视资源网站
 
@@ -86,8 +87,33 @@
 * [nodes.dat - nodes server for emule kademlia net](http://www.nodes-dat.com/)
 * [eMule-Project.net - eMule官方网站 - 下载，帮助，文档，新闻……](https://www.emule-project.net/)
 
+## 代码仓
+* [Github]    (https://github.com/) 免费版支持无限私有仓库 (微软收购)
+* [BitBucket]    (https://BitBucket.com/) 免费版支持私有仓库
+* [gitlab]    (https://gitlab.com/) 免费版支持私有仓库
+* [gitee]    (https://gitee.com/) 免费版支持私有仓库 (国产 / 速度快)
+* [coding]    (https://coding.net/) 免费版支持私有仓库 (国产 / 速度快)
+
+
+
+## 破解相关网站
+* [看雪] (https://bbs.pediy.com)
+* [52破解] (https://www.52pojie.cn/)
+* [飘云阁(PYG官方论坛)]  (https://www.chinapyg.com/)
 
 ## 软件
+* [MAC萌新网]    (https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
+* [小众软件]    (https://www.appinn.com/)
+* [异次元软件世界]    (https://www.iplaysoft.com/)
+* [乐软博客]          (https://www.isharepc.com/)
+
+### 下载网站
+* [下载吧] （http://www.xiazaiba.com/ ）
+
+### 快传
+* 奶牛快传 - 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) https://cowtransfer.com/
+* FireFox Send - 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) https://send.firefox.com/
+
 ### 开发
 |软件|说明|下载地址|
 |---|---|---|
