@@ -20,6 +20,11 @@
 * Github https://github.com/yaoqs
 * GitLab https://gitlab.com/yaoqs
 * 码云 https://gitee.com/yaoqs
+* 华为开源平台 https://code.opensource.huaweicloud.com/home
+
+### Community/社区
+* gitter https://gitter.im
+* stackoverflow https://stackoverflow.com/
 
 ### Wolfram|Alpha
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
