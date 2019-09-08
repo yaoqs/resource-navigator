@@ -161,17 +161,28 @@ definitions, executable algorithms and theorems together with an environment for
 |---|---|---|
 |Visual Studio|宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。||
 
+### FTP文件管理工具
+|                  软件                  | 说明 | 下载地址 |
+| -------------------------------------- | ---- | ------- |
+| FileZilla                              | The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge. | https://filezilla-project.org/ |
+| feiq                                   | 一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。 | http://feiq18.com/ |
+
 ### ssh类
 |软件|说明|下载地址|
 |---|---|---|
 |WinSCP.exe|WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.|https://winscp.net/eng/index.php|
 |putty.exe |知名ssh软件|https://www.chiark.greenend.org.uk/~sgtatham/putty/|
 
+### 远程管理
+|    软件     | 说明 | 下载地址 |
+| ---------- | ---- | ------- |
+| TeamViewer |      |         |
+
 ### 网络相关工具
 |软件|说明|下载地址|
 |---|---|---|
 |sscom5.13.1.exe | 新版安全可靠强大，包含串口调试、tcp及udp通讯调试|http://www.daxia.com/|
-|Fiddler 4 	|接口抓包工具，比较适合 HTTP API 接口抓包。 	|https://www.telerik.com/download/fiddler|
+|Progress Telerik Fiddler 	|接口抓包工具，比较适合 HTTP API 接口抓包。 	|https://www.telerik.com/download/fiddler|
 |Wireshark 	|TCP/UDP 层级的抓包工具，功能强大。 	||
 
 ### 文本编辑器
@@ -179,11 +190,32 @@ definitions, executable algorithms and theorems together with an environment for
 |---|---|---|
 |Notepad++ 	|轻量级文件编辑器，支持多种格式的文件，打开文件快速。|https://notepad-plus-plus.org/download|
 |Visual Studio Code 	|轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。|https://code.visualstudio.com/docs/?dv=win64user|
+| typora | a markdown editor, markdown reader. | https://typora.io/ |
+| Beyond Compare | 一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。 |         |
+| WinHex         | Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor | http://www.winhex.com/winhex/ |
+
+### 邮箱
+|  软件  | 说明 | 下载地址 |
+| ------ | ---- | ------- |
+| DM Pro |  DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！    |    http://www.cy-email.com/     |
+
+### 笔记
+|    软件     | 说明 | 下载地址 |
+| ----------- | ---- | ------- |
+| 为知笔记 Wiz |      |         |
+| 印象笔记 | | |
+
+### 安全
+|    软件     | 说明 | 下载地址 |
+| ----------- | ---- | ------- |
+| 火绒安全软件 |  小巧简洁高效的安全软件，对标各大管家和卫士    |   https://www.huorong.cn/      |
 
 ### 效率软件
 |软件|说明|下载地址|
 |---|---|---|
 |Everything 	|能够以毫秒级的速度搜索到所有硬盘的文件/目录。|https://www.voidtools.com/downloads/|
+| FileGee Backup & Sync Personal Edition | 文件备份、同步工具，功能强大。个人版免费。企业版收费 | http://filegee.net/download.html |
+| Total Commander                        | 功能强大的文件管理工具                               | https://www.ghisler.com/         |
 
 ### 系统扫描与清理
 |软件|说明|下载地址|
@@ -197,8 +229,91 @@ definitions, executable algorithms and theorems together with an environment for
 |软件|说明|下载地址|
 |---|---|---|
 |foobar 2000 	|绿色的音乐播放器。 	|https://www.foobar2000.org/download|
+| Goldwave   |   Digital Audio Editing Software Record • Restore • Convert • Analyze     | https://www.goldwave.com/        |
+| QQ影音     | 由腾讯公司推出的一款支持任何格式影片和音乐文件的本地播放器     |   https://player.qq.com/      |
+| GIMP       |  The Free & Open Source Image Editor 对标Photoshop   |    https://www.gimp.org/     |
+| MPC-BE  |  a free and open source audio and video player for Windows    |   https://sourceforge.net/projects/mpcbe/      |
 
 ### 虚拟机
 |软件|说明|下载地址|
 |---|---|---|
 |Docker for Windows 	|Docker 容器软件的 Windows 版本。|https://hub.docker.com/editions/community/docker-ce-desktop-windows|
+
+### 全能数据库管理工具
+|         软件          | 说明 | 下载地址 |
+| -------------------- | ---- | ------- |
+| Navicat Premium | 一款数据库管理工具,是一个可多重连线资料库的管理工具，它可以让你以单一程式同时连线到 MySQL、SQLite、Oracle 及 PostgreSQL 资料库，让管理不同类型的资料库更加的方便 | https://www.navicat.com/en/products/navicat-premium |
+
+### 浏览器
+|    软件     | 说明 | 下载地址 |
+| ----------- | ---- | ------- |
+| chromium    |      |         |
+| Tor Browser |      |         |
+| Firefox     |      |         |
+| 世界之窗     |      |         |
+
+### 反编译工具
+|   软件    | 说明 | 下载地址 |
+| --------- | ---- | ------- |
+| OD        |      |         |
+| IDA       | **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. | https://www.hex-rays.com/products/ida/index.shtml |
+| Hex-Rays Decompiler |  | https://www.hex-rays.com/products/decompiler/index.shtml |
+| pexplorer |      |         |
+| ApkIDE    |      |         |
+| C32Asm    |      |         |
+
+### 压缩工具
+|  软件  | 说明 | 下载地址 |
+| ------ | ---- | ------- |
+| WinRAR | 知名压缩软件 | https://rarlab.com/download.htm |
+| 7z     | 一款拥有极高压缩比的开源压缩软件 | https://www.7-zip.org/ |
+
+### 科研
+|     软件      | 说明 | 下载地址 |
+| ------------- | ---- | ------- |
+| matlab | MATLAB是美国[MathWorks](https://baike.baidu.com/item/MathWorks)公司出品的商业[数学软件](https://baike.baidu.com/item/数学软件)，用于算法开发、数据可视化、数据分析以及[数值计算](https://baike.baidu.com/item/数值计算/3729797)的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。 | https://www.mathworks.com/products/matlab.html |
+| cnki E-study  | 集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。 | http://elearning.cnki.net/ |
+
+### The **package manager** for Windows
+| 软件           | 说明                           | 下载地址                |
+| -------------- | ------------------------------ | ----------------------- |
+| **Chocolatey** | Software Management Automation | https://chocolatey.org/ |
+| 腾讯软件管理   |                                |                         |
+
+### js
+| 软件    | 说明 | 下载地址 |
+| ------- | ---- | -------- |
+| node.js |      |          |
+
+### IM/协同办公
+| 软件  | 说明 | 下载地址 |
+| ----- | ---- | -------- |
+| slack |      |          |
+|  TIM  ||
+|  钉钉 ||
+
+### 版本控制
+| 软件         | 说明 | 下载地址 |
+| ------------ | ---- | -------- |
+| Git          |      |          |
+| Tortoise SVN |      |          |
+
+### pdf
+| 软件         | 说明 | 下载地址 |
+| ------------ | ---- | -------- |
+| 福昕foxit    |      |          |
+| Adobe Acraft |      |          |
+
+### 音乐
+
+| 软件       | 说明 | 下载地址 |
+| ---------- | ---- | -------- |
+| 网易云音乐 |      |          |
+| QQ音乐     |      |          |
+| 虾米音乐   |      |          |
+
+### 桌面环境
+| 软件                     | 说明                                                         | 下载地址              |
+| ------------------------ | ------------------------------------------------------------ | --------------------- |
+| Xfce Desktop Environment | Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly. | https://www.xfce.org/ |
+|                          |                                                              |                       |
