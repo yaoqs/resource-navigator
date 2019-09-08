@@ -46,7 +46,11 @@
 
 ## 电子书/ebook
 * [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
-* [飘云阁电子书库] (https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
+* [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
+* [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
+
+## 美好生活
+* [信用卡新闻](https://www.csai.cn/zhishi/creditcard/)
 
 ## 影视资源网站
 
@@ -99,12 +103,40 @@
 * [gitee]    (https://gitee.com/) 免费版支持私有仓库 (国产 / 速度快)
 * [coding]    (https://coding.net/) 免费版支持私有仓库 (国产 / 速度快)
 
-
+## 数学
+* [Coq](https://coq.inria.fr/ ) is a formal proof management system. It provides a formal language to write mathematical 
+definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://coq.inria.fr/cocorico/List of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](https://coq.inria.fr/cocorico/List of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : https://github.com/coq/coq
 
 ## 破解相关网站
 * [看雪] (https://bbs.pediy.com)
 * [52破解] (https://www.52pojie.cn/)
 * [飘云阁(PYG官方论坛)]  (https://www.chinapyg.com/)
+
+### Cyber Security
+* [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
+* xfocus.org
+* [Hex-Rays](https://www.hex-rays.com/index.shtml) is a hi-tech company focused on binary software analysis. We strive to deliver the best products and excellent service. [products](https://www.hex-rays.com/products.shtml): [IDA](https://www.hex-rays.com/products/ida/index.shtml)，[Hex-Rays Decompiler](https://www.hex-rays.com/products/decompiler/index.shtml).
+
+## opencode
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
+- [OSCHINA - 中文开源技术交流社区](https://www.oschina.net/)
+- [GitHub](https://github.com/)
+- [Projects · Dashboard · GitLab](https://gitlab.com/)
+- [码云 Gitee.com](https://gitee.com/) 码云(gitee.com)是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 350 万的开发者选择码云。
+- [CodeProject - For those who code](https://www.codeproject.com/) Free source code and tutorials for Software developers and Architects
+- [searchcode | source code search engine](https://searchcode.com/) searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.
+- [CodePlex Archive](https://archive.codeplex.com/) An archive of the CodePlex open source hosting site
+- [NotABug.org: Free code hosting](https://notabug.org/)
+- [CTOLib码库](https://www.ctolib.com/) CTOLib码库分类收集GitHub上的开源项目，并且每天根据相关的数据计算每个项目的流行度和活跃度，方便开发者快速找到想要的免费开源项目。
+- [tutorialspoint](https://www.tutorialspoint.com) Weka, Solidity, Org.Json, AWS QuickSight, JSON.Simple, Jackson Annotations, Passay, Boon, MuleSoft, Nagios, Matplotlib, Java NIO, PyTorch, SLF4J, Parallax Scrolling, Java Cryptography, YAML, Python Data Science, Java i18n, GitLab, TestRail
+- [联合开发网 - pudn.com](http://www.pudn.com/)
+- [新兴网络 - 提供教程及源码免费下载](http://www.newxing.com/)
+- [智慧石-分享智慧的源泉](http://www.zhihuishi.com)
+- [BVBcode Source download](http://www.bvbcode.com/)
+
+### 金山开源
+- [金山卫士开源计划 {v11.08.8.0}开源卫士社区 源代码下载](http://code.ijinshan.com)
 
 ## 软件
 * [MAC萌新网]    (https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
@@ -114,10 +146,15 @@
 
 ### 下载网站
 * [下载吧] （http://www.xiazaiba.com/ ）
+* [iLog] (https://isite.tw/)
+* [多特软件站] (https://www.duote.com/)
+* [吾爱破解爱盘] (https://down.52pojie.cn)
+* [汉化新世纪] (http://www.hanzify.org/)
 
 ### 快传
 * 奶牛快传 - 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) https://cowtransfer.com/
 * FireFox Send - 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) https://send.firefox.com/
+* [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
 
 ### 开发
 |软件|说明|下载地址|
