@@ -256,11 +256,11 @@ definitions, executable algorithms and theorems together with an environment for
 ### 反编译工具
 |   软件    | 说明 | 下载地址 |
 | --------- | ---- | ------- |
-| OllyDebug |   a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了    | http://www.ollydbg.de/  中文站 http://ollydbg.net/  https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip 插件 https://down.52pojie.cn/Tools/OllyDbg_Plugin/   吾爱破解专用版Ollydbg https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar |
+| OllyDebug |   a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了    | http://www.ollydbg.de/  中文站 http://ollydbg.net/  https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/)   [吾爱破解专用版Ollydbg](https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar） |
 | IDA       | **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. | https://www.hex-rays.com/products/ida/index.shtml |
 | Hex-Rays Decompiler |  | https://www.hex-rays.com/products/decompiler/index.shtml |
-| pexplorer |      |         |
-| ApkIDE    |      |         |
+| pexplorer |      |  https://down.52pojie.cn/Tools/PEtools/      |
+| ApkIDE    |      |  https://down.52pojie.cn/Tools/Android_Tools/       |
 | C32Asm    |      |  https://down.52pojie.cn/Tools/Disassemblers/C32Asm_v2.0.1.0.rar       |
 
 ### 压缩工具
@@ -284,20 +284,21 @@ definitions, executable algorithms and theorems together with an environment for
 ### js
 | 软件    | 说明 | 下载地址 |
 | ------- | ---- | -------- |
-| node.js |      |          |
+| node.js | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.     |    https://nodejs.org/en/      |
 
 ### IM/协同办公
 | 软件  | 说明 | 下载地址 |
 | ----- | ---- | -------- |
-| slack |      |          |
-|  TIM  ||
-|  钉钉 ||
+| slack |  国外非常流行的团队协作工具    | https://slack.com/intl/en-cn/         |
+|  TIM  |QQ办公简洁版，是一款专注于团队办公协作的跨平台沟通工具。|https://office.qq.com/|
+|  钉钉 | 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同|https://www.dingtalk.com/|
+| 微信|一个为智能终端提供即时通讯服务的免费应用程序，一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。 ... 群聊，也能视频聊天。||
 
 ### 版本控制
 | 软件         | 说明 | 下载地址 |
 | ------------ | ---- | -------- |
-| Git          |      |          |
-| Tortoise SVN |      |          |
+| Git          |  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理    |   https://git-scm.com/       |
+| Tortoise SVN |  an Apache ™ Subversion (SVN) ® client, implemented as a Windows shell extension. It's intuitive and easy to use, since it doesn't require the Subversion command line client to run.     |   https://tortoisesvn.net/       |
 
 ### pdf
 | 软件         | 说明 | 下载地址 |
