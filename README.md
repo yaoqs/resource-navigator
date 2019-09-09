@@ -256,7 +256,7 @@ definitions, executable algorithms and theorems together with an environment for
 ### 反编译工具
 |   软件    | 说明 | 下载地址 |
 | --------- | ---- | ------- |
-| OllyDebug |   a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了    | http://www.ollydbg.de/  中文站 http://ollydbg.net/  https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/)   [吾爱破解专用版Ollydbg](https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar） |
+| OllyDebug |   a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了    | http://www.ollydbg.de/  中文站 http://ollydbg.net/  https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip \ [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/) \  [吾爱破解专用版Ollydbg](https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar) |
 | IDA       | **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. | https://www.hex-rays.com/products/ida/index.shtml |
 | Hex-Rays Decompiler |  | https://www.hex-rays.com/products/decompiler/index.shtml |
 | pexplorer |      |  https://down.52pojie.cn/Tools/PEtools/      |
