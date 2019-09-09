@@ -106,6 +106,7 @@
 ## 数学
 * [Coq](https://coq.inria.fr/ ) is a formal proof management system. It provides a formal language to write mathematical 
 definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://coq.inria.fr/cocorico/List of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](https://coq.inria.fr/cocorico/List of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : https://github.com/coq/coq
+* The [HOL](https://hol-theorem-prover.org/) interactive theorem prover is a proof assistant for higher-order logic: a programming environment in which theorems can be proved and proof tools implemented. Built-in decision procedures and theorem provers can automatically establish many simple theorems (users may have to prove the hard theorems themselves!) An oracle mechanism gives access to external programs such as SMT and BDD engines. HOL is particularly suitable as a platform for implementing combinations of deduction, execution and property checking. [HOL Guidebook](https://hol-theorem-prover.org/guidebook/)  Github : https://github.com/HOL-Theorem-Prover/HOL
 
 ## 破解相关网站
 * [看雪] (https://bbs.pediy.com)
@@ -176,14 +177,14 @@ definitions, executable algorithms and theorems together with an environment for
 ### 远程管理
 |    软件     | 说明 | 下载地址 |
 | ---------- | ---- | ------- |
-| TeamViewer |      |         |
+| TeamViewer |  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.    |   https://www.teamviewer.cn/cn/      |
 
 ### 网络相关工具
 |软件|说明|下载地址|
 |---|---|---|
 |sscom5.13.1.exe | 新版安全可靠强大，包含串口调试、tcp及udp通讯调试|http://www.daxia.com/|
 |Progress Telerik Fiddler 	|接口抓包工具，比较适合 HTTP API 接口抓包。 	|https://www.telerik.com/download/fiddler|
-|Wireshark 	|TCP/UDP 层级的抓包工具，功能强大。 	||
+|Wireshark 	|TCP/UDP 层级的抓包工具，功能强大。Wireshark is the world’s foremost and widely-used network protocol analyzer.  	|https://www.wireshark.org/|
 
 ### 文本编辑器
 |软件|说明|下载地址|
@@ -202,8 +203,8 @@ definitions, executable algorithms and theorems together with an environment for
 ### 笔记
 |    软件     | 说明 | 下载地址 |
 | ----------- | ---- | ------- |
-| 为知笔记 Wiz |      |         |
-| 印象笔记 | | |
+| 为知笔记 Wiz |  高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。    |   https://www.wiz.cn/zh-cn      |
+| 印象笔记 | 高效率工作笔记协作平台|https://www.yinxiang.com/ |
 
 ### 安全
 |    软件     | 说明 | 下载地址 |
@@ -247,7 +248,7 @@ definitions, executable algorithms and theorems together with an environment for
 ### 浏览器
 |    软件     | 说明 | 下载地址 |
 | ----------- | ---- | ------- |
-| chromium    |      |         |
+| chrome      |      |        |
 | Tor Browser |      |         |
 | Firefox     |      |         |
 | 世界之窗     |      |         |
@@ -255,12 +256,12 @@ definitions, executable algorithms and theorems together with an environment for
 ### 反编译工具
 |   软件    | 说明 | 下载地址 |
 | --------- | ---- | ------- |
-| OD        |      |         |
+| OllyDebug |   a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了    | http://www.ollydbg.de/  中文站 http://ollydbg.net/  https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip 插件 https://down.52pojie.cn/Tools/OllyDbg_Plugin/   吾爱破解专用版Ollydbg https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar |
 | IDA       | **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. | https://www.hex-rays.com/products/ida/index.shtml |
 | Hex-Rays Decompiler |  | https://www.hex-rays.com/products/decompiler/index.shtml |
 | pexplorer |      |         |
 | ApkIDE    |      |         |
-| C32Asm    |      |         |
+| C32Asm    |      |  https://down.52pojie.cn/Tools/Disassemblers/C32Asm_v2.0.1.0.rar       |
 
 ### 压缩工具
 |  软件  | 说明 | 下载地址 |
