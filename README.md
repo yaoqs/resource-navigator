@@ -48,6 +48,11 @@
 * [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
 * [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
 * [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
+### 小说
+- [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
+- [中国古典文学 - 国学经典,中国古代文学作品在线阅读](http://www.zggdwx.com/)
+- [英文小说网](http://novel.tingroom.com/)
+
 
 ## 美好生活
 * [信用卡新闻](https://www.csai.cn/zhishi/creditcard/)
