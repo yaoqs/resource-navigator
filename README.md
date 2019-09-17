@@ -112,6 +112,7 @@
 * [Coq](https://coq.inria.fr/ ) is a formal proof management system. It provides a formal language to write mathematical 
 definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://coq.inria.fr/cocorico/List of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](https://coq.inria.fr/cocorico/List of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : https://github.com/coq/coq
 * The [HOL](https://hol-theorem-prover.org/) interactive theorem prover is a proof assistant for higher-order logic: a programming environment in which theorems can be proved and proof tools implemented. Built-in decision procedures and theorem provers can automatically establish many simple theorems (users may have to prove the hard theorems themselves!) An oracle mechanism gives access to external programs such as SMT and BDD engines. HOL is particularly suitable as a platform for implementing combinations of deduction, execution and property checking. [HOL Guidebook](https://hol-theorem-prover.org/guidebook/)  Github : https://github.com/HOL-Theorem-Prover/HOL
+* mathhandbok http://mathhandbook.com
 
 ## 破解相关网站
 * [看雪] (https://bbs.pediy.com)
@@ -279,6 +280,7 @@ definitions, executable algorithms and theorems together with an environment for
 | ------------- | ---- | ------- |
 | matlab | MATLAB是美国[MathWorks](https://baike.baidu.com/item/MathWorks)公司出品的商业[数学软件](https://baike.baidu.com/item/数学软件)，用于算法开发、数据可视化、数据分析以及[数值计算](https://baike.baidu.com/item/数值计算/3729797)的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。 | https://www.mathworks.com/products/matlab.html |
 | cnki E-study  | 集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。 | http://elearning.cnki.net/ |
+|endnote|文献管理软件| endnote x9.1 汉化特别版(附安装教程) https://www.jb51.net/softs/665052.html |
 
 ### The **package manager** for Windows
 | 软件           | 说明                           | 下载地址                |
@@ -323,4 +325,4 @@ definitions, executable algorithms and theorems together with an environment for
 | 软件                     | 说明                                                         | 下载地址              |
 | ------------------------ | ------------------------------------------------------------ | --------------------- |
 | Xfce Desktop Environment | Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly. | https://www.xfce.org/ |
-|                          |                                                              |                       |
+
