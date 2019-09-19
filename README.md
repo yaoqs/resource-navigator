@@ -151,6 +151,15 @@ definitions, executable algorithms and theorems together with an environment for
 * [异次元软件世界]    (https://www.iplaysoft.com/)
 * [乐软博客]          (https://www.isharepc.com/)
 
+### 在线工具、API接口
++ [JSON在线 | JSON解析格式化—SO JSON在线] (https://www.sojson.com/)
++ [菜鸟工具 - 不止于工具] (https://c.runoob.com/)
++ [站长工具 - 站长之家] (http://tool.chinaz.com/)
++ [在线工具 - 程序员的工具箱] (https://tool.lu/)
++ [在线工具 —— OSCHINA.NET社区] (http://tool.oschina.net/)
++ [爱资料在线工具-好用的在线工具箱] (https://www.toolnb.com/)
+
+
 ### 下载网站
 * [下载吧] （http://www.xiazaiba.com/ ）
 * [iLog] (https://isite.tw/)
