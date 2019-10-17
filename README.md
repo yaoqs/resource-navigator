@@ -52,10 +52,12 @@
 - [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
 - [中国古典文学 - 国学经典,中国古代文学作品在线阅读](http://www.zggdwx.com/)
 - [英文小说网](http://novel.tingroom.com/)
+### 诸子百家
+- [中国哲学书电子化计划](https://ctext.org/zhs)
 
 
 ## 美好生活
-* [信用卡新闻](https://www.csai.cn/zhishi/creditcard/)
+* [信用卡资讯](https://www.csai.cn/zhishi/creditcard/)
 
 ## 影视资源网站
 
@@ -118,6 +120,10 @@ definitions, executable algorithms and theorems together with an environment for
 * [看雪] (https://bbs.pediy.com)
 * [52破解] (https://www.52pojie.cn/)
 * [飘云阁(PYG官方论坛)]  (https://www.chinapyg.com/)
+### CTF
+- [看雪CTF](https://ctf.pediy.com/)
+- [攻防世界](https://adworld.xctf.org.cn/)
+- [入门CTF - CTF论坛](https://www.bugku.com/) BugkuCTF论坛，入门CTF训练平台，拥有数量庞大的题库，不断更新各类CTF题目，题目难易度均衡，适合各阶段网络安全爱好者。 
 
 ### Cyber Security
 * [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
