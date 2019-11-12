@@ -30,6 +30,20 @@
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
 > Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
 
+## English news
++ [人民日报英文](http://en.people.cn)
++ [chinadaily global](https://global.chinadaily.com.cn/)
++ [chinadaily china](http://www.chinadaily.com.cn/china/)
++ [newscientist](https://www.newscientist.com/)
++ [科学美国人](https://www.scientificamerican.com/)
++ [MSN](https://www.msn.com/en-us)
++ [卫报](https://www.theguardian.com/)
++ [BBC](https://www.bbc.com/)
++ [discovery](https://www.discovery.com/)
++ [国家地理](https://www.nationalgeographic.com/)
++ [FT中文](http://www.ftchinese.com)
+
+
 ## 公开课
 * [慕课网-程序员的梦工厂](https://www.imooc.com/)
 * [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu)
