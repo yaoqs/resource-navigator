@@ -26,6 +26,10 @@
 * gitter https://gitter.im
 * stackoverflow https://stackoverflow.com/
 
+### Code
++ [leetcode](https://leetcode.com/)
++ [力扣](https://leetcode-cn.com/)
+
 ### Wolfram|Alpha
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
 > Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
