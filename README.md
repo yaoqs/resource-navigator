@@ -277,7 +277,12 @@ definitions, executable algorithms and theorems together with an environment for
 ### 虚拟机
 |软件|说明|下载地址|
 |---|---|---|
-|Docker for Windows 	|Docker 容器软件的 Windows 版本。|https://hub.docker.com/editions/community/docker-ce-desktop-windows|
+|Docker for Windows 	|Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool. |https://hub.docker.com/editions/community/docker-ce-desktop-windows|
+
+### 沙箱/sandbox
+|软件|说明|下载地址|
+|---|---|---|
+|Sandboxie  	|Docker 容器软件的 Windows 版本。|https://www.sandboxie.com/SandboxieInstall.exe|
 
 ### 全能数据库管理工具
 |         软件          | 说明 | 下载地址 |
