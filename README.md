@@ -9,12 +9,18 @@
 ## My blogs list
 ### 微博
 * 新浪微博 https://weibo.com/lordyao
+* Twitter 
 
 ### 博客
 * CSDN：https://blog.csdn.net/yaokingson/
 * 博客园：https://www.cnblogs.com/yaoqs
 * 开源中国：https://my.oschina.net/yaoqs
 * 黑客派：https://hacpai.com/member/yaoqs
+* facebook
+* instagram
+* pinterest
+* 豆瓣
+* linkin
 
 ### 代码仓
 * Github https://github.com/yaoqs
@@ -58,6 +64,7 @@
 * [网易公开课](http://open.163.com/)
 * [新浪公开课_新浪教育_新浪网](http://open.sina.com.cn/)
 * [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/)
+* [coursera](https://www.coursera.org/)
 
 ## 教程
 * [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
