@@ -15,7 +15,6 @@
 * CSDN：https://blog.csdn.net/yaokingson/
 * 博客园：https://www.cnblogs.com/yaoqs
 * 开源中国：https://my.oschina.net/yaoqs
-* 黑客派：https://hacpai.com/member/yaoqs
 * facebook
 * instagram
 * pinterest
@@ -203,16 +202,32 @@ definitions, executable algorithms and theorems together with an environment for
 * FireFox Send - 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) https://send.firefox.com/
 * [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
 
-### 开发
-|软件|说明|下载地址|
-|---|---|---|
-|Visual Studio|宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。||
 
-### FTP文件管理工具
-|                  软件                  | 说明 | 下载地址 |
-| -------------------------------------- | ---- | ------- |
-| FileZilla                              | The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge. | https://filezilla-project.org/ |
-| feiq                                   | 一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。 | http://feiq18.com/ |
+### 效率软件
+<table>
+   <tr>
+      <th>分类</th><th>软件名称</th><th>说明</th><th>下载地址</th>
+   </tr>
+   <tr>
+      <td>开发</td>
+      <td>Visual Studio</td>
+      <td>宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。</td>
+      <td>微软官方</td>
+   </tr>
+   <tr>
+      <td rowspan="2">FTP文件管理工具</td>
+      <td>FileZilla</td>
+      <td>The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge.</td>
+      <td>https://filezilla-project.org/</td>
+   </tr>
+   <tr>
+      <td>feiq</td>
+      <td>一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。</td>
+      <td>http://feiq18.com/</td>
+   </tr>
+   
+</table>
+
 
 ### ssh类
 |软件|说明|下载地址|
