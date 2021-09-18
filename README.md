@@ -198,8 +198,8 @@ definitions, executable algorithms and theorems together with an environment for
 * [汉化新世纪] (http://www.hanzify.org/)
 
 ### 快传
-* 奶牛快传 - 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) https://cowtransfer.com/
-* FireFox Send - 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) https://send.firefox.com/
+* [奶牛快传] (https://cowtransfer.com/ ) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) 
+* [FireFox Send] (https://send.firefox.com/ ) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) 
 * [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
 
 
@@ -232,19 +232,19 @@ definitions, executable algorithms and theorems together with an environment for
 - 开发
    - Visual Studio:宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。微软官方
 - FTP文件管理工具
-   - [FileZilla] (https://filezilla-project.org/):The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
-   - [feiq] (http://feiq18.com/):一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。
+   - [FileZilla] (https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
+   - [feiq] (http://feiq18.com/ ) :一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。
 - ssh类/远程管理
-   - [WinSCP.exe] (https://winscp.net/eng/index.php):WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
-   - [putty.exe] (https://www.chiark.greenend.org.uk/~sgtatham/putty/):知名ssh软件
+   - [WinSCP.exe] (https://winscp.net/eng/index.php ) :WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
+   - [putty.exe] (https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) :知名ssh软件
    - [TeamViewer] (https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
 - 网络相关工具
-   - [sscom5.13.1.exe] (http://www.daxia.com/):  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
+   - [sscom5.13.1.exe] (http://www.daxia.com/ ) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
    - [Progress Telerik Fiddler] (https://www.telerik.com/download/fiddler) :接口抓包工具，比较适合 HTTP API 接口抓包。
    - [Wireshark] (https://www.wireshark.org/) 	TCP/UDP 层级的抓包工具，功能强大。Wireshark is the world’s foremost and widely-used network protocol analyzer.  
 - 文本编辑器
    - [Notepad++] (https://notepad-plus-plus.org/download) 	:轻量级文件编辑器，支持多种格式的文件，打开文件快速。
-   - [Visual Studio Code] (https://code.visualstudio.com/docs/?dv=win64user) 	|轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。
+   - [Visual Studio Code] (https://code.visualstudio.com/docs/?dv=win64user) 	轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。
    - [typora] (https://typora.io/) :a markdown editor, markdown reader. 
    - [Beyond Compare] ()  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
    - [WinHex] (http://www.winhex.com/winhex/)  Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor 
@@ -265,7 +265,11 @@ definitions, executable algorithms and theorems together with an environment for
 - 系统扫描与清理
    - [Dism++] (https://www.chuyu.me/zh-Hans/) 	轻量且免费的垃圾清理工具，有免安装版本。综合来说，其功能与效果还可以。
    - [CCleaner] (https://www.ccleaner.com/ccleaner/download/standard) 	备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
-
+- 网盘
+   - [百度网盘] (https://pan.baidu.com)
+   - [115] ()
+   - [阿里云盘] (https://www.aliyundrive.com/)
+   - [天翼云盘] (https://cloud.189.cn)
 - 下载工具
    - [IDM] () : internet download manager
 - 多媒体
@@ -308,7 +312,7 @@ definitions, executable algorithms and theorems together with an environment for
    - [7z] (https://www.7-zip.org/)    一款拥有极高压缩比的开源压缩软件 
 
 - 科研
-   - [matlab] (https://www.mathworks.com/products/matlab.html)  MATLAB是美国[MathWorks](https://baike.baidu.com/item/MathWorks)公司出品的商业[数学软件](https://baike.baidu.com/item/数学软件)，用于算法开发、数据可视化、数据分析以及[数值计算](https://baike.baidu.com/item/数值计算/3729797)的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
+   - [matlab] (https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
    - [cnki E-study] (http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。 
    - [endnote] (https://www.jb51.net/softs/665052.html) 文献管理软件.endnote x9.1 汉化特别版(附安装教程)  
 
