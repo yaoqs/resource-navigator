@@ -3,7 +3,7 @@
 [ToC]
 
 ## My pages list
-### [Github个人主页](https://yaoqs.github.com/)
+[Github个人主页](https://yaoqs.github.com/)
 
 
 ## My blogs list
@@ -30,6 +30,7 @@
 ### Community/社区
 * gitter https://gitter.im
 * stackoverflow https://stackoverflow.com/
+* 语雀 ：新一代云端知识库 https://www.yuque.com/
 
 ### Code
 + [leetcode](https://leetcode.com/)
@@ -72,10 +73,27 @@
 * [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
 * [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
 * [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
+* 书栈网（极力推荐）： https://www.bookstack.cn/
+* （计算机电子书下载）：www.xz577.com
+* 鸠摩搜书：www.jiumodiary.com
+* 云海电子图书馆：www.pdfbook.cn
+* 周读（书籍搜索）：ireadweek.com
+* 知轩藏书：http://www.zxcs.me/
+* 脚本之家电子书下载：https://www.jb51.net/books/
+* 搜书VIP-电子书搜索：http://www.soshuvip.com/all.html
+* 书格（在线古籍图书馆）：https://new.shuge.org/
+* caj云阅读：http://cajviewer.cnki.net/cajcloud/
+* 必看网（人生必看的书籍）：https://www.biikan.com/
+* 全历史：https://www.allhistory.com/
+
+
+
 ### 小说
 - [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
 - [中国古典文学 - 国学经典,中国古代文学作品在线阅读](http://www.zggdwx.com/)
-- [英文小说网](http://novel.tingroom.com/)
+- [英文小说网](http://novel.tingroom.com/
+- 笔趣阁
+
 ### 诸子百家
 - [中国哲学书电子化计划](https://ctext.org/zhs)
 
@@ -118,7 +136,7 @@
 * 屌丝搜-最懂屌丝的DHT磁力搜索引擎
     * http://www.diaosisou8.com/
     * http://www.diaosisou.cc/
-* [BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)
+* ~~[BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)
 * [爱问共享资料_在线资料分享平台](http://ishare.iask.sina.com.cn/)
 
 ### ed2k
@@ -171,6 +189,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [新兴网络 - 提供教程及源码免费下载](http://www.newxing.com/)
 - [智慧石-分享智慧的源泉](http://www.zhihuishi.com)
 - [BVBcode Source download](http://www.bvbcode.com/)
+- 源码之家：https://www.mycodes.net/
 
 ### 金山开源
 - [金山卫士开源计划 {v11.08.8.0}开源卫士社区 源代码下载](http://code.ijinshan.com)
@@ -188,6 +207,11 @@ definitions, executable algorithms and theorems together with an environment for
 + [在线工具 - 程序员的工具箱] (https://tool.lu/)
 + [在线工具 —— OSCHINA.NET社区] (http://tool.oschina.net/)
 + [爱资料在线工具-好用的在线工具箱] (https://www.toolnb.com/)
++ 参数化二维码生成器 https://qrbtf.com/
++ JSON to Dart： https://javiercbk.github.io/json_to_dart/
++ Json在线解析验证： https://www.json.cn/
++ 在线接口测试（Getman）：https://getman.cn/
+
 
 
 ### 下载网站
