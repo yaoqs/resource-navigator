@@ -1,12 +1,9 @@
-# LordYao
-
 [ToC]
 
-## My pages list
-[Github个人主页](https://yaoqs.github.com/)
+# LordYao
+## [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](https://yaoqs.github.com/)
 
-
-## My blogs list
+## Lord Yao
 ### 微博
 * 新浪微博 https://weibo.com/lordyao
 * Twitter 
@@ -26,6 +23,10 @@
 * GitLab https://gitlab.com/yaoqs
 * 码云 https://gitee.com/yaoqs
 * 华为开源平台 https://code.opensource.huaweicloud.com/home
+
+
+
+# resource navigator
 
 ### Community/社区
 * gitter https://gitter.im
