@@ -74,13 +74,13 @@
 * [IT书籍网 - 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
 * [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
 * [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
-* 书栈网（极力推荐）： <https://www.bookstack.cn/>
-* （计算机电子书下载）：<www.xz577.com>
-* 鸠摩搜书：<www.jiumodiary.com>
-* 云海电子图书馆：<www.pdfbook.cn>
-* 周读（书籍搜索）：<ireadweek.com>
-* 知轩藏书：<http://www.zxcs.me/>
-* 脚本之家电子书下载：<https://www.jb51.net/books/>
+* 书栈网（极力推荐） <https://www.bookstack.cn/>
+* （计算机电子书下载）<https://www.xz577.com>
+* 鸠摩搜书：<https://www.jiumodiary.com>
+* 云海电子图书馆：<https://www.pdfbook.cn>
+* 周读（书籍搜索）<https://ireadweek.com>
+* 知轩藏书 <http://www.zxcs.me/>
+* 脚本之家电子书下载 <https://www.jb51.net/books/>
 * 搜书VIP-电子书搜索：<http://www.soshuvip.com/all.html>
 * 书格（在线古籍图书馆）：<https://new.shuge.org/>
 * caj云阅读：<http://cajviewer.cnki.net/cajcloud/>
@@ -92,7 +92,7 @@
 ### 小说
 - [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
 - [中国古典文学 - 国学经典,中国古代文学作品在线阅读](http://www.zggdwx.com/)
-- [英文小说网](http://novel.tingroom.com/
+- [英文小说网](http://novel.tingroom.com/)
 - 笔趣阁
 
 ### 诸子百家
@@ -112,8 +112,8 @@
 * [预谋邂逅 - 豆瓣FM](https://douban.fm/)
 
 ### 高清下载
-* [YYeTs 人人影视|字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
-* [中国高清网 - 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
+* [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
+* [中国高清网 - 高清电影网 720P/1080P/蓝光原盘-磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
 * [80s电影网 - 高清手机电影迅雷下载_最新MP4电视剧磁力下载](https://www.80ying.com/)
 * [迅雷仓_高清电影下载_4K高清_1080P高清_3D电影](https://www.xunleicang.com/)
 * [电影天堂_电影下载_高清首发](https://www.dy2018.com/)
@@ -122,7 +122,7 @@
 * [RARBT_bt电影_bt种子_电影下载 - RARBT中文字幕电影天堂](http://rarbt.cc/)
 
 ### 美剧
-* [YYeTs 人人影视|字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
+* [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
 * [美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！](https://www.meijutt.com/)
 
 ### 在线
@@ -130,8 +130,8 @@
 
 ### 资源搜索
 * 海盗湾 The Pirate Bay:
-    * https://www.pirate-bay.net/
-    * https://tpb.wiki/
+    * <https://www.pirate-bay.net/>
+    * <https://tpb.wiki/>
 * [Start - Zooqle: Verified torrents](https://zooqle.com)
 * [搜磁力 - 搜一搜，发现精彩世界](https://www.soucili.net/)
 * 屌丝搜-最懂屌丝的DHT磁力搜索引擎
@@ -170,7 +170,7 @@ definitions, executable algorithms and theorems together with an environment for
 
 ### Cyber Security
 * [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
-* <xfocus.org>
+* <https://xfocus.org>
 * [Hex-Rays](https://www.hex-rays.com/index.shtml) is a hi-tech company focused on binary software analysis. We strive to deliver the best products and excellent service. [products](https://www.hex-rays.com/products.shtml): [IDA](https://www.hex-rays.com/products/ida/index.shtml)，[Hex-Rays Decompiler](https://www.hex-rays.com/products/decompiler/index.shtml).
 
 ## opencode
@@ -202,12 +202,12 @@ definitions, executable algorithms and theorems together with an environment for
 * [乐软博客]          (<https://www.isharepc.com/>)
 
 ### 在线工具、API接口
-+ [JSON在线 | JSON解析格式化—SO JSON在线] (https://www.sojson.com/)
-+ [菜鸟工具 - 不止于工具] (https://c.runoob.com/)
-+ [站长工具 - 站长之家] (http://tool.chinaz.com/)
-+ [在线工具 - 程序员的工具箱] (https://tool.lu/)
-+ [在线工具 —— OSCHINA.NET社区] (http://tool.oschina.net/)
-+ [爱资料在线工具-好用的在线工具箱] (https://www.toolnb.com/)
++ [JSON在线 - JSON解析格式化—SO JSON在线] (<https://www.sojson.com/>)
++ [菜鸟工具 - 不止于工具] (<https://c.runoob.com/>)
++ [站长工具 - 站长之家] (<http://tool.chinaz.com/>)
++ [在线工具 - 程序员的工具箱] (<https://tool.lu/>)
++ [在线工具 —— OSCHINA.NET社区] (<http://tool.oschina.net/>)
++ [爱资料在线工具-好用的在线工具箱] (<https://www.toolnb.com/>)
 + 参数化二维码生成器 <https://qrbtf.com/>
 + JSON to Dart： <https://javiercbk.github.io/json_to_dart/>
 + Json在线解析验证： <https://www.json.cn/>
@@ -216,16 +216,16 @@ definitions, executable algorithms and theorems together with an environment for
 
 
 ### 下载网站
-* [下载吧] （<http://www.xiazaiba.com/> ）
-* [iLog] (<https://isite.tw/>)
-* [多特软件站] (<https://www.duote.com/>)
-* [吾爱破解爱盘] (<https://down.52pojie.cn>)
-* [汉化新世纪] (<http://www.hanzify.org/>)
+* [下载吧](<http://www.xiazaiba.com/)
+* [iLog](https://isite.tw/)
+* [多特软件站](https://www.duote.com/)
+* [吾爱破解爱盘](https://down.52pojie.cn)
+* [汉化新世纪](http://www.hanzify.org/)
 
 ### 快传
-* [奶牛快传] (<https://cowtransfer.com/> ) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) 
-* [FireFox Send] (<https://send.firefox.com/> ) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) 
-* [傳送大型檔案 - 快、簡單、安全!](<https://www.filemail.com/>)
+* [奶牛快传](https://cowtransfer.com/) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) 
+* [FireFox Send](https://send.firefox.com/) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) 
+* [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
 
 
 ### 效率软件
@@ -244,7 +244,7 @@ definitions, executable algorithms and theorems together with an environment for
       <td rowspan="2">FTP文件管理工具</td>
       <td>FileZilla</td>
       <td>The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge.</td>
-      <td>https://filezilla-project.org/</td>
+      <td><https://filezilla-project.org/></td>
    </tr>
    <tr>
       <td>feiq</td>
@@ -257,63 +257,63 @@ definitions, executable algorithms and theorems together with an environment for
 - 开发
    - Visual Studio:宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。微软官方
 - FTP文件管理工具
-   - [FileZilla] (https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
-   - [feiq] (http://feiq18.com/ ) :一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。
+   - [FileZilla](https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
+   - [feiq](http://feiq18.com/) :一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。
 - ssh类/远程管理
-   - [WinSCP.exe] (https://winscp.net/eng/index.php ) :WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
-   - [putty.exe] (https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) :知名ssh软件
-   - [TeamViewer] (https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
+   - [WinSCP.exe](https://winscp.net/eng/index.php ) :WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
+   - [putty.exe](https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) :知名ssh软件
+   - [TeamViewer](https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
 - 网络相关工具
-   - [sscom5.13.1.exe] (http://www.daxia.com/ ) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
-   - [Progress Telerik Fiddler] (https://www.telerik.com/download/fiddler) :接口抓包工具，比较适合 HTTP API 接口抓包。
-   - [Wireshark] (https://www.wireshark.org/) 	TCP/UDP 层级的抓包工具，功能强大。Wireshark is the world’s foremost and widely-used network protocol analyzer.  
+   - [sscom5.13.1.exe](http://www.daxia.com/) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
+   - [Progress Telerik Fiddler](https://www.telerik.com/download/fiddler) :接口抓包工具，比较适合 HTTP API 接口抓包。
+   - [Wireshark](https://www.wireshark.org/) 	TCP/UDP 层级的抓包工具，功能强大。Wireshark is the world’s foremost and widely-used network protocol analyzer.  
 - 文本编辑器
-   - [Notepad++] (https://notepad-plus-plus.org/download) 	:轻量级文件编辑器，支持多种格式的文件，打开文件快速。
-   - [Visual Studio Code] (https://code.visualstudio.com/docs/?dv=win64user) 	轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。
-   - [typora] (https://typora.io/) :a markdown editor, markdown reader. 
-   - [Beyond Compare] ()  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
-   - [WinHex] (http://www.winhex.com/winhex/)  Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor 
+   - [Notepad++](https://notepad-plus-plus.org/download) 	:轻量级文件编辑器，支持多种格式的文件，打开文件快速。
+   - [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user) 	轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。
+   - [typora](https://typora.io/) :a markdown editor, markdown reader. 
+   - [Beyond Compare]()  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
+   - [WinHex](http://www.winhex.com/winhex/)  Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor 
 - 邮箱客户端
-   - [DM Pro] (http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！ 
+   - [DM Pro](http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！ 
 - 笔记
-   - [为知笔记 Wiz] ( https://www.wiz.cn/zh-cn ) :高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。
-   - [印象笔记] (https://www.yinxiang.com/) 高效率工作笔记协作平台
+   - [为知笔记 Wiz]( https://www.wiz.cn/zh-cn ) :高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。
+   - [印象笔记](https://www.yinxiang.com/) 高效率工作笔记协作平台
 
 - 安全
-   - [火绒安全软件] (https://www.huorong.cn/)  小巧简洁高效的安全软件
+   - [火绒安全软件](https://www.huorong.cn/)  小巧简洁高效的安全软件
 
 - 效率软件
-   - [Everything] (https://www.voidtools.com/downloads/) : 能够以毫秒级的速度搜索到所有硬盘的文件/目录。
-   - [FileGee Backup & Sync Personal Edition] ( http://filegee.net/download.html ) 文件备份、同步工具，功能强大。个人版免费。企业版收费
-   - [Total Commander] (https://www.ghisler.com/ )  : 功能强大的文件管理工具 
+   - [Everything](https://www.voidtools.com/downloads/) : 能够以毫秒级的速度搜索到所有硬盘的文件/目录。
+   - [FileGee Backup & Sync Personal Edition]( http://filegee.net/download.html ) 文件备份、同步工具，功能强大。个人版免费。企业版收费
+   - [Total Commander](https://www.ghisler.com/ )  : 功能强大的文件管理工具 
 
 - 系统扫描与清理
-   - [Dism++] (https://www.chuyu.me/zh-Hans/) 	轻量且免费的垃圾清理工具，有免安装版本。综合来说，其功能与效果还可以。
-   - [CCleaner] (https://www.ccleaner.com/ccleaner/download/standard) 	备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
+   - [Dism++](https://www.chuyu.me/zh-Hans/) 	轻量且免费的垃圾清理工具，有免安装版本。综合来说，其功能与效果还可以。
+   - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard) 	备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
 - 网盘
-   - [百度网盘] (https://pan.baidu.com)
+   - [百度网盘](https://pan.baidu.com)
    - [115] ()
-   - [阿里云盘] (https://www.aliyundrive.com/)
-   - [天翼云盘] (https://cloud.189.cn)
+   - [阿里云盘](https://www.aliyundrive.com/)
+   - [天翼云盘](https://cloud.189.cn)
 - 下载工具
-   - [IDM] () : internet download manager
+   - [IDM]() : internet download manager
 - 多媒体
-    - [foobar 2000] (https://www.foobar2000.org/download) 	绿色的音乐播放器。 
-    - [Goldwave] (https://www.goldwave.com/ )   Digital Audio Editing Software Record • Restore • Convert • Analyze
-    - [QQ影音] (https://player.qq.com/)     由腾讯公司推出的一款支持任何格式影片和音乐文件的本地播放器 
-    - [GIMP] ( https://www.gimp.org/)  The Free & Open Source Image Editor 对标Photoshop 
-    - [MPC-BE] (https://sourceforge.net/projects/mpcbe/)   a free and open source audio and video player for Windows 
+    - [foobar 2000](https://www.foobar2000.org/download) 	绿色的音乐播放器。 
+    - [Goldwave](https://www.goldwave.com/ )   Digital Audio Editing Software Record • Restore • Convert • Analyze
+    - [QQ影音](https://player.qq.com/)     由腾讯公司推出的一款支持任何格式影片和音乐文件的本地播放器 
+    - [GIMP](https://www.gimp.org/)  The Free & Open Source Image Editor 对标Photoshop 
+    - [MPC-BE](https://sourceforge.net/projects/mpcbe/)   a free and open source audio and video player for Windows 
 
 - 虚拟机
-   - [Docker for Windows] (https://hub.docker.com/editions/community/docker-ce-desktop-windows) 	Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool. 
+   - [Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows) 	Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool. 
    - [virualbox]
    - [vmware]
 
 - 沙箱/sandbox
-   - [Sandboxie] (https://www.sandboxie.com/SandboxieInstall.exe)  	Docker 容器软件的 Windows 版本。
+   - [Sandboxie](https://www.sandboxie.com/SandboxieInstall.exe)  	Docker 容器软件的 Windows 版本。
 
 - 全能数据库管理工具
-   - [Navicat Premium] (https://www.navicat.com/en/products/navicat-premium)  一款数据库管理工具,是一个可多重连线资料库的管理工具，它可以让你以单一程式同时连线到 MySQL、SQLite、Oracle 及 PostgreSQL 资料库，让管理不同类型的资料库更加的方便 
+   - [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)  一款数据库管理工具,是一个可多重连线资料库的管理工具，它可以让你以单一程式同时连线到 MySQL、SQLite、Oracle 及 PostgreSQL 资料库，让管理不同类型的资料库更加的方便 
 
 - 浏览器
    - [chrome] 
@@ -323,39 +323,39 @@ definitions, executable algorithms and theorems together with an environment for
    - [世界之窗] 
 
 - 反编译工具
-   - [OllyDebug]  ( http://www.ollydbg.de/  中文站 http://ollydbg.net/  ) a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 {https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip 
-      - [插件] (https://down.52pojie.cn/Tools/OllyDbg_Plugin/) 
-      - [吾爱破解专用版Ollydbg] (https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar) 
-   - [IDA] ( https://www.hex-rays.com/products/ida/index.shtml)       **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. 
-   - [Hex-Rays Decompiler]  (https://www.hex-rays.com/products/decompiler/index.shtml)
-   - [pexplorer] (https://down.52pojie.cn/Tools/PEtools/) 
-   - [ApkIDE] ( https://down.52pojie.cn/Tools/Android_Tools/)  
-   - [C32Asm] (https://down.52pojie.cn/Tools/Disassemblers/C32Asm_v2.0.1.0.rar) 
+   - [OllyDebug]( http://www.ollydbg.de/  中文站 http://ollydbg.net/  ) a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 {https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip 
+      - [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/) 
+      - [吾爱破解专用版Ollydbg](https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar) 
+   - [IDA]( https://www.hex-rays.com/products/ida/index.shtml)       **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](https://www.hex-rays.com/products/ida/index.shtml), which many software security specialists are familiar with. 
+   - [Hex-Rays Decompiler](https://www.hex-rays.com/products/decompiler/index.shtml)
+   - [pexplorer](https://down.52pojie.cn/Tools/PEtools/) 
+   - [ApkIDE]( https://down.52pojie.cn/Tools/Android_Tools/)  
+   - [C32Asm](https://down.52pojie.cn/Tools/Disassemblers/C32Asm_v2.0.1.0.rar) 
 
 - 压缩工具
-   - [WinRAR] (https://rarlab.com/download.htm) 知名压缩软件
-   - [7z] (https://www.7-zip.org/)    一款拥有极高压缩比的开源压缩软件 
+   - [WinRAR](https://rarlab.com/download.htm) 知名压缩软件
+   - [7z](https://www.7-zip.org/)    一款拥有极高压缩比的开源压缩软件 
 
 - 科研
-   - [matlab] (https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
-   - [cnki E-study] (http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。 
-   - [endnote] (https://www.jb51.net/softs/665052.html) 文献管理软件.endnote x9.1 汉化特别版(附安装教程)  
+   - [matlab](https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
+   - [cnki E-study](http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。 
+   - [endnote](https://www.jb51.net/softs/665052.html) 文献管理软件.endnote x9.1 汉化特别版(附安装教程)  
 
 - The **package manager** for Windows
-   - [Chocolatey] (https://chocolatey.org/) Software Management Automation
+   - [Chocolatey](https://chocolatey.org/) Software Management Automation
 
 - js
-   - [node.js] (https://nodejs.org/en/) Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+   - [node.js](https://nodejs.org/en/) Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - IM/协同办公
-   - [slack] ( https://slack.com/intl/en-cn/)   国外非常流行的团队协作工具
-   - [TIM] (https://office.qq.com/) QQ办公简洁版，是一款专注于团队办公协作的跨平台沟通工具。
-   - [钉钉] (https://www.dingtalk.com/) 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同
-   - [微信] 一个为智能终端提供即时通讯服务的免费应用程序，一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。 ... 群聊，也能视频聊天。
+   - [slack](https://slack.com/intl/en-cn/)   国外非常流行的团队协作工具
+   - [TIM](https://office.qq.com/) QQ办公简洁版，是一款专注于团队办公协作的跨平台沟通工具。
+   - [钉钉](https://www.dingtalk.com/) 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同
+   - [微信]一个为智能终端提供即时通讯服务的免费应用程序，一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。 ... 群聊，也能视频聊天。
 
 - 版本控制
-   - [Git] (https://git-scm.com/)  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理
-   - [Tortoise SVN] (https://tortoisesvn.net/)  an Apache ™ Subversion (SVN) ® client, implemented as a Windows shell extension. It's intuitive and easy to use, since it doesn't require the Subversion command line client to run. 
+   - [Git](https://git-scm.com/)  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理
+   - [Tortoise SVN](https://tortoisesvn.net/)  an Apache ™ Subversion (SVN) ® client, implemented as a Windows shell extension. It's intuitive and easy to use, since it doesn't require the Subversion command line client to run. 
 
 - pdf
    - [福昕foxit]
@@ -366,5 +366,5 @@ definitions, executable algorithms and theorems together with an environment for
    - [QQ音乐]
 
 - 桌面环境
-   - [Xfce Desktop Environment] (https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly. 
+   - [Xfce Desktop Environment](https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly. 
 
