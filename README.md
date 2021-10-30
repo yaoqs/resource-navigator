@@ -5,13 +5,13 @@
 
 ## Lord Yao
 ### 微博
-* 新浪微博 https://weibo.com/lordyao
+* 新浪微博 <https://weibo.com/lordyao>
 * Twitter 
 
 ### 博客
-* CSDN：https://blog.csdn.net/yaokingson/
-* 博客园：https://www.cnblogs.com/yaoqs
-* 开源中国：https://my.oschina.net/yaoqs
+* CSDN：<https://blog.csdn.net/yaokingson/>
+* 博客园：<https://www.cnblogs.com/yaoqs>
+* 开源中国：<https://my.oschina.net/yaoqs>
 * facebook
 * instagram
 * pinterest
@@ -19,26 +19,26 @@
 * linkin
 
 ### 代码仓
-* Github https://github.com/yaoqs
-* GitLab https://gitlab.com/yaoqs
-* 码云 https://gitee.com/yaoqs
-* 华为开源平台 https://code.opensource.huaweicloud.com/home
+* Github <https://github.com/yaoqs>
+* GitLab <https://gitlab.com/yaoqs>
+* 码云 <https://gitee.com/yaoqs>
+* 华为开源平台 <https://code.opensource.huaweicloud.com/home>
 
 
 
 # resource navigator
 
 ### Community/社区
-* gitter https://gitter.im
-* stackoverflow https://stackoverflow.com/
-* 语雀 ：新一代云端知识库 https://www.yuque.com/
+* gitter <https://gitter.im>
+* stackoverflow <https://stackoverflow.com/>
+* 语雀 ：新一代云端知识库 <https://www.yuque.com/>
 
 ### Code
 + [leetcode](https://leetcode.com/)
 + [力扣](https://leetcode-cn.com/)
 
 ### Wolfram|Alpha
-[Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
+[Wolfram-Alpha: Computational Intelligence](https://www.wolframalpha.com/) 
 > Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
 
 ## English news
@@ -57,35 +57,35 @@
 
 ## 公开课
 * [慕课网-程序员的梦工厂](https://www.imooc.com/)
-* [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu)
-* [可汗学院 | 免费在线课程, 讲解以及练习](https://zh.khanacademy.org/)
-* [edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+* [MIT OpenCourseWare / Free Online Course Materials](https://ocw.mit.edu)
+* [可汗学院 - 免费在线课程, 讲解以及练习](https://zh.khanacademy.org/)
+* [edX - Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
 * [大蕃薯视频教程均可在线观看,分享知识，分享精品课程、教学视频、视频资源的网站](http://www.da-fan-shu.cn/)
 * [网易云课堂 - 我的职业课堂](https://study.163.com/)
 * [网易公开课](http://open.163.com/)
 * [新浪公开课_新浪教育_新浪网](http://open.sina.com.cn/)
-* [Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/)
+* [Microsoft Learn / Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/)
 * [coursera](https://www.coursera.org/)
 
 ## 教程
 * [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
 
 ## 电子书/ebook
-* [IT书籍网 | 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
+* [IT书籍网 - 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
 * [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
 * [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
-* 书栈网（极力推荐）： https://www.bookstack.cn/
-* （计算机电子书下载）：www.xz577.com
-* 鸠摩搜书：www.jiumodiary.com
-* 云海电子图书馆：www.pdfbook.cn
-* 周读（书籍搜索）：ireadweek.com
-* 知轩藏书：http://www.zxcs.me/
-* 脚本之家电子书下载：https://www.jb51.net/books/
-* 搜书VIP-电子书搜索：http://www.soshuvip.com/all.html
-* 书格（在线古籍图书馆）：https://new.shuge.org/
-* caj云阅读：http://cajviewer.cnki.net/cajcloud/
-* 必看网（人生必看的书籍）：https://www.biikan.com/
-* 全历史：https://www.allhistory.com/
+* 书栈网（极力推荐）： <https://www.bookstack.cn/>
+* （计算机电子书下载）：<www.xz577.com>
+* 鸠摩搜书：<www.jiumodiary.com>
+* 云海电子图书馆：<www.pdfbook.cn>
+* 周读（书籍搜索）：<ireadweek.com>
+* 知轩藏书：<http://www.zxcs.me/>
+* 脚本之家电子书下载：<https://www.jb51.net/books/>
+* 搜书VIP-电子书搜索：<http://www.soshuvip.com/all.html>
+* 书格（在线古籍图书馆）：<https://new.shuge.org/>
+* caj云阅读：<http://cajviewer.cnki.net/cajcloud/>
+* 必看网（人生必看的书籍）：<https://www.biikan.com/>
+* 全历史：<https://www.allhistory.com/>
 
 
 
@@ -113,7 +113,7 @@
 
 ### 高清下载
 * [YYeTs 人人影视|字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
-* [中国高清网 | 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
+* [中国高清网 - 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
 * [80s电影网 - 高清手机电影迅雷下载_最新MP4电视剧磁力下载](https://www.80ying.com/)
 * [迅雷仓_高清电影下载_4K高清_1080P高清_3D电影](https://www.xunleicang.com/)
 * [电影天堂_电影下载_高清首发](https://www.dy2018.com/)
@@ -132,11 +132,11 @@
 * 海盗湾 The Pirate Bay:
     * https://www.pirate-bay.net/
     * https://tpb.wiki/
-* [Start | Zooqle: Verified torrents](https://zooqle.com)
+* [Start - Zooqle: Verified torrents](https://zooqle.com)
 * [搜磁力 - 搜一搜，发现精彩世界](https://www.soucili.net/)
 * 屌丝搜-最懂屌丝的DHT磁力搜索引擎
-    * http://www.diaosisou8.com/
-    * http://www.diaosisou.cc/
+    * <http://www.diaosisou8.com/>
+    * <http://www.diaosisou.cc/>
 * ~~[BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)
 * [爱问共享资料_在线资料分享平台](http://ishare.iask.sina.com.cn/)
 
@@ -147,22 +147,22 @@
 * [eMule-Project.net - eMule官方网站 - 下载，帮助，文档，新闻……](https://www.emule-project.net/)
 
 ## 代码仓
-* [Github]    (https://github.com/) 免费版支持无限私有仓库 (微软收购)
-* [BitBucket]    (https://BitBucket.com/) 免费版支持私有仓库
-* [gitlab]    (https://gitlab.com/) 免费版支持私有仓库
-* [gitee]    (https://gitee.com/) 免费版支持私有仓库 (国产 / 速度快)
-* [coding]    (https://coding.net/) 免费版支持私有仓库 (国产 / 速度快)
+* [Github]    (<https://github.com/>) 免费版支持无限私有仓库 (微软收购)
+* [BitBucket]    (<https://BitBucket.com/>) 免费版支持私有仓库
+* [gitlab]    (<https://gitlab.com/>) 免费版支持私有仓库
+* [gitee]    (<https://gitee.com/>) 免费版支持私有仓库 (国产 / 速度快)
+* [coding]    (<https://coding.net/>) 免费版支持私有仓库 (国产 / 速度快)
 
 ## 数学
 * [Coq](https://coq.inria.fr/ ) is a formal proof management system. It provides a formal language to write mathematical 
-definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://coq.inria.fr/cocorico/List of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](https://coq.inria.fr/cocorico/List of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : https://github.com/coq/coq
-* The [HOL](https://hol-theorem-prover.org/) interactive theorem prover is a proof assistant for higher-order logic: a programming environment in which theorems can be proved and proof tools implemented. Built-in decision procedures and theorem provers can automatically establish many simple theorems (users may have to prove the hard theorems themselves!) An oracle mechanism gives access to external programs such as SMT and BDD engines. HOL is particularly suitable as a platform for implementing combinations of deduction, execution and property checking. [HOL Guidebook](https://hol-theorem-prover.org/guidebook/)  Github : https://github.com/HOL-Theorem-Prover/HOL
-* mathhandbok http://mathhandbook.com
+definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://coq.inria.fr/cocorico/List of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](https://coq.inria.fr/cocorico/List of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : <https://github.com/coq/coq>
+* The [HOL](https://hol-theorem-prover.org/) interactive theorem prover is a proof assistant for higher-order logic: a programming environment in which theorems can be proved and proof tools implemented. Built-in decision procedures and theorem provers can automatically establish many simple theorems (users may have to prove the hard theorems themselves!) An oracle mechanism gives access to external programs such as SMT and BDD engines. HOL is particularly suitable as a platform for implementing combinations of deduction, execution and property checking. [HOL Guidebook](https://hol-theorem-prover.org/guidebook/)  Github : <https://github.com/HOL-Theorem-Prover/HOL>
+* mathhandbok <http://mathhandbook.com>
 
 ## 破解相关网站
-* [看雪] (https://bbs.pediy.com)
-* [52破解] (https://www.52pojie.cn/)
-* [飘云阁(PYG官方论坛)]  (https://www.chinapyg.com/)
+* [看雪] (<https://bbs.pediy.com>)
+* [52破解] (<https://www.52pojie.cn/>)
+* [飘云阁(PYG官方论坛)]  (<https://www.chinapyg.com/>)
 ### CTF
 - [看雪CTF](https://ctf.pediy.com/)
 - [攻防世界](https://adworld.xctf.org.cn/)
@@ -170,7 +170,7 @@ definitions, executable algorithms and theorems together with an environment for
 
 ### Cyber Security
 * [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
-* xfocus.org
+* <xfocus.org>
 * [Hex-Rays](https://www.hex-rays.com/index.shtml) is a hi-tech company focused on binary software analysis. We strive to deliver the best products and excellent service. [products](https://www.hex-rays.com/products.shtml): [IDA](https://www.hex-rays.com/products/ida/index.shtml)，[Hex-Rays Decompiler](https://www.hex-rays.com/products/decompiler/index.shtml).
 
 ## opencode
@@ -181,7 +181,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [Projects · Dashboard · GitLab](https://gitlab.com/)
 - [码云 Gitee.com](https://gitee.com/) 码云(gitee.com)是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 350 万的开发者选择码云。
 - [CodeProject - For those who code](https://www.codeproject.com/) Free source code and tutorials for Software developers and Architects
-- [searchcode | source code search engine](https://searchcode.com/) searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.
+- [searchcode - source code search engine](https://searchcode.com/) searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.
 - [CodePlex Archive](https://archive.codeplex.com/) An archive of the CodePlex open source hosting site
 - [NotABug.org: Free code hosting](https://notabug.org/)
 - [CTOLib码库](https://www.ctolib.com/) CTOLib码库分类收集GitHub上的开源项目，并且每天根据相关的数据计算每个项目的流行度和活跃度，方便开发者快速找到想要的免费开源项目。
@@ -190,16 +190,16 @@ definitions, executable algorithms and theorems together with an environment for
 - [新兴网络 - 提供教程及源码免费下载](http://www.newxing.com/)
 - [智慧石-分享智慧的源泉](http://www.zhihuishi.com)
 - [BVBcode Source download](http://www.bvbcode.com/)
-- 源码之家：https://www.mycodes.net/
+- 源码之家：<https://www.mycodes.net/>
 
 ### 金山开源
 - [金山卫士开源计划 {v11.08.8.0}开源卫士社区 源代码下载](http://code.ijinshan.com)
 
 ## 软件
-* [MAC萌新网]    (https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
-* [小众软件]    (https://www.appinn.com/)
-* [异次元软件世界]    (https://www.iplaysoft.com/)
-* [乐软博客]          (https://www.isharepc.com/)
+* [MAC萌新网]    (<https://www.macxin.com/>)   [萌新云盘](https://pan.macxin.com/)
+* [小众软件]    (<https://www.appinn.com/>)
+* [异次元软件世界]    (<https://www.iplaysoft.com/>)
+* [乐软博客]          (<https://www.isharepc.com/>)
 
 ### 在线工具、API接口
 + [JSON在线 | JSON解析格式化—SO JSON在线] (https://www.sojson.com/)
@@ -208,24 +208,24 @@ definitions, executable algorithms and theorems together with an environment for
 + [在线工具 - 程序员的工具箱] (https://tool.lu/)
 + [在线工具 —— OSCHINA.NET社区] (http://tool.oschina.net/)
 + [爱资料在线工具-好用的在线工具箱] (https://www.toolnb.com/)
-+ 参数化二维码生成器 https://qrbtf.com/
-+ JSON to Dart： https://javiercbk.github.io/json_to_dart/
-+ Json在线解析验证： https://www.json.cn/
-+ 在线接口测试（Getman）：https://getman.cn/
++ 参数化二维码生成器 <https://qrbtf.com/>
++ JSON to Dart： <https://javiercbk.github.io/json_to_dart/>
++ Json在线解析验证： <https://www.json.cn/>
++ 在线接口测试（Getman）：<https://getman.cn/>
 
 
 
 ### 下载网站
-* [下载吧] （http://www.xiazaiba.com/ ）
-* [iLog] (https://isite.tw/)
-* [多特软件站] (https://www.duote.com/)
-* [吾爱破解爱盘] (https://down.52pojie.cn)
-* [汉化新世纪] (http://www.hanzify.org/)
+* [下载吧] （<http://www.xiazaiba.com/> ）
+* [iLog] (<https://isite.tw/>)
+* [多特软件站] (<https://www.duote.com/>)
+* [吾爱破解爱盘] (<https://down.52pojie.cn>)
+* [汉化新世纪] (<http://www.hanzify.org/>)
 
 ### 快传
-* [奶牛快传] (https://cowtransfer.com/ ) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) 
-* [FireFox Send] (https://send.firefox.com/ ) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) 
-* [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
+* [奶牛快传] (<https://cowtransfer.com/> ) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务) 
+* [FireFox Send] (<https://send.firefox.com/> ) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间) 
+* [傳送大型檔案 - 快、簡單、安全!](<https://www.filemail.com/>)
 
 
 ### 效率软件
