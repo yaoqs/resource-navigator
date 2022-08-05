@@ -1,9 +1,62 @@
-[ToC]
-
 # LordYao
 
 ## [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](https://yaoqs.github.io/)
+<!-- TOC -->
 
+- [LordYao](#lordyao)
+  - [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
+  - [Lord Yao](#lord-yao)
+    - [微博](#微博)
+    - [博客](#博客)
+    - [我的代码仓](#我的代码仓)
+    - [主题页](#主题页)
+- [resource navigator](#resource-navigator)
+  - [常用](#常用)
+    - [Community/社区](#community社区)
+    - [blog](#blog)
+    - [Code](#code)
+    - [代码仓](#代码仓)
+    - [云服务](#云服务)
+    - [网盘](#网盘)
+    - [开源镜像](#开源镜像)
+    - [Wolfram|Alpha](#wolframalpha)
+  - [English news](#english-news)
+  - [教育](#教育)
+    - [高等教育](#高等教育)
+    - [公开课](#公开课)
+    - [英语](#英语)
+    - [考试](#考试)
+    - [竞赛](#竞赛)
+  - [教程](#教程)
+  - [电子书/ebook](#电子书ebook)
+    - [小说](#小说)
+    - [诸子百家](#诸子百家)
+  - [美好生活](#美好生活)
+  - [影视资源网站](#影视资源网站)
+    - [综合](#综合)
+    - [music](#music)
+    - [高清下载](#高清下载)
+    - [美剧](#美剧)
+    - [漫画下载网站](#漫画下载网站)
+    - [在线](#在线)
+    - [资源搜索](#资源搜索)
+    - [ed2k](#ed2k)
+  - [安全相关网站](#安全相关网站)
+    - [CTF](#ctf)
+    - [Cyber Security](#cyber-security)
+      - [metasploit](#metasploit)
+  - [opencode](#opencode)
+    - [opensource](#opensource)
+  - [论坛](#论坛)
+  - [软件](#软件)
+    - [在线工具](#在线工具)
+    - [API接口](#api接口)
+    - [开发](#开发)
+    - [下载网站](#下载网站)
+    - [快传](#快传)
+    - [效率软件](#效率软件)
+
+<!-- /TOC -->
 ## Lord Yao
 
 ### 微博
@@ -88,7 +141,7 @@
 ### 代码仓
 
 * [Github](https://github.com/) 免费版支持无限私有仓库 (微软收购)
-* [BitBucket](https://BitBucket.com/) 免费版支持私有仓库
+* [BitBucket](https://bitbucket.org/) 免费版支持私有仓库
 * [gitlab](https://gitlab.com/) 免费版支持私有仓库
 * [gitee](https://gitee.com/) 免费版支持私有仓库 (国产 / 速度快)
 * [coding](https://coding.net/) 免费版支持私有仓库 (国产 / 速度快)
@@ -186,6 +239,10 @@
 * [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
 * [W3school](https://www.w3school.com.cn)
 * [w3schools](https://www.w3schools.com/)
+* <https://www.w3cschool.cn>
+  * [Julia 教程](https://www.w3cschool.cn/julia/)
+  * [像计算机科学家一样思考（C++版)](https://www.w3cschool.cn/hbvlgw/)
+  * [GitHub 中文教程](https://www.w3cschool.cn/githubcn)
 
 ## 电子书/ebook
 
@@ -307,6 +364,7 @@
 * [劝学网](http://www.quanxue.cn/index.htm)
 * [殆知阁](http://122.200.75.13/)
 * [古诗文网](https://www.gushiwen.cn/)
+* [经典文学网](http://www.ccview.net/)
 
 ## 美好生活
 
@@ -373,6 +431,12 @@
 * [eMule Xtreme Mod official homepage](http://www.xtreme-mod.net/)
 * [nodes.dat - nodes server for emule kademlia net](http://www.nodes-dat.com/)
 * [eMule-Project.net - eMule官方网站 - 下载，帮助，文档，新闻……](https://www.emule-project.net/)
+* [JMule](http://jmule.org/) - Java file sharing client, is a Java based client for eDonkey2000 networks.
+* 电骡宝典：eMule 0.50a帮助文档 ed2k://|file|eMule.2052.chm.[emulefans.com].zip|5114897|9E62078492F8D2A6E17E7C86383A47E1|h=VT4BUK6ICJL2CCFSMVFR766G7V7O5CXU|/
+* “断头档”,又称种子档,的ED2K链接:其作用是联系正在下载这个文件的用户，并获取正在下载该文件的Kad用户名单，以达到增加Kad连接数的目的，从而增加你所能搜索到文件的数量和下载的速度。
+  * ed2k://|file|Cyndi-Connect.tmp|9871476|9E3A905292B7AE6A2E2110DFC061779B|/
+  * ed2k://|file|[PPT]emule_friend.rar|23007826|CF52D1CAD8FFF93CF03DB26DF23260D2|/
+  * ed2k://|file|[ShareGet]emule_friend.rar|10564607|B494CC6DB8609C014858151CD7EA9193|/
 
 ## 安全相关网站
 
@@ -435,6 +499,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 * [Linux公社](https://www.linuxidc.com/)
 * [chinaunix](http://bbs.chinaunix.net/)
+* [DistroWatch.com](https://distrowatch.com/): Put the fun back into computing. Use Linux, BSD.
 * [GNU](https://www.gnu.org/)
   * [ftp](https://ftp.gnu.org/)
   * [GCC](https://gcc.gnu.org/), the GNU Compiler Collection
@@ -444,13 +509,17 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * debian
   * [fedora](https://getfedora.org)
   * [freebsd](https://www.freebsd.org/)
-  * deepin
+  * [deepin](https://www.deepin.org)
   * [Tiny Core Linux](http://distro.ibiblio.org/tinycorelinux/)
   * [Kylin](https://www.ubuntukylin.com/)21.04 优麒麟操作系统中文版ISO镜像下载 (官方中国定制版)
 
-### 金山开源
+## 论坛
 
-* [金山卫士开源计划 {v11.08.8.0}开源卫士社区 源代码下载](http://code.ijinshan.com)
+* [硬盘基地](https://www.intohard.com/)
+* [批处理之家](http://www.bathome.net)
+* [中国DOS联盟](http://www.cn-dos.net/forum/)
+* [远景论坛](https://bbs.pcbeta.com)
+* [卡饭论坛](https://bbs.kafan.cn)
 
 ## 软件
 
@@ -465,6 +534,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 * [下载吧](https://www.xiazaiba.com/)
 * [西西软件园](https://www.cr173.com/)
 * [多特软件](https://duote.com)
+* [善用佳软](https://xbeta.info)
 
 ### 在线工具
 
@@ -500,33 +570,9 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 * [奶牛快传](https://cowtransfer.com/) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务)
 * [FireFox Send](https://send.firefox.com/) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间)
-* [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/)
+* [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/) 免费發送大宗文件-安全文件傳輸
 
 ### 效率软件
-<!--
-<table>
-   <tr>
-      <th>分类</th><th>软件名称</th><th>说明</th><th>下载地址</th>
-   </tr>
-   <tr>
-      <td>开发</td>
-      <td>Visual Studio</td>
-      <td>宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。</td>
-      <td>微软官方</td>
-   </tr>
-   <tr>
-      <td rowspan="2">FTP文件管理工具</td>
-      <td>FileZilla</td>
-      <td>The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge.</td>
-      <td><https://filezilla-project.org/></td>
-   </tr>
-   <tr>
-      <td>feiq</td>
-      <td>一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。</td>
-      <td>http://feiq18.com/</td>
-   </tr>
-</table>
--->
 
 * [Free Open Source Windows Operating System Kernels Software](https://sourceforge.net/directory/system-administration/kernels/os:windows/)
   * [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
@@ -536,7 +582,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [DB-Engines Ranking](https://db-engines.com/en/ranking)
 
 * 开发
-  * Visual Studio:宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。微软官方
+  * Visual Studio:宇宙第一 IDE，支持 C# 与 C++ 开发，但资源占用过高。微软官方出品
 
 * FTP文件管理工具
   * [FileZilla](https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
@@ -545,8 +591,12 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 * ssh类/远程管理
   * [WinSCP.exe](https://winscp.net/eng/index.php ) :WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
   * [putty.exe](https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) :知名ssh软件
-  * [TeamViewer](https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
   * PowerShell
+  * [TeamViewer](https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
+  * [向日葵](https://sunlogin.oray.com/) 国产远程控制
+  * [todesk](http://www.hellodesk.cn) 远程控制软件-免费安全流畅的远程连接电脑手机
+  * [anydesk](https://anydesk.com/zhs) 远程桌面软件
+  * DBadmin——深蓝远程
 
 * 网络相关工具
   * [sscom5.13.1.exe](http://www.daxia.com/) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
@@ -560,10 +610,16 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [Beyond Compare]()  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
   * [WinHex](http://www.winhex.com/winhex/)  Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor
 
+* Office
+  * Microsoft Office
+  * WPS
+  * 万彩办公大师
+  * 我的ABC软件工具箱
+
 * 邮箱客户端
   * [DM Pro](http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！
 
-* 笔记
+* 笔记/知识管理
   * [为知笔记 Wiz]( https://www.wiz.cn/zh-cn ) :高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。
   * [印象笔记](https://www.yinxiang.com/) 高效率工作笔记协作平台
 
@@ -574,13 +630,23 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [Everything](https://www.voidtools.com/downloads/) : 能够以毫秒级的速度搜索到所有硬盘的文件/目录。
   * [FileGee Backup & Sync Personal Edition]( http://filegee.net/download.html ) 文件备份、同步工具，功能强大。个人版免费。企业版收费
   * [Total Commander](https://www.ghisler.com/ )  : 功能强大的文件管理工具
+  * FileGee
+  * Dropit:文件分类管家（Windows）
+  * Eagle:智能图片管理器（Windows/Mac）
 
 * 系统扫描与清理
   * [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具，有免安装版本。综合来说，其功能与效果还可以。
   * [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)  备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
 
 * 下载工具
-  * [IDM]() : internet download manager
+  * [IDM]: internet download manager
+  * emule
+    * [xtreme-mod](http://www.xtreme-mod.net/)
+    * [eMule ScarAngel](http://scarangel.sourceforge.net/)是基于eMule Xtreme的一款mod，被广大电骡爱好者们称为“天使骡”或“刀疤天使骡”。Xtreme相对以功能强大著称的MorphXT，是功能简洁大众化的入门mod，而ScarAngel则在Xtreme的基础上增加了很多强大的功能，是喜欢Xtreme的进阶用户的很好选择。
+    * [nodes.dat](http://www.nodes-dat.com/)- nodes server for emule kademlia net
+    * [server.met](http://www.server-met.de/) server met server-met server list edonkey server emule
+    * <http://www.emule-web.de/>
+    * <https://www.emule-project.com>
 
 * 多媒体
   * [foobar 2000](https://www.foobar2000.org/download)  绿色的音乐播放器。
@@ -589,6 +655,11 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [GIMP](https://www.gimp.org/)  The Free & Open Source Image Editor 对标Photoshop
   * [MPC-BE](https://sourceforge.net/projects/mpcbe/)   a free and open source audio and video player for Windows
   * Potplayer
+* 影音编辑
+  * [Kdenlive](https://kdenlive.org/zh/) 自由开源的免费视频编辑软件。简单易学，永久免费，用途不限。
+* 图形图像
+  * Photoshop
+  * CorelDRAW
 
 * 虚拟机
   * [Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)  Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool.
@@ -605,7 +676,39 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [chrome]
   * [Tor Browser]
   * [Firefox]
-    * [油猴] 必备良品，缺他乐趣少大半
+    * [油猴] Tampermonkey
+      * Github 增强 - 高速下载
+      > 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载  <https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD>
+
+      * 豆瓣资源下载大师：1秒搞定豆瓣电影|音乐|图书下载
+      > 聚合数百家资源网站，通过右侧边栏1秒告诉你哪些网站能下载豆瓣页面上的电影|电视剧|纪录片|综艺|动画|音乐|图书等，有资源的网站显示绿色，没资源的网站显示黄色，就这么直观！所有豆瓣条目均提供在线播放|阅读、字幕|歌词下载及PT|NZB|BT|磁力|百度盘|115网盘等下载链接，爱看电影的，爱下载电影的，安装它这一个脚本就够了。  <https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD>
+
+      * Instagram 下载器
+      > 方便用户下载 Instagram 的图片和视频，将鼠标移动到图片或者视频上，即可看到下载按钮。  <https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button>
+
+      * 网盘自动填写密码【威力加强版】
+      > 智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。  <https://greasyfork.org/zh-CN/scripts/29762-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E8%AE%BF%E9%97%AE%E7%A0%81-%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88>
+
+      * 番号快速搜索，老司机都懂：
+      > <https://sleazyfork.org/zh-CN/scripts/423350-%E6%A0%B9%E6%8D%AE%E7%95%AA%E5%8F%B7%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2>
+
+      * 【电脑 && 手机 全网唯一全自动脚本】VIP会员视频自动解析
+      > <https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90>
+
+      * 网页限制解除(改)
+      > 在访问一些网站时，有时候网站方为了保护内容，会禁止访客的一些操作，比如复制、使用邮件菜单、选择文本等，如果想要收藏部分内容就非常麻烦，此时，你可以安装这款叫做网页解除限制的油猴脚本，可以解除网页对于用户的限制  <https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified>
+
+      * My Novel Reader
+      > 小说阅读脚本，它可以将许多小说网站的阅读样式统一，并且去除内容中夹杂的广告，还有修正拼音字、段落整理，自动下一页等功能。  用起点中文网的阅读页面举个例子（当然起点的界面本身就很漂亮，而其他的网站就不一定了），点击右下角启用脚本的阅读模式后，是这样的：  很整洁对不对，想象一下那些乱七八糟的小说网站，都能变成这样的阅读模式，而且这个脚本还可以自定义字体，样式，包括一些其他的高级设置，体验简直是好了不止一个档次啊！  <https://greasyfork.org/zh-CN/scripts/292-my-novel-reader>
+
+      * JAV老司机
+      > 它简直就是老司机的神器,支持各Jav老司机站点。拥有高效浏览Jav的页面排版，JAV高清预览大图，JAV列表无限滚动自动加载，自动获取JAV磁链接，一键自动115离线下载。。。。没时间解释了，赶紧上传，下载链接我会放在视频下方,在这个网站上下载的脚本，都是无法描述的  <https://sleazyfork.org/zh-CN/scripts/25781-jav%E8%80%81%E5%8F%B8%E6%9C%BA>
+
+      * Search by Image
+       > 安装后，重启浏览器或者刷新网页，然后在网页图片中按住Ctrl键的同时点击鼠标右键，可以看到突然多了很多以图搜图的选项！  <https://greasyfork.org/zh-CN/scripts/2998-search-by-image>
+
+      * Userscript+ 油猴脚本推荐
+      > 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。  今天我们要介绍的第10款脚本  就是这样一个根据你当前访问的站点  自动为你推荐适用的脚本工具  Userscript+  <https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs>
   * [世界之窗]
 
 * 反编译工具
@@ -686,12 +789,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
     * 群联主控U盘加密软件 可下载\ maxell官方群联PS2251主控U盘加密工具LOCK v2.4.1
       > 只适用于群联主控的U盘使用，不限制U盘品牌，ChipGenius可检测主控类型。一样的会把你的U盘分出一个加密分区，这个分区的大小在你使用工具的时候可以随意的用滑块来划分，自行决定加密分区的大小，加密后公共区域要把这个加密软件放入，加密分区里就放你的重要文件即可，软件就2个按钮，一个加密，一个解密。
 
-* emule
-  * [xtreme-mod](http://www.xtreme-mod.net/)
-  * [nodes.dat](http://www.nodes-dat.com/)- nodes server for emule kademlia net
-  * [server.met](http://www.server-met.de/) server met server-met server list edonkey server emule
-  * <http://www.emule-web.de/>
-  * <https://www.emule-project.com>
+
 
 * [NGINX](https://www.nginx.com/)
 
@@ -703,36 +801,26 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   * [nuget](https://www.nuget.org/)
   * vcpkg
 
-* 油猴插件 Tampermonkey
-  * Github 增强 - 高速下载
-  > 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载  <https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD>
+* 常用cd虚拟光驱软件
+  * Alcohol120:是一款功能强大的刻录软件，结合虚拟光驱与刻录两大功能，可以直接将映像文件刻录到空白光盘上，不再需要虚拟后再整盘拷贝。也是推荐级的神器。收费
+  * Daemon tools:也是一个很好的免费虚拟光驱，支持ps，支持加密光盘。安装重启。先进的模拟备份并且合并保护盘的软件，可以备份safedisc保护的软件。可以打开cue、iso和ccd等这些虚拟光驱的镜像文件。
+  * ImgBurn:一款简单易用的而且免费的cd/dvd镜像文件刻录软件，支持dvd双层镜像
+  * Nero:不得不说的软件刻录软件。支持所有标准的cd-rom格式，包括iso标准1和2、双字节joliet模式、混合模式、iso模式1和xa模式
+  * PowerISO:收费软件。一款强大的cd/DVD映像文件处理工具。使用方便，支持ISO、bin、nrg、img等几乎所有常见的映像文件。可以建立、编辑、解压、转换、压缩、加密和分割ISO/bin映像文件，具有shell集成，剪贴板和拖放操作等功能
+  * SetupCloneCD
+  * UltraISO:软碟通 可以直接编辑软碟文件和从软碟文件中提取文件。可从cd-rom直接制作软碟或者将硬盘上的文件制成iso文件。 （缺憾就是不能压制大于cd容量的iso文件。）可以用于将iso文件量产到u盘等写硬盘操作。许多优秀功能，还很小巧，值得推荐
+  * WADrive
+  * WINISO:可以压制大于cd容量的iso文件
+  * WinMount:不能压制、编辑iso文件。仅是一个虚拟光驱，不过功能很好，免费。具有压缩、解压、浏览压缩包的功能，也有挂载dvd、cd、虚拟机硬盘镜像的功能。最大的特色就是在于其首创读取压缩包理念mount，可以将压缩包挂载到虚拟盘中使用，无需解压，省时省空间。值得装备
+  * clonecd 收费软件。工作于raw模式，因此能真实的1:1复制cd，无论cd是否加密或有保护之类，仍能忠实的将它复制下来。（目前还没有一种软件能像clonecd一样完整的复制cd）
 
-  * 豆瓣资源下载大师：1秒搞定豆瓣电影|音乐|图书下载
-  > 聚合数百家资源网站，通过右侧边栏1秒告诉你哪些网站能下载豆瓣页面上的电影|电视剧|纪录片|综艺|动画|音乐|图书等，有资源的网站显示绿色，没资源的网站显示黄色，就这么直观！所有豆瓣条目均提供在线播放|阅读、字幕|歌词下载及PT|NZB|BT|磁力|百度盘|115网盘等下载链接，爱看电影的，爱下载电影的，安装它这一个脚本就够了。  <https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD>
+* VeraCrypt
+* Disk
+  * diskgenius
+  * SpaceSniffer
+  * Defraggler：磁盘空间管理
+  * OverDisk
 
-  * Instagram 下载器
-  > 方便用户下载 Instagram 的图片和视频，将鼠标移动到图片或者视频上，即可看到下载按钮。  <https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button>
-
-  * 网盘自动填写密码【威力加强版】
-  > 智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。  <https://greasyfork.org/zh-CN/scripts/29762-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E8%AE%BF%E9%97%AE%E7%A0%81-%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88>
-
-  * 番号快速搜索，老司机都懂：
-  > <https://sleazyfork.org/zh-CN/scripts/423350-%E6%A0%B9%E6%8D%AE%E7%95%AA%E5%8F%B7%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2>
-
-  * 【电脑 && 手机 全网唯一全自动脚本】VIP会员视频自动解析
-  > <https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90>
-
-  * 网页限制解除(改)
-  > 在访问一些网站时，有时候网站方为了保护内容，会禁止访客的一些操作，比如复制、使用邮件菜单、选择文本等，如果想要收藏部分内容就非常麻烦，此时，你可以安装这款叫做网页解除限制的油猴脚本，可以解除网页对于用户的限制  <https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified>
-
-  * My Novel Reader
-  > 小说阅读脚本，它可以将许多小说网站的阅读样式统一，并且去除内容中夹杂的广告，还有修正拼音字、段落整理，自动下一页等功能。  用起点中文网的阅读页面举个例子（当然起点的界面本身就很漂亮，而其他的网站就不一定了），点击右下角启用脚本的阅读模式后，是这样的：  很整洁对不对，想象一下那些乱七八糟的小说网站，都能变成这样的阅读模式，而且这个脚本还可以自定义字体，样式，包括一些其他的高级设置，体验简直是好了不止一个档次啊！  <https://greasyfork.org/zh-CN/scripts/292-my-novel-reader>
-
-  * JAV老司机
-  > 它简直就是老司机的神器,支持各Jav老司机站点。拥有高效浏览Jav的页面排版，JAV高清预览大图，JAV列表无限滚动自动加载，自动获取JAV磁链接，一键自动115离线下载。。。。没时间解释了，赶紧上传，下载链接我会放在视频下方,在这个网站上下载的脚本，都是无法描述的  <https://sleazyfork.org/zh-CN/scripts/25781-jav%E8%80%81%E5%8F%B8%E6%9C%BA>
-
-  * Search by Image
-   > 安装后，重启浏览器或者刷新网页，然后在网页图片中按住Ctrl键的同时点击鼠标右键，可以看到突然多了很多以图搜图的选项！  <https://greasyfork.org/zh-CN/scripts/2998-search-by-image>
-
-  * Userscript+ 油猴脚本推荐
-  > 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。  今天我们要介绍的第10款脚本  就是这样一个根据你当前访问的站点  自动为你推荐适用的脚本工具  Userscript+  <https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs>
+* [中华经典网络军刀](http://www.ccview.net/software/NB.htm)
+* whireshark
+* sniffer
