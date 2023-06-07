@@ -5,68 +5,84 @@
 ## [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](https://yaoqs.github.io/)
 <a id="markdown-lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences" name="lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences"></a>
 
+## License & Copyright
+<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
+
+
+- 版权声明：Copyright © 2021-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 来源：网络及个人搜集及整理
+- <https://choosealicense.com/licenses/cc-by-sa-4.0/> ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
+知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 <!-- TOC -->
 
 - [LordYao](#lordyao)
-  - [LordYao: FUTURE \& CIVILIZATION: Natural/Social Philosophy \& Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
-  - [Lord Yao](#lord-yao)
-    - [微博](#微博)
-    - [博客](#博客)
-    - [我的代码仓](#我的代码仓)
-    - [主题页](#主题页)
+    - [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
+    - [License & Copyright](#license--copyright)
+    - [Lord Yao](#lord-yao)
+        - [微博](#%E5%BE%AE%E5%8D%9A)
+        - [博客](#%E5%8D%9A%E5%AE%A2)
+        - [我的代码仓](#%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E4%BB%93)
+        - [主题页](#%E4%B8%BB%E9%A2%98%E9%A1%B5)
 - [resource navigator](#resource-navigator)
-  - [版权保护](#版权保护)
-  - [常用](#常用)
-    - [Community/社区](#community社区)
-    - [Docs](#docs)
-    - [blog](#blog)
-    - [Code](#code)
-    - [代码仓](#代码仓)
-    - [云服务](#云服务)
-    - [网盘](#网盘)
-    - [开源镜像](#开源镜像)
-    - [Wolfram/Alpha](#wolframalpha)
-  - [哲学](#哲学)
-  - [English news](#english-news)
-  - [教育](#教育)
-    - [高等教育](#高等教育)
-    - [公开课](#公开课)
-    - [英语](#英语)
-    - [考试](#考试)
-    - [竞赛](#竞赛)
-  - [教程](#教程)
-  - [电子书/ebook](#电子书ebook)
-    - [小说](#小说)
-    - [诸子百家](#诸子百家)
-  - [美好生活](#美好生活)
-  - [影视资源网站](#影视资源网站)
-    - [综合](#综合)
-    - [music](#music)
-    - [高清下载](#高清下载)
-    - [美剧](#美剧)
-    - [漫画下载网站](#漫画下载网站)
-    - [在线](#在线)
-    - [资源搜索](#资源搜索)
-    - [ed2k](#ed2k)
-  - [安全相关网站](#安全相关网站)
-    - [CTF](#ctf)
-    - [Cyber Security](#cyber-security)
-      - [metasploit](#metasploit)
-  - [opencode](#opencode)
-    - [opensource](#opensource)
-  - [论坛](#论坛)
-  - [软件](#软件)
-    - [在线工具](#在线工具)
-    - [API接口](#api接口)
-    - [开发](#开发)
-    - [下载网站](#下载网站)
-    - [文件传送](#文件传送)
-    - [效率软件](#效率软件)
+    - [版权保护](#%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4)
+    - [常用](#%E5%B8%B8%E7%94%A8)
+        - [Community/社区](#community%E7%A4%BE%E5%8C%BA)
+        - [Docs](#docs)
+        - [blog](#blog)
+        - [Code](#code)
+        - [代码仓](#%E4%BB%A3%E7%A0%81%E4%BB%93)
+        - [云服务](#%E4%BA%91%E6%9C%8D%E5%8A%A1)
+        - [网盘](#%E7%BD%91%E7%9B%98)
+        - [开源镜像](#%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F)
+        - [CDN](#cdn)
+    - [哲学](#%E5%93%B2%E5%AD%A6)
+    - [English news](#english-news)
+        - [technews](#technews)
+    - [教育](#%E6%95%99%E8%82%B2)
+        - [高等教育](#%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2)
+        - [公开课](#%E5%85%AC%E5%BC%80%E8%AF%BE)
+        - [英语](#%E8%8B%B1%E8%AF%AD)
+        - [考试](#%E8%80%83%E8%AF%95)
+        - [竞赛](#%E7%AB%9E%E8%B5%9B)
+    - [数据](#%E6%95%B0%E6%8D%AE)
+    - [教程](#%E6%95%99%E7%A8%8B)
+    - [电子书/ebook](#%E7%94%B5%E5%AD%90%E4%B9%A6ebook)
+        - [小说](#%E5%B0%8F%E8%AF%B4)
+        - [诸子百家](#%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
+    - [美好生活](#%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB)
+        - [天气预报](#%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5)
+    - [影视资源网站](#%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99)
+        - [综合](#%E7%BB%BC%E5%90%88)
+        - [music](#music)
+        - [壁纸/wallpaper](#%E5%A3%81%E7%BA%B8wallpaper)
+        - [高清下载](#%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD)
+        - [美剧](#%E7%BE%8E%E5%89%A7)
+        - [漫画下载网站](#%E6%BC%AB%E7%94%BB%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99)
+        - [在线](#%E5%9C%A8%E7%BA%BF)
+        - [资源搜索](#%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2)
+        - [ed2k](#ed2k)
+        - [游戏](#%E6%B8%B8%E6%88%8F)
+    - [安全相关网站](#%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99)
+        - [CTF](#ctf)
+        - [Cyber Security](#cyber-security)
+            - [metasploit](#metasploit)
+    - [opencode](#opencode)
+        - [opensource](#opensource)
+    - [论坛](#%E8%AE%BA%E5%9D%9B)
+    - [软件](#%E8%BD%AF%E4%BB%B6)
+        - [在线工具](#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
+        - [API接口](#api%E6%8E%A5%E5%8F%A3)
+        - [开发](#%E5%BC%80%E5%8F%91)
+        - [下载网站](#%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99)
+        - [文件传送](#%E6%96%87%E4%BB%B6%E4%BC%A0%E9%80%81)
+        - [效率软件](#%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6)
 
 <!-- /TOC -->
 ## Lord Yao
 <a id="markdown-lord-yao" name="lord-yao"></a>
+
 
 <div class="search-inner-wrapper">
     <form action="https://www.bing.com/search" method="get">
@@ -88,7 +104,6 @@
     </script>
 </div>
 
-
 ### 微博
 <a id="markdown-%E5%BE%AE%E5%8D%9A" name="%E5%BE%AE%E5%8D%9A"></a>
 
@@ -99,6 +114,7 @@
 
 ### 博客
 <a id="markdown-%E5%8D%9A%E5%AE%A2" name="%E5%8D%9A%E5%AE%A2"></a>
+
 
 - [yaoqs.github.io](https://yaoqs.github.io/)
 - [yaoqs.deno.dev](https://yaoqs.deno.dev/)
@@ -194,6 +210,9 @@
 
 
 - 一些不错的blog
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- [互联网上的免费书籍](https://github.com/ruanyf/free-books) - 阮一峰
+- [浅墨的部落格](https://www.0xffffff.org/)
 
 ### Code
 <a id="markdown-code" name="code"></a>
@@ -227,6 +246,7 @@
 - [百度智能云](https://cloud.baidu.com/)
 - [金山云](https://www.ksyun.com/)
 - [AZure](https://www.azure.cn/)
+- 亚马逊云
 
 ### 网盘
 <a id="markdown-%E7%BD%91%E7%9B%98" name="%E7%BD%91%E7%9B%98"></a>
@@ -247,18 +267,24 @@
 
 
 - [网易开源镜像站](http://mirrors.163.com/)
+- [阿里云](http://mirrors.aliyun.com/)
 - [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)
+- [搜狐](http://mirrors.sohu.com/)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [华为开源镜像站_软件开发服务_华为云](https://mirrors.huaweicloud.com)
 - [腾讯软件源](https://mirrors.cloud.tencent.com/) or <http://mirrors.tencent.com/>
-- [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/) 目前是中国大陆高校访问量最大，收录最全的开源软件镜像。反向代理列表
+- [中国科技大学 USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/) 目前是中国大陆高校访问量最大，收录最全的开源软件镜像。反向代理列表
+- [浙江大学](http://mirrors.zju.edu.cn/)
+- [南京大学](https://mirrors.nju.edu.cn/)
+- [上海交通大学](http://ftp.sjtu.edu.cn/)
+- [西安交通大学](http://mirrors.xjtu.edu.cn/)
 
-### Wolfram/Alpha
-<a id="markdown-wolfram%2Falpha" name="wolfram%2Falpha"></a>
+### CDN
+<a id="markdown-cdn" name="cdn"></a>
 
-
-[Wolfram-Alpha: Computational Intelligence](https://www.wolframalpha.com/)
-> Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
+- [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
+- [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
+- [staticfile.org](https://www.staticfile.org/)
 
 ## 哲学
 <a id="markdown-%E5%93%B2%E5%AD%A6" name="%E5%93%B2%E5%AD%A6"></a>
@@ -276,6 +302,8 @@
   - [家庭、私有制和国家的起源](https://www.marxists.org/chinese/engels/marxist.org-chinese-engels-1884-3.htm#_ftn2)
   - [关于费尔巴哈的提纲](https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1845.htm)
   - 人类学笔记
+- 黑格尔是德国古典哲学的集大成者和唯心主义辩证法大师，他创立了庞大的客观唯心主义体系，在唯心主义的基础上全面、系统地阐述了辩证法。
+- 维特根斯坦（Ludwig Wittgenstein）《逻辑哲学论》（1921年）
 
 ## English news
 <a id="markdown-english-news" name="english-news"></a>
@@ -296,6 +324,11 @@
 - [hehonghui /the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - Dictionary by [Merriam-Webster](https://www.merriam-webster.com/): America's most-trusted online dictionary
 - [NPR](https://www.npr.org/) - Breaking News, Analysis, Music, Arts & Podcasts : NPR
+
+### technews
+<a id="markdown-technews" name="technews"></a>
+
+- [ACM TechNews](https://technews.acm.org/), providing timely information for IT professionals three times a week.
 
 ## 教育
 <a id="markdown-%E6%95%99%E8%82%B2" name="%E6%95%99%E8%82%B2"></a>
@@ -342,6 +375,12 @@
 
 - [大学生发现杯](http://www.dajiangsai.org/)
 
+## 数据
+<a id="markdown-%E6%95%B0%E6%8D%AE" name="%E6%95%B0%E6%8D%AE"></a>
+
+
+- [官方权威统计数据](https://github.com/yiliyassh/authority-data) 统计年签，统计公报，互联网行业报告，工信部数据，ICT报告等 Official authoritative data (Chinese)
+
 ## 教程
 <a id="markdown-%E6%95%99%E7%A8%8B" name="%E6%95%99%E7%A8%8B"></a>
 
@@ -361,6 +400,7 @@
 - [O’Reilly](https://www.oreilly.com/)
 - mathhandbok <http://mathhandbook.com>
 - [IT书籍网 - 但行好事，莫问前程；钝鸟先飞，大器晚成](http://www.itshuji.com/)
+- [书行万里](https://www.gpdf.net/) pdf电子书下载站
 - [Gutenberg](http://www.gutenberg.org/) Project Gutenberg offers free eBooks to download.
 - [飘云阁电子书库](https://www.chinapyg.com/forum.php?mod=forumdisplay&fid=129&filter=heat&orderby=heats)
 - 书栈网（极力推荐） <https://www.bookstack.cn/>
@@ -455,7 +495,6 @@
 - [E-library.net](https://e-library.net/)拥有超过 8,000 种电子书，涵盖 90 多个类别。
 - [FreeBookSpot](https://www.freebookspot.es/) 提供了大量指向 90 多个类别的免费电子书的链接。在这里您可以找到和下载免费书籍。
 以上部分部分源于 知乎:Aaron:66个电子书籍资源库（不定期更新）<https://zhuanlan.zhihu.com/p/404494618>
-- 鸠摩搜书：<https://www.jiumodiary.com/>
 - 大力网盘：<https://www.dalipan.com/>
 - 玉白盘：<http://www.yubaipan.com/>
 - 全国图书馆参考咨询联盟：<http://www.ucdrs.superlib.net/>
@@ -475,6 +514,7 @@
 <a id="markdown-%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6" name="%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6"></a>
 
 
+- [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
 - [中国哲学书电子化计划](https://ctext.org/zhs)
 - Chinese Text Project <https://ctext.org/>
 - [劝学网](http://www.quanxue.cn/index.htm)
@@ -485,6 +525,14 @@
 ## 美好生活
 <a id="markdown-%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB" name="%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB"></a>
 
+- [最好的虚拟信用卡推荐(开卡教程) - 解决 ChatGPT Plus 海淘购物等无法支付问题](https://www.iplaysoft.com/virtual-credit-card.html)
+
+### 天气预报
+<a id="markdown-%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" name="%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5"></a>
+
+- yaoqs
+- [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
+- [wego](https://github.com/schachmat/wego)  is a weather client for the terminal.
 
 ## 影视资源网站
 <a id="markdown-%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99" name="%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99"></a>
@@ -493,6 +541,7 @@
 ### 综合
 <a id="markdown-%E7%BB%BC%E5%90%88" name="%E7%BB%BC%E5%90%88"></a>
 
+- [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
 ### music
 <a id="markdown-music" name="music"></a>
@@ -502,6 +551,11 @@
 - [预谋邂逅 - 豆瓣FM](https://douban.fm/)
 - [mp3fiesta](https://mp3fiesta.com/)
 - [youtube](https://www.youtube.com)
+
+### 壁纸/wallpaper
+<a id="markdown-%E5%A3%81%E7%BA%B8%2Fwallpaper" name="%E5%A3%81%E7%BA%B8%2Fwallpaper"></a>
+
+- [极简壁纸](https://bz.zzzmh.cn) 海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站
 
 ### 高清下载
 <a id="markdown-%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD" name="%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD"></a>
@@ -547,6 +601,7 @@
 - [电影港](https://www.dygang.tv/)
 - [茶杯狐](https://cupfox.app/)
 - [白嫖者联盟](https://www.bpzhe.com/)
+- [Netflix影视](https://www.tvfans.top/) Netflix影视每天每集海量高清电影免费在线观看，追剧零时差。内容丰富多元，涵盖电视连续剧、电影、综艺、动漫、娱乐等优质影视节目，观众可以在线观看港台剧、日韩剧、国产剧、欧美剧等热门剧目。影音视频播放清晰流畅，操作界面简单友好，真正为用户带来最舒适顺畅的线上观看体验。
 
 ### 资源搜索
 <a id="markdown-%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2" name="%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2"></a>
@@ -573,11 +628,19 @@
 - [nodes.dat - nodes server for emule kademlia net](http://www.nodes-dat.com/)
 - [eMule-Project.net - eMule官方网站 - 下载，帮助，文档，新闻……](https://www.emule-project.net/)
 - [JMule](http://jmule.org/) - Java file sharing client, is a Java based client for eDonkey2000 networks.
-- 电骡宝典：eMule 0.50a帮助文档 <ed2k://|file|eMule.2052.chm.[emulefans.com].zip|5114897|9E62078492F8D2A6E17E7C86383A47E1|h=VT4BUK6ICJL2CCFSMVFR766G7V7O5CXU|/>
+- 电骡宝典：eMule 0.50a帮助文档  ```ed2k://|file|eMule.2052.chm.[emulefans.com].zip|5114897|9E62078492F8D2A6E17E7C86383A47E1|h=VT4BUK6ICJL2CCFSMVFR766G7V7O5CXU|/```
 - “断头档”,又称种子档,的ED2K链接:其作用是联系正在下载这个文件的用户，并获取正在下载该文件的Kad用户名单，以达到增加Kad连接数的目的，从而增加你所能搜索到文件的数量和下载的速度。
-  - <ed2k://|file|Cyndi-Connect.tmp|9871476|9E3A905292B7AE6A2E2110DFC061779B|/>
-  - <ed2k://|file|[PPT]emule_friend.rar|23007826|CF52D1CAD8FFF93CF03DB26DF23260D2|/>
-  - <ed2k://|file|[ShareGet]emule_friend.rar|10564607|B494CC6DB8609C014858151CD7EA9193|/>
+
+  ```
+  ed2k://|file|Cyndi-Connect.tmp|9871476|9E3A905292B7AE6A2E2110DFC061779B|/
+  ed2k://|file|[PPT]emule_friend.rar|23007826|CF52D1CAD8FFF93CF03DB26DF23260D2|/
+  ed2k://|file|[ShareGet]emule_friend.rar|10564607|B494CC6DB8609C014858151CD7EA9193|/
+  ```
+
+### 游戏
+<a id="markdown-%E6%B8%B8%E6%88%8F" name="%E6%B8%B8%E6%88%8F"></a>
+
+- [独立精神 indienova 独立游戏](https://indienova.com/)
 
 ## 安全相关网站
 <a id="markdown-%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99" name="%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99"></a>
@@ -599,6 +662,7 @@
 
 - [攻防世界](https://adworld.xctf.org.cn/)
 - [入门CTF - CTF论坛](https://www.bugku.com/) BugkuCTF论坛，入门CTF训练平台，拥有数量庞大的题库，不断更新各类CTF题目，题目难易度均衡，适合各阶段网络安全爱好者。
+- [CTFever](https://ctfever.uniiem.com) - A Toolkit for CTF fevers. [github](https://github.com/UniiemStudio/CTFever)
 
 ### Cyber Security
 <a id="markdown-cyber-security" name="cyber-security"></a>
@@ -649,7 +713,8 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - [Cygwin](https://www.cygwin.com/) [中文站点](http://www.cygwin.cn/)
   Cygwin is a Linux-like environment for Windows
-
+- [MinGW-w64](https://www.mingw-w64.org/)
+- [Cygwin、Msys、MinGW、Msys2的区别与联系(转)](https://www.cnblogs.com/tshua/p/5932501.html)
 - [Linux公社](https://www.linuxidc.com/)
 - [chinaunix](http://bbs.chinaunix.net/)
 - [DistroWatch.com](https://distrowatch.com/): Put the fun back into computing. Use Linux, BSD.
@@ -658,13 +723,18 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection
 - Linux
   - [kernel](https://www.kernel.org/)
+  - [DistroWatch.com](https://distrowatch.com/): Put the fun back into computing. Use Linux, BSD.
   - [Ubuntu](https://ubuntu.com/) 中文桌面版/服务器正式版ISO镜像下载 - 最流行易入门的 Linux 系统
-  - debian
+  - [debian](https://www.debian.org/)
   - [fedora](https://getfedora.org)
   - [freebsd](https://www.freebsd.org/)
   - [deepin](https://www.deepin.org)
   - [Tiny Core Linux](http://distro.ibiblio.org/tinycorelinux/)
   - [Kylin](https://www.ubuntukylin.com/)21.04 优麒麟操作系统中文版ISO镜像下载 (官方中国定制版)
+  - androidx86
+  - centos
+  - opensuse
+  - SUSE Linux Enterprise
 
 ## 论坛
 <a id="markdown-%E8%AE%BA%E5%9D%9B" name="%E8%AE%BA%E5%9D%9B"></a>
@@ -683,6 +753,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - [MAC萌新网](https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
 - [小众软件](https://www.appinn.com/)
 - [异次元软件世界](https://www.iplaysoft.com)
+- [大眼仔](http://www.dayanzai.me/)  - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享
 - [乐软博客](https://www.isharepc.com/)
 - [ITellYou](https://msdn.itellyou.cn/) 微软家软件非官方可信任下载站 <https://msdn.itellyou.cn/>  新版<https://next.itellyou.cn/>
 - [亦是美网络](http://www.yishimei.cn/) 致力于操作系统应用与计算机网络技术的IT网站。
@@ -692,6 +763,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - [西西软件园](https://www.cr173.com/)
 - [多特软件](https://duote.com)
 - [善用佳软](https://xbeta.info)
+- [脚本之家](https://www.jb51.net)
 
 ### 在线工具
 <a id="markdown-%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7" name="%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7"></a>
@@ -715,6 +787,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - [天地图](https://www.tianditu.gov.cn/) 国家地理信息公共服务平台 天地图
 - 天气
+- [WebApiClient](https://github.com/dotnetcore/WebApiClient) 使用C#接口描述你的http接口
 
 ### 开发
 <a id="markdown-%E5%BC%80%E5%8F%91" name="%E5%BC%80%E5%8F%91"></a>
@@ -729,7 +802,8 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - [JetBrains](https://www.jetbrains.com) 软件开发人员和团队的必备工具 [JetBrains on GitHub](https://github.com/JetBrains) [全家桶可以说是当今最受程序员青睐的开发编程 IDE 系列工具之一了，旗下的 IntelliJ IDEA、PhpStorm、PyCharm、WebStorm、CLion 等都是业界一流的编程软件。](https://www.iplaysoft.com/jetbrains.html)系列软件包含了 IntelliJ IDEA (Java)、PyCharm (Python)、PhpStorm (PHP)、WebStorm (JavaScript / 网页)、GoLand (Go)、CLion (C/C++)、AppCode (iOS / Mac)、DataGrip (SQL)、RubyMine (Ruby)、Rider (.NET) 等多款专业级 IDE 开发工具
 - [ReSharper C++](https://www.jetbrains.com/resharper-cpp/) The Visual Studio Extension for C++ Developers
 - Qt
-- HBuilderX
+- [uni-app](https://uniapp.dcloud.net.cn/) A cross-platform framework using Vue.js 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。[github](https://github.com/dcloudio/uni-app)
+  - HBuilderX
 - NasmIDE
 - SourceTree
 - mingw64
@@ -757,16 +831,21 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 <a id="markdown-%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6" name="%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6"></a>
 
 
-- [NirSoft](https://www.nirsoft.net/) web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
 - [异次元软件世界](https://www.iplaysoft.com)
 - [小众软件](https://www.appinn.com/)
+- [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 - [portableapps](https://portableapps.com/apps)
+- [sordum](https://www.sordum.org/) simplefy computer usage
+- [程序员效率提升工具汇总](https://www.kancloud.cn/maozhenggang/monkey-cheats/93898)
 
 - Adobe 全家桶
 
 - [Free Open Source Windows Operating System Kernels Software](https://sourceforge.net/directory/system-administration/kernels/os:windows/)
   - [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
   - [WSL2-Linux-Kernel](https://sourceforge.net/projects/wsl2-linux-kernel.mirror/) The source for the Linux kernel used in Windows Subsystem for Linux 2
+
+- [AidLux](https://aidlux.com/) 基于ARM架构的跨生态（Android/鸿蒙+Linux）一站式AIoT应用开发和部署平台
+- [AidLearning](https://github.com/aidlearning/AidLearning-Framework) is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
 
 - Microsoft
   - Windows 终端
@@ -783,7 +862,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [feiq](http://feiq18.com/) :一款局域网聊天传送文件的绿色免费软件（目前不开源），它参考了飞鸽传书(IPMSG)和QQ, 完全兼容飞鸽传书(IPMSG)协议,具有局域网传送方便，速度快，操作简单的优点，同时具有QQ中的一些功能。
   - TightVNC
   - [WinSCP.exe](https://winscp.net/eng/index.php ) :WinSCP 是一个 Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。同时支持 SCP 协议。它的主要功能是在本地与远程计算机间安全地复制文件，并且可以直接编辑文件。WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.
-  - [putty.exe](https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) :知名ssh软件
+  - [putty.exe](https://www.chiark.greenend.org.uk/~sgtatham/putty/ ) 知名ssh软件。短小精悍，稳定实用，兼容各种linux发行版本，交换机，路由器等；支持raw,telnet,rlogin,ssh,serial等协议。软硬通吃，工程师必备神器，强烈推荐！！
   - [windterm](https://kingtoolbox.github.io/) A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.[windterm on GitHub](https://github.com/kingToolbox/WindTerm)
   - [MS Terminal](https://github.com/microsoft/terminal)
   - [PowerShell](https://github.com/PowerShell/PowerShell) <https://microsoft.com/PowerShell>
@@ -809,13 +888,20 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [PE Network Manager](https://www.penetworkmanager.de/)
   - [sscom5.13.1.exe](http://www.daxia.com/) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
   - [Progress Telerik Fiddler](https://www.telerik.com/download/fiddler) :接口抓包工具，比较适合 HTTP API 接口抓包。
-  - [Wireshark](https://www.wireshark.org/)  TCP/UDP 层级的抓包工具，功能强大。Wireshark is the world’s foremost and widely-used network protocol analyzer.
+  - [Wireshark](https://www.wireshark.org/)  TCP/UDP 层级的抓包工具，功能强大。网络安全神器：抓包、协议分析，无所不能。Wireshark is the world’s foremost and widely-used network protocol analyzer.
   - [NetSetMan](https://www.netsetman.com/) is a network settings manager software which can easily switch between your preconfigured profiles!
   - [中华经典网络军刀](http://www.ccview.net/software/NB.htm)
   - sniffer
   - httpwatch
   - PortScan
   - [nmap](https://nmap.org/)
+  - [NirLauncher](https://www.nirsoft.net/) is a package of more than 200 portable freeware utilities for Windows. The official blog of [nirsoft.net](https://blog.nirsoft.net/)
+- wifi检测工具
+  - Speedtest：可以帮助我们快速测试当前WiFi或4G网络的速度，除了测试网速，还有上传速度和ping测试。在手机上，我们需要安装 Speedtest APP，安装成功后打开即可一键测试宽带速度。
+  - WiFi魔盒：可以测试网络安全、上网体验、信号质量等问题，使用简单，数据一目了然。还集成很多无线工具， 漫游测试、ping、设备扫描、测网速、单点测试、测wifi、图形测试、telnet、设备配置、蓝牙遥控、网优报告等是不错的工具。
+  - WiFi Analyzer是一款手机端的无线信号分析器。该软件通过不同的信号查看模式，让用户非常直观的看到每个WiFi信号的详细情况，例如：当前区域WiFi的信号强度和信道曲线图，代表WiFi信号强度的抛物线顶点越高代表WiFi信号越强。这款软件既实用又易用，不过，这款软件仅支持安卓系统的手机，iOS系统暂不支持。
+  - [inSSIDer](https://www.metageek.com/downloads/)：inSSIDer是一款免费的WIFI信号检测软件，它可以搜索附近的热点，收集每个无线网络的详细信息。除了提供信号强度、信道等基本功能外，它还能搜索到加密方式，最大速率以及 MAC 地址等信息。此外，在这些基本信息的右边，还可以查看每个时间段不同WiFi的信号强度和稳定性（纵坐标：信号强度，横坐标：时间段），其中纵坐标越高，表明信号强度越强，而横坐标越平滑，则表明无线信号越稳定。同出产Signifi Agent Home Wi-Fi Troubleshooting，Tonic The Real-Time Wi-Fi Packet Analyzer，Chanalyzer Professional Spectrum Analysis，Eye P.A.Visual Packet Analysis。
+  - [WirelessMon](http://wirelessmon.com/)是一款能列出周边所有无线路由器、无线AP或基站的信号强度、信道等实时信息的测试工具，特别是“使用的信道”，可以清楚的看到当前信道的拥挤情况，是调整信道避免同频干扰的重要依据，是一款无线覆盖工程必备的测试工具。
 
 - 梯子/科学上网
   - PC
@@ -823,11 +909,18 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
     - [v2ray](https://github.com/2dust/v2rayN)
     - [v2rayA](https://github.com/v2rayA/v2rayA) v2rayA is a V2Ray Linux client supporting global transparent proxy, compatible with SS, SSR, Trojan(trojan-go), PingTunnel protocols.
     - [xiaoming2028 /FreePAC](https://github.com/xiaoming2028/FreePAC) 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
-    - [Qv2ray](https://github.com/Qv2ray/Qv2ray)  ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
+    - [Qv2ray](https://github.com/Qv2ray/Qv2ray)  ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 \| 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 \| 使用 C++ / Qt 开发 \| 可拓展插件式设计 ⭐
     - [v2ray-core](https://github.com/v2fly/v2ray-core) A platform for building proxies to bypass network restrictions.Project V is a set of network tools that helps you to build your own computer network. It secures your network connections and thus protects your privacy.
+    - [clash](https://github.com/Dreamacro/clash) A rule-based tunnel in Go.
+    - [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) A Windows/macOS GUI based on Clash
+    - [clashN](https://github.com/2dust/clashN) A clash client for Windows, support clash core and Clash.Meta core
+    - [clashfree](https://github.com/aiboboxx/clashfree) clash免费节点、clash科学上网、clash翻墙、clash订阅链接、clash教程
+    - [clash-rules](https://github.com/Loyalsoldier/clash-rules) Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+    - [clash科学上网：clash for windows 详细教程](https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/)
   - Android
     - [v2rayNG](https://github.com/2dust/v2rayNG) A V2Ray client for Android, support Xray core and v2fly core
     - [tom](https://github.com/xhssme/tom)
+    - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) A rule-based tunnel for Android.
 
 - 文本编辑器
   - ~~[Notepad++](https://notepad-plus-plus.org/download)  :轻量级文件编辑器，支持多种格式的文件，打开文件快速。~~
@@ -840,9 +933,9 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - Office
   - Microsoft Office
-  - WPS
+  - [WPS](https://www.wps.com/)
   - [万彩办公大师](http://www.wofficebox.com/) [「办公必备」的免费绿色实用小工具百宝箱软件合集](https://www.iplaysoft.com/wofficebox.html) 内置了 70 多款无广告无插件的绿色办公小工具，涵盖办公上的各种应用，比如 PDF 工具集 (PDF 格式相互转换、PDF 合并分割)；文档 / 音视频 / 图片转换工具集；识别工具集；屏幕录制工具集；图片处理工具集；文件处理工具集等。
-  - 我的ABC软件工具箱
+  - [我的ABC软件工具箱](https://www.wodeabc.com/) 简单高效的批量处理办公助手，集成近百种批量处理文件的功能，如：批量查找替换 Word、Excel、PPT、PDF 和文本文件的内容、重命名、格式转换、文档水印、图片编辑和压缩、文件整理编号、生成文件、拆分合并文档等等。
 
 - 邮箱客户端
   - [DM Pro](http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！
@@ -862,18 +955,25 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) [微软系统维护免费小工具合集- 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) [Sysinternals on Github](https://github.com/Sysinternals)
   - [FileGee Backup & Sync Personal Edition](http://filegee.net/download.html) 文件备份、同步工具，功能强大。个人版免费。企业版收费
   - [Total Commander](https://www.ghisler.com/)  : 功能强大的文件管理工具
+  - [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
   - FileGee
   - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+  - [FreeFilesSync](https://freefilesync.org/) 	数据安全备份，镜像，增量同步。强烈推荐！！！
   - [Quicker](https://getquicker.net/) 您的指尖工具箱
   - [He3](https://he3.app) 是一个包含近 400 种工具的终极开发者工具箱，涵盖了前后端开发者的日常所需。[异次元推荐](https://www.iplaysoft.com/he3.html) [He3 On Github](https://github.com/he3-app)
   - [uTools](https://www.u-tools.cn/) - [让你效率倍增的快速启动软件 / 强大小工具合集 (插件功能扩展)](https://www.iplaysoft.com/utools.html)，是一款极简、插件化、跨平台、现代化的桌面增强效率软件，它为用户提供了一个可以随时呼出的“看似简单”的输入框 (搜索框)，但这个输入框却蕴含了近乎“无限”的能力
   - 微软 PowerToys 小工具合集 - [免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) [Powertoys on Github](https://github.com/microsoft/PowerToys)
-
-- 系统扫描与清理
-  - [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
+- piriform
+  - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)  备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
+  - [优效日历](https://www.youxiao.cn/) – [专业的多功能日历应用（排班、抢票、节日、订阅等）发布 Android、iPhone 客户端](https://www.appinn.com/youxiao-calendar-2/)
+  - [TreeSheets](https://strlen.com/treesheets/) – [神仙级笔记软件：开源的分层电子表格工具](https://www.appinn.com/treesheets/)
+  - [Calctus](https://github.com/shapoco/calctus) – [电子工程师的计算神器](https://www.appinn.com/calctus-for-windows/)
+  - All-In-One Calculator – [75+ 功能，全能计算器和单位转换器[Android]](https://www.appinn.com/all-in-one-calculator-for-android/)
+  - [eDiary](http://www.haoxg.net/ediary/) 的作用不仅仅在于写日记，您也可以用它来记流水帐、写工作日志， 记录学习心得，或者用它来管理你的日常文档。eDiary以时间为主线，以文 字为载体，记录你的心路历程。
 
 - 下载工具
   - IDM: internet download manager
+  - [Motrix](https://motrix.app) - [清爽开源免费的全能下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力链 / 百度网盘)](https://www.iplaysoft.com/motrix.html)
   - 迅雷
   - [文件蜈蚣](http://www.filecxx.com):文件蜈蚣是一个全能网络文件上传/下载器, BitTorrent客户端, WebDAV客户端, FTP客户端, 和SSH客户端.它快速, 可定制, 用户友好, 多协议支持, 同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos. WebDAV client, FTP client, SSH client.
   - emule
@@ -892,16 +992,22 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [MPC-BE](https://sourceforge.net/projects/mpcbe/)   a free and open source audio and video player for Windows
   - Potplayer
   - VLC PC mobile
+  - GridPlayer – [同时播放 X 部影片，就问你够不够？](https://www.appinn.com/gridplayer/). [github](https://github.com/vzhd1701/gridplayer)
 - 影音编辑
-  - [Kdenlive](https://kdenlive.org/zh/) 自由开源的免费视频编辑软件。
+  - [Kdenlive](https://kdenlive.org/zh/) 自由开源的免费视频编辑软件。专业级别的好工具
+  - [ShareX](https://getsharex.com/) 录屏截屏图像编辑
+  - [openshot](https://www.openshot.org/) 切割分离方便
+  - [shotcut](https://www.shotcut.org/) 简单易用，兼顾专业
   - DaVinci_Resolve_Studio
   - Free Video Trim
   - [HandBrake](https://handbrake.fr/) [作为一款视频压缩/视频编码处理软件是足够专业且功能足够丰富的。加上免费、开源、跨平台支持，也使得它成为当之无愧的装机必备万能视频转码利器](https://www.iplaysoft.com/handbrake.html)。
 - 图形图像
   - Photoshop
   - CorelDRAW
+  - [XnView](https://www.xnview.com/en/xnview/)	支持超过500种图片格式。强烈推荐！！！
   - Eagle:智能图片管理器（Windows/Mac）
-  - blender
+  - BLENDER是一款开源免费的，可xxx的跨平台三维软件。[斑斓中国](https://www.blendercn.org/)
+  - [Paper2GUI](https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com) - [开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
 - 音乐
   - [网易云音乐]
   - [QQ音乐]
@@ -962,10 +1068,10 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
       > 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。  今天我们要介绍的第10款脚本  就是这样一个根据你当前访问的站点  自动为你推荐适用的脚本工具  Userscript+  <https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs>
 
 - 反编译工具
-  - [OllyDebug]( <http://www.ollydbg.de/>  中文站 <http://ollydbg.net/>  ) a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 {<https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip>
+  - [OllyDebug]( <http://www.ollydbg.de/>  中文站 <http://ollydbg.net/>  ) a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 <https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip>
     - [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/)
     - [吾爱破解专用版Ollydbg](https://down.52pojie.cn/Tools/Debuggers/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E4%B8%93%E7%94%A8%E7%89%88Ollydbg.rar)
-  - [IDA](https://hex-rays.com/)       **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler](<https://www.hex-rays.com/products/ida/index.shtml>), which many software security specialists are familiar with.
+  - [IDA](https://hex-rays.com/)       **IDA** is the **I**nteractive **D**is**A**ssembler: the world's smartest and most feature-full disassembler(<https://www.hex-rays.com/products/ida/index.shtml>), which many software security specialists are familiar with.
   - [Hex-Rays Decompiler](https://www.hex-rays.com/products/decompiler/index.shtml)
   - [pexplorer](https://down.52pojie.cn/Tools/PEtools/)
   - [ApkIDE]( https://down.52pojie.cn/Tools/Android_Tools/)
@@ -977,12 +1083,10 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - 科研
   - [matlab](https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
-  - Julia
+  - [Wolfram-Alpha: Computational Intelligence](https://www.wolframalpha.com/) Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
+  - [Julia](https://julialang.org/) is a high-level, high-performance dynamic language for technical computing. The main homepage for Julia can be found at julialang.org.
   - [cnki E-study](http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。
   - [endnote](https://www.jb51.net/softs/665052.html) 文献管理软件.endnote x9.1 汉化特别版(附安装教程)
-
-- The **package manager** for Windows
-  - [Chocolatey](https://chocolatey.org/) Software Management Automation
 
 - js
   - [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
@@ -1002,12 +1106,13 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [福昕foxit]
   - [Adobe Acrobat]
 
-- piriform
-  - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)  备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
 
 - 桌面环境
   - [Xfce Desktop Environment](https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
-
+  - [lively](https://github.com/rocksdanister/lively) About Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- 模拟器
+  - Ryujinx 龙神模拟器 - [免费在电脑 PC 和 Mac 上玩任天堂 Switch 游戏 (塞尔达/马里奥等)](https://www.iplaysoft.com/ryujinx.html) 是一个完全免费开源的任天堂 Switch 游戏主机模拟器软件，它能让你跨平台在 Windows、Linux、macOS 等系统上流畅运行各种 Switch 游戏。经过多年的开发改进和优化，其性能和兼容性已十分出色，能在大多数的电脑上完美模拟运行马里奥、塞尔达传说、宝可梦、异度神剑等各种热门游戏大作！
+  - Yuzu 柚子模拟器 - [在电脑 PC 上玩 Switch 塞尔达传说王国之泪 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) 是一款完全免费的开源的任天堂 Switch 游戏主机模拟器软件，它基于 C++ 开发，跨平台支持 Windows 和 Linux 系统，拥有相当不错的性能和兼容性，可以流畅在主流显卡配置的主机上流畅运行如马里奥、塞尔达传说、宝可梦、异度神剑、火焰纹章等游戏大作！
 - Windows安装/部署工具
   - WinNTSetup
   - Ghost
@@ -1015,6 +1120,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - WinToUSB
   - EasyUEFI
   - EasyBCD
+- 操作系统
   - Tiny11 - [极限精简的 Windows 11 系统镜像！支持苹果 M 芯片 Mac 安装 (ARM 精简版)](https://www.iplaysoft.com/tiny11.html)
   - [AtlasOS](https://github.com/Atlas-OS) is a Windows version designed for gamers. [Atlas](https://atlasos.net/) users can enjoy higher framerate, lowered input delay & latency. Great for people on both low-end system and high-end gaming machine.[专为游戏优化的高性能 Win10 精简版定制开源系统 (比 LTSC 更好用)](https://www.iplaysoft.com/atlasos.html)
   - [ReviOS](https://www.revi.cc/) - [专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 (类似 Atlas / LTSC)](https://www.iplaysoft.com/revios.html) 内置了一个专用的系统优化工具，能方便地一键开启关闭一些系统功能，同时也极其注重隐私的保护，下载和设置中文界面也没任何障碍，因此它是目前相当值得推荐的一款优化精简定制版系统。如果你使用 AtlasOS 过于激进，或者需要 Win11 的精简版，那么就试试它吧
@@ -1028,6 +1134,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [Free Open Source Windows Boot Software](https://sourceforge.net/directory/system-administration/boot/os:windows/)
   - [优启通](https://www.itsk.com/thread-416335-1-1.html?utm_source=iplaysoft.com&hmsr=iplaysoft.com) EasyU - 好用无广告纯净版 WinPE 系统启动盘 / U盘重装系统工具
 - U盘加密工具
+  - [usbdriveinfo](http://www.antspec.com/usbflashinfo/f/38B8C713-A7B4-416C-8F29-937724764216/usbdriveinfo.zip) <http://www.antspec.com/usbflashinfo/>
   - 通用加密软件
     - Wondershare USB加密软件\ Wondershare USB Encryption绿色汉化破解版V1.0.0(最好的U盘加密/SD、移动硬盘、TF卡加密)
       > 通用U盘加密软件Wondershare USB Drive Encryption本身是收费软件，但已经被汉化免费过了，所以我们可以用它来加密任意的U盘，不限制品牌和类型，所以是比较推荐的一款U盘加密软件了，而且它会在创建加密分区，你可以把重要文件都放到这个分区，并且采用256位AES加密技术进行加密，没有密码打不开，且加密方式严谨，不是用一点小技术和方法就能解密的，所以一定要切记密码，否则自己都找不回数据了。
@@ -1061,6 +1168,8 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - 包管理器
   - [nuget](https://www.nuget.org/)
   - vcpkg
+- The **package manager** for Windows
+  - [Chocolatey](https://chocolatey.org/) Software Management Automation
 
 - 常用cd虚拟光驱软件
   - Alcohol120:是一款功能强大的刻录软件，结合虚拟光驱与刻录两大功能，可以直接将映像文件刻录到空白光盘上，不再需要虚拟后再整盘拷贝。也是推荐级的神器。收费
@@ -1076,10 +1185,12 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - clonecd 收费软件。工作于raw模式，因此能真实的1:1复制cd，无论cd是否加密或有保护之类，仍能忠实的将它复制下来。（目前还没有一种软件能像clonecd一样完整的复制cd）
   - LevinISO
 
-- VeraCrypt
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) 磁盘加密工具，保护数据安全，文件和目录均可
 - Disk
   - diskgenius
   - SpaceSniffer
   - Defraggler：磁盘空间管理
   - OverDisk
   - WizTree
+- [LockDir](https://www.kakasoft.com/folder-protect/) is an easy-to-use software designed for password protection of folders or drives on Windows systems. If you put your sensitive files on your computer, you must pay attention to the data security of these files because there are so many potential threats that leave a door for cybercriminals. LockDir is a widely accepted application that users worldwide have welcomed for quite a long time. [Download](https://www.kakasoft.com/files/lockdir.zip) Portable software to lock and password protect folders on Windows 10 hard drives, USB flash drive, and all types of mobile storage devices.Three Security Methods: Lock, Scramble and Encrypt.File Security: Undeletable, Unmovable and Inaccessible.Portability: Enjoy full data protection anytime and anywhere.Easy Usage: No installation and directly run and protect your data.
+- KakaSoft.com
