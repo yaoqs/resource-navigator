@@ -5,79 +5,83 @@
 ## [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](https://yaoqs.github.io/)
 <a id="markdown-lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences" name="lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences"></a>
 
+
 ## License & Copyright
 <a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
 
 - 版权声明：Copyright © 2021-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 来源：网络及个人搜集及整理
-- <https://choosealicense.com/licenses/cc-by-sa-4.0/> ![](https://csdnimg.cn/release/phoenix/images/creativecommons/80x15.png)\
-知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+- [![GitHub license](https://badgen.net/github/license/yaoqs/resource-navigator)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/resource-navigator.svg)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 <!-- TOC -->
 
 - [LordYao](#lordyao)
-    - [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
-    - [License & Copyright](#license--copyright)
-    - [Lord Yao](#lord-yao)
-        - [微博](#%E5%BE%AE%E5%8D%9A)
-        - [博客](#%E5%8D%9A%E5%AE%A2)
-        - [我的代码仓](#%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E4%BB%93)
-        - [主题页](#%E4%B8%BB%E9%A2%98%E9%A1%B5)
+  - [LordYao: FUTURE \& CIVILIZATION: Natural/Social Philosophy \& Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
+  - [License \& Copyright](#license--copyright)
+  - [Lord Yao](#lord-yao)
+    - [Social accounts](#social-accounts)
+      - [开发](#开发)
+      - [学术/scholar](#学术scholar)
+      - [社交/social intercourse](#社交social-intercourse)
+    - [主题页](#主题页)
 - [resource navigator](#resource-navigator)
-    - [版权保护](#%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4)
-    - [常用](#%E5%B8%B8%E7%94%A8)
-        - [Community/社区](#community%E7%A4%BE%E5%8C%BA)
-        - [Docs](#docs)
-        - [blog](#blog)
-        - [Code](#code)
-        - [代码仓](#%E4%BB%A3%E7%A0%81%E4%BB%93)
-        - [云服务](#%E4%BA%91%E6%9C%8D%E5%8A%A1)
-        - [网盘](#%E7%BD%91%E7%9B%98)
-        - [开源镜像](#%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F)
-        - [CDN](#cdn)
-    - [哲学](#%E5%93%B2%E5%AD%A6)
-    - [English news](#english-news)
-        - [technews](#technews)
-    - [教育](#%E6%95%99%E8%82%B2)
-        - [高等教育](#%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2)
-        - [公开课](#%E5%85%AC%E5%BC%80%E8%AF%BE)
-        - [英语](#%E8%8B%B1%E8%AF%AD)
-        - [考试](#%E8%80%83%E8%AF%95)
-        - [竞赛](#%E7%AB%9E%E8%B5%9B)
-    - [数据](#%E6%95%B0%E6%8D%AE)
-    - [教程](#%E6%95%99%E7%A8%8B)
-    - [电子书/ebook](#%E7%94%B5%E5%AD%90%E4%B9%A6ebook)
-        - [小说](#%E5%B0%8F%E8%AF%B4)
-        - [诸子百家](#%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
-    - [美好生活](#%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB)
-        - [天气预报](#%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5)
-    - [影视资源网站](#%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99)
-        - [综合](#%E7%BB%BC%E5%90%88)
-        - [music](#music)
-        - [壁纸/wallpaper](#%E5%A3%81%E7%BA%B8wallpaper)
-        - [高清下载](#%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD)
-        - [美剧](#%E7%BE%8E%E5%89%A7)
-        - [漫画下载网站](#%E6%BC%AB%E7%94%BB%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99)
-        - [在线](#%E5%9C%A8%E7%BA%BF)
-        - [资源搜索](#%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2)
-        - [ed2k](#ed2k)
-        - [游戏](#%E6%B8%B8%E6%88%8F)
-    - [安全相关网站](#%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99)
-        - [CTF](#ctf)
-        - [Cyber Security](#cyber-security)
-            - [metasploit](#metasploit)
-    - [opencode](#opencode)
-        - [opensource](#opensource)
-    - [论坛](#%E8%AE%BA%E5%9D%9B)
-    - [软件](#%E8%BD%AF%E4%BB%B6)
-        - [在线工具](#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
-        - [API接口](#api%E6%8E%A5%E5%8F%A3)
-        - [开发](#%E5%BC%80%E5%8F%91)
-        - [下载网站](#%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99)
-        - [文件传送](#%E6%96%87%E4%BB%B6%E4%BC%A0%E9%80%81)
-        - [效率软件](#%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6)
+  - [版权保护](#版权保护)
+  - [常用](#常用)
+    - [Community/社区](#community社区)
+    - [Docs](#docs)
+    - [blog](#blog)
+    - [Code](#code)
+    - [代码仓](#代码仓)
+    - [云服务](#云服务)
+    - [网盘](#网盘)
+    - [开源镜像](#开源镜像)
+    - [CDN](#cdn)
+  - [哲学](#哲学)
+  - [English news](#english-news)
+    - [technews](#technews)
+    - [Lab](#lab)
+  - [教育](#教育)
+    - [高等教育](#高等教育)
+    - [公开课](#公开课)
+    - [英语](#英语)
+    - [考试](#考试)
+    - [竞赛](#竞赛)
+  - [数据](#数据)
+  - [教程](#教程)
+  - [电子书/ebook](#电子书ebook)
+    - [小说](#小说)
+    - [诸子百家](#诸子百家)
+    - [中医](#中医)
+  - [美好生活](#美好生活)
+    - [rss](#rss)
+    - [天气预报](#天气预报)
+  - [影视资源网站](#影视资源网站)
+    - [综合](#综合)
+    - [music](#music)
+    - [壁纸/wallpaper](#壁纸wallpaper)
+    - [高清下载](#高清下载)
+    - [美剧](#美剧)
+    - [漫画下载网站](#漫画下载网站)
+    - [在线](#在线)
+    - [资源搜索](#资源搜索)
+    - [ed2k](#ed2k)
+    - [游戏](#游戏)
+  - [安全相关网站](#安全相关网站)
+    - [CTF](#ctf)
+    - [Cyber Security](#cyber-security)
+      - [metasploit](#metasploit)
+  - [opencode](#opencode)
+    - [opensource](#opensource)
+  - [论坛](#论坛)
+  - [软件](#软件)
+    - [在线工具](#在线工具)
+    - [API接口](#api接口)
+    - [开发](#开发-1)
+    - [下载网站](#下载网站)
+    - [文件传送](#文件传送)
+    - [效率软件](#效率软件)
 
 <!-- /TOC -->
 ## Lord Yao
@@ -104,39 +108,49 @@
     </script>
 </div>
 
-### 微博
-<a id="markdown-%E5%BE%AE%E5%8D%9A" name="%E5%BE%AE%E5%8D%9A"></a>
+### Social accounts
+<a id="markdown-social-accounts" name="social-accounts"></a>
 
+#### 开发
+<a id="markdown-%E5%BC%80%E5%8F%91" name="%E5%BC%80%E5%8F%91"></a>
 
-- 新浪微博 <https://weibo.com/lordyao>
-- Twitter <http://twitter.com/Lord_Honor_Yao>
-- 哔哩哔哩/bilibili <https://space.bilibili.com/19354848>
+[![yaoqs.github.io](https://img.shields.io/badge/yaoqs.github.io-ffffff?style=flat-square&logo=Github&logoColor=black)](https://yaoqs.github.io/)
+[![yaoqs.deno.dev](https://img.shields.io/badge/yaoqs.deno.dev-ffffff?style=flat-square&logo=Deno&logoColor=black)](https://yaoqs.deno.dev/)
+[![github](https://img.shields.io/badge/github.com/yaoqs-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/yaoqs)
+[![deno](https://img.shields.io/badge/deno.dev/yaoqs-ffffff?style=flat-square&logo=deno&logoColor=black)](https://deno.dev/yaoqs)
+[![gitee](https://img.shields.io/badge/gitee.com/yaoqs-ffffff?style=flat-square&logo=Gitee&logoColor=black)](https://gitee.com/yaoqs)
+[![GitLab](https://img.shields.io/badge/gitlab.com/yaoqs-ffffff?style=flat-square&logo=Gitlab&logoColor=black)](https://gitlab.com/yaoqs)
+[![dockerhub](https://img.shields.io/badge/docker-lordyao-ffffff?style=flat-square&logo=Docker&logoColor=black)](https://hub.docker.com/u/lordyao)
 
-### 博客
-<a id="markdown-%E5%8D%9A%E5%AE%A2" name="%E5%8D%9A%E5%AE%A2"></a>
+[![gist](https://img.shields.io/badge/gist-ffffff?style=flat-square&logo=gist&logoColor=black)](https://gist.github.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-ffffff?style=flat-square&logo=Heroku&logoColor=black)](https://www.heroku.com)
+![aws](https://img.shields.io/badge/aws-ffffff?style=flat-square&logo=AmazonAws&logoColor=black)
+[![Azure](https://img.shields.io/badge/Azure-ffffff?style=flat-square&logo=MicrosoftAzure&logoColor=black)](https://portal.azure.com/)
+![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=flat-square&logo=StackOverflow&logoColor=black)
 
+[![CSDN](https://img.shields.io/badge/CSDN-yaokingson-ffffff?style=flat-square&logo=csdn&logoColor=black)](https://blog.csdn.net/yaokingson)
+[![博客园](https://img.shields.io/badge/cnblogs-yaoqs-ffffff?style=flat-square&logo=cnblogs&logoColor=black)](https://www.cnblogs.com/yaoqs)
+[![开源中国](https://img.shields.io/badge/oschina-yaoqs-ffffff?style=flat-square&logo=oschina&logoColor=black)](https://my.oschina.net/yaoqs)
+[![greasyfork](https://img.shields.io/badge/greasyfork-ffffff?style=flat-square&logo=greasyfork&logoColor=black)](https://greasyfork.org/zh-CN/users/806993-lordyao)
 
-- [yaoqs.github.io](https://yaoqs.github.io/)
-- [yaoqs.deno.dev](https://yaoqs.deno.dev/)
-- CSDN：<https://blog.csdn.net/yaokingson/>
-- 博客园：<https://www.cnblogs.com/yaoqs>
-- 开源中国：<https://my.oschina.net/yaoqs>
-- facebook
-- instagram
-- pinterest
-- 豆瓣
-- linkin
+[![华为开源平台](https://img.shields.io/badge/华为开源平台-ffffff?style=flat-square&logo=Huawei&logoColor=black)](https://code.opensource.huaweicloud.com/home)
 
-### 我的代码仓
-<a id="markdown-%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E4%BB%93" name="%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E4%BB%93"></a>
+#### 学术/scholar
+<a id="markdown-%E5%AD%A6%E6%9C%AF%2Fscholar" name="%E5%AD%A6%E6%9C%AF%2Fscholar"></a>
 
+#### 社交/social intercourse
+<a id="markdown-%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse" name="%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse"></a>
 
-- Github <https://github.com/yaoqs>
-- GitLab <https://gitlab.com/yaoqs>
-- deno <https://deno.dev/yaoqs>
-- 码云 <https://gitee.com/yaoqs>
-- 华为开源平台 <https://code.opensource.huaweicloud.com/home>
-- dockerhub <https://hub.docker.com/u/lordyao>
+[![@lordyao](https://img.shields.io/badge/@lordyao-ffffff?style=flat-square&logo=Sinaweibo&logoColor=ff0000)](http://weibo.com/lordyao)
+![Blog](https://img.shields.io/badge/Blog-00a1d6?style=flat-square&logo=Wordpress&logoColor=ffffff)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/1935484)
+[![twitter](https://img.shields.io/badge/twitter-00a1d6?style=flat-square&logo=twitter&logoColor=ffffff)](http://twitter.com/Lord_Honor_Yao)
+![Zhihu](https://img.shields.io/badge/Zhihu-00a1d6?style=flat-square&logo=Zhihu&logoColor=ffffff)
+![facebook](https://img.shields.io/badge/facebook-00a1d6?style=flat-square&logo=facebook&logoColor=black)
+![instagram](https://img.shields.io/badge/instagram-00a1d6?style=flat-square&logo=instagram&logoColor=black)
+![pinterest](https://img.shields.io/badge/pinterest-00a1d6?style=flat-square&logo=pinterest&logoColor=black)
+![豆瓣](https://img.shields.io/badge/豆瓣-00a1d6?style=flat-square&logo=douban&logoColor=black)
+![linkin](https://img.shields.io/badge/linkin-00a1d6?style=flat-square&logo=Linkin&logoColor=black)
 
 ### [主题页](https://yaoqs.github.io/Feature)
 <a id="markdown-%E4%B8%BB%E9%A2%98%E9%A1%B5" name="%E4%B8%BB%E9%A2%98%E9%A1%B5"></a>
@@ -196,6 +210,7 @@
 - gitter <https://gitter.im>
 - stackoverflow <https://stackoverflow.com/>
 - 语雀 ：新一代云端知识库 <https://www.yuque.com/>
+- [Heroku](https://www.heroku.com) is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.
 - [阿里云开发者社区](https://developer.aliyun.com)
 
 ### Docs
@@ -234,6 +249,7 @@
 - [码云](https://git.oschina.net/) 现跳转到gitee
 - [百度效率云](http://xiaolvyun.baidu.com)
 - [gitcode](https://gitcode.net) CSDN仓
+- [InsCode](https://inscode.csdn.net/) - 让你的灵感立刻落地 - 在浏览器中实时运行代码，支持30多种语言和在线IDE，尽在 InsCode。
 
 ### 云服务
 <a id="markdown-%E4%BA%91%E6%9C%8D%E5%8A%A1" name="%E4%BA%91%E6%9C%8D%E5%8A%A1"></a>
@@ -282,6 +298,7 @@
 ### CDN
 <a id="markdown-cdn" name="cdn"></a>
 
+
 - [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
 - [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
 - [staticfile.org](https://www.staticfile.org/)
@@ -328,7 +345,14 @@
 ### technews
 <a id="markdown-technews" name="technews"></a>
 
+
 - [ACM TechNews](https://technews.acm.org/), providing timely information for IT professionals three times a week.
+
+### Lab
+<a id="markdown-lab" name="lab"></a>
+
+
+- [AMPLab](https://amplab.cs.berkeley.edu/) – UC Berkeley | Algorithms, Machines and People Lab
 
 ## 教育
 <a id="markdown-%E6%95%99%E8%82%B2" name="%E6%95%99%E8%82%B2"></a>
@@ -361,7 +385,11 @@
 <a id="markdown-%E8%8B%B1%E8%AF%AD" name="%E8%8B%B1%E8%AF%AD"></a>
 
 
+- [IELTS](https://www.ielts.org/) IELTS is the high stakes English test for international study, migration and work. Open a world of opportunity with IELTS.
+- [教育部教育考试院 雅思报名网站](https://ielts.neea.edu.cn/)
 - [可可英语](http://www.kekenet.com/)-英语口语/英语听力/英语四级/英文歌曲/英语学习/英语听力下载
+- 雅思A类留学深造,雅思G类移民工作,[开源雅思](https://www.ieltsday.com/)-专注雅思A类与雅思G类的学习资源分享,涵盖听说读写各模块层级海量话题库、真题库、资料库!
+
 
 ### 考试
 <a id="markdown-%E8%80%83%E8%AF%95" name="%E8%80%83%E8%AF%95"></a>
@@ -499,6 +527,7 @@
 - 玉白盘：<http://www.yubaipan.com/>
 - 全国图书馆参考咨询联盟：<http://www.ucdrs.superlib.net/>
 - Z-library：<https://zh.4lib.org/> 得用梯子：<http://libgen.rs/>
+- [Scribd](https://www.scribd.com/): Ebooks, Audiobooks & More.Enjoy millions of ebooks, audiobooks and more with a free trial. Choose from best sellers and new releases. Read on the web, iPad, iPhone and Android.
 
 ### 小说
 <a id="markdown-%E5%B0%8F%E8%AF%B4" name="%E5%B0%8F%E8%AF%B4"></a>
@@ -515,20 +544,35 @@
 
 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
-- [中国哲学书电子化计划](https://ctext.org/zhs)
+- [中国哲学书电子化计划](https://ctext.org/zhs) 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化，用交叉索引等技术充分利用电脑的功能，给中外的学者提供更方便的方式来学习和研究这些古书。
 - Chinese Text Project <https://ctext.org/>
 - [劝学网](http://www.quanxue.cn/index.htm)
 - [殆知阁](http://122.200.75.13/)
 - [古诗文网](https://www.gushiwen.cn/)
 - [经典文学网](http://www.ccview.net/)
 
+### 中医
+<a id="markdown-%E4%B8%AD%E5%8C%BB" name="%E4%B8%AD%E5%8C%BB"></a>
+
+
+- [黄帝内经](https://ctext.org/huangdi-neijing/zhs)
+- [汉唐中医倪海厦网站-倪海厦](https://www.jingfangjia.cn/) 介绍了倪海厦个人资料及简介，分享人纪中医，天纪紫薇斗数+易经知识，提供书籍，视频，电子书，讲义，软件等辅助学习品。
+
 ## 美好生活
 <a id="markdown-%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB" name="%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB"></a>
 
+
 - [最好的虚拟信用卡推荐(开卡教程) - 解决 ChatGPT Plus 海淘购物等无法支付问题](https://www.iplaysoft.com/virtual-credit-card.html)
+
+### rss
+<a id="markdown-rss" name="rss"></a>
+
+
+- [摸摸鱼热榜](https://momoyu.cc/) 摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！
 
 ### 天气预报
 <a id="markdown-%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" name="%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5"></a>
+
 
 - yaoqs
 - [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
@@ -540,6 +584,7 @@
 
 ### 综合
 <a id="markdown-%E7%BB%BC%E5%90%88" name="%E7%BB%BC%E5%90%88"></a>
+
 
 - [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
@@ -555,6 +600,7 @@
 ### 壁纸/wallpaper
 <a id="markdown-%E5%A3%81%E7%BA%B8%2Fwallpaper" name="%E5%A3%81%E7%BA%B8%2Fwallpaper"></a>
 
+
 - [极简壁纸](https://bz.zzzmh.cn) 海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站
 
 ### 高清下载
@@ -567,7 +613,7 @@
 - [迅雷仓_高清电影下载_4K高清_1080P高清_3D电影](https://www.xunleicang.com/)
 - [电影天堂_电影下载_高清首发](https://www.dy2018.com/)
 - [阳光电影_免费电影_迅雷电影下载_电影天堂](https://www.ygdy8.com/)
-- [电影港_高清电影下载_720p高清_1080p高清](http://www.dygang.net/)
+- [电影港_高清电影下载_720p高清_1080p高清](https://www.dygang.tv/)
 - [RARBT_bt电影_bt种子_电影下载 - RARBT中文字幕电影天堂](http://rarbt.cc/)
 - [豌豆pro](https://wandou.pro/)
 - [电影港](https://www.dygang.tv/)
@@ -610,6 +656,7 @@
 - 海盗湾 The Pirate Bay:
   - <https://www.pirate-bay.net/>
   - <https://tpb.wiki/>
+- [rutracker](https://rutracker.org/)
 - [Start - Zooqle: Verified torrents](https://zooqle.com)
 - [搜磁力 - 搜一搜，发现精彩世界](https://www.soucili.net/)
 - 屌丝搜-最懂屌丝的DHT磁力搜索引擎
@@ -639,6 +686,7 @@
 
 ### 游戏
 <a id="markdown-%E6%B8%B8%E6%88%8F" name="%E6%B8%B8%E6%88%8F"></a>
+
 
 - [独立精神 indienova 独立游戏](https://indienova.com/)
 
@@ -688,6 +736,7 @@
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [OSCHINA - 中文开源技术交流社区](https://www.oschina.net/)
 - [GitHub](https://github.com/)
+- [codefactor](https://www.codefactor.io) Automated static analysis for C#, C++, Java, CSS, JS, Go, Python, Ruby, TypeScript, Scala, CoffeeScript, Groovy, C, SCSS, Less, PHP, Dockerfile, Bash, YAML and Swift. [github](https://github.com/codefactor-io/codefactor)
 - [Projects · Dashboard · GitLab](https://gitlab.com/)
 - [topcoder](https://www.topcoder.com/) Top Website Designers, Developers, Freelancers for Your Next Project
 - [码云 Gitee.com](https://gitee.com/) 码云(gitee.com)是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 350 万的开发者选择码云。
@@ -704,8 +753,8 @@
 - [BVBcode Source download](http://www.bvbcode.com/)
 - 源码之家：<https://www.mycodes.net/>
 - [findbestopensource](https://www.findbestopensource.com)
-- [DOMXPath::query
-Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.com/)
+- [DOMXPath::query Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.com/)
+- [月光软件站](https://www.moon-soft.com/)-专业的技术开发编程源代码网站,提供:php,asp,vb等源程序代码下载及编程指南,开发文档等
 
 ### opensource
 <a id="markdown-opensource" name="opensource"></a>
@@ -780,6 +829,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - JSON to Dart： <https://javiercbk.github.io/json_to_dart/>
 - Json在线解析验证： <https://www.json.cn/>
 - 在线接口测试（Getman）：<https://getman.cn/>
+- [SDK网址导航](https://hao.sdk.cn/) SDK导航收录国内外、各行业优秀网站，为用户提供网站分类目录检索、优秀网站参考、网站推广服务
 
 ### API接口
 <a id="markdown-api%E6%8E%A5%E5%8F%A3" name="api%E6%8E%A5%E5%8F%A3"></a>
@@ -787,6 +837,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - [天地图](https://www.tianditu.gov.cn/) 国家地理信息公共服务平台 天地图
 - 天气
+- wttr.in
 - [WebApiClient](https://github.com/dotnetcore/WebApiClient) 使用C#接口描述你的http接口
 
 ### 开发
@@ -958,7 +1009,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
   - FileGee
   - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
-  - [FreeFilesSync](https://freefilesync.org/) 	数据安全备份，镜像，增量同步。强烈推荐！！！
+  - [FreeFilesSync](https://freefilesync.org/)  数据安全备份，镜像，增量同步。强烈推荐！！！
   - [Quicker](https://getquicker.net/) 您的指尖工具箱
   - [He3](https://he3.app) 是一个包含近 400 种工具的终极开发者工具箱，涵盖了前后端开发者的日常所需。[异次元推荐](https://www.iplaysoft.com/he3.html) [He3 On Github](https://github.com/he3-app)
   - [uTools](https://www.u-tools.cn/) - [让你效率倍增的快速启动软件 / 强大小工具合集 (插件功能扩展)](https://www.iplaysoft.com/utools.html)，是一款极简、插件化、跨平台、现代化的桌面增强效率软件，它为用户提供了一个可以随时呼出的“看似简单”的输入框 (搜索框)，但这个输入框却蕴含了近乎“无限”的能力
@@ -968,7 +1019,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - [优效日历](https://www.youxiao.cn/) – [专业的多功能日历应用（排班、抢票、节日、订阅等）发布 Android、iPhone 客户端](https://www.appinn.com/youxiao-calendar-2/)
   - [TreeSheets](https://strlen.com/treesheets/) – [神仙级笔记软件：开源的分层电子表格工具](https://www.appinn.com/treesheets/)
   - [Calctus](https://github.com/shapoco/calctus) – [电子工程师的计算神器](https://www.appinn.com/calctus-for-windows/)
-  - All-In-One Calculator – [75+ 功能，全能计算器和单位转换器[Android]](https://www.appinn.com/all-in-one-calculator-for-android/)
+  - All-In-One Calculator – [75+ 功能，全能计算器和单位转换器[Android]](<https://www.appinn.com/all-in-one-calculator-for-android/>)
   - [eDiary](http://www.haoxg.net/ediary/) 的作用不仅仅在于写日记，您也可以用它来记流水帐、写工作日志， 记录学习心得，或者用它来管理你的日常文档。eDiary以时间为主线，以文 字为载体，记录你的心路历程。
 
 - 下载工具
@@ -984,6 +1035,11 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
     - <http://www.emule-web.de/>
     - <https://www.emule-project.com>
 
+- 投屏
+  - [蓝莓投屏](http://deeprd.com/) - 无线/有线投屏方案开发。AirPlay DLNA Miracast For Android Linux Windows。蓝莓投屏，手机投屏电视电脑，电脑投屏电视的投屏神器。免费的电视投屏软件。支持500多个音视频app投屏。投屏玩法：手机视频
+投屏，手机游戏投屏，百度网盘投屏、手机斗鱼等直播投屏，手机微信抖音投屏。PC无线投屏电视，开会投屏，PPT投屏等。 支持dlna，airplay 投屏协议 [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
+
+- [Paper2GUI](https://xiaobaituai.com/) 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术.一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。 [on Github](https://github.com/Baiyuetribe/paper2gui)
 - 多媒体
   - [foobar 2000](https://www.foobar2000.org/download)  绿色的音乐播放器。
   - [Goldwave](https://www.goldwave.com)   音频工具 Goldwave v6.52 v6.52 <https://hrtsea.com/category/2548.html>
@@ -1004,7 +1060,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 - 图形图像
   - Photoshop
   - CorelDRAW
-  - [XnView](https://www.xnview.com/en/xnview/)	支持超过500种图片格式。强烈推荐！！！
+  - [XnView](https://www.xnview.com/en/xnview/) 支持超过500种图片格式。强烈推荐！！！
   - Eagle:智能图片管理器（Windows/Mac）
   - BLENDER是一款开源免费的，可xxx的跨平台三维软件。[斑斓中国](https://www.blendercn.org/)
   - [Paper2GUI](https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com) - [开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
@@ -1100,12 +1156,13 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
 
 - 版本控制
   - [Git](https://git-scm.com/)  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理
+  - [GitHub desktop](https://desktop.github.com/)
+  - { [Gisto](https://www.gistoapp.com) } is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor.All your data is stored on GitHub and you can access it from GitHub Gists at any time with changes carrying over to { Gisto }. [GitHub](https://github.com/Gisto/Gisto)
   - [Tortoise SVN](https://tortoisesvn.net/)  an Apache ™ Subversion (SVN) ® client, implemented as a Windows shell extension. It's intuitive and easy to use, since it doesn't require the Subversion command line client to run.
 
 - pdf阅读器/编辑器
   - [福昕foxit]
   - [Adobe Acrobat]
-
 
 - 桌面环境
   - [Xfce Desktop Environment](https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
@@ -1124,6 +1181,7 @@ Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.co
   - Tiny11 - [极限精简的 Windows 11 系统镜像！支持苹果 M 芯片 Mac 安装 (ARM 精简版)](https://www.iplaysoft.com/tiny11.html)
   - [AtlasOS](https://github.com/Atlas-OS) is a Windows version designed for gamers. [Atlas](https://atlasos.net/) users can enjoy higher framerate, lowered input delay & latency. Great for people on both low-end system and high-end gaming machine.[专为游戏优化的高性能 Win10 精简版定制开源系统 (比 LTSC 更好用)](https://www.iplaysoft.com/atlasos.html)
   - [ReviOS](https://www.revi.cc/) - [专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 (类似 Atlas / LTSC)](https://www.iplaysoft.com/revios.html) 内置了一个专用的系统优化工具，能方便地一键开启关闭一些系统功能，同时也极其注重隐私的保护，下载和设置中文界面也没任何障碍，因此它是目前相当值得推荐的一款优化精简定制版系统。如果你使用 AtlasOS 过于激进，或者需要 Win11 的精简版，那么就试试它吧
+  - [Operating System From Scratch](https://github.com/yyu/osfs00) : learn OS by practice
 - PE
   - WePE64
   - [微PE工具箱](https://www.wepe.com.cn/) - 超好用的WinPE装机维护工具
