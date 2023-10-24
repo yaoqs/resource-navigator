@@ -13,7 +13,7 @@
 - 版权声明：Copyright © 2021-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 来源：网络及个人搜集及整理
 - [![GitHub license](https://badgen.net/github/license/yaoqs/resource-navigator)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/resource-navigator.svg)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
-- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <mailto>350788415@qq.com</mailto>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
+- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <350788415@qq.com>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 <!-- TOC -->
 
@@ -37,6 +37,8 @@
     - [云服务](#云服务)
     - [网盘](#网盘)
     - [开源镜像](#开源镜像)
+    - [大模型/GPT](#大模型gpt)
+    - [域名](#域名)
     - [CDN](#cdn)
   - [哲学](#哲学)
   - [English news](#english-news)
@@ -66,6 +68,7 @@
     - [漫画下载网站](#漫画下载网站)
     - [在线](#在线)
     - [资源搜索](#资源搜索)
+      - [0day](#0day)
     - [ed2k](#ed2k)
     - [游戏](#游戏)
   - [安全相关网站](#安全相关网站)
@@ -81,8 +84,10 @@
     - [开发](#开发-1)
     - [下载网站](#下载网站)
     - [文件传送](#文件传送)
+    - [图床](#图床)
     - [效率软件](#效率软件)
 
+<!-- /TOC -->
 <!-- /TOC -->
 ## Lord Yao
 <a id="markdown-lord-yao" name="lord-yao"></a>
@@ -111,8 +116,10 @@
 ### Social accounts
 <a id="markdown-social-accounts" name="social-accounts"></a>
 
+
 #### 开发
 <a id="markdown-%E5%BC%80%E5%8F%91" name="%E5%BC%80%E5%8F%91"></a>
+
 
 [![yaoqs.github.io](https://img.shields.io/badge/yaoqs.github.io-ffffff?style=flat-square&logo=Github&logoColor=black)](https://yaoqs.github.io/)
 [![yaoqs.deno.dev](https://img.shields.io/badge/yaoqs.deno.dev-ffffff?style=flat-square&logo=Deno&logoColor=black)](https://yaoqs.deno.dev/)
@@ -120,37 +127,50 @@
 [![deno](https://img.shields.io/badge/deno.dev/yaoqs-ffffff?style=flat-square&logo=deno&logoColor=black)](https://deno.dev/yaoqs)
 [![gitee](https://img.shields.io/badge/gitee.com/yaoqs-ffffff?style=flat-square&logo=Gitee&logoColor=black)](https://gitee.com/yaoqs)
 [![GitLab](https://img.shields.io/badge/gitlab.com/yaoqs-ffffff?style=flat-square&logo=Gitlab&logoColor=black)](https://gitlab.com/yaoqs)
-[![dockerhub](https://img.shields.io/badge/docker-lordyao-ffffff?style=flat-square&logo=Docker&logoColor=black)](https://hub.docker.com/u/lordyao)
+[![dockerhub](https://img.shields.io/badge/docker-lordyao-ffffff?style=flat-square&logo=Docker&logoColor=ffffff)](https://hub.docker.com/u/lordyao)
 
-[![gist](https://img.shields.io/badge/gist-ffffff?style=flat-square&logo=gist&logoColor=black)](https://gist.github.com/)
+[![gist](https://img.shields.io/badge/gist-ffffff?style=flat-square&logo=github&logoColor=black)](https://gist.github.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-ffffff?style=flat-square&logo=Heroku&logoColor=black)](https://www.heroku.com)
-![aws](https://img.shields.io/badge/aws-ffffff?style=flat-square&logo=AmazonAws&logoColor=black)
+[![aws](https://img.shields.io/badge/aws-ffffff?style=flat-square&logo=AmazonAws&logoColor=black)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-ffffff?style=flat-square&logo=MicrosoftAzure&logoColor=black)](https://portal.azure.com/)
-![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=flat-square&logo=StackOverflow&logoColor=black)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=flat-square&logo=StackOverflow&logoColor=black)](https://stackoverflow.co/)
+[![StackExchange](https://img.shields.io/badge/StackExchange-ffffff?style=flat-square&logo=stackexchange&logoColor=black)](https://stackexchange.com/)
 
-[![CSDN](https://img.shields.io/badge/CSDN-yaokingson-ffffff?style=flat-square&logo=csdn&logoColor=black)](https://blog.csdn.net/yaokingson)
-[![博客园](https://img.shields.io/badge/cnblogs-yaoqs-ffffff?style=flat-square&logo=cnblogs&logoColor=black)](https://www.cnblogs.com/yaoqs)
-[![开源中国](https://img.shields.io/badge/oschina-yaoqs-ffffff?style=flat-square&logo=oschina&logoColor=black)](https://my.oschina.net/yaoqs)
-[![greasyfork](https://img.shields.io/badge/greasyfork-ffffff?style=flat-square&logo=greasyfork&logoColor=black)](https://greasyfork.org/zh-CN/users/806993-lordyao)
+[![CSDN](https://img.shields.io/badge/CSDN-yaokingson-ffffff?style=flat-square&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAw9JREFUWEftlllsTVEUhr+1r5ZwO6ExxPRASU1piBiTGhJDQg2RaClp4oFGNU3MISQVIWYihpoeDNEQQ0LE8ECEFzU8iEgIMVZdWtWBuvaW49DrSk/PPdUQifV0kvPvf317rXXO3hKcmmL4iyH/Af7dCnROQlKGQOduSEw8fAli3rzCPLgLN69AdWVEk+V9BvoMRE3LRrr2ckxgqqsw549iTuyFmk/1gkQOEBWNzF6KpE5ARCLanXn2CJ0/F8oCjvrIAJo1Ry3bjvRICTMyxc8w929BeSnEt0J6D0RaJoZp9OWTmN35vwEgClmyFWX1+3uYQDF631oouhpurHzIiInIjFykuf/bO3PnOnrNvIYDSNos1PTcUPKnD9H5c+D9O+c2tO+CWr4DWrVFb1kCNy42ECChNWrbGaRpM3s3leXohekQeOU+A1YFEhLhxeOGD6Fk5qHGZ9Ya6P3rMOePuSf3oHAeQuVDFVy0v3Fr92Vv0dnjIPjZg7271BkguR++VQWh3Z87gjm4wd3Ro8IRQCZmoTJyau2+rJ0Pt655tHeXOwNkr0KlTggBzBkD70rcHT0qHAHU0u32v97qv9bo9AHWg0d7d7kzwIpdSO8BNkAwiM6wnxs7nFuwaBOqf2qoBTOHwseqxs6PM0DWQtTY9BDAskx4eO/PATBsHL6c1aHP8HgBpnDnHwTwx6H2XECaRNlz8KEMnTfFPvkijTYdoGNXKLoCpu67b73HscxdiRqeVpvO3L+NXp8HFeXuCD37oxZsRFrEoE8fxBzeVuea+u8DCYmojYWIPy4EESjGnDqAuXEBPrwPN/U1ge59kVGTkcGjEaXs6lVXomcNawCAtaTvINSiLUiU3YofYaySlrywj+XPNWBBtuuIRNsnZ5j29XN0Tuin9vO7yG5EVjlz1yDxrd1L/2ty6xDbvBism1MdERmAtdAfi6RlISMnIf5YVxBT+gZz6STm7CGoqnDURw7wwyIqGpL7IUl9oG0nJCYOrN7XfMSUBuDlE/tq/ugeaPdft3cA1717E/wH+OsV+Ao8AzlQq0l0/gAAAABJRU5ErkJggg==&logoColor=black)](https://blog.csdn.net/yaokingson)
+[![博客园](https://img.shields.io/badge/cnblogs-yaoqs-ffffff?style=flat-square&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+0lEQVRYhcWXf2hVZRjHP8/ZVeZay9mwuY1poVM2yMl0nXO3e/2RMpM0+2P7w4qQ6K8gEEwKqegPkTAqo4Lsp0UQRRQaSmYLt7Z7p5uhqxRbxrrXMce0Mda4u7v3ffrjnF33606nq75wOPd934fv8z3ned/nfK9wC6h27DxLZBNQBljAb6p6pDEUjt4oh9xM4oBtW2LJ08CLwFxVvUYoMgi8boy+9GM4HJ9xAdVlZVh35OwDdqpLcAGoBxJANVDuhX6WNPpYUzicmIovYzrJa2trGYwPbQTeBFTgBdBtDc3hw52R6NGCBQvezbCsP4EHgOWWyKWk0tbf3z8zAgrz8kga846q3iMiHw4PJ3Y2tZw0I+vRS126sKDwJywBWAcszZmb+3YkEtF0nNZ0BMSG4zlApYgYYH/o1KkJMQ0tLQAHgBhQYpnkoqk4pyUAZB6QBcRUuZiWdDjRA1wFyLCs/JUrV86QAKEfiAOzRchLF2Z8GdlANoAxGsuaPWvjjAhIJE0f8CvgA7ZPFlNbWwsidUAO0I1QDmyvrKxML+C+FSsIOPai6wkoKi42wFvecFfQ72xZv2ZNan392rVcvhS1gX3e1HvADsDO9GX4JuMUgA0bNjD098DLIuw+0RSa8tz6V63y+Wb5vgIexD37hwS+Vff3aqAO1UxEWoH9wCeAAZY2NIc6xvNlAAwODnJnbu5mYF5nJHp2KgGRri6zsKjoMCJFwHJVLUVkM/CQqi4XEQuRo6rUifAqUOQ9aFtSOTO+J1gA3d3dAGeA54N+J3MqAQANofDAsEk+Djgi8gZwHKgXkQNADcZsFuFeYHThA8XFxRO4UnVR1VYRWQxsAz64nohQ+CTASe8ag2CVbaHsZuwmr85IJCzccqSQChCj54E+4JmA3z/phrlhqGwFguNmS8Rn5Y8PTQnounIljvs0ywTdcrO5g46dB7zGxCNugdhpBXR0dAB87w13BBxnml0SVlc5PkTeByYW20WgpqZmcgEe6r27X4T0/XMSVJSXW6rsBaZ6e/bVrq70Aoyan4EuVbWAp240+doqv3Vb1pw9wM5xSx3A6Iylc27Pzk4rIPHLuThwXEQAtgb8Ttp+P4KgY2cnVQ8Cz45bOiTgAM+NmstRZVFaAWG3SRweCRZ4NF3iasch6HdsRFoYG9cDbM9QHj7RHOpF9Wvc0wWACKVpBQCgehwY9EZP3m/bY2KqqqoI+p0SSzgINEKKsA94BSi7q7Doox9CIQPQEAr3A8dcagUoGc034bzHksm+TJ+vHrfXlw5bYgPNAb+dJcg61DwBbPLER4EG4DvgSHtr29W/4pP60C+BOq+0d1dUVNDW1ja5AGMU4AtPAMDeoN/pwW2rUeA08AjQatRE9fc/Ek09PZMlTUGVY+J6iRygYCQ5pHHFAcfOE5FOXPczHglcUzKA63p6vXsP0CPQqXBekXBjc3PqdQT9zqequk1ETi+bN1Rx4JvTQBpDEu2+3Itbz17c/RDzrj6g30vY54kY8OZ6cZNfEKGDxPD4z/pBrwR550cdzLT/C+bPn0/p4sW+JOrD87Q+yzJqkqY/NmSS8bjJLyoiEomwZMkS2tvbuXgxrU0k4Pf7BD0H5EvS5J5oaUlMKeDfQNDv7AL2qGphYyjcA9N2xbcGVf0YiIlQMDL3nwpoDIW7gc9B/h8BHvbDNUt/a8bjJqBGzyLERsb/AKulzmJdLC+gAAAAAElFTkSuQmCC&logoColor=ffffff)](https://www.cnblogs.com/yaoqs)
+[![开源中国](https://img.shields.io/badge/OSChina-yaoqs-ffffff?style=flat-square&logo=data:image/png;base64,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&logoColor=green)](https://my.oschina.net/yaoqs)
+[![greasyfork](https://img.shields.io/badge/Greasy_Fork-ffffff?style=flat-square&logoColor=black&logo=data:image/png;base64,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)](https://greasyfork.org/zh-CN/users/806993-lordyao)
 
-[![华为开源平台](https://img.shields.io/badge/华为开源平台-ffffff?style=flat-square&logo=Huawei&logoColor=black)](https://code.opensource.huaweicloud.com/home)
+[![华为开源平台](https://img.shields.io/badge/华为开源平台-ffffff?style=flat-square&logo=Huawei&logoColor=red)](https://code.opensource.huaweicloud.com/home)
 
 #### 学术/scholar
 <a id="markdown-%E5%AD%A6%E6%9C%AF%2Fscholar" name="%E5%AD%A6%E6%9C%AF%2Fscholar"></a>
 
+
+- [orcid](https://orcid.org/)
+- [cns学术导航](https://cnspub.com/)
+- [知网个性化首页](https://kns.cnki.net/kns8)
+- a[rxiv](https://arxiv.org/)  is a free distribution service and an open-access archive
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-Qingsheng_Yao-ffffff?style=flat-square&logo=researchgate&logoColor=ffffff)](https://www.researchgate.net/profile/Qingsheng_Yao)
+- [![scholarmate](https://img.shields.io/badge/scholarmate-yaoqs-ffffff?style=flat-square)](https://www.scholarmate.com/P/yaoqs)
+- [academia](https://www.academia.edu/)
+- [oclc](https://www.oclc.org/)
+
 #### 社交/social intercourse
 <a id="markdown-%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse" name="%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse"></a>
 
-[![@lordyao](https://img.shields.io/badge/@lordyao-ffffff?style=flat-square&logo=Sinaweibo&logoColor=ff0000)](http://weibo.com/lordyao)
-![Blog](https://img.shields.io/badge/Blog-00a1d6?style=flat-square&logo=Wordpress&logoColor=ffffff)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/1935484)
-[![twitter](https://img.shields.io/badge/twitter-00a1d6?style=flat-square&logo=twitter&logoColor=ffffff)](http://twitter.com/Lord_Honor_Yao)
-![Zhihu](https://img.shields.io/badge/Zhihu-00a1d6?style=flat-square&logo=Zhihu&logoColor=ffffff)
-![facebook](https://img.shields.io/badge/facebook-00a1d6?style=flat-square&logo=facebook&logoColor=black)
-![instagram](https://img.shields.io/badge/instagram-00a1d6?style=flat-square&logo=instagram&logoColor=black)
-![pinterest](https://img.shields.io/badge/pinterest-00a1d6?style=flat-square&logo=pinterest&logoColor=black)
-![豆瓣](https://img.shields.io/badge/豆瓣-00a1d6?style=flat-square&logo=douban&logoColor=black)
-![linkin](https://img.shields.io/badge/linkin-00a1d6?style=flat-square&logo=Linkin&logoColor=black)
+
+- [![@lordyao](https://img.shields.io/badge/weibo-@lordyao-ffffff?style=flat-square&logo=Sinaweibo&logoColor=red)](https://weibo.com/lordyao)
+- [![Bilibili](https://img.shields.io/badge/Bilibili-ffffff?style=flat-square&logo=Bilibili&logoColor=darkpink)](https://space.bilibili.com/1935484)
+- [![twitter](https://img.shields.io/badge/twitter-ffffff?style=flat-square&logo=twitter&logoColor=lightblue)](https://twitter.com/Lord_Honor_Yao)
+- [![Zhihu](https://img.shields.io/badge/Zhihu-ffffff?style=flat-square&logo=Zhihu&logoColor=blue)](https://www.zhihu.com)
+- [![facebook](https://img.shields.io/badge/facebook-ffffff?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com)
+- [![instagram](https://img.shields.io/badge/instagram-ffffff?style=flat-square&logo=instagram&logoColor=rose)](https://www.instagram.com/)
+- [![pinterest](https://img.shields.io/badge/pinterest-ffffff?style=flat-square&logo=pinterest&logoColor=red)](https://www.pinterest.com/)
+- [![豆瓣](https://img.shields.io/badge/豆瓣-ffffff?style=flat-square&logo=douban&logoColor=darkgreen)](https://www.douban.com/)
+- [![linkedin](https://img.shields.io/badge/linkedin-ffffff?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.cn/)
+- [![tiktok](https://img.shields.io/badge/tiktok-ffffff?style=flat-square&logo=tiktok&logoColor=black)](https://www.tiktok.com/@lord_honor_yao)
+- [![douyin](https://img.shields.io/badge/douyin-ffffff?style=flat-square&logo=tiktok&logoColor=black)](https://www.douyin.com/)
 
 ### [主题页](https://yaoqs.github.io/Feature)
 <a id="markdown-%E4%B8%BB%E9%A2%98%E9%A1%B5" name="%E4%B8%BB%E9%A2%98%E9%A1%B5"></a>
@@ -228,6 +248,7 @@
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [互联网上的免费书籍](https://github.com/ruanyf/free-books) - 阮一峰
 - [浅墨的部落格](https://www.0xffffff.org/)
+- [HelloGitHub](https://hellogithub.com/)
 
 ### Code
 <a id="markdown-code" name="code"></a>
@@ -262,13 +283,15 @@
 - [百度智能云](https://cloud.baidu.com/)
 - [金山云](https://www.ksyun.com/)
 - [AZure](https://www.azure.cn/)
-- 亚马逊云
+- [亚马逊云](https://aws.amazon.com/)
+- [vultr](https://www.vultr.com/)
 
 ### 网盘
 <a id="markdown-%E7%BD%91%E7%9B%98" name="%E7%BD%91%E7%9B%98"></a>
 
 
 - [alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)
+- AlistHelper
 - [百度网盘](https://pan.baidu.com)
 - [115](https://115.com/)
 - [阿里云盘](https://www.aliyundrive.com/)
@@ -277,6 +300,7 @@
 - [迅雷云盘](https://pan.xunlei.com)
 - [新浪爱问](http://ishare.iask.sina.com.cn/)
 - 夸克网盘
+- [Webd](https://www.iplaysoft.com/webd.html) 是一款免费且极其轻量化的自建网盘工具！它的服务端仅 60+KB (不同系统有差异)，且无需安装任何依赖，不仅速度极快、资源占用也极低，堪称最小巧的 WEB 文件服务器程序。你可以借助 Webd 快速搭建文件下载网站 (将文件夹一键变成网盘网页)，使用任何浏览器都能进行查看、上传或下载文件，而且 webd 还支持用户权限管理，支持设置密码下载等功能。同时，它还跨平台支持 Windows、Linux，甚至还支持 OpenWRT (路由器)、Android 等设备…… <https://webd.cf/>
 
 ### 开源镜像
 <a id="markdown-%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F" name="%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F"></a>
@@ -294,6 +318,23 @@
 - [南京大学](https://mirrors.nju.edu.cn/)
 - [上海交通大学](http://ftp.sjtu.edu.cn/)
 - [西安交通大学](http://mirrors.xjtu.edu.cn/)
+
+### 大模型/GPT
+<a id="markdown-%E5%A4%A7%E6%A8%A1%E5%9E%8B%2Fgpt" name="%E5%A4%A7%E6%A8%A1%E5%9E%8B%2Fgpt"></a>
+
+- ChatGPT
+- Google bard
+- [Llama 2](https://ai.meta.com/llama/)The next generation of our open source large language model
+- [nVidia llama2](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/playground/models/llama2)
+- [讯飞开放平台](https://www.xfyun.cn/)
+- [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)
+- 百度文心一言
+
+### 域名
+<a id="markdown-%E5%9F%9F%E5%90%8D" name="%E5%9F%9F%E5%90%8D"></a>
+
+
+- 搬瓦工
 
 ### CDN
 <a id="markdown-cdn" name="cdn"></a>
@@ -335,7 +376,7 @@
 - [卫报](https://www.theguardian.com/)
 - [路透社](https://www.reuters.com/) 需要科学上网技能
 - [BBC](https://www.bbc.com/) 需要科学上网技能
-- [discovery](https://www.discovery.com/)
+- [Discovery](https://www.discovery.com/)
 - [国家地理](https://www.nationalgeographic.com/)
 - [FT中文](http://www.ftchinese.com)
 - [hehonghui /the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
@@ -389,7 +430,6 @@
 - [教育部教育考试院 雅思报名网站](https://ielts.neea.edu.cn/)
 - [可可英语](http://www.kekenet.com/)-英语口语/英语听力/英语四级/英文歌曲/英语学习/英语听力下载
 - 雅思A类留学深造,雅思G类移民工作,[开源雅思](https://www.ieltsday.com/)-专注雅思A类与雅思G类的学习资源分享,涵盖听说读写各模块层级海量话题库、真题库、资料库!
-
 
 ### 考试
 <a id="markdown-%E8%80%83%E8%AF%95" name="%E8%80%83%E8%AF%95"></a>
@@ -617,6 +657,7 @@
 - [RARBT_bt电影_bt种子_电影下载 - RARBT中文字幕电影天堂](http://rarbt.cc/)
 - [豌豆pro](https://wandou.pro/)
 - [电影港](https://www.dygang.tv/)
+- [电影天堂](https://www.dygod.net/)
 
 ### 美剧
 <a id="markdown-%E7%BE%8E%E5%89%A7" name="%E7%BE%8E%E5%89%A7"></a>
@@ -664,6 +705,13 @@
   - <http://www.diaosisou.cc/>
 - ~~[BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)~~
 - [爱问共享资料_在线资料分享平台](http://ishare.iask.sina.com.cn/)
+
+#### 0day
+<a id="markdown-day" name="day"></a>
+
+
+- <www.0daymusic.biz>
+- W0day.org
 
 ### ed2k
 <a id="markdown-ed2k" name="ed2k"></a>
@@ -802,6 +850,7 @@
 - [MAC萌新网](https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
 - [小众软件](https://www.appinn.com/)
 - [异次元软件世界](https://www.iplaysoft.com)
+- [果核剥壳](https://www.ghxi.com/)
 - [大眼仔](http://www.dayanzai.me/)  - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享
 - [乐软博客](https://www.isharepc.com/)
 - [ITellYou](https://msdn.itellyou.cn/) 微软家软件非官方可信任下载站 <https://msdn.itellyou.cn/>  新版<https://next.itellyou.cn/>
@@ -819,6 +868,7 @@
 
 
 - [帮小忙, 万能工具宝藏](https://tool.browser.qq.com/) 腾讯出品，轻松办公，工具助你一臂之力。功能一应俱全、简单好用的线上工具宝
+- [Handy toolts for developers](https://oschina.com/)
 - [JSON在线 - JSON解析格式化—SO JSON在线] (<https://www.sojson.com/>)
 - [菜鸟工具 - 不止于工具] (<https://c.runoob.com/>)
 - [站长工具 - 站长之家] (<http://tool.chinaz.com/>)
@@ -830,6 +880,8 @@
 - Json在线解析验证： <https://www.json.cn/>
 - 在线接口测试（Getman）：<https://getman.cn/>
 - [SDK网址导航](https://hao.sdk.cn/) SDK导航收录国内外、各行业优秀网站，为用户提供网站分类目录检索、优秀网站参考、网站推广服务
+- [Base64 Image Encoder](https://elmah.io/tools/base64-image-encoder/): Convert any image file or URL to Base64 online
+- html2markdown
 
 ### API接口
 <a id="markdown-api%E6%8E%A5%E5%8F%A3" name="api%E6%8E%A5%E5%8F%A3"></a>
@@ -858,6 +910,7 @@
 - NasmIDE
 - SourceTree
 - mingw64
+- [deepin-ide](https://github.com/linuxdeepin/deepin-unioncode) [github](https://github.com/linuxdeepin)
 
 ### 下载网站
 <a id="markdown-%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99" name="%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99"></a>
@@ -877,6 +930,11 @@
 - [FireFox Send](https://send.firefox.com/) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间)
 - [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/) 免费發送大宗文件-安全文件傳輸
 - [微信文件传输助手](https://szfilehelper.weixin.qq.com/)
+
+### 图床
+<a id="markdown-%E5%9B%BE%E5%BA%8A" name="%E5%9B%BE%E5%BA%8A"></a>
+
+- <https://www.rmdown.com/>
 
 ### 效率软件
 <a id="markdown-%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6" name="%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6"></a>
@@ -934,6 +992,9 @@
   - [cpolar极点云](https://www.cpolar.com/): 公开一个本地Web站点至公网。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。
   - [nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. [基本使用](https://ehang-io.github.io/nps/#/use)
   - [网云穿](https://www.xiaomy.net) [稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html)
+
+- 手机调试
+  - [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
 
 - 网络相关工具
   - [PE Network Manager](https://www.penetworkmanager.de/)
@@ -1009,8 +1070,9 @@
   - [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
   - FileGee
   - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
-  - [FreeFilesSync](https://freefilesync.org/)  数据安全备份，镜像，增量同步。强烈推荐！！！
+  - [FreeFilesSync](https://freefilesync.org/)  数据安全备份，镜像，增量同步。
   - [Quicker](https://getquicker.net/) 您的指尖工具箱
+  - [DevToys](https://devtoys.app/) Swiss Army knife for developers.An offline Windows app that helps developers in daily tasks.[github](https://github.com/veler/DevToys)  28+ tools are available, including:Json to Yaml and Yaml to Json converter;    Base64 Text & Image converter;    JWT encoder and decoder;    Text comparer;    Hash generator
   - [He3](https://he3.app) 是一个包含近 400 种工具的终极开发者工具箱，涵盖了前后端开发者的日常所需。[异次元推荐](https://www.iplaysoft.com/he3.html) [He3 On Github](https://github.com/he3-app)
   - [uTools](https://www.u-tools.cn/) - [让你效率倍增的快速启动软件 / 强大小工具合集 (插件功能扩展)](https://www.iplaysoft.com/utools.html)，是一款极简、插件化、跨平台、现代化的桌面增强效率软件，它为用户提供了一个可以随时呼出的“看似简单”的输入框 (搜索框)，但这个输入框却蕴含了近乎“无限”的能力
   - 微软 PowerToys 小工具合集 - [免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) [Powertoys on Github](https://github.com/microsoft/PowerToys)
@@ -1139,6 +1201,10 @@
 
 - 科研
   - [matlab](https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
+  - [GNU Octave](https://octave.org/)Scientific Programming Language：The Octave syntax is largely compatible with Matlab. The Octave interpreter can be run in GUI mode, as a console, or invoked as part of a shell script.
+    - Powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools
+    - Free software, runs on GNU/Linux, macOS, BSD, and Microsoft Windows
+    - Drop-in compatible with many Matlab scripts
   - [Wolfram-Alpha: Computational Intelligence](https://www.wolframalpha.com/) Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
   - [Julia](https://julialang.org/) is a high-level, high-performance dynamic language for technical computing. The main homepage for Julia can be found at julialang.org.
   - [cnki E-study](http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。
@@ -1179,18 +1245,19 @@
   - EasyBCD
 - 操作系统
   - Tiny11 - [极限精简的 Windows 11 系统镜像！支持苹果 M 芯片 Mac 安装 (ARM 精简版)](https://www.iplaysoft.com/tiny11.html)
+  - Tiny10 (23H1) - [极限精简版 Windows 10 系统镜像下载 / 支持安装中文语言](https://www.iplaysoft.com/tiny10.html)
   - [AtlasOS](https://github.com/Atlas-OS) is a Windows version designed for gamers. [Atlas](https://atlasos.net/) users can enjoy higher framerate, lowered input delay & latency. Great for people on both low-end system and high-end gaming machine.[专为游戏优化的高性能 Win10 精简版定制开源系统 (比 LTSC 更好用)](https://www.iplaysoft.com/atlasos.html)
   - [ReviOS](https://www.revi.cc/) - [专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 (类似 Atlas / LTSC)](https://www.iplaysoft.com/revios.html) 内置了一个专用的系统优化工具，能方便地一键开启关闭一些系统功能，同时也极其注重隐私的保护，下载和设置中文界面也没任何障碍，因此它是目前相当值得推荐的一款优化精简定制版系统。如果你使用 AtlasOS 过于激进，或者需要 Win11 的精简版，那么就试试它吧
   - [Operating System From Scratch](https://github.com/yyu/osfs00) : learn OS by practice
 - PE
   - WePE64
-  - [微PE工具箱](https://www.wepe.com.cn/) - 超好用的WinPE装机维护工具
+  - [微PE工具箱](https://www.wepe.com.cn/) - 超好用的WinPE装机维护工具，[大家都说好用的纯净 WinPE 启动盘/ U盘重装系统工具](https://www.iplaysoft.com/wepe.html)
 - U盘启动
   - [Ventoy](https://www.ventoy.net/) 多合一启动盘制作工具神器:
     Ventoy 是一款开源免费的多合一系统安装盘/启动盘制作工具，支持 Windows 家族与 Linux 几乎所有主流发行版。它最大的好处在于，你可以在 1 个 U 盘里集成 N 多款不同类型的操作系统安装盘 (比如 Windows、WinPE、Linux)，可引导启动，并通过菜单来选择安装。
-  - rufus
+  - [rufus](https://rufus.ie/) [中文绿色版 - 简单快速制作 USB 启动盘软件 (U盘安装 Windows / Linux 系统)](https://www.iplaysoft.com/rufus.html) 是一个开源免费的快速制作 U 盘系统启动盘和格式化 USB 的实用小工具，它可以快速把 ISO 格式的系统镜像文件快速制作成可引导的 USB 启动安装盘，支持 Windows 或 Linux 启动。Rufus 小巧玲珑，软件体积仅几百多 KB，然而麻雀虽小，它却五脏俱全，而且速度极快……它的特点就是速度极快且兼容性极佳！根官方宣称，Rufus 在制作 USB 启动盘时速度相比同类软件 微软 Win11 媒体创建工具、 Win7 USB Download tool、UNetbootin、Universal USB Installer 等大约能快2倍，绝对给力！而且它对各种主流操作系统的兼容性极佳！是无制作各种系统的 U 盘启动盘工具首选。而且，Rufus 完全免费开源，支持中文，官方还提供了经过微软数字签名的「绿色版」，可以不需要安装直接点开即用，非常方便。同时，它之所以广受推荐，还因为它专门针对热门的 Windows 11 等系统加入“跳过 TPM 检测、移除安全启动限制”之类的人性化增强选项。
   - [Free Open Source Windows Boot Software](https://sourceforge.net/directory/system-administration/boot/os:windows/)
-  - [优启通](https://www.itsk.com/thread-416335-1-1.html?utm_source=iplaysoft.com&hmsr=iplaysoft.com) EasyU - 好用无广告纯净版 WinPE 系统启动盘 / U盘重装系统工具
+  - [优启通 EasyU](https://www.itsk.com/thread-416335-1-1.html) - [好用无广告纯净版 WinPE 系统启动盘 / U盘重装系统工具](https://www.iplaysoft.com/easyu.html)
 - U盘加密工具
   - [usbdriveinfo](http://www.antspec.com/usbflashinfo/f/38B8C713-A7B4-416C-8F29-937724764216/usbdriveinfo.zip) <http://www.antspec.com/usbflashinfo/>
   - 通用加密软件
