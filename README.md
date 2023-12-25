@@ -291,7 +291,7 @@
 
 
 - [alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)
-- AlistHelper
+- [AlistHelper](https://github.com/Xmarmalade/alisthelper) is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [百度网盘](https://pan.baidu.com)
 - [115](https://115.com/)
 - [阿里云盘](https://www.aliyundrive.com/)
@@ -299,7 +299,8 @@
 - [天翼云盘](https://cloud.189.cn)
 - [迅雷云盘](https://pan.xunlei.com)
 - [新浪爱问](http://ishare.iask.sina.com.cn/)
-- 夸克网盘
+- [夸克网盘](https://pan.quark.cn/)
+- [腾讯微云](https://www.weiyun.com/)
 - [Webd](https://www.iplaysoft.com/webd.html) 是一款免费且极其轻量化的自建网盘工具！它的服务端仅 60+KB (不同系统有差异)，且无需安装任何依赖，不仅速度极快、资源占用也极低，堪称最小巧的 WEB 文件服务器程序。你可以借助 Webd 快速搭建文件下载网站 (将文件夹一键变成网盘网页)，使用任何浏览器都能进行查看、上传或下载文件，而且 webd 还支持用户权限管理，支持设置密码下载等功能。同时，它还跨平台支持 Windows、Linux，甚至还支持 OpenWRT (路由器)、Android 等设备…… <https://webd.cf/>
 
 ### 开源镜像
@@ -988,10 +989,13 @@
   - [AVNC](https://github.com/gujjwal00/avnc) is a VNC client for Android.
 - 内网穿透
   - [花生壳](https://hsk.oray.com/) [快速入门](https://service.oray.com/category/192_1.html)
-  - [openfrp](https://www.openfrp.net/) 开放映射 免费、高效、便捷
-  - [cpolar极点云](https://www.cpolar.com/): 公开一个本地Web站点至公网。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。
-  - [nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. [基本使用](https://ehang-io.github.io/nps/#/use)
-  - [网云穿](https://www.xiaomy.net) [稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html)
+  - ~~[openfrp](https://www.openfrp.net/) 开放映射 免费、高效、便捷~~
+  - ~~[cpolar极点云](https://www.cpolar.com/): 公开一个本地Web站点至公网。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。~~
+  - ~~[nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. [基本使用](https://ehang-io.github.io/nps/#/use)~~
+  - ~~[网云穿](https://www.xiaomy.net) [稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html)~~
+  - [WireGuard](https://github.com/WireGuard) [被Linux创始人称做艺术品的组网神器——WireGuard](https://zhuanlan.zhihu.com/p/447375895);通过WireGuard搭建隧道实现内网穿透
+  - [NetBird](https://netbird.io/) 是一个建立在WireGuard之上的开源网络管理平台，它允许计算机、设备和服务器通过快速加密隧道直接连接，无需配置或中央VPN服务器。它使专用网络变得安全，并创建了一个专用网络，在没有手动配置和专家的情况下应用安全实践。NetBird网络普遍适用于云、本地、边缘和容器环境，省去了打开端口、复杂防火墙规则和VPN网关的麻烦。NetBird 没有集中式 VPN 服务器，您的计算机、设备、机器和服务器直接通过快速加密隧道相互连接。NetBird只需点击几下即可连接在任何地方运行的机器。使用NetBird部署安全的点对点VPN只需不到5分钟。它与 Tailscale 很像，但是区别也比较明显。Tailscale 是在用户态实现了 WireGuard 协议，无法使用 WireGuard 原生的命令行工具来进行管理。而 NetBird 直接使用了内核态的 WireGuard，可以使用命令行工具 wg 来查看和管理。<https://github.com/netbirdio/netbird>:Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  - [Netmaker](https://github.com/gravitl/netmaker) 是一个用来配置 WireGuard 全互联模式的可视化工具，它的功能非常强大，不仅支持 UDP 打洞、NAT 穿透、多租户，还可以使用 Kubernetes 配置清单来部署，客户端几乎适配了所有平台，包括 Linux, Mac 和 Windows，还可以通过 WireGuard 原生客户端连接 iPhone 和 Android。Netmaker 使用的是 C/S 架构，即客户端/服务器架构。Netmaker Server 包含两个核心组件：用来管理网络的可视化界面，以及与客户端通信的 gRPC Server。你也可以可以选择部署DNS服务器（CoreDNS）来管理私有DNS。客户端（netclient）是一个二进制文件，可以在绝大多数 Linux 客户端以及 macOS 和 Windows 客户端运行，它的功能就是自动管理 WireGuard，动态更新 Peer 的配置。<https://github.com/gravitl/netmaker>:Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
 - 手机调试
   - [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
