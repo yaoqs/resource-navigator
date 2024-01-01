@@ -11,7 +11,7 @@
 
 
 - 版权声明：Copyright © 2021-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
-- 来源：网络及个人搜集及整理
+- 来源：网络及个人搜集及整理，瓜不保熟
 - [![GitHub license](https://badgen.net/github/license/yaoqs/resource-navigator)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/resource-navigator.svg)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <350788415@qq.com>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
@@ -35,11 +35,12 @@
     - [Code](#code)
     - [代码仓](#代码仓)
     - [云服务](#云服务)
+    - [Cloud Operating System](#cloud-operating-system)
+    - [域名](#域名)
+    - [CDN](#cdn)
     - [网盘](#网盘)
     - [开源镜像](#开源镜像)
     - [大模型/GPT](#大模型gpt)
-    - [域名](#域名)
-    - [CDN](#cdn)
   - [哲学](#哲学)
   - [English news](#english-news)
     - [technews](#technews)
@@ -61,7 +62,7 @@
     - [天气预报](#天气预报)
   - [影视资源网站](#影视资源网站)
     - [综合](#综合)
-    - [music](#music)
+    - [music/音乐](#music音乐)
     - [壁纸/wallpaper](#壁纸wallpaper)
     - [高清下载](#高清下载)
     - [美剧](#美剧)
@@ -86,9 +87,12 @@
     - [文件传送](#文件传送)
     - [图床](#图床)
     - [效率软件](#效率软件)
+  - [百科](#百科)
+    - [地理](#地理)
+    - [博物馆](#博物馆)
 
 <!-- /TOC -->
-<!-- /TOC -->
+
 ## Lord Yao
 <a id="markdown-lord-yao" name="lord-yao"></a>
 
@@ -286,11 +290,42 @@
 - [亚马逊云](https://aws.amazon.com/)
 - [vultr](https://www.vultr.com/)
 
+### Cloud Operating System
+<a id="markdown-cloud-operating-system" name="cloud-operating-system"></a>
+
+- [SealOS](https://sealos.io/) Kubernetes as the kernel Cloud Operating System.Abstracting the entire data center as a singular server, where everything is an application. You can use Sealos as seamlessly as operating a personal computer.
+- [sealos国内网站](https://sealos.run/)以 Kubernetes 为内核的云操作系统: Sealos。整个数据中心抽象成一台服务器，一切皆应用，像使用个人电脑一样使用 Sealos！
+
+### 域名
+<a id="markdown-%E5%9F%9F%E5%90%8D" name="%E5%9F%9F%E5%90%8D"></a>
+
+- 国内
+  - [阿里云DNS](https://www.aliyun.com/product/dns) 是阿里云提供的全系列域名解析服务产品总称。不同于传统的 DNS 只覆盖单一环境，阿里云 DNS 产品覆盖了公网域名解析、VPC 内网域名解析、移动解析以及专有云的域名解析场景。为广大用户提供稳定、安全、快速、智能的一站式域名解析服务。
+  - [腾讯云](https://cloud.tencent.com/product/dns) 云解析 DNS 提供快速、稳定且高可用的 DNS 解析服务，支持智能解析、流量调度、安全防护。
+  - [西部数码](https://www.west.cn/)
+- 国外
+  - namesilo
+  - [GoDaddy](https://www.godaddy.com/) [中文官网](https://hk.godaddy.com/)
+  - google
+  - [Amazon](https://aws.amazon.com/cn/route53/) Amazon Route 53 是一种可用性高、可扩展性强的域名系统（DNS）Web 服务。Route 53 将用户请求连接到 AWS 上或本地运行的互联网应用程序。
+  - [Vultr](https://www.vultr.com/) SSD VPS Servers, Cloud Servers and Cloud Hosting
+  - [BanwagonHOST](https://bandwagonhost.com/)
+  - [搬瓦工 中文](https://www.cn-bwg.com/) BanwagonHOST（国内用户常称为“搬瓦工”）是一家隶属于加拿大 IT7 Networks 公司旗下的子公司。BanwagonHOST（中国官网）是BanwagonHOST中国区直营官网。
+  - [clouDNS](https://www.cloudns.net/) Free DNS hosting, Cloud DNS hosting and Domain names. provides fast and secure Free DNS Hosting & Premium DNS Hosting with Global Anycast DNS Network.免费DNS托管，Cloud DNS托管和域名。用于动态DNS的永久免费DNS托管。使用AnycastDNS, 抗攻击DNS 与 GeoDNS 管理的DNS
+
+### CDN
+<a id="markdown-cdn" name="cdn"></a>
+
+
+- [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
+- [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
+- [staticfile.org](https://www.staticfile.org/)
+
 ### 网盘
 <a id="markdown-%E7%BD%91%E7%9B%98" name="%E7%BD%91%E7%9B%98"></a>
 
 
-- [alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)
+- **[alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)**
 - [AlistHelper](https://github.com/Xmarmalade/alisthelper) is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [百度网盘](https://pan.baidu.com)
 - [115](https://115.com/)
@@ -301,7 +336,7 @@
 - [新浪爱问](http://ishare.iask.sina.com.cn/)
 - [夸克网盘](https://pan.quark.cn/)
 - [腾讯微云](https://www.weiyun.com/)
-- [Webd](https://www.iplaysoft.com/webd.html) 是一款免费且极其轻量化的自建网盘工具！它的服务端仅 60+KB (不同系统有差异)，且无需安装任何依赖，不仅速度极快、资源占用也极低，堪称最小巧的 WEB 文件服务器程序。你可以借助 Webd 快速搭建文件下载网站 (将文件夹一键变成网盘网页)，使用任何浏览器都能进行查看、上传或下载文件，而且 webd 还支持用户权限管理，支持设置密码下载等功能。同时，它还跨平台支持 Windows、Linux，甚至还支持 OpenWRT (路由器)、Android 等设备…… <https://webd.cf/>
+- *[Webd](https://www.iplaysoft.com/webd.html) 是一款免费且极其轻量化的自建网盘工具！它的服务端仅 60+KB (不同系统有差异)，且无需安装任何依赖，不仅速度极快、资源占用也极低，堪称最小巧的 WEB 文件服务器程序。你可以借助 Webd 快速搭建文件下载网站 (将文件夹一键变成网盘网页)，使用任何浏览器都能进行查看、上传或下载文件，而且 webd 还支持用户权限管理，支持设置密码下载等功能。同时，它还跨平台支持 Windows、Linux，甚至还支持 OpenWRT (路由器)、Android 等设备…… <https://webd.cf/>*
 
 ### 开源镜像
 <a id="markdown-%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F" name="%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F"></a>
@@ -323,6 +358,7 @@
 ### 大模型/GPT
 <a id="markdown-%E5%A4%A7%E6%A8%A1%E5%9E%8B%2Fgpt" name="%E5%A4%A7%E6%A8%A1%E5%9E%8B%2Fgpt"></a>
 
+
 - ChatGPT
 - Google bard
 - [Llama 2](https://ai.meta.com/llama/)The next generation of our open source large language model
@@ -330,20 +366,6 @@
 - [讯飞开放平台](https://www.xfyun.cn/)
 - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)
 - 百度文心一言
-
-### 域名
-<a id="markdown-%E5%9F%9F%E5%90%8D" name="%E5%9F%9F%E5%90%8D"></a>
-
-
-- 搬瓦工
-
-### CDN
-<a id="markdown-cdn" name="cdn"></a>
-
-
-- [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
-- [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
-- [staticfile.org](https://www.staticfile.org/)
 
 ## 哲学
 <a id="markdown-%E5%93%B2%E5%AD%A6" name="%E5%93%B2%E5%AD%A6"></a>
@@ -416,12 +438,88 @@
 - [MIT OpenCourseWare / Free Online Course Materials](https://ocw.mit.edu)
 - [可汗学院 - 免费在线课程, 讲解以及练习](https://zh.khanacademy.org/) [Khan Academy](https://www.khanacademy.org/)
 - [edX - Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+  - edX在每个课程视频下面提供了下载链接，注册课程后学习的时候可以看到。
 - [大蕃薯视频教程均可在线观看,分享知识，分享精品课程、教学视频、视频资源的网站](http://www.da-fan-shu.cn/)
 - [网易云课堂 - 我的职业课堂](https://study.163.com/)
 - [网易公开课](http://open.163.com/)
 - [新浪公开课_新浪教育_新浪网](http://open.sina.com.cn/)
 - [Microsoft Learn / Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/)
 - [coursera](https://www.coursera.org/)
+  - Coursera官方推荐的公开课批量下载工具：[Coursera Downloader](https://github.com/jplehmann/coursera)，Python开源工具包 — This script makes it easier to batch download lecture resources (e.g., videos, ppt, etc) for Coursera classes.
+  - 国内 [@郭宽Oct](http://weibo.com/royguo1988) 同学写得下载脚本 [CourseraDownloader](https://github.com/royguo/CourseraDownloader)，简单、方便、好用
+  - Coursera上多伦多大学的[统计学公开课（Statistics: Making Sense of Data）](http://coursegraph.com/statistics-making-sense-of-data-coursera-introstats-university-of-toronto)
+  - Coursera上杜克大学的“[Image and video processing: From Mars to Hollywood with a stop at the hospital](http://coursegraph.com/image-and-video-processing-from-mars-to-hollywood-with-a-stop-at-the-hospital-coursera-images-duke-university)”
+- [我爱公开课](https://52opencourse.com/)
+- [公开课可下载资源汇总](https://blog.coursegraph.com/%E5%85%AC%E5%BC%80%E8%AF%BE%E5%8F%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB)
+  - Coursera上Andrew Ng老师的”[机器学习公开课(Machine Learning)](http://coursegraph.com/coursera_ml)”
+  - Coursera上Geoffrey Hinton大牛的“[Neural Networks for Machine Learning（面向机器学习的神经网络）](http://coursegraph.com/coursera_neuralnets)”公开课，老头子去了Google，这门deep learnig必修课程有可能不再开了
+  - Coursera上Daphne Koller教授的“[概率图模型公开课（Probabilistic Graphical Models）](http://coursegraph.com/probabilistic-graphical-models-coursera-pgm-stanford-university)”
+  - Coursera上Michael Collins大神在“[自然语言处理公开课(Natural Language Processing)](http://coursegraph.com/natural-language-processing-coursera-nlangp-columbia-university)”
+  - Coursera上Sedgewick教授的两门算法课：[Algorithms, Part I](http://coursegraph.com/algorithms-part-i-coursera-algs4parti-princeton-university) 和 [Algorithms, Part II](http://coursegraph.com/algorithms-part-ii-coursera-algs4partii-princeton-university)
+  - [2012年龙星计划-机器学习课件](http://52opencourse.com/300/2012%E5%B9%B4%E9%BE%99%E6%98%9F%E8%AE%A1%E5%88%92-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E4%BB%B6)
+  - Udacity官方提供了几乎所有课程的打包下载链接，具体见这个页面：[https://www.udacity.com/wiki/downloads](https://www.udacity.com/wiki/downloads)
+    - [CS101](http://www.udacity.com/wiki/CS101_downloads?course=cs101) – Intro to Computer Science: Building a Search Engine
+    - [CS212](http://www.udacity.com/wiki/CS212_downloads?course=cs212) – Design of Computer Programs: Programming Principles
+    - [CS215](http://www.udacity.com/wiki/CS215_downloads?course=cs215) – Algorithms: Crunching Social Networks
+    - [CS222](http://www.udacity.com/wiki/CS222_downloads?course=cs222) – Differential Equations: Making Math Matter
+    - [CS253](http://www.udacity.com/wiki/CS253_downloads?course=cs253) – Web Application Engineering: How to Build a Blog
+    - [CS255](http://www.udacity.com/wiki/CS255/downloads) – HTML5 Game Development: Building High Performance Web Applications
+    - [CS259](http://www.udacity.com/wiki/CS259_downloads?course=cs259) – Software Debugging: Automating the Boring Tasks
+    - [CS262](http://www.udacity.com/wiki/CS262_downloads?course=cs262) – Programming Languages: Building a Web Browser
+    - [CS271](http://www.udacity.com/wiki/CS271_downloads?course=cs271) – Introduction to Artificial Intelligence
+    - [CS291](https://www.udacity.com/wiki/cs291/downloads) – Interactive 3D Graphics: Creating Virtual Worlds
+    - [CS313](http://www.udacity.com/wiki/CS313_downloads?course=cs313) – Introduction to Theoretical Computer Science
+    - [CS344](http://www.udacity.com/wiki/CS344/downloads) – Intro To Parallel Programming: Using CUDA to Harness the Power of GPUs
+    - [CS373](http://www.udacity.com/wiki/CS373_downloads?course=cs373) – Artificial Intelligence for Robotics
+    - [CS387](http://www.udacity.com/wiki/CS387_downloads?course=cs387) – Applied Cryptography: The Science of Secrets
+    - [CS046](https://www.udacity.com/wiki/cs046/downloads) – Introduction to Programming
+    - [PH100](http://www.udacity.com/wiki/PH100_downloads?course=ph100) – Intro to Physics: Landmarks in Physics
+    - [ST101](http://www.udacity.com/wiki/ST101_downloads?course=st101) – Intro to Statistics: Making Decisions Based on Data
+    - [EP245](http://www.udacity.com/wiki/EP245_downloads?course=ep245) – How to Build a Startup: The Lean LaunchPad
+    - [MA006](http://www.udacity.com/wiki/MA006/downloads) – Visualizing Algebra: Problems and Patterns
+    - [MA008](http://www.udacity.com/wiki/MA008/downloads) – College Algebra: Animals, Architecture, and Innovation
+    - [ST095](http://www.udacity.com/wiki/ST095/downloads) – Statistics: The Science of Decisions
+    - [PS001](http://www.udacity.com/wiki/ps001/downloads) – Introduction to Psychology: The Science of Thought and Behavior
+    - [CS046](http://www.udacity.com/wiki/cs046/downloads) – Introduction to Programming Java
+- coursegraph
+  - startup-001 创业项目工程 ，[Startup Engineering](http://coursegraph.com/startup-engineering-coursera-startup-stanford-university)
+  - sdn-001 软件定义网络，[Software Defined Network](http://coursegraph.com/software-defined-networking-coursera-sdn-georgia-institute-of-technology)
+  - publicspeak-001 公众演讲，[Introduction to Public Speaking](http://coursegraph.com/introduction-to-public-speaking-coursera-publicspeak-university-of-washington)
+  - ni-001  网络运作，[Networks Illustrated: Principles without Calculus](http://coursegraph.com/networks-illustrated-principles-without-calculus-coursera-ni-princeton-university)
+  - infosec-001  信息安全策略的设计和实施，[Designing and Executing Information Security](http://coursegraph.com/designing-and-executing-information-security-strategies-coursera-infosec-university-of-washington)
+  - inforiskman-003  当前环境下的信息安全和风险管理，[Information Security and Risk Management in Context](http://coursegraph.com/information-security-and-risk-management-in-context-coursera-inforiskman-university-of-washington)
+  - inforisk-002  [Building an Information Risk Management Toolkit](http://coursegraph.com/building-an-information-risk-management-toolkit-coursera-inforisk-university-of-washington) ，信息危机管理工具的建立
+  - hwswinterface-001  [The Hardware/Software Interface](http://coursegraph.com/the-hardware-software-interface-coursera-hwswinterface-university-of-washington)，软硬件接口【CSAPP】
+  - friendsmoneybytes-002  [Networks: Friends, Money, and Bytes](http://coursegraph.com/networks-friends-money-and-bytes-coursera-friendsmoneybytes-princeton-university)
+  - comnetworks-002  [Computer Networks](http://coursegraph.com/computer-networks-coursera-comnetworks-university-of-washington)
+  - bigdata-002  [Web Intelligence and Big Data](http://coursegraph.com/web-intelligence-and-big-data-coursera-bigdata-indian-institute-of-technology-delhi)
+  - Coursera 上的公开课，[吕世浩-中國古代歷史與人物－－秦始皇](http://coursegraph.com/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E6%AD%B7%E5%8F%B2%E8%88%87%E4%BA%BA%E7%89%A9%EF%BC%8D%EF%BC%8D%E7%A7%A6%E5%A7%8B%E7%9A%87-coursera-chinesehistory-national-taiwan-university)
+  - [Stanford – natural language processing](http://coursegraph.com/natural-language-processing-coursera-nlp-stanford-university)
+  - [Washington – Introduction to Computer Networks](http://coursegraph.com/computer-networks-coursera-comnetworks-university-of-washington)
+  - [Washington – The Hardware Software Interface](http://coursegraph.com/the-hardware-software-interface-coursera-hwswinterface-university-of-washington)
+  - [Washington – Computational Neuroscience](http://coursegraph.com/computational-neuroscience-coursera-compneuro-university-of-washington)
+  - [Washington – Scientific Computing](http://coursegraph.com/scientific-computing-coursera-scientificcomp-university-of-washington)
+  - [Duke – Image and video processing From Mars to Hollywood with a stop at the hospital](http://coursegraph.com/image-and-video-processing-from-mars-to-hollywood-with-a-stop-at-the-hospital-coursera-images-duke-university)
+  - [Pennsylvania – An Introduction to Financial Accounting](http://coursegraph.com/an-introduction-to-financial-accounting-coursera-accounting-university-of-pennsylvania)
+  - [Stanford-DB Introduction to Databases](http://coursegraph.com/db-introduction-to-databases-stanford-db-stanford)
+  - Coursera上的[模型思维（Model Thinking）公开课](http://coursegraph.com/model-thinking-coursera-modelthinking-university-of-michigan)
+  - 明尼苏达大学的*[推荐系统公开课: Introduction to Recommender System](http://coursegraph.com/introduction-to-recommender-systems-coursera-recsys-university-of-minnesota)*
+  - [Statistics One（统计学上）](http://coursegraph.com/statistics-one-coursera-stats1-princeton-university)
+  - [Introduction to Philosophy（这些导论）](http://coursegraph.com/introduction-to-philosophy-coursera-introphil-the-university-of-edinburgh)
+  - [Introduction to Genetics and Evoluion(遗传与进化导论)](http://coursegraph.com/introduction-to-genetics-and-evolution-coursera-geneticsevolution-duke-university)
+  - [Introduction to Finance（金融学导论）](http://coursegraph.com/introduction-to-finance-coursera-introfinance-university-of-michigan)
+  - [Introduction to Computational Finance and Financial Econometrics（计算金融学与金融经济计量学导论）](https://blog.coursegraph.com/Introduction%20to%20Computational%20Finance%20and%20Financial%20Econometrics)
+  - [Gamification（游戏化）](http://coursegraph.com/gamification-coursera-gamification-university-of-pennsylvania)
+  - [Digital Signal Processing（数字信号处理）](http://coursegraph.com/digital-signal-processing-coursera-dsp-%C3%A9cole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne)
+  - [Computational Investing Part I（计算投资学上）](http://coursegraph.com/computational-investing-part-i-coursera-compinvesting1-georgia-institute-of-technology)
+  - [Calculus – Single Variable（单变量微积分）](http://coursegraph.com/calculus-single-variable-coursera-calcsing-university-of-pennsylvania)
+  - UW的[Mathematical Methods for Quantitative Finance](http://coursegraph.com/mathematical-methods-for-quantitative-finance-coursera-mathematicalmethods-university-of-washington)
+  - Standford Online上Stephen Boyd著名的凸优化课程“[CVX101: Convex Optimization](http://coursegraph.com/cvx101-convex-optimization-stanford-cvx101-stanford)”
+  - [凸优化课程](http://coursegraph.com/cvx101-convex-optimization-stanford-cvx101-stanford)
+  - 课程图谱群中几大学霸格外推崇的人类历史公开课“[A Brief History of Humankind](http://coursegraph.com/a-brief-history-of-humankind-coursera-humankind-hebrew-university-of-jerusalem)”
+  - 斯坦福大学的[统计学习公开课：StatLearning: Statistical Learning](http://coursegraph.com/statlearning-statistical-learning-stanford-statlearning-stanford)
+    - 这门统计学习课程和凸优化课程节前备受大家关注，参考教程是《An Introduction to Statistical Learning with Applications in R》，授课老师也是这本书的作者，并且电子版官方免费提供：[http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)。
+  - 台湾大学的[机器学习基石公开课](http://coursegraph.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%9F%B3-machine-learning-foundations-coursera-ntumlone-national-taiwan-university): 機器學習基石 (Machine Learning Foundations)
 
 ### 英语
 <a id="markdown-%E8%8B%B1%E8%AF%AD" name="%E8%8B%B1%E8%AF%AD"></a>
@@ -449,6 +547,9 @@
 
 
 - [官方权威统计数据](https://github.com/yiliyassh/authority-data) 统计年签，统计公报，互联网行业报告，工信部数据，ICT报告等 Official authoritative data (Chinese)
+- 全球贸易数据分析 网址：<http://globe.cid.harvard.edu/>这个网站可以看到全球每一个国家在贸易方面的数据
+- OEC.world 网址：<https://oec.world/>
+查询每个国家或地区的贸易数据，并用图文进行通俗解释
 
 ## 教程
 <a id="markdown-%E6%95%99%E7%A8%8B" name="%E6%95%99%E7%A8%8B"></a>
@@ -569,6 +670,10 @@
 - 全国图书馆参考咨询联盟：<http://www.ucdrs.superlib.net/>
 - Z-library：<https://zh.4lib.org/> 得用梯子：<http://libgen.rs/>
 - [Scribd](https://www.scribd.com/): Ebooks, Audiobooks & More.Enjoy millions of ebooks, audiobooks and more with a free trial. Choose from best sellers and new releases. Read on the web, iPad, iPhone and Android.
+- 中国古籍保护网 网址：<http://www.nlc.cn/pcab/>
+中国古籍保护网，可在线浏览古籍的电子版，如《金石圖說》
+- 书格子 网址：<https://new.shuge.org/>
+有品格的数字古籍图书馆
 
 ### 小说
 <a id="markdown-%E5%B0%8F%E8%AF%B4" name="%E5%B0%8F%E8%AF%B4"></a>
@@ -579,6 +684,13 @@
 - [英文小说网](http://novel.tingroom.com/)
 - 笔趣阁
 - [下书网](https://www.shutxt.com)
+- [苦瓜书盘](https://kgbook.com)
+- [Mox.moe](https://mox.moe) EPUB、MOBI 漫画下载
+- [书享家-电子书下载导航](http://www.shuxiangjia.cn)
+- 轻小说文库<https://www.wenku8.net/index.php>
+- 哔哩轻小说<https://www.linovelib.com>
+- 轻之国度-专注分享的NACG社群<https://www.lightnovel.us/cn/>
+- 魔笔小说<https://www.mobinovels.com>
 
 ### 诸子百家
 <a id="markdown-%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6" name="%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6"></a>
@@ -602,9 +714,6 @@
 ## 美好生活
 <a id="markdown-%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB" name="%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB"></a>
 
-
-- [最好的虚拟信用卡推荐(开卡教程) - 解决 ChatGPT Plus 海淘购物等无法支付问题](https://www.iplaysoft.com/virtual-credit-card.html)
-
 ### rss
 <a id="markdown-rss" name="rss"></a>
 
@@ -618,6 +727,10 @@
 - yaoqs
 - [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
 - [wego](https://github.com/schachmat/wego)  is a weather client for the terminal.
+- 实时地球 网址：<https://zoom.earth/>
+实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+- 全球天气 网址：<https://earth.nullschool.net/>
+一个全球天气状况的视觉化网站
 
 ## 影视资源网站
 <a id="markdown-%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99" name="%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99"></a>
@@ -629,7 +742,7 @@
 
 - [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
-### music
+### music/音乐
 <a id="markdown-music" name="music"></a>
 
 
@@ -637,12 +750,18 @@
 - [预谋邂逅 - 豆瓣FM](https://douban.fm/)
 - [mp3fiesta](https://mp3fiesta.com/)
 - [youtube](https://www.youtube.com)
+- 古典音乐 网址：<https://www.kunstderfuge.com/>
+免费下载古典音乐（MIDI 格式），可按音乐家名称查询
+- <http://Archive.org> Serendipity 网址：<https://www.locserendipity.com/PushPlay.html>
+收集了很多过了版权保护期的音乐作品，按一下按钮，就会随机播放一段音乐
 
 ### 壁纸/wallpaper
 <a id="markdown-%E5%A3%81%E7%BA%B8%2Fwallpaper" name="%E5%A3%81%E7%BA%B8%2Fwallpaper"></a>
 
 
 - [极简壁纸](https://bz.zzzmh.cn) 海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站
+- [Pixabay](https://pixabay.com/zh/) 免费正版图片素材下载
+- [backiee 壁纸库](https://backiee.com) 海量壁纸，支持全平台客户端
 
 ### 高清下载
 <a id="markdown-%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD" name="%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD"></a>
@@ -679,13 +798,22 @@
 - <http://readcomiconline.to>
 - <http://www.comicextra.com/>
 - <https://comicvine.gamespot.com/>
+- AGE动漫<https://www.agemys.cc>
+- M站_哔咪动漫<https://www.bimiacg5.net>
+- 爱恋动漫BT下载<https://www.kisssub.org>磁力、种子下载，追番、收藏均可
+- VCB-Studio - 大家一起实现的故事！<https://vcb-s.com>BD 动画下载，收藏级
 
 ### 在线
 <a id="markdown-%E5%9C%A8%E7%BA%BF" name="%E5%9C%A8%E7%BA%BF"></a>
 
-
-- [酷绘视频 - 轻松随心看](http://www.kuhuiv.com/)
+- [gimy](https://gimy.ai/)
 - [剧迷线上看](https://gimytv.app/)
+- 鸭奈飞： YaNaiFei.tv
+  - 备用 1 ： YaNaiFei.net
+  - 备用 2 ： YaNetflix.one
+  - 备用 3 ： YaNetflix.me
+  - 备用 4 ： YaNaiFei.com
+- [酷绘视频 - 轻松随心看](http://www.kuhuiv.com/)
 - [电影港](https://www.dygang.tv/)
 - [茶杯狐](https://cupfox.app/)
 - [白嫖者联盟](https://www.bpzhe.com/)
@@ -706,6 +834,9 @@
   - <http://www.diaosisou.cc/>
 - ~~[BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子](http://btkitty.pet/)~~
 - [爱问共享资料_在线资料分享平台](http://ishare.iask.sina.com.cn/)
+- 优聚搜<https://jujuso.com>百度网盘、阿里云盘、蓝奏云、夸克网盘搜索
+- 猫狸盘搜<https://www.alipansou.com>阿里云盘搜索
+- 学霸盘<https://www.alipansou.com>百度网盘搜索
 
 #### 0day
 <a id="markdown-day" name="day"></a>
@@ -727,11 +858,11 @@
 - 电骡宝典：eMule 0.50a帮助文档  ```ed2k://|file|eMule.2052.chm.[emulefans.com].zip|5114897|9E62078492F8D2A6E17E7C86383A47E1|h=VT4BUK6ICJL2CCFSMVFR766G7V7O5CXU|/```
 - “断头档”,又称种子档,的ED2K链接:其作用是联系正在下载这个文件的用户，并获取正在下载该文件的Kad用户名单，以达到增加Kad连接数的目的，从而增加你所能搜索到文件的数量和下载的速度。
 
-  ```
+```txt
   ed2k://|file|Cyndi-Connect.tmp|9871476|9E3A905292B7AE6A2E2110DFC061779B|/
   ed2k://|file|[PPT]emule_friend.rar|23007826|CF52D1CAD8FFF93CF03DB26DF23260D2|/
   ed2k://|file|[ShareGet]emule_friend.rar|10564607|B494CC6DB8609C014858151CD7EA9193|/
-  ```
+```
 
 ### 游戏
 <a id="markdown-%E6%B8%B8%E6%88%8F" name="%E6%B8%B8%E6%88%8F"></a>
@@ -935,6 +1066,7 @@
 ### 图床
 <a id="markdown-%E5%9B%BE%E5%BA%8A" name="%E5%9B%BE%E5%BA%8A"></a>
 
+
 - <https://www.rmdown.com/>
 
 ### 效率软件
@@ -964,6 +1096,7 @@
   - FastGithub
 
 - ssh/终端/FTP文件管理工具
+  - 千帆阅尽才发现最朴素的最好：ssh
   - [FileZilla](https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
     - [中文站](https://www.filezilla.cn/)
     - Server
@@ -989,12 +1122,12 @@
   - [AVNC](https://github.com/gujjwal00/avnc) is a VNC client for Android.
 - 内网穿透
   - [花生壳](https://hsk.oray.com/) [快速入门](https://service.oray.com/category/192_1.html)
-  - ~~[openfrp](https://www.openfrp.net/) 开放映射 免费、高效、便捷~~
-  - ~~[cpolar极点云](https://www.cpolar.com/): 公开一个本地Web站点至公网。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。~~
-  - ~~[nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. [基本使用](https://ehang-io.github.io/nps/#/use)~~
-  - ~~[网云穿](https://www.xiaomy.net) [稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html)~~
-  - [WireGuard](https://github.com/WireGuard) [被Linux创始人称做艺术品的组网神器——WireGuard](https://zhuanlan.zhihu.com/p/447375895);通过WireGuard搭建隧道实现内网穿透
-  - [NetBird](https://netbird.io/) 是一个建立在WireGuard之上的开源网络管理平台，它允许计算机、设备和服务器通过快速加密隧道直接连接，无需配置或中央VPN服务器。它使专用网络变得安全，并创建了一个专用网络，在没有手动配置和专家的情况下应用安全实践。NetBird网络普遍适用于云、本地、边缘和容器环境，省去了打开端口、复杂防火墙规则和VPN网关的麻烦。NetBird 没有集中式 VPN 服务器，您的计算机、设备、机器和服务器直接通过快速加密隧道相互连接。NetBird只需点击几下即可连接在任何地方运行的机器。使用NetBird部署安全的点对点VPN只需不到5分钟。它与 Tailscale 很像，但是区别也比较明显。Tailscale 是在用户态实现了 WireGuard 协议，无法使用 WireGuard 原生的命令行工具来进行管理。而 NetBird 直接使用了内核态的 WireGuard，可以使用命令行工具 wg 来查看和管理。<https://github.com/netbirdio/netbird>:Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  - [openfrp](https://www.openfrp.net/) 开放映射 免费、高效、便捷
+  - [cpolar极点云](https://www.cpolar.com/): 公开一个本地Web站点至公网。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。
+  - [nps](https://github.com/ehang-io/nps) 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. [基本使用](https://ehang-io.github.io/nps/#/use)
+  - [网云穿](https://www.xiaomy.net) [稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html)
+  - **[WireGuard](https://github.com/WireGuard) [被Linux创始人称做艺术品的组网神器——WireGuard](https://zhuanlan.zhihu.com/p/447375895);通过WireGuard搭建隧道实现内网穿透**
+  - **[NetBird](https://netbird.io/) 是一个建立在WireGuard之上的开源网络管理平台，它允许计算机、设备和服务器通过快速加密隧道直接连接，无需配置或中央VPN服务器。它使专用网络变得安全，并创建了一个专用网络，在没有手动配置和专家的情况下应用安全实践。NetBird网络普遍适用于云、本地、边缘和容器环境，省去了打开端口、复杂防火墙规则和VPN网关的麻烦。NetBird 没有集中式 VPN 服务器，您的计算机、设备、机器和服务器直接通过快速加密隧道相互连接。NetBird只需点击几下即可连接在任何地方运行的机器。使用NetBird部署安全的点对点VPN只需不到5分钟。它与 Tailscale 很像，但是区别也比较明显。Tailscale 是在用户态实现了 WireGuard 协议，无法使用 WireGuard 原生的命令行工具来进行管理。而 NetBird 直接使用了内核态的 WireGuard，可以使用命令行工具 wg 来查看和管理。<https://github.com/netbirdio/netbird>:Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.**
   - [Netmaker](https://github.com/gravitl/netmaker) 是一个用来配置 WireGuard 全互联模式的可视化工具，它的功能非常强大，不仅支持 UDP 打洞、NAT 穿透、多租户，还可以使用 Kubernetes 配置清单来部署，客户端几乎适配了所有平台，包括 Linux, Mac 和 Windows，还可以通过 WireGuard 原生客户端连接 iPhone 和 Android。Netmaker 使用的是 C/S 架构，即客户端/服务器架构。Netmaker Server 包含两个核心组件：用来管理网络的可视化界面，以及与客户端通信的 gRPC Server。你也可以可以选择部署DNS服务器（CoreDNS）来管理私有DNS。客户端（netclient）是一个二进制文件，可以在绝大多数 Linux 客户端以及 macOS 和 Windows 客户端运行，它的功能就是自动管理 WireGuard，动态更新 Peer 的配置。<https://github.com/gravitl/netmaker>:Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
 - 手机调试
@@ -1323,3 +1456,187 @@
   - WizTree
 - [LockDir](https://www.kakasoft.com/folder-protect/) is an easy-to-use software designed for password protection of folders or drives on Windows systems. If you put your sensitive files on your computer, you must pay attention to the data security of these files because there are so many potential threats that leave a door for cybercriminals. LockDir is a widely accepted application that users worldwide have welcomed for quite a long time. [Download](https://www.kakasoft.com/files/lockdir.zip) Portable software to lock and password protect folders on Windows 10 hard drives, USB flash drive, and all types of mobile storage devices.Three Security Methods: Lock, Scramble and Encrypt.File Security: Undeletable, Unmovable and Inaccessible.Portability: Enjoy full data protection anytime and anywhere.Easy Usage: No installation and directly run and protect your data.
 - KakaSoft.com
+
+## 百科
+
+### 地理
+
+- 实时地球 网址：<https://zoom.earth/>
+实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+- 天际网络摄像头 网址：<https://www.skylinewebcams.com/>
+观看世界各地景区的实时摄像头画面
+- 近地轨道可视化 网址：<https://platform.leolabs.space/visualization>
+感受地球低轨道太空的实际状态
+- 全球电力设施地图 网址：<https://openinframap.org/>
+该网站的地图显示全世界电力设施的位置，包括电厂、变电站、输电线等等，甚至还有风力发电机
+- 护照博物馆 网址：<https://www.passportindex.org/>
+这个网站集合了世界各地护照样式 还有办理程序 办理难易程度 等等
+- 随机谷歌街景 网址：<https://randomstreetview.com/>
+这个网站随机展示谷歌街景的照片，世界各地都有
+- World flags 网址：<https://world-flags.org/>
+一个介绍世界各国国旗、含义和起源、国旗的起源和琐事的国旗武士媒体组合项目
+- Dollar Street 网址：<https://www.gapminder.org/dollar-street>
+按照收入展示各个国家中人们的生活
+- 深海 网址：<https://neal.fun/deep-sea/>
+海洋不同深度都有什么生物
+Go nomad 网址：<https://nomadlist.com/>
+这个网站是用来给游民们寻找适合自己的城市做参考，根据各种权威机构数据列出了各项评分
+- 手机博物馆 网址：<https://www.mobilephonemuseum.com/catalogue>
+网站目前拥有来自 200 多个不同品牌的 2200 多个独立型号
+- 钓鱼岛线上博物馆 网址：<http://www.diaoyudao.org.cn/dydbwg.html>
+博物馆展陈内容包括历史图片、视频资料、文献资料、法律文件、实物模拟等
+- 地平说学会协会 网址：<https://www.tfes.org/>
+世界上有一些人认为地球是平面而非球体，这是他们的官网
+- 机械键盘博物馆 网址：<https://scrapbox.io/MECHKEYS/>
+收集了非常多设计独特的机械键盘
+- 全景故宫 网址：<https://pano.dpm.org.cn/>
+线上体验游览故宫，360° 查看各个宫殿，有文字介绍
+- 故宫博物院数字文物库 网址：<https://digicol.dpm.org.cn/>
+在线查看故宫博物院众多藏品，可根据分类和年代浏览
+- 千亿像素看中国 网址：<http://bigpixel.cn/zh-CN.html>
+可浏览千亿像素的全景图片，观看一个城市的面貌
+- 核弹威力 网址：<https://nuclearsecrecy.com/nukemap/>
+选择某个核弹查看爆炸影响的范围大小
+- 地球时间线 网址：<https://timelineofearth.com/>
+滚动屏幕，查看地球从形成到今天的大致时间线
+- ocearch 网址：<https://www.ocearch.org/tracker>
+追踪大白鲨、虎鲸等海洋动物的实时位置
+- Little Big World 网址：<https://www.littlebigworld.de/>
+Little Big World 使用移轴摄影、壮观的无人机摄影和惊人的延时，将地球上最美丽、最有趣的地方变成了可爱的微型模型
+- 地球模型 网址：<https://3d-app.yunser.com/earth>
+网站默认模拟了地球自转运动，同时提供了大量的模拟操作，如查看太阳光照、昼夜平分面黄道面等
+- 极像素 网址：<https://www.sigoo.com/>
+超高像素看世界
+- 地球旧照 网址：<https://3d-app.yunser.com/plateMotion>
+一个可以查看远古时期的地貌、研究板块运动网站
+- The Sea We Breathe 网址：<https://www.bluemarinefoundation.com/the-sea-we-breathe/>
+带你进入海底世界遨游，互动式的体验
+- Webcamtaxi 网址：<https://www.webcamtaxi.com/>
+Youtube 上面有很多24小时的摄像头直播频道，可以看到世界各地的实时状况。该网站就是收集这些频道，按照地区和内容分类
+- Earth Clock 网址：<https://earthclock.cwandt.com/>
+这个网站使用 Google Eerth 卫星照片，显示当前的数字时间
+- 光污染地图 网址：<https://www.lightpollutionmap.info/>
+全球光污染地图，可查看某地光污染各种参数
+- 流星雨 网址：<https://www.meteorshowers.org/>
+以太空视角查看某个时间流星雨的形成
+- 物流艺术 网址：<https://logisticsartproject.com/>
+记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
+- Exploratorium 网址：<https://exploratorium.edu/ronh/age/>
+科普网站，看看你在其它星球的岁数
+- FlightAware 网址：<https://zh.flightaware.com/>
+提供全球实时航班交通以及航空趋势等
+- 世界人口时钟 网址：<https://countrymeters.info/cn>
+网站展示任何国家目前的人口的实时统计，出生，死亡，净迁移和人口增长
+- 观沧海 网址：<https://www.ageeye.cn/>
+以地图为线索，反映中国历史、 军事、 自然、 ⽂化等各⽅面的知识
+- 指尖上 网址：<https://www.zhijianshang.com/>
+海量全面精美的VR全景旅游景点介绍，只需动动指尖就能通过虚拟现实深入景区内部，体验各地的美景风光
+- 全球海底光缆 网址：<https://he.net/3d-map/>
+这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置
+- 天空之城 网址：<https://www.skypixel.com/>
+无人机航拍照片和视频共享平台
+- 环游世界 网址：<https://www.airpano.org.cn/>
+网站提供各个地区的全景图，三百六十度看世界
+- 制服地图 网址：<https://uniform.wingzero.tw/>
+Uniform Map 是一个让使用者可以从 Google 地图去查询学校制服的网站，想知道某所学校所穿的制服，用这网站就能轻松解决
+- 国际空间站 网址：<https://www.google.com/maps/@29.5602853,95.0853914,2a,75y,212.04h,90t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000?shorturl=1>
+Google 地图，可查看国际空间站内部环境
+- 飞机坠毁信息 网址：<http://www.planecrashinfo.com/>
+记录航空事故，包括地点、死亡人数、细节以及不寻常的事故、最后的话等
+- 熊猫频道 网址：<https://www.ipanda.com/>
+央视熊猫频道对大熊猫繁育、日常起居等的情况进行 24 小时近距离视频直播及点播
+- 享有海景的车站 网址：<https://seaside-station.com/>
+网站记录了日本非常多海边的火车站极其周边景色的照片
+- 10 万亿像素的夜空 网址：<https://viewer.legacysurvey.org/>
+浏览一张 10 万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。
+- 星辰协会 网址：<http://thestarsetsociety.org/>
+美国 Starset 乐队科研团队“Starset协会”网站
+- 风网 网址：<https://www.windy.com/>
+台风 暴雨观测
+- 100,000 Stars 网址：<https://stars.chromeexperiments.com/>
+璀璨星河一触即达，宇宙星系在线观赏(来自 Google 实验室)
+- 世界地图 网址：<http://www.onegreen.net/maps/m/world.htm>
+提供高清、可下载的世界地图，有各种版本，如行政图、世界地形、交通等
+
+### 博物馆
+
+- 陕西博物馆 360 度实景浏览 网址：<https://www.sxhm.com/online.html>
+线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。可以网页浏览，也可以 VR 头盔浏览
+- CyArk 网址：<https://www.cyark.org/>
+用专业的三维激光扫描技术数字化重现世界上最久远、最著名的古迹
+- 用户界面的历史 网址：<https://history.user-interface.io/>
+介绍了从 1973 年第一个支持 GUI 的操作系统到目前的 macOS 和 windows 的用户界面
+- 中国历史照片 网址：<https://www.hpcbristol.net/>
+布里斯托大学开放中国影像数据库，提供 20,000 多张中国近代照片免费浏览
+- 知妖（中国妖怪百集） 网址：<http://www.cbaigui.com/>
+收集中国古今妖怪
+- 中国纪录片网 网址：<http://www.docuchina.cn/>
+国家级的纪录片资源，央视出品
+- 波斯波利斯 网址：<https://persepolis.getty.edu/>
+波斯波利斯是古代波斯帝国的首都，现在已经是一片废墟了。这个页面还原了这座雄伟的帝国都城，重建了 3D 街景，让你在其中漫游
+- 卢浮宫藏品 网址：<https://collections.louvre.fr/en/>
+卢浮宫超过 48 万藏品电子化，可在线免费浏览
+- 中华珍宝馆 网址：<https://g2.ltfc.net>
+在线的中国字画的博物馆
+- 木材数据库 网址：<https://www.wood-database.com/>
+木材数据库。有详细的介绍，包括硬度排行等
+- 无限 3D 美术馆 网址：<https://gallery.nowaythis.works/>
+目前有180多万件艺术品的 3D 美术馆，每件艺术品都是来自 Reddit 的 r/Art 频道
+- 苏联海报 网址：<https://reddirect.ru/>
+这个网站收藏了很多苏联时期的海报，很有年代感
+- Artvee 网址：<https://artvee.com/>
+浏览和下载高分辨率的公共领域艺术品
+- 中国国家博物馆 VR 网址：<http://www.chnmuseum.cn/Portals/0/web/vr/>
+中国国家博物馆提供的 VR 场景，线上 360° 体验游览中国国家博物馆
+- 模拟器博物馆 网址：<http://www.famicn.com/>
+在线运行电脑系统、学习机、游戏机
+- Arch Daily 网址：<https://www.archdaily.cn/cn>
+非常多设计奇特的建筑
+- 物种 2000 中国节点 网址：<http://sp2000.org.cn/>
+该网站建立和维护中国生物物种名录
+- 上海博物馆 网址：<https://www.shanghaimuseum.net/mu/frontend/pg/index>
+在线浏览上海博物馆的藏品和博物馆内的三维场景，还提供 AR 功能，需下载上博AR App 体验
+- 8values 中文版 网址：<https://songyon.github.io/8valuescn/>
+8values 是一个政治立场测试
+- 十年前的网页 网址：<https://neal.fun/ten-years-ago/>
+可以查看十年前美国的十几个著名网站是什么样子
+- 英特尔虚拟博物馆 网址：<https://virtualmuseum.intel.com/>
+官方网站，3D 虚拟参观英特尔公司的博物馆
+- 铅笔收藏馆 网址：<https://brandnamepencils.com/>
+网站收藏了几乎全球各地知名品牌的铅笔
+- IDEA 网址：<https://www.dialectsarchive.com/>
+全球英语方言档案馆（不同国家不同地区的人说英语是什么口音）
+- 开源人物肖像 网址：<http://www.facesofopensource.com/>
+那些推动计算机革命的开源程序员的肖像
+- 濒危声音博物馆 网址：<http://savethesounds.info/>
+收藏了一些消失的声音，比如打字机的击键声、点阵式打印机的打印声、Windows 95 的开机声
+- 韵典网 网址：<https://ytenx.org/>
+韵典网是一个综合的韵书查询工具，包含广韵、中原音韵、洪武正韵笺、分韵撮要和上古音系
+- Gallerix 网址：<https://gallerix.asia/>
+在线博物馆，可以按画家或博物馆来查看油画
+- 荷兰国家博物馆 网址：<https://www.rijksmuseum.nl/nl>
+可在线浏览荷兰国家博物馆大量珍贵的藏品
+- Conserve the Sound 网址：<https://www.conservethesound.de/>
+老物件的声音博物馆，你可以听到打字机、手摇咖啡研磨机等物品的声音
+- 科普网站 网址：<https://animagraffs.com/>
+了解各种产品的原理
+- 百年纪念灯泡 网址：<https://www.centennialbulb.org/cam.htm>
+展示已经亮了百年的灯泡
+- 四大名著 网址：<http://www.sdmz.cn/>
+网站提供了四大名著相关的电子书、音频、图片、地图等在线资源
+- 乡音苑 网址：<https://phonemica.net/>
+收集来自全国各地的网友上传的方言故事，网站提供各种字幕不怕看不懂
+- 搜韵 网址：<https://sou-yun.cn/>
+搜韵网共收录约 90 万首古今诗词作品，其中近现代及之前的诗词作品约 83 万。
+- 世界建筑名录 网址：<https://www.worldbuildingsdirectory.com/>
+浏览来自世界各地的最具创新性的建筑
+- 网站设计博物馆 网址：<https://www.webdesignmuseum.org/>
+展出 1600 多个网站从 1991 到 2006 年主页的设计
+- 全历史 网址：<https://www.allhistory.com>
+让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中
+- 世界数字图书馆 网址：<https://www.loc.gov/collections/> ... ut-this-collection/
+网站免费提供使用珍贵图书、地图、影片与照片等服务
+- 蚂蚁网 网址：<http://www.ants-china.com/>
+东亚、东北亚、南亚及东南亚地区蚂蚁-全球最大的华语中文蚂蚁专业网站
+- 数字敦煌 网址：<https://www.e-dunhuang.com/>
+在线浏览敦煌，可浏览经典洞窟、经典壁画等
