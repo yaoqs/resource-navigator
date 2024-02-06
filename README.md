@@ -22,9 +22,6 @@
   - [License \& Copyright](#license--copyright)
   - [Lord Yao](#lord-yao)
     - [Social accounts](#social-accounts)
-      - [开发](#开发)
-      - [学术/scholar](#学术scholar)
-      - [社交/social intercourse](#社交social-intercourse)
     - [主题页](#主题页)
 - [resource navigator](#resource-navigator)
   - [版权保护](#版权保护)
@@ -68,6 +65,7 @@
     - [美剧](#美剧)
     - [漫画下载网站](#漫画下载网站)
     - [在线](#在线)
+    - [电视直播软件](#电视直播软件)
     - [资源搜索](#资源搜索)
       - [0day](#0day)
     - [ed2k](#ed2k)
@@ -82,7 +80,7 @@
   - [软件](#软件)
     - [在线工具](#在线工具)
     - [API接口](#api接口)
-    - [开发](#开发-1)
+    - [开发](#开发)
     - [下载网站](#下载网站)
     - [文件传送](#文件传送)
     - [图床](#图床)
@@ -117,97 +115,11 @@
     </script>
 </div>
 
-### Social accounts
-<a id="markdown-social-accounts" name="social-accounts"></a>
+### [Social accounts](https://github.com/yaoqs)
 
-
-#### 开发
-<a id="markdown-%E5%BC%80%E5%8F%91" name="%E5%BC%80%E5%8F%91"></a>
-
-
-[![yaoqs.github.io](https://img.shields.io/badge/yaoqs.github.io-ffffff?style=flat-square&logo=Github&logoColor=black)](https://yaoqs.github.io/)
-[![yaoqs.deno.dev](https://img.shields.io/badge/yaoqs.deno.dev-ffffff?style=flat-square&logo=Deno&logoColor=black)](https://yaoqs.deno.dev/)
-[![github](https://img.shields.io/badge/github.com/yaoqs-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/yaoqs)
-[![deno](https://img.shields.io/badge/deno.dev/yaoqs-ffffff?style=flat-square&logo=deno&logoColor=black)](https://deno.dev/yaoqs)
-[![gitee](https://img.shields.io/badge/gitee.com/yaoqs-ffffff?style=flat-square&logo=Gitee&logoColor=black)](https://gitee.com/yaoqs)
-[![GitLab](https://img.shields.io/badge/gitlab.com/yaoqs-ffffff?style=flat-square&logo=Gitlab&logoColor=black)](https://gitlab.com/yaoqs)
-[![dockerhub](https://img.shields.io/badge/docker-lordyao-ffffff?style=flat-square&logo=Docker&logoColor=ffffff)](https://hub.docker.com/u/lordyao)
-
-[![gist](https://img.shields.io/badge/gist-ffffff?style=flat-square&logo=github&logoColor=black)](https://gist.github.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-ffffff?style=flat-square&logo=Heroku&logoColor=black)](https://www.heroku.com)
-[![aws](https://img.shields.io/badge/aws-ffffff?style=flat-square&logo=AmazonAws&logoColor=black)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-ffffff?style=flat-square&logo=MicrosoftAzure&logoColor=black)](https://portal.azure.com/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-ffffff?style=flat-square&logo=StackOverflow&logoColor=black)](https://stackoverflow.co/)
-[![StackExchange](https://img.shields.io/badge/StackExchange-ffffff?style=flat-square&logo=stackexchange&logoColor=black)](https://stackexchange.com/)
-
-[![CSDN](https://img.shields.io/badge/CSDN-yaokingson-ffffff?style=flat-square&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAw9JREFUWEftlllsTVEUhr+1r5ZwO6ExxPRASU1piBiTGhJDQg2RaClp4oFGNU3MISQVIWYihpoeDNEQQ0LE8ECEFzU8iEgIMVZdWtWBuvaW49DrSk/PPdUQifV0kvPvf317rXXO3hKcmmL4iyH/Af7dCnROQlKGQOduSEw8fAli3rzCPLgLN69AdWVEk+V9BvoMRE3LRrr2ckxgqqsw549iTuyFmk/1gkQOEBWNzF6KpE5ARCLanXn2CJ0/F8oCjvrIAJo1Ry3bjvRICTMyxc8w929BeSnEt0J6D0RaJoZp9OWTmN35vwEgClmyFWX1+3uYQDF631oouhpurHzIiInIjFykuf/bO3PnOnrNvIYDSNos1PTcUPKnD9H5c+D9O+c2tO+CWr4DWrVFb1kCNy42ECChNWrbGaRpM3s3leXohekQeOU+A1YFEhLhxeOGD6Fk5qHGZ9Ya6P3rMOePuSf3oHAeQuVDFVy0v3Fr92Vv0dnjIPjZg7271BkguR++VQWh3Z87gjm4wd3Ro8IRQCZmoTJyau2+rJ0Pt655tHeXOwNkr0KlTggBzBkD70rcHT0qHAHU0u32v97qv9bo9AHWg0d7d7kzwIpdSO8BNkAwiM6wnxs7nFuwaBOqf2qoBTOHwseqxs6PM0DWQtTY9BDAskx4eO/PATBsHL6c1aHP8HgBpnDnHwTwx6H2XECaRNlz8KEMnTfFPvkijTYdoGNXKLoCpu67b73HscxdiRqeVpvO3L+NXp8HFeXuCD37oxZsRFrEoE8fxBzeVuea+u8DCYmojYWIPy4EESjGnDqAuXEBPrwPN/U1ge59kVGTkcGjEaXs6lVXomcNawCAtaTvINSiLUiU3YofYaySlrywj+XPNWBBtuuIRNsnZ5j29XN0Tuin9vO7yG5EVjlz1yDxrd1L/2ty6xDbvBism1MdERmAtdAfi6RlISMnIf5YVxBT+gZz6STm7CGoqnDURw7wwyIqGpL7IUl9oG0nJCYOrN7XfMSUBuDlE/tq/ugeaPdft3cA1717E/wH+OsV+Ao8AzlQq0l0/gAAAABJRU5ErkJggg==&logoColor=black)](https://blog.csdn.net/yaokingson)
-[![博客园](https://img.shields.io/badge/cnblogs-yaoqs-ffffff?style=flat-square&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+0lEQVRYhcWXf2hVZRjHP8/ZVeZay9mwuY1poVM2yMl0nXO3e/2RMpM0+2P7w4qQ6K8gEEwKqegPkTAqo4Lsp0UQRRQaSmYLt7Z7p5uhqxRbxrrXMce0Mda4u7v3ffrjnF33606nq75wOPd934fv8z3ned/nfK9wC6h27DxLZBNQBljAb6p6pDEUjt4oh9xM4oBtW2LJ08CLwFxVvUYoMgi8boy+9GM4HJ9xAdVlZVh35OwDdqpLcAGoBxJANVDuhX6WNPpYUzicmIovYzrJa2trGYwPbQTeBFTgBdBtDc3hw52R6NGCBQvezbCsP4EHgOWWyKWk0tbf3z8zAgrz8kga846q3iMiHw4PJ3Y2tZw0I+vRS126sKDwJywBWAcszZmb+3YkEtF0nNZ0BMSG4zlApYgYYH/o1KkJMQ0tLQAHgBhQYpnkoqk4pyUAZB6QBcRUuZiWdDjRA1wFyLCs/JUrV86QAKEfiAOzRchLF2Z8GdlANoAxGsuaPWvjjAhIJE0f8CvgA7ZPFlNbWwsidUAO0I1QDmyvrKxML+C+FSsIOPai6wkoKi42wFvecFfQ72xZv2ZNan392rVcvhS1gX3e1HvADsDO9GX4JuMUgA0bNjD098DLIuw+0RSa8tz6V63y+Wb5vgIexD37hwS+Vff3aqAO1UxEWoH9wCeAAZY2NIc6xvNlAAwODnJnbu5mYF5nJHp2KgGRri6zsKjoMCJFwHJVLUVkM/CQqi4XEQuRo6rUifAqUOQ9aFtSOTO+J1gA3d3dAGeA54N+J3MqAQANofDAsEk+Djgi8gZwHKgXkQNADcZsFuFeYHThA8XFxRO4UnVR1VYRWQxsAz64nohQ+CTASe8ag2CVbaHsZuwmr85IJCzccqSQChCj54E+4JmA3z/phrlhqGwFguNmS8Rn5Y8PTQnounIljvs0ywTdcrO5g46dB7zGxCNugdhpBXR0dAB87w13BBxnml0SVlc5PkTeByYW20WgpqZmcgEe6r27X4T0/XMSVJSXW6rsBaZ6e/bVrq70Aoyan4EuVbWAp240+doqv3Vb1pw9wM5xSx3A6Iylc27Pzk4rIPHLuThwXEQAtgb8Ttp+P4KgY2cnVQ8Cz45bOiTgAM+NmstRZVFaAWG3SRweCRZ4NF3iasch6HdsRFoYG9cDbM9QHj7RHOpF9Wvc0wWACKVpBQCgehwY9EZP3m/bY2KqqqoI+p0SSzgINEKKsA94BSi7q7Doox9CIQPQEAr3A8dcagUoGc034bzHksm+TJ+vHrfXlw5bYgPNAb+dJcg61DwBbPLER4EG4DvgSHtr29W/4pP60C+BOq+0d1dUVNDW1ja5AGMU4AtPAMDeoN/pwW2rUeA08AjQatRE9fc/Ek09PZMlTUGVY+J6iRygYCQ5pHHFAcfOE5FOXPczHglcUzKA63p6vXsP0CPQqXBekXBjc3PqdQT9zqequk1ETi+bN1Rx4JvTQBpDEu2+3Itbz17c/RDzrj6g30vY54kY8OZ6cZNfEKGDxPD4z/pBrwR550cdzLT/C+bPn0/p4sW+JOrD87Q+yzJqkqY/NmSS8bjJLyoiEomwZMkS2tvbuXgxrU0k4Pf7BD0H5EvS5J5oaUlMKeDfQNDv7AL2qGphYyjcA9N2xbcGVf0YiIlQMDL3nwpoDIW7gc9B/h8BHvbDNUt/a8bjJqBGzyLERsb/AKulzmJdLC+gAAAAAElFTkSuQmCC&logoColor=ffffff)](https://www.cnblogs.com/yaoqs)
-[![开源中国](https://img.shields.io/badge/OSChina-yaoqs-ffffff?style=flat-square&logo=data:image/png;base64,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&logoColor=green)](https://my.oschina.net/yaoqs)
-[![greasyfork](https://img.shields.io/badge/Greasy_Fork-ffffff?style=flat-square&logoColor=black&logo=data:image/png;base64,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)](https://greasyfork.org/zh-CN/users/806993-lordyao)
-
-[![华为开源平台](https://img.shields.io/badge/华为开源平台-ffffff?style=flat-square&logo=Huawei&logoColor=red)](https://code.opensource.huaweicloud.com/home)
-
-#### 学术/scholar
-<a id="markdown-%E5%AD%A6%E6%9C%AF%2Fscholar" name="%E5%AD%A6%E6%9C%AF%2Fscholar"></a>
-
-
-- [orcid](https://orcid.org/)
-- [cns学术导航](https://cnspub.com/)
-- [知网个性化首页](https://kns.cnki.net/kns8)
-- a[rxiv](https://arxiv.org/)  is a free distribution service and an open-access archive
-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-Qingsheng_Yao-ffffff?style=flat-square&logo=researchgate&logoColor=ffffff)](https://www.researchgate.net/profile/Qingsheng_Yao)
-- [![scholarmate](https://img.shields.io/badge/scholarmate-yaoqs-ffffff?style=flat-square)](https://www.scholarmate.com/P/yaoqs)
-- [academia](https://www.academia.edu/)
-- [oclc](https://www.oclc.org/)
-
-#### 社交/social intercourse
-<a id="markdown-%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse" name="%E7%A4%BE%E4%BA%A4%2Fsocial-intercourse"></a>
-
-
-- [![@lordyao](https://img.shields.io/badge/weibo-@lordyao-ffffff?style=flat-square&logo=Sinaweibo&logoColor=red)](https://weibo.com/lordyao)
-- [![Bilibili](https://img.shields.io/badge/Bilibili-ffffff?style=flat-square&logo=Bilibili&logoColor=darkpink)](https://space.bilibili.com/1935484)
-- [![twitter](https://img.shields.io/badge/twitter-ffffff?style=flat-square&logo=twitter&logoColor=lightblue)](https://twitter.com/Lord_Honor_Yao)
-- [![Zhihu](https://img.shields.io/badge/Zhihu-ffffff?style=flat-square&logo=Zhihu&logoColor=blue)](https://www.zhihu.com)
-- [![facebook](https://img.shields.io/badge/facebook-ffffff?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com)
-- [![instagram](https://img.shields.io/badge/instagram-ffffff?style=flat-square&logo=instagram&logoColor=rose)](https://www.instagram.com/)
-- [![pinterest](https://img.shields.io/badge/pinterest-ffffff?style=flat-square&logo=pinterest&logoColor=red)](https://www.pinterest.com/)
-- [![豆瓣](https://img.shields.io/badge/豆瓣-ffffff?style=flat-square&logo=douban&logoColor=darkgreen)](https://www.douban.com/)
-- [![linkedin](https://img.shields.io/badge/linkedin-ffffff?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.cn/)
-- [![tiktok](https://img.shields.io/badge/tiktok-ffffff?style=flat-square&logo=tiktok&logoColor=black)](https://www.tiktok.com/@lord_honor_yao)
-- [![douyin](https://img.shields.io/badge/douyin-ffffff?style=flat-square&logo=tiktok&logoColor=black)](https://www.douyin.com/)
 
 ### [主题页](https://yaoqs.github.io/Feature)
 <a id="markdown-%E4%B8%BB%E9%A2%98%E9%A1%B5" name="%E4%B8%BB%E9%A2%98%E9%A1%B5"></a>
-
-
-- [yaoqs/42](https://yaoqs.github.io/42) <https://github.com/yaoqs/42>
-    Description: From the Internet, To the Internet.
-- [yaoqs/Acoustics](https://yaoqs.github.io/Acoustics) <https://github.com/yaoqs/Acoustics>
-  Description: Acoustics，声学
-- [yaoqs/Awesome-Github-Roster](https://yaoqs.github.io/Awesome-Github-Roster) <https://github.com/yaoqs/Awesome-Github-Roster>
-  Description: Awesome Github Roster
-- [yaoqs/Defence-Technology](https://yaoqs.github.io/Defence-Technology) <https://github.com/yaoqs/Defence-Technology>
-    Description: defence technology/防务技术
-- [yaoqs/donate-plugin](https://yaoqs.github.io/donate-plugin) <https://github.com/yaoqs/donate-plugin>
-    Description: Donate & Reward 大吉大利，今晚吃鸡
-- [yaoqs/hexo-theme-scholar-future](https://yaoqs.github.io/hexo-theme-scholar-future) <https://github.com/yaoqs/hexo-theme-scholar-future>
-    Description: A scholar magazine/journal-like blog theme,基于hexo的博客模板主题
-- [yaoqs/keys](https://yaoqs.github.io/keys) <https://github.com/yaoqs/keys>
-    Description: 个人收藏的常用软件的key、注册码、license及注册机等
-- [yaoqs/Machine-learning-Related](https://yaoqs.github.io/Machine-learning-Related) <https://github.com/yaoqs/Machine-learning-Related>
-    Description: 本人收集的机器学习(Machine Learning, ML)相关资料
-- [yaoqs/NWPU-Open-Course-Sharing](https://yaoqs.github.io/NWPU-Open-Course-Sharing) <https://github.com/yaoqs/NWPU-Open-Course-Sharing>
-    Description: 西北工业大学开源课程共享
-- [yaoqs/open-ebook](https://yaoqs.github.io/open-ebook) <https://github.com/yaoqs/open-ebook>
-    Description: 免费电子书
-- [yaoqs/Raspberry-Pi-config](https://yaoqs.github.io/Raspberry-Pi-config) <https://github.com/yaoqs/Raspberry-Pi-config>
-    Description: 关于树莓派安装、配置、使用等的技巧、工具。 About the skills and toolkits of installing, configuring raspbian and handbook for raspberry
-- [yaoqs/resource-navigator](https://yaoqs.github.io/resource-navigator) <https://github.com/yaoqs/resource-navigator>
-    Description: 个人收藏资源导航
-- [yaoqs/Scholar](https://yaoqs.github.io/Scholar) <https://yaoqs.github.io/Scholar>
-    Description: Scientific/Academic/Scholarly Research. 科研学术
-- [yaoqs/Termux-config](https://yaoqs.github.io/Termux-config) <https://github.com/yaoqs/Termux-config>
-    Description: Termux Manual
 
 # resource navigator
 <a id="markdown-resource-navigator" name="resource-navigator"></a>
@@ -320,6 +232,8 @@
 - [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
 - [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
 - [staticfile.org](https://www.staticfile.org/)
+- [unpkg.com/](https://unpkg.com/) is a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL like:
+unpkg.com/:package@:version/:file
 
 ### 网盘
 <a id="markdown-%E7%BD%91%E7%9B%98" name="%E7%BD%91%E7%9B%98"></a>
@@ -743,7 +657,7 @@
 - [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
 ### music/音乐
-<a id="markdown-music" name="music"></a>
+<a id="markdown-music%2F%E9%9F%B3%E4%B9%90" name="music%2F%E9%9F%B3%E4%B9%90"></a>
 
 
 - [Download mp3 music online. Best music collection in a format mp3. Buy music albums.](https://mp3fiesta.com/)
@@ -818,6 +732,10 @@
 - [茶杯狐](https://cupfox.app/)
 - [白嫖者联盟](https://www.bpzhe.com/)
 - [Netflix影视](https://www.tvfans.top/) Netflix影视每天每集海量高清电影免费在线观看，追剧零时差。内容丰富多元，涵盖电视连续剧、电影、综艺、动漫、娱乐等优质影视节目，观众可以在线观看港台剧、日韩剧、国产剧、欧美剧等热门剧目。影音视频播放清晰流畅，操作界面简单友好，真正为用户带来最舒适顺畅的线上观看体验。
+
+### 电视直播软件
+
+- [my-tv](https://lyrics.run/my-tv.html)我的电视 电视直播软件，安装即可使用 [github](https://github.com/lizongying/my-tv)
 
 ### 资源搜索
 <a id="markdown-%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2" name="%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2"></a>
@@ -1458,8 +1376,10 @@
 - KakaSoft.com
 
 ## 百科
+<a id="markdown-%E7%99%BE%E7%A7%91" name="%E7%99%BE%E7%A7%91"></a>
 
 ### 地理
+<a id="markdown-%E5%9C%B0%E7%90%86" name="%E5%9C%B0%E7%90%86"></a>
 
 - 实时地球 网址：<https://zoom.earth/>
 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
@@ -1559,6 +1479,7 @@ Google 地图，可查看国际空间站内部环境
 提供高清、可下载的世界地图，有各种版本，如行政图、世界地形、交通等
 
 ### 博物馆
+<a id="markdown-%E5%8D%9A%E7%89%A9%E9%A6%86" name="%E5%8D%9A%E7%89%A9%E9%A6%86"></a>
 
 - 陕西博物馆 360 度实景浏览 网址：<https://www.sxhm.com/online.html>
 线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。可以网页浏览，也可以 VR 头盔浏览
