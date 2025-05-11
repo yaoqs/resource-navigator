@@ -1,162 +1,159 @@
 # LordYao
-<a id="markdown-lordyao" name="lordyao"></a>
 
 
-## LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences
-<a id="markdown-lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences" name="lordyao%3A-future-%26-civilization%3A-natural%2Fsocial-philosophy-%26-infomation-sciences"></a>
-
-https://yaoqs.github.io/
+## [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](https://yaoqs.github.io/)
 
 ## License & Copyright
-<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
-
 
 [![GitHub license](https://badgen.net/github/license/yaoqs/resource-navigator)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/resource-navigator.svg)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE)
 
-- 版权声明：Copyright © 2021-2024 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 版权声明：Copyright © 2021-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
 - 来源：网络及个人搜集及整理，瓜不保熟
 - 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>告知；如需补充其他相关信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
 
 ## Stargazers over time
-<a id="markdown-stargazers-over-time" name="stargazers-over-time"></a>
 [![Stargazers over time](https://starchart.cc/yaoqs/resource-navigator.svg?variant=adaptive)](https://starchart.cc/yaoqs/resource-navigator)
-<!-- TOC -->
 
-- [LordYao: FUTURE & CIVILIZATION: Natural/Social Philosophy & Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
-- [License & Copyright](#license--copyright)
-- [Stargazers over time](#stargazers-over-time)
-- [Lord Yao](#lord-yao)
-    - [Social account](#social-account)
-    - [主题页](#%E4%B8%BB%E9%A2%98%E9%A1%B5)
-- [版权保护](#%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4)
-- [常用](#%E5%B8%B8%E7%94%A8)
-    - [Community/社区](#community%E7%A4%BE%E5%8C%BA)
-    - [Docs](#docs)
-    - [Fellows](#fellows)
-    - [Organizations](#organizations)
-    - [blog/一些不错的blog](#blog%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84blog)
-    - [Code](#code)
-    - [代码仓](#%E4%BB%A3%E7%A0%81%E4%BB%93)
-    - [云服务](#%E4%BA%91%E6%9C%8D%E5%8A%A1)
-    - [免费服务器](#%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8)
-    - [Cloud Operating System](#cloud-operating-system)
-    - [域名](#%E5%9F%9F%E5%90%8D)
-    - [DNS](#dns)
-    - [静态网站生成器](#%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E7%94%9F%E6%88%90%E5%99%A8)
-    - [CDN](#cdn)
-    - [网盘](#%E7%BD%91%E7%9B%98)
-    - [开源镜像](#%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F)
-    - [AI/大模型](#ai%E5%A4%A7%E6%A8%A1%E5%9E%8B)
-        - [自然语言处理](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
-        - [Machine Learning](#machine-learning)
-- [哲学](#%E5%93%B2%E5%AD%A6)
-- [人文](#%E4%BA%BA%E6%96%87)
-- [English news](#english-news)
-    - [technews](#technews)
-    - [Lab](#lab)
-- [教育](#%E6%95%99%E8%82%B2)
-    - [高等教育](#%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2)
-    - [公开课](#%E5%85%AC%E5%BC%80%E8%AF%BE)
-    - [英语](#%E8%8B%B1%E8%AF%AD)
-    - [考试](#%E8%80%83%E8%AF%95)
-    - [竞赛](#%E7%AB%9E%E8%B5%9B)
-- [数据](#%E6%95%B0%E6%8D%AE)
-- [教程](#%E6%95%99%E7%A8%8B)
-- [电子书/ebook](#%E7%94%B5%E5%AD%90%E4%B9%A6ebook)
-    - [小说](#%E5%B0%8F%E8%AF%B4)
-    - [诸子百家](#%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
-    - [中医](#%E4%B8%AD%E5%8C%BB)
-    - [天文](#%E5%A4%A9%E6%96%87)
-- [美好生活](#%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB)
-    - [知识分享社区](#%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E7%A4%BE%E5%8C%BA)
-    - [rss](#rss)
-    - [天气预报](#%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5)
-- [影视资源网站](#%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99)
-    - [综合](#%E7%BB%BC%E5%90%88)
-    - [music/音乐](#music%E9%9F%B3%E4%B9%90)
-    - [壁纸/wallpaper](#%E5%A3%81%E7%BA%B8wallpaper)
-    - [design](#design)
-    - [高清下载](#%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD)
-    - [美剧](#%E7%BE%8E%E5%89%A7)
-    - [漫画下载网站](#%E6%BC%AB%E7%94%BB%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99)
-    - [在线](#%E5%9C%A8%E7%BA%BF)
-    - [电视直播软件](#%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6)
-    - [资源搜索](#%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2)
-        - [day](#day)
-    - [ed2k](#ed2k)
-    - [游戏/Game](#%E6%B8%B8%E6%88%8Fgame)
-- [安全相关网站](#%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99)
-    - [CTF](#ctf)
-    - [Cyber Security](#cyber-security)
-        - [metasploit](#metasploit)
-- [opencode](#opencode)
-    - [opensource](#opensource)
-- [电子电路](#%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF)
-- [开源硬件](#%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6)
-- [机器人/Robotic](#%E6%9C%BA%E5%99%A8%E4%BA%BArobotic)
-- [论坛](#%E8%AE%BA%E5%9D%9B)
-- [软件](#%E8%BD%AF%E4%BB%B6)
-    - [在线工具](#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
-    - [API接口](#api%E6%8E%A5%E5%8F%A3)
-        - [天气](#%E5%A4%A9%E6%B0%94)
-    - [开发](#%E5%BC%80%E5%8F%91)
-        - [科研](#%E7%A7%91%E7%A0%94)
-    - [建站](#%E5%BB%BA%E7%AB%99)
-    - [文件传送](#%E6%96%87%E4%BB%B6%E4%BC%A0%E9%80%81)
-    - [图床](#%E5%9B%BE%E5%BA%8A)
-    - [前端](#%E5%89%8D%E7%AB%AF)
-    - [效率软件](#%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6)
-        - [Adobe 全家桶](#adobe-%E5%85%A8%E5%AE%B6%E6%A1%B6)
-        - [Free Open Source Windows Operating System Kernels Softwar](#free-open-source-windows-operating-system-kernels-softwar)
-        - [Android linux](#android-linux)
-        - [Microsoft](#microsoft)
-        - [ssh/终端/FTP文件管理工具](#ssh%E7%BB%88%E7%AB%AFftp%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-        - [远程管理](#%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86)
-        - [内网穿透](#%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F)
-        - [手机调试](#%E6%89%8B%E6%9C%BA%E8%B0%83%E8%AF%95)
-        - [网络相关工具](#%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7)
-        - [梯子/科学上网](#%E6%A2%AF%E5%AD%90%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
-        - [文本编辑器](#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8)
-        - [Office](#office)
-        - [邮箱客户端](#%E9%82%AE%E7%AE%B1%E5%AE%A2%E6%88%B7%E7%AB%AF)
-        - [笔记/知识管理](#%E7%AC%94%E8%AE%B0%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86)
-        - [安全](#%E5%AE%89%E5%85%A8)
-        - [效率](#%E6%95%88%E7%8E%87)
-        - [安装卸载工具](#%E5%AE%89%E8%A3%85%E5%8D%B8%E8%BD%BD%E5%B7%A5%E5%85%B7)
-        - [下载工具](#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
-        - [投屏](#%E6%8A%95%E5%B1%8F)
-        - [AI工具箱](#ai%E5%B7%A5%E5%85%B7%E7%AE%B1)
-        - [多媒体](#%E5%A4%9A%E5%AA%92%E4%BD%93)
-        - [虚拟机](#%E8%99%9A%E6%8B%9F%E6%9C%BA)
-        - [数据库管理工具](#%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
-        - [浏览器](#%E6%B5%8F%E8%A7%88%E5%99%A8)
-        - [反编译工具](#%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7)
-        - [压缩工具](#%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7)
-        - [js](#js)
-        - [IM/协同办公](#im%E5%8D%8F%E5%90%8C%E5%8A%9E%E5%85%AC)
-        - [版本控制](#%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
-        - [pdf阅读器/编辑器](#pdf%E9%98%85%E8%AF%BB%E5%99%A8%E7%BC%96%E8%BE%91%E5%99%A8)
-        - [桌面环境](#%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83)
-        - [模拟器](#%E6%A8%A1%E6%8B%9F%E5%99%A8)
-        - [Windows安装/部署工具](#windows%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7)
-        - [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-        - [PE](#pe)
-        - [硬件](#%E7%A1%AC%E4%BB%B6)
-        - [web服务](#web%E6%9C%8D%E5%8A%A1)
-        - [包管理器](#%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8)
-        - [常用cd虚拟光驱软件](#%E5%B8%B8%E7%94%A8cd%E8%99%9A%E6%8B%9F%E5%85%89%E9%A9%B1%E8%BD%AF%E4%BB%B6)
-        - [硬盘](#%E7%A1%AC%E7%9B%98)
-    - [Android](#android)
-- [百科](#%E7%99%BE%E7%A7%91)
-    - [地理](#%E5%9C%B0%E7%90%86)
-    - [博物馆](#%E5%8D%9A%E7%89%A9%E9%A6%86)
 
-<!-- /TOC -->
+1. [LordYao: FUTURE \& CIVILIZATION: Natural/Social Philosophy \& Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
+2. [License \& Copyright](#license--copyright)
+3. [Stargazers over time](#stargazers-over-time)
+4. [Lord Yao](#lord-yao)
+   1. [Social account](#social-account)
+   2. [主题页](#主题页)
+5. [版权保护](#版权保护)
+6. [服务](#服务)
+7. [常用](#常用)
+   1. [临时邮件](#临时邮件)
+   2. [Community/社区](#community社区)
+   3. [Docs](#docs)
+   4. [Fellows](#fellows)
+   5. [Organizations](#organizations)
+   6. [blog/一些不错的blog](#blog一些不错的blog)
+   7. [Code](#code)
+   8. [代码仓](#代码仓)
+   9. [云服务](#云服务)
+   10. [免费服务器](#免费服务器)
+   11. [Cloud Operating System](#cloud-operating-system)
+   12. [域名](#域名)
+   13. [DNS](#dns)
+   14. [静态网站生成器](#静态网站生成器)
+   15. [CDN](#cdn)
+   16. [网盘](#网盘)
+   17. [开源镜像](#开源镜像)
+   18. [AI/大模型](#ai大模型)
+       1. [智能体](#智能体)
+       2. [IDE](#ide)
+       3. [AI工具箱](#ai工具箱)
+       4. [自然语言处理](#自然语言处理)
+       5. [Machine Learning](#machine-learning)
+8. [哲学](#哲学)
+   1. [玄学](#玄学)
+9. [人文](#人文)
+10. [English news](#english-news)
+    1. [technews](#technews)
+    2. [Lab](#lab)
+11. [教育](#教育)
+    1. [高等教育](#高等教育)
+    2. [公开课](#公开课)
+    3. [英语](#英语)
+    4. [考试](#考试)
+    5. [竞赛](#竞赛)
+12. [数据](#数据)
+13. [教程](#教程)
+14. [电子书/ebook](#电子书ebook)
+    1. [小说](#小说)
+    2. [诸子百家](#诸子百家)
+    3. [中医](#中医)
+    4. [天文](#天文)
+15. [美好生活](#美好生活)
+    1. [知识分享社区](#知识分享社区)
+    2. [rss](#rss)
+16. [影视资源网站](#影视资源网站)
+    1. [综合](#综合)
+    2. [music/音乐](#music音乐)
+    3. [壁纸/wallpaper](#壁纸wallpaper)
+    4. [design](#design)
+    5. [高清下载](#高清下载)
+    6. [美剧](#美剧)
+    7. [漫画下载网站](#漫画下载网站)
+    8. [在线](#在线)
+    9. [电视直播软件](#电视直播软件)
+    10. [资源搜索](#资源搜索)
+        1. [day](#day)
+    11. [ed2k](#ed2k)
+    12. [游戏/Game](#游戏game)
+17. [安全相关网站](#安全相关网站)
+    1. [CTF](#ctf)
+    2. [Cyber Security](#cyber-security)
+       1. [metasploit](#metasploit)
+18. [opencode](#opencode)
+    1. [opensource](#opensource)
+19. [电子电路](#电子电路)
+20. [开源硬件](#开源硬件)
+21. [机器人/Robotic](#机器人robotic)
+22. [论坛](#论坛)
+23. [软件](#软件)
+    1. [在线工具](#在线工具)
+    2. [API接口](#api接口)
+       1. [天气](#天气)
+    3. [开发](#开发)
+    4. [科研](#科研)
+    5. [建站](#建站)
+    6. [文件传送](#文件传送)
+    7. [图床](#图床)
+    8. [前端](#前端)
+    9. [效率软件](#效率软件)
+       1. [Adobe 全家桶](#adobe-全家桶)
+       2. [Free Open Source Windows Operating System Kernels Softwar](#free-open-source-windows-operating-system-kernels-softwar)
+       3. [Android linux](#android-linux)
+       4. [Microsoft](#microsoft)
+       5. [ssh/终端/FTP文件管理工具](#ssh终端ftp文件管理工具)
+       6. [远程管理](#远程管理)
+       7. [内网穿透](#内网穿透)
+       8. [NAS](#nas)
+       9. [手机调试](#手机调试)
+       10. [网络相关工具](#网络相关工具)
+       11. [梯子/科学上网](#梯子科学上网)
+       12. [文本编辑器](#文本编辑器)
+       13. [Office](#office)
+       14. [邮箱客户端](#邮箱客户端)
+       15. [笔记/知识管理](#笔记知识管理)
+       16. [安全](#安全)
+           1. [hips](#hips)
+       17. [效率](#效率)
+       18. [安装卸载工具](#安装卸载工具)
+       19. [下载工具](#下载工具)
+       20. [投屏](#投屏)
+       21. [多媒体](#多媒体)
+       22. [虚拟机](#虚拟机)
+       23. [数据库管理工具](#数据库管理工具)
+       24. [浏览器](#浏览器)
+       25. [反编译工具](#反编译工具)
+       26. [压缩工具](#压缩工具)
+       27. [js](#js)
+       28. [IM/协同办公](#im协同办公)
+       29. [版本控制](#版本控制)
+       30. [pdf阅读器/编辑器](#pdf阅读器编辑器)
+       31. [桌面环境](#桌面环境)
+       32. [模拟器](#模拟器)
+       33. [Windows安装/部署工具](#windows安装部署工具)
+       34. [window换机](#window换机)
+       35. [操作系统](#操作系统)
+       36. [PE](#pe)
+       37. [硬件](#硬件)
+       38. [web服务](#web服务)
+       39. [包管理器](#包管理器)
+       40. [常用cd虚拟光驱软件](#常用cd虚拟光驱软件)
+       41. [硬盘](#硬盘)
+    10. [Android](#android)
+24. [百科](#百科)
+    1. [地理](#地理)
+    2. [博物馆](#博物馆)
+
 
 ## Lord Yao
-<a id="markdown-lord-yao" name="lord-yao"></a>
-
 
 <div class="search-inner-wrapper">
     <form action="https://www.bing.com/search" method="get">
@@ -178,10 +175,7 @@ https://yaoqs.github.io/
     </script>
 </div>
 
-### Social account
-<a id="markdown-social-account" name="social-account"></a>
-
-https://github.com/yaoqs
+### [Social account](https://github.com/yaoqs)
 
 [![gist](https://img.shields.io/badge/gist-ffffff?style=flat-square&logo=github&logoColor=black)](https://gist.github.com/yaoqs/)
 [![yaoqs.github.io](https://img.shields.io/badge/yaoqs.github.io-ffffff?style=flat-square&logo=Github&logoColor=black)](https://yaoqs.github.io/)
@@ -192,32 +186,37 @@ https://github.com/yaoqs
 
 [![ORCID](https://img.shields.io/badge/ORCID-Qingsheng_Yao-ffffff?style=flat-square&logo=ORCID&logoColor=ffffff)](https://orcid.org/0009-0007-8733-0625)
 
-### 主题页
-<a id="markdown-%E4%B8%BB%E9%A2%98%E9%A1%B5" name="%E4%B8%BB%E9%A2%98%E9%A1%B5"></a>
-
-https://yaoqs.github.io/Feature
+### [主题页](https://yaoqs.github.io/Feature)
 
 # resource navigator
-<a id="markdown-resource-navigator" name="resource-navigator"></a>
 
 
 ## 版权保护
-<a id="markdown-%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4" name="%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4"></a>
 
-
+- [国家知识产权公共服务平台](https://ggfw.cnipa.gov.cn/)
 - [中国版权保护中心](https://www.ccopyright.com.cn/)
 - [国家知识产权局-专利](https://www.cnipa.gov.cn/col/col1510/)
 
+## 服务
+
+- [全国标准信息公共服务平台](https://std.samr.gov.cn/)
+- [国家标准全文公开系统](https://openstd.samr.gov.cn/)
+- [中国裁判文书网](https://wenshu.court.gov.cn/)
+- [信用中国](https://www.creditchina.gov.cn/)
+- [中国人民银行征信中心](https://ipcrs.pbccrc.org.cn/)
+- [ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)
+
+- The IERS was established in 1987 by the International Astronomical Union and the International Union of Geodesy and Geophysics. According to the Terms of Reference, the IERS accomplishes its mission through the following components: Technique Centres, Product Centres, Combination Centres, Analysis Coordinator, Central Bureau, Directing Board. [IERS](https://www.iers.org/)
+
 ## 常用
-<a id="markdown-%E5%B8%B8%E7%94%A8" name="%E5%B8%B8%E7%94%A8"></a>
 
+### 临时邮件
 
+- 10分钟邮箱 <http://10minutemail.com/>
 - 临时邮箱、临时邮、临时电子邮箱、24小时邮箱 <http://24mail.chacuo.net/>
-- <https://www.ipaddress.com/>
+- [Cloudflare 临时邮件](https://mr.email/)
 
 ### Community/社区
-<a id="markdown-community%2F%E7%A4%BE%E5%8C%BA" name="community%2F%E7%A4%BE%E5%8C%BA"></a>
-
 
 - [gitter](https://gitter.im)
 - [stackoverflow](https://stackoverflow.com/)
@@ -227,14 +226,11 @@ https://yaoqs.github.io/Feature
 - [SegmentFault 思否](https://segmentfault.com/)
 
 ### Docs
-<a id="markdown-docs" name="docs"></a>
-
 
 - 金山文档
 - 腾讯文档
 
 ### Fellows
-<a id="markdown-fellows" name="fellows"></a>
 
 unsorted
 - [Linus Torvalds](https://github.com/torvalds)
@@ -252,8 +248,8 @@ unsorted
 - [Noteworthy](https://github.com/LordNoteworthy)
 - [陈皓（左耳朵耗子）](https://coolshell.cn) [csdn](https://blog.csdn.net/haoel) R.I.P
 
+- [中国区GitHub用户排行榜](https://china-ranking.aolifu.org/)
 ### Organizations
-<a id="markdown-organizations" name="organizations"></a>
 
 
 - [The Apache Software Foundation](https://github.com/apache)
@@ -273,7 +269,6 @@ unsorted
 - [MITMath](https://github.com/mitmath) educational materials for MIT math courses
 
 ### blog/一些不错的blog
-<a id="markdown-blog%2F%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84blog" name="blog%2F%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84blog"></a>
 
 - [42](https://yaoqs.github.io/42)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
@@ -301,16 +296,15 @@ unsorted
 - [Fourmilab](https://www.fourmilab.ch/)This site is developed and maintained by John Walker, founder of Autodesk, Inc. and co-author of AutoCAD. A variety of documents, images, software for various machines, and interactive Web resources are available here; click on entries in the frame to the left to display a table of contents for that topic. Items which span more than one category are listed in all.
 
 ### Code
-<a id="markdown-code" name="code"></a>
 
 - [leetcode](https://leetcode.com/)
 - [力扣](https://leetcode-cn.com/)
 
 ### 代码仓
-<a id="markdown-%E4%BB%A3%E7%A0%81%E4%BB%93" name="%E4%BB%A3%E7%A0%81%E4%BB%93"></a>
 
 
 - [Github](https://github.com/) 免费版支持无限私有仓库 (微软收购)
+- [linear.app](https://linear.app/) is a purpose-built tool for planning and building products. Meet the system for modern software development. Streamline issues, projects, and product roadmaps.
 - [BitBucket](https://bitbucket.org/) 免费版支持私有仓库
 - [gitlab](https://gitlab.com/) 免费版支持私有仓库
 - [gitee](https://gitee.com/) 免费版支持私有仓库 (国产 / 速度快)
@@ -326,7 +320,6 @@ unsorted
 - [CodePen](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ### 云服务
-<a id="markdown-%E4%BA%91%E6%9C%8D%E5%8A%A1" name="%E4%BA%91%E6%9C%8D%E5%8A%A1"></a>
 
 
 - [csdn云](https://dev.csdn.net)
@@ -340,7 +333,6 @@ unsorted
 - [vultr](https://www.vultr.com/)
 
 ### 免费服务器
-<a id="markdown-%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8" name="%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8"></a>
 
 - 国外：需要自备梯子
   - [Amazon](https://aws.amazon.com):  的首要云 Web 服务 AWS 分为三个产品：Elastic Compute Cloud (EC2)、Elastic Beanstalk 和 Lightsail。最后两个被设计为易于使用的平台，利用 EC2 提供的云计算资源。EC2 有一个免费套餐，可提供对有限资源集的完整访问权限，让您熟悉 AWS 的服务并根据您的具体需求对其进行配置。AWS 免费套餐包括 12 个月的访问权限，在此期间，您每月将获得 750 个计算小时。免费层附带的微型实例可以运行 Linux 或 Windows，适合中低性能需求
@@ -360,14 +352,12 @@ unsorted
   - 华为云: 华为云提供的免费试用服务，包括云服务器、云数据库、云函数计算、云对象存储、云消息通知、云容器服务等产品。用户可以申请试用期限为1个月、3个月、6个月、12个月。试用期间，用户可以免费使用产品，但不得用于生产环境。试用期间，用户可以获得产品的使用权，但不得用于商业用途。华为云的免费试用服务，适用于个人用户、小型企业、中型企业、大型企业。华为云企业用户，云服务器、云数据库产品每天9:30开放领取，其余产品每天0点开放领取；云产品体验名额有限，领完即止。
 
 ### Cloud Operating System
-<a id="markdown-cloud-operating-system" name="cloud-operating-system"></a>
 
 
 - [SealOS](https://sealos.io/) Kubernetes as the kernel Cloud Operating System.Abstracting the entire data center as a singular server, where everything is an application. You can use Sealos as seamlessly as operating a personal computer.
 - [sealos国内网站](https://sealos.run/)以 Kubernetes 为内核的云操作系统: Sealos。整个数据中心抽象成一台服务器，一切皆应用，像使用个人电脑一样使用 Sealos！
 
 ### 域名
-<a id="markdown-%E5%9F%9F%E5%90%8D" name="%E5%9F%9F%E5%90%8D"></a>
 
 - [cloudflare](https://dash.cloudflare.com)是一家全球最著名的 CDN 加速服务商，提供了免费和付费的网站加速和保护服务。即使是免费版，也提供了比较全面和强大的功能
 
@@ -389,7 +379,6 @@ unsorted
   - [EU.org](https://nic.eu.org/), free domain names since 1996
 
 ### DNS
-<a id="markdown-dns" name="dns"></a>
 - [免费公共 DNS 服务器大全](https://dns.icoa.cn/)
   - Google
     - Google IPv4 DNS
@@ -459,24 +448,31 @@ unsorted
 - [Google Hosts](https://dns.icoa.cn/googlehosts/) https://github.com/googlehosts/hosts
 
 ### 静态网站生成器
-<a id="markdown-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E7%94%9F%E6%88%90%E5%99%A8" name="%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E7%94%9F%E6%88%90%E5%99%A8"></a>
 
 - [jamstack](https://jamstack.org/):  Jamstack is an architectural approach that decouples the web experience layer from data and business logic, improving flexibility, scalability, performance, and maintainability.Jamstack removes the need for business logic to dictate the web experience.It enables a composable architecture for the web where custom logic and 3rd party services are consumed through APIs.
   - [site generators](https://jamstack.org/generators/): A List of Static Site Generators for Jamstack Sites
 
+- [hexo](https://hexo.io/) A fast, simple & powerful blog framework, powered by Node.js. [Github](https://github.com/hexojs/hexo)
+- [hugo](https://gohugo.io/) is one of the most popular open-source static site generators. [Github](https://github.com/gohugoio/hugo)
+
 ### CDN
-<a id="markdown-cdn" name="cdn"></a>
 
 
-- [jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source
+- ~~[jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source~~
 - [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
 - ~~[staticfile.org](https://www.staticfile.org/)~~供应链攻击风险较高，已被墙
 - ~~[bootcdn](https://www.bootcdn.cn/)~~供应链攻击风险较高，已被墙
-- [unpkg.com/](https://unpkg.com/) is a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL like:
-unpkg.com/:package@:version/:file
+- [unpkg.com/](https://unpkg.com/) is a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL like:unpkg.com/:package@:version/:file
+- cdn.bytedance.com：字节跳动静态资源公共库
+- cdn.baomitu.com：360 前端静态资源库（75CDN），无海外优化
+- cdn1.tianli0.top：个人运营的免费JSD镜像（详见此文：免费JSD镜像使用手册）
+- jsd.cdn.zzko.cn：由「ayao」提供的 jsDelivr 公益加速源，腾讯云CDN，有缓存1（GitHub Repo）
+- raw.iqiq.io：由「iQDNS/iQZone」提供的 GitHub (?) 公益加速源，无缓存（或时间很短）1
+- mirrors.sustech.edu.cn/cdnjs/：南方科技大学 cdnjs 镜像站，有境内外分流，境内分流似乎分流到南科大的服务器（位于深圳），境外302重定向到 cdnjs 源站
+- use.sevencdn.com：7ED CDNJS 加速服务，有境内外分流，境内分流到某境内 CDN 的各地区节点，境外似乎分流到 Cloudflare 网络（Vercel）
+- cdnjs.loli.net：同步 cdnjs 库， xTom 日本节点，有境内外分流，境外似乎分流到 Cloudflare 网络 （详见此文：前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务）
 
 ### 网盘
-<a id="markdown-%E7%BD%91%E7%9B%98" name="%E7%BD%91%E7%9B%98"></a>
 
 
 - **[alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)**
@@ -491,9 +487,10 @@ unpkg.com/:package@:version/:file
 - [夸克网盘](https://pan.quark.cn/)
 - [腾讯微云](https://www.weiyun.com/)
 - *[Webd](https://www.iplaysoft.com/webd.html) 是一款免费且极其轻量化的自建网盘工具！它的服务端仅 60+KB (不同系统有差异)，且无需安装任何依赖，不仅速度极快、资源占用也极低，堪称最小巧的 WEB 文件服务器程序。你可以借助 Webd 快速搭建文件下载网站 (将文件夹一键变成网盘网页)，使用任何浏览器都能进行查看、上传或下载文件，而且 webd 还支持用户权限管理，支持设置密码下载等功能。同时，它还跨平台支持 Windows、Linux，甚至还支持 OpenWRT (路由器)、Android 等设备…… <https://webd.cf/>*
+- [iFileSpace](https://ifile.space) - [免费简单实用的私人网盘搭建工具 (多平台/个人团队文件管理/Go开发)](https://www.iplaysoft.com/ifilespace.html).是一款 Go 语言开发的免费在线个人文件管理工具 (免费网盘架设程序)，你可以用它在 VPS 服务器或局域网电脑上快速一键搭建私人云盘。软件支持将用户的文件数据保存在本地存储，或者保存到后端对象存储服务去 如阿里云 OSS、华为云 OBS、OneDrive 等.
+- [微力同步](http://www.verysync.com/) - [跨平台文件同步软件 Resilio Sync 替代品 (电脑/手机/NAS)](https://www.iplaysoft.com/verysync.html)
 
 ### 开源镜像
-<a id="markdown-%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F" name="%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F"></a>
 
 
 - [网易开源镜像站](http://mirrors.163.com/)
@@ -510,20 +507,30 @@ unpkg.com/:package@:version/:file
 - [西安交通大学](http://mirrors.xjtu.edu.cn/)
 
 ### AI/大模型
-<a id="markdown-ai%2F%E5%A4%A7%E6%A8%A1%E5%9E%8B" name="ai%2F%E5%A4%A7%E6%A8%A1%E5%9E%8B"></a>
 
+- [DeepSeek](https://www.deepseek.com/)
+  - [被吹爆的 DeepSeek！拥有“东方神秘力量”强大推理能力的 ChatGPT 国产替代品](https://www.iplaysoft.com/deepseek.html):DeepSeek 是开源 AI 大模型的一个超级新星，用极低成本训练成世界级 AI 的壮举，一下把全球 AI 用户甚至是圈内大佬都震惊了，可谓是国产之光！它提供了 R1“深度思考”模型，支持联网搜索，不仅适用于日常的写作、翻译、问答，其出色的推理思考能力还让其在编程、解题、文献解读以及复杂问题规划等多种领域用途上表现亮眼！而 V3 模型则适合更广泛的应用场景。
 
 - Grok
 - ChatGPT
-- Google bard
+- [Google Bard (Gemini)](https://gemini.google.com/)
+  - [谷歌 Google Gemini 发布！号称超越 ChatGPT 3.5 的更强免费 AI (支持中文)](https://www.iplaysoft.com/google-gemini.html)
 - [Llama 2](https://ai.meta.com/llama/)The next generation of our open source large language model
 - [nVidia llama2](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/playground/models/llama2)
 - [讯飞开放平台](https://www.xfyun.cn/)
 - [讯飞星火认知大模型](https://xinghuo.xfyun.cn/)
-- 百度 文心一言
-- 阿里云 通义千问
-- Claude 3 可免费使用！并且已经脱离了之前的 Slack 平台，直接访问官网网页版即可使用！[全面超越 ChatGPT (GPT4) 的免费替代品！](https://www.iplaysoft.com/claude.html)
+- 百度 [文心一言](https://yiyan.baidu.com/)
+- 阿里云 [通义千问](https://tongyi.aliyun.com/)
+- Claude 3
+  - [Claude 3 注册使用教程 - 全面超越 ChatGPT (GPT4) 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html)可免费使用！并且已经脱离了之前的 Slack 平台，直接访问官网网页版即可使用！
 - [低调~ 免费无限白嫖 GPT4 方法！Coze 扣子 - 字节出品的超强 AI Bot 工具教程](https://www.iplaysoft.com/coze.html)
+- [kimi](https://kimi.moonshot.cn/)
+  - [Kimi (月之暗面 Moonshot AI) - 爆火的免费国产大模型 (超长文 / 兼容 ChatGPT API)](https://www.iplaysoft.com/moonshot-kimi.html)
+- [豆包](https://www.doubao.com/)：字节跳动旗下AI智能助手
+- [腾讯元宝](https://yuanbao.tencent.com/)
+- [纳米 AI](https://bot.n.cn/) 的知识库是一个功能比较完善的 AI 知识库，而且还有免费的 DeepSeek R1，对于需要基于自己知识库做查询、学习、问答、汇总的场景，都会比较有价值
+
+- [cline](https://app.cline.bot/)：Transform your engineering team with a fully collaborative AI partner. Open source, fully extensible, and built to amplify developer impact.
 
 - GitHub Copilot
 - [Biadu Comate](https://comate.baidu.com/) 已对个人用户开发者免费开放 [百度 Comate 代码 AI 编程助手 - 个人永久免费](https://www.iplaysoft.com/p/baidu-comate)
@@ -532,25 +539,56 @@ unpkg.com/:package@:version/:file
 - [Fitten Code](https://code.fittentech.com/): Your Professional AI Coding Assistant;[JavaScript AI 编程助手](https://www.runoob.com/js/fitten-code-js.html)
 - [MarsCode](https://www.marscode.cn/)豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力.[免费 AI 写代码工具！豆包 MarsCode 编程助手 - 国产 Copilot 替代品 (代码智能补全)](https://www.iplaysoft.com/marscode.html)
 
-- [边界AICHAT](https://tg.ai1foo.com/) 集百家AI模型于一身 [小众软件](https://www.appinn.com/aichat4-0/)
 
 - [TensorFlow](https://tensorflow.org/) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications. [GitHub](https://github.com/tensorflow/tensorflow)
 - [ChatALL](https://github.com/sunner/ChatALL) Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [BingGPT](https://github.com/dice2o/BingGPT) Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 
+- [Raphael AI](https://raphael.app/) 几秒钟内创建令人惊叹的AI生成图像,世界首个免费无限制AI图像生成器.
+
+网友分享的在不同任务场景选择的最佳模型：
+
+> - Gemini Flash 2.0 用于 OCR
+> - Sonnet 3.7 用于编程
+> - GPT-4o 用于写作
+> - o3-high 用于推理
+> - Flux Pro Ultra 用于图像生成
+> - 可灵 1.6 用于视频生成
+> - Eleven Labs 用于音频处理
+> - Gemini Flash 用于图像编辑
+> - GPT-4o 用于语音模式
+> - Deepseek R1 和通义千问，因为我们热爱开源
+
+#### 智能体
+- [manus](https://manus.im/) 一个开源的智能体编程语言，可以用来创建自己的智能体。
+- [OpenManus](https://github.com/mannaandpoem/OpenManus) An open-source framework for building general AI agents.
+- [Second Me](https://www.secondme.io/) Train your AI self, amplify you, bridge the world. [Github](https://github.com/mindverse/Second-Me)
+
+#### IDE
+
+- [Trae](https://www.trae.com.cn/)：AI原生IDE，slogan：致力于成为真正的 AI 工程师（The Real Al Engineer）。Trae 旗下新一代 AI 编程助手（原 MarsCode 编程助手），以插件形态集成在你的本地 IDE 之中，兼容性强、使用灵活。无需改变原有工作环境，即可轻松享受 AI 带来的全新协作开发体验。提供传统的 IDE 功能，包括代码编写、项目管理、插件管理、源代码管理等。
+- [Cursor](https://www.cursor.com/) AI 代码编辑器,旨在让你获得超凡的生产力，Cursor 是使用 AI 编写代码的最佳方式。
+
+#### AI工具箱
+
+- [ChatALL](https://github.com/ai-shifu/ChatALL) Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [边界AICHAT](https://tg.ai1foo.com/) 集百家AI模型于一身 [小众软件](https://www.appinn.com/aichat4-0/)
+- [Paper2GUI](https://xiaobaituai.com/) 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术.一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。 [on Github](https://github.com/Baiyuetribe/paper2gui)
+
+- [NoteGen](https://github.com/codexu/note-gen) is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+
+- [exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices.
+
 #### 自然语言处理
-<a id="markdown-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86" name="%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86"></a>
 
 
 - [我爱自然语言处理 I Love Natural Language Processing](https://www.52nlp.cn)
 
 #### Machine Learning
-<a id="markdown-machine-learning" name="machine-learning"></a>
 
 - [Machine-learning-Related](https://yaoqs.github.io/Machine-learning-Related/)
 
 ## 哲学
-<a id="markdown-%E5%93%B2%E5%AD%A6" name="%E5%93%B2%E5%AD%A6"></a>
 
 
 西方人通常指“爱智慧”或“智慧之学”，中国人解释为通晓事理、使人聪明的学问。哲学是关于世界观的学问，是理论化和系统化的世界观，任何哲学都是世界观与方法论的统一。哲学是关于自然知识、社会知识和思维知识的概括和总结，研究自然、社会和思维领域中最一般的规律，各具体科学则研究客观世界某一领域或某一局部的特殊规律.
@@ -573,14 +611,16 @@ unpkg.com/:package@:version/:file
 - 黑格尔是德国古典哲学的集大成者和唯心主义辩证法大师，他创立了庞大的客观唯心主义体系，在唯心主义的基础上全面、系统地阐述了辩证法。
 - 维特根斯坦（Ludwig Wittgenstein）《逻辑哲学论》（1921年）
 
-## 人文
-<a id="markdown-%E4%BA%BA%E6%96%87" name="%E4%BA%BA%E6%96%87"></a>
+### 玄学
+-  [dart_iztro](https://github.com/EdwinXiang/dart_iztro) :⭐A lightweight open-source dart library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的flutter开源库。
 
+- [TypeScript + Deepseek 打造卜卦网站：技术与玄学的结合](https://www.cnblogs.com/greywen/p/18761424)
+
+## 人文
 
 - [地图书编辑器](https://www.ditushu.com/di-map-editor/)：面向人文领域的专题地图绘制工具
 
 ## English news
-<a id="markdown-english-news" name="english-news"></a>
 
 
 - [人民日报英文](http://en.people.cn)
@@ -600,7 +640,6 @@ unpkg.com/:package@:version/:file
 - [NPR](https://www.npr.org/) - Breaking News, Analysis, Music, Arts & Podcasts : NPR
 
 ### technews
-<a id="markdown-technews" name="technews"></a>
 
 
 - [ACM TechNews](https://technews.acm.org/), providing timely information for IT professionals three times a week.
@@ -608,17 +647,19 @@ unpkg.com/:package@:version/:file
 - [奇客](https://www.solidot.org/)
 
 ### Lab
-<a id="markdown-lab" name="lab"></a>
 
 
 - [AMPLab](https://amplab.cs.berkeley.edu/) – UC Berkeley Algorithms, Machines and People Lab
 
 ## 教育
-<a id="markdown-%E6%95%99%E8%82%B2" name="%E6%95%99%E8%82%B2"></a>
 
+- [ClassIsland](https://classisland.tech) 一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。
+  - [GitHub](https://github.com/ClassIsland/ClassIsland)
+  - 丰富的信息显示功能
+  - 强大的课表管理系统：可以便捷地导入、编辑和调换课表。
+  - 提醒：ClassIsland 可以在上课、下课等重要时间点发出提醒。除此之外，ClassIsland支持使用一系列方法强调提醒效果。
 
 ### 高等教育
-<a id="markdown-%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2" name="%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2"></a>
 
 
 - [中国高等教育学生信息网（学信网）](https://www.chsi.com.cn/)
@@ -626,7 +667,6 @@ unpkg.com/:package@:version/:file
 - [研究生招生信息网_研招信息网_研招网_考研帮（kaoyan.com）](https://yz.kaoyan.com/)
 
 ### 公开课
-<a id="markdown-%E5%85%AC%E5%BC%80%E8%AF%BE" name="%E5%85%AC%E5%BC%80%E8%AF%BE"></a>
 
 
 - [慕课网-程序员的梦工厂](https://www.imooc.com/)
@@ -720,7 +760,6 @@ unpkg.com/:package@:version/:file
   - 台湾大学的[机器学习基石公开课](http://coursegraph.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%9F%BA%E7%9F%B3-machine-learning-foundations-coursera-ntumlone-national-taiwan-university): 機器學習基石 (Machine Learning Foundations)
 
 ### 英语
-<a id="markdown-%E8%8B%B1%E8%AF%AD" name="%E8%8B%B1%E8%AF%AD"></a>
 
 
 - [IELTS](https://www.ielts.org/) IELTS is the high stakes English test for international study, migration and work. Open a world of opportunity with IELTS.
@@ -728,15 +767,14 @@ unpkg.com/:package@:version/:file
 - [柯林斯词典](https://www.collinsdictionary.com/zh/)
 - [可可英语](http://www.kekenet.com/)-英语口语/英语听力/英语四级/英文歌曲/英语学习/英语听力下载
 - 雅思A类留学深造,雅思G类移民工作,[开源雅思](https://www.ieltsday.com/)-专注雅思A类与雅思G类的学习资源分享,涵盖听说读写各模块层级海量话题库、真题库、资料库!
+- [笨方法学英语](https://onlinestool.com/zh/tools/english-challenge)
 
 ### 考试
-<a id="markdown-%E8%80%83%E8%AF%95" name="%E8%80%83%E8%AF%95"></a>
 
 
 - [我要模考](http://www.51mokao.com/)
 
 ### 竞赛
-<a id="markdown-%E7%AB%9E%E8%B5%9B" name="%E7%AB%9E%E8%B5%9B"></a>
 
 
 - [acm国际大学生程序设计竞赛](http://acm.cumt.edu.cn/)
@@ -745,18 +783,17 @@ unpkg.com/:package@:version/:file
 - Google Summer of Code
   - [LLVM Google Summer of Code 2024 & 2023](https://blog.llvm.org/posts/2024-02-26-gsoc/)
 - [全国高校密码数学挑战赛](http://www.cmsecc.com/)是面向全国大学生的一项公益性科技活动，旨在通过挑战赛的形式精准地发现和及早培养在数学、密码和网络安全领域有特殊才能的创新型人才，以满足国家发展需求；推动高校应用数学及交叉学科课程的教学内容和教学方法的改革；强化大学生的创新意识，提升大学生应用数学知识解决实践问题的能力，培养团队合作精神。
+- [信息安全与对抗技术竞赛（ISCC：Information Security and Countermeasures Contest）](https://www.isclab.org.cn/)
 
 ## 数据
-<a id="markdown-%E6%95%B0%E6%8D%AE" name="%E6%95%B0%E6%8D%AE"></a>
 
-
+- [国家数据局](https://www.nda.gov.cn/sjj/index_pc.html)
+- [国家公共数据资源登记平台](https://sjdj.nda.gov.cn/)
 - [官方权威统计数据](https://github.com/yiliyassh/authority-data) 统计年签，统计公报，互联网行业报告，工信部数据，ICT报告等 Official authoritative data (Chinese)
 - 全球贸易数据分析 网址：<http://globe.cid.harvard.edu/>这个网站可以看到全球每一个国家在贸易方面的数据
-- OEC.world 网址：<https://oec.world/>
-查询每个国家或地区的贸易数据，并用图文进行通俗解释
+- OEC.world 网址：<https://oec.world/> 查询每个国家或地区的贸易数据，并用图文进行通俗解释
 
 ## 教程
-<a id="markdown-%E6%95%99%E7%A8%8B" name="%E6%95%99%E7%A8%8B"></a>
 
 
 - [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
@@ -769,7 +806,6 @@ unpkg.com/:package@:version/:file
 - [Programming DIY / Blog about programming for beginners and beyond](https://demin.ws/english/)
 
 ## 电子书/ebook
-<a id="markdown-%E7%94%B5%E5%AD%90%E4%B9%A6%2Febook" name="%E7%94%B5%E5%AD%90%E4%B9%A6%2Febook"></a>
 
 
 - [O’Reilly](https://www.oreilly.com/) [cn](http://www.oreilly.com.cn/)
@@ -858,7 +894,6 @@ unpkg.com/:package@:version/:file
 - **[SaltTiger](https://salttiger.com/): 每天一本编程书，每天进步一点点. 这里有一些最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式免费下载，持续更新中。[网站RSS](https://salttiger.com/feed/)**
 
 ### 小说
-<a id="markdown-%E5%B0%8F%E8%AF%B4" name="%E5%B0%8F%E8%AF%B4"></a>
 
 
 - [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
@@ -875,7 +910,6 @@ unpkg.com/:package@:version/:file
 - [魔笔小说](https://www.mobinovels.com)
 
 ### 诸子百家
-<a id="markdown-%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6" name="%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6"></a>
 
 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
@@ -887,7 +921,6 @@ unpkg.com/:package@:version/:file
 - [经典文学网](http://www.ccview.net/)
 
 ### 中医
-<a id="markdown-%E4%B8%AD%E5%8C%BB" name="%E4%B8%AD%E5%8C%BB"></a>
 
 
 - [A+](http://www.a-hospital.com)医学百科是一个开放的在线医学百科全书网站
@@ -895,60 +928,36 @@ unpkg.com/:package@:version/:file
 - [汉唐中医倪海厦网站-倪海厦](https://www.jingfangjia.cn/) 介绍了倪海厦个人资料及简介，分享人纪中医，天纪紫薇斗数+易经知识，提供书籍，视频，电子书，讲义，软件等辅助学习品。
 
 ### 天文
-<a id="markdown-%E5%A4%A9%E6%96%87" name="%E5%A4%A9%E6%96%87"></a>
 
 - [Stellarium](https://stellarium.org/zh_CN/) 是一款开源的天象模拟软件。它以3D形式展示了极为逼真的星空，就像你在真实世界使用裸眼，双筒望远镜或天文望远镜看到的一样。
   - [web](https://stellarium-web.org/)
 
 ## 美好生活
-<a id="markdown-%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB" name="%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB"></a>
-
-- [中国裁判文书网](https://wenshu.court.gov.cn/)
-- [信用中国](https://www.creditchina.gov.cn/)
-- [中国人民银行征信中心](https://ipcrs.pbccrc.org.cn/)
-- [ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)
 
 ### 知识分享社区
-<a id="markdown-%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E7%A4%BE%E5%8C%BA" name="%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E7%A4%BE%E5%8C%BA"></a>
 
 - [Quora](https://www.quora.com/) - Your Best Source for Knowledge
 - [知乎](https://www.zhihu.com) - 知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。
 - [Discord](https://discord.com/) - 专为游戏和快乐打造的群聊
 
 ### rss
-<a id="markdown-rss" name="rss"></a>
 
-
+- [RSSHub](https://docs.rsshub.app/) RSSHub is the world's largest RSS network, consisting of over 5,000 global instances.RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes
+  - [GitHub](https://github.com/DIYgod/RSSHub)🧡 Everything is RSSible
+- [Follow](https://follow.is) Next-Gen Information Browser[新一代互联网订阅利器 (无邀请码)！RSS 阅读器进化版 (万物皆可订阅追更)](https://www.iplaysoft.com/follow-app.html)
+  - [github](https://github.com/RSSNext/Follow)
 - [摸摸鱼热榜](https://momoyu.cc/) 摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！
 
-### 天气预报
-<a id="markdown-%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5" name="%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5"></a>
-
-
-- yaoqs
-- [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
-- [wego](https://github.com/schachmat/wego)  is a weather client for the terminal.
-- [实时地球](https://zoom.earth/) 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
-- [全球天气](https://earth.nullschool.net/) 一个全球天气状况的视觉化网站
-- [彩云天气 API 一览表](https://open.caiyunapp.com/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94_API_%E4%B8%80%E8%A7%88%E8%A1%A8):TAkhjf8d1nlSlspN 是个例子，请使用你的 token
-  - 通用预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/weather.json
-  - 实况天气接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/realtime.json
-  - 分钟级降雨预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/minutely.json
-  - 小时级预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/hourly.json
-  - 天级预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/daily.json
 
 ## 影视资源网站
-<a id="markdown-%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99" name="%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99"></a>
 
 
 ### 综合
-<a id="markdown-%E7%BB%BC%E5%90%88" name="%E7%BB%BC%E5%90%88"></a>
 
 
 - [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
 ### music/音乐
-<a id="markdown-music%2F%E9%9F%B3%E4%B9%90" name="music%2F%E9%9F%B3%E4%B9%90"></a>
 
 
 - [Tree.FM – 收听世界各地的森林之音](https://www.tree.fm)
@@ -962,7 +971,6 @@ unpkg.com/:package@:version/:file
 收集了很多过了版权保护期的音乐作品，按一下按钮，就会随机播放一段音乐
 
 ### 壁纸/wallpaper
-<a id="markdown-%E5%A3%81%E7%BA%B8%2Fwallpaper" name="%E5%A3%81%E7%BA%B8%2Fwallpaper"></a>
 
 
 - [极简壁纸](https://bz.zzzmh.cn) 海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站
@@ -970,7 +978,6 @@ unpkg.com/:package@:version/:file
 - [backiee 壁纸库](https://backiee.com) 海量壁纸，支持全平台客户端
 
 ### design
-<a id="markdown-design" name="design"></a>
 
 
 - [『Leica中文摄影杂志』](http://www.leica.org.cn/)
@@ -981,7 +988,6 @@ unpkg.com/:package@:version/:file
 - [Alphadesigner](https://alphadesigner.com/)
 
 ### 高清下载
-<a id="markdown-%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD" name="%E9%AB%98%E6%B8%85%E4%B8%8B%E8%BD%BD"></a>
 
 
 - [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
@@ -996,7 +1002,6 @@ unpkg.com/:package@:version/:file
 - [电影天堂](https://www.dygod.net/)
 
 ### 美剧
-<a id="markdown-%E7%BE%8E%E5%89%A7" name="%E7%BE%8E%E5%89%A7"></a>
 
 
 - [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
@@ -1007,7 +1012,6 @@ unpkg.com/:package@:version/:file
 - 字幕下载：   <http://zimuku.org/>
 
 ### 漫画下载网站
-<a id="markdown-%E6%BC%AB%E7%94%BB%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99" name="%E6%BC%AB%E7%94%BB%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99"></a>
 
 
 - <http://m.vol.moe/>
@@ -1020,7 +1024,6 @@ unpkg.com/:package@:version/:file
 - VCB-Studio - 大家一起实现的故事！<https://vcb-s.com>BD 动画下载，收藏级
 
 ### 在线
-<a id="markdown-%E5%9C%A8%E7%BA%BF" name="%E5%9C%A8%E7%BA%BF"></a>
 
 
 - [gimy](https://gimy.ai/)
@@ -1032,19 +1035,18 @@ unpkg.com/:package@:version/:file
   - 备用 4 ： YaNaiFei.com
 - [酷绘视频 - 轻松随心看](http://www.kuhuiv.com/)
 - [茶杯狐](https://cupfox.app/)
+  - <https://www.youmidian.com/>
 - [白嫖者联盟](https://www.bpzhe.com/)
 - [Netflix影视](https://www.tvfans.top/) Netflix影视每天每集海量高清电影免费在线观看，追剧零时差。内容丰富多元，涵盖电视连续剧、电影、综艺、动漫、娱乐等优质影视节目，观众可以在线观看港台剧、日韩剧、国产剧、欧美剧等热门剧目。影音视频播放清晰流畅，操作界面简单友好，真正为用户带来最舒适顺畅的线上观看体验。
 - [星空影院](http://www.pc120.net.cn/)
 - [一站影视](https://www.one-site-movie.fun/)
 
 ### 电视直播软件
-<a id="markdown-%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6" name="%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6"></a>
 
 
 - [my-tv](https://lyrics.run/my-tv.html)我的电视 电视直播软件，安装即可使用 [github](https://github.com/lizongying/my-tv)
 
 ### 资源搜索
-<a id="markdown-%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2" name="%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2"></a>
 
 
 - 海盗湾 The Pirate Bay:
@@ -1063,15 +1065,13 @@ unpkg.com/:package@:version/:file
 - 学霸盘<https://www.alipansou.com>百度网盘搜索
 - [磁力天堂 一个好用的磁力资源导航网站，一站在手资源我有!](https://btlm.cc/)
 
-#### 0day
-<a id="markdown-day" name="day"></a>
+#### day
 
 
 - <https://www.0daymusic.biz>
 - W0day.org
 
 ### ed2k
-<a id="markdown-ed2k" name="ed2k"></a>
 
 
 - ~~[ED2000资源共享,电驴下载,eD2k,BT种子](https://www.ed2000.com/)~~
@@ -1090,7 +1090,6 @@ unpkg.com/:package@:version/:file
 ```
 
 ### 游戏/Game
-<a id="markdown-%E6%B8%B8%E6%88%8F%2Fgame" name="%E6%B8%B8%E6%88%8F%2Fgame"></a>
 
 
 - [独立精神 indienova 独立游戏](https://indienova.com/)
@@ -1098,10 +1097,13 @@ unpkg.com/:package@:version/:file
 - [NetHack](https://nethack.org) is a single player dungeon exploration game that runs on a wide variety of computer systems, with a variety of graphical and text interfaces all using the same game engine. Unlike many other Dungeons & Dragons-inspired games, the emphasis in NetHack is on discovering the detail of the dungeon and not simply killing everything in sight - in fact, killing everything in sight is a good way to die quickly. Each game presents a different landscape - the random number generator provides an essentially unlimited number of variations of the dungeon and its denizens to be discovered by the player in one of a number of characters: you can pick your race, your role, and your gender. [Guidebook](https://nethack.org/v367/Guidebook.html).
 
 ## 安全相关网站
-<a id="markdown-%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99" name="%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99"></a>
 
+- [信息系统及安全对抗实验中心(ISSCEC)](https://www.isclab.org.cn/)
+- [Follow list](https://app.follow.is/share/lists/124749313022318592)
+- [SecLists.Org](https://seclists.org/) Security Mailing List Archive
 
 - [看雪](https://bbs.pediy.com)
+- [断点社区](https://www.bpsend.net/)-专业的老牌游戏安全技术交流社区-专注游戏安全
 - [52破解](https://www.52pojie.cn/)
 - [网络安全焦点](http://www.xfocus.net/)::自由的信息安全、黑客攻防和漏洞研究组织
 - [x-ways](https://www.x-ways.net/index-c.html) Software for Computer Forensics, Data Recovery, and IT Security
@@ -1113,7 +1115,16 @@ unpkg.com/:package@:version/:file
 - [绿盟](https://www.nsfocus.com.cn/)
 - [SecWiki](https://www.sec-wiki.com/)安全维基,汇集国内外优秀安全资讯、工具和网站
 - [安全客](https://www.anquanke.com/)
+- [Malware analysis, news, and indicators](https://malware.news/)
+- [Freebuf](https://www.freebuf.com/)
+- [Fresh hacks every day](https://hackaday.com/)
+- [Firefox hacks](https://hacks.mozilla.org/)
+- [Google online security blogs](http://security.googleblog.com/)
 - [驱动程序开发网技术社区](http://driverdevelop.com/)
+- [微软安全更新程序指南](https://msrc.microsoft.com/update-guide/)
+- [微软安全中心](https://www.microsoft.com/zh-cn/security)
+- [hex-rays blog](https://hex-rays.com/blog) In-depth tutorials and the best quality resources for IDA.
+- [IDA Pro Tutorials](https://www.hex-rays.com/tutorials/)
 
 - [nmap](https://nmap.org/)
 - [NirSoft](https://www.nirsoft.net/) web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
@@ -1135,8 +1146,8 @@ unpkg.com/:package@:version/:file
 - 红客基地
 - [合天网安实验室](https://www.hetianlab.com/)-国内大型MOOE在线实验室
 - [i春秋网络安全培训学院](https://www.ichunqiu.com/)-网络安全工程师培训网站提供网络信息安全教程、知识、技术、服务的平台-培育信息时代的安全感
-- [OSRONLINE](http://www.osronline.com/) is OSR's Legacy Community Site.For information about our OSR's seminars and services, please visit our Corporate site at <http://www.osr.com.Everything> Windows Driver Development
-- 软件安全 信息安全 网络安全 漏洞挖掘 - 《[软件安全](http://www.sinoit.org.cn/)》电子期刊
+- [OSRONLINE](http://www.osronline.com/)
+- ~~软件安全 信息安全 网络安全 漏洞挖掘 - 《[软件安全](http://www.sinoit.org.cn/)》电子期刊~~
 - [漏洞人生](https://www.vuln.cn/)
 
 - Windows安全工具锦集
@@ -1144,17 +1155,18 @@ unpkg.com/:package@:version/:file
 - [软件逆向入门导航](https://bbs.kanxue.com/thread-31840.htm)
 - <https://www.accessroot.com/>
 
-### CTF
-<a id="markdown-ctf" name="ctf"></a>
+- [offensive-security/exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits)This is the official repository of [The Exploit Database](http://www.exploit-db.com/), a project sponsored by [Offensive Security](https://www.offensive-security.com/).The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. Its aim is to serve as the most comprehensive collection of exploits gathered through direct submissions, mailing lists, and other public sources, and present them in a freely-available and easy-to-navigate database. The Exploit Database is a repository for exploits and proof-of-concepts rather than advisories, making it a valuable resource for those who need actionable data right away.This repository is updated daily with the most recently added submissions. Any additional resources can be found in our [binary sploits repository](https://github.com/offensive-security/exploit-database-bin-sploits).The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb-bin-sploits
 
+
+### CTF
 
 - [看雪CTF](https://ctf.pediy.com/)
 - [攻防世界](https://adworld.xctf.org.cn/)
 - [入门CTF - CTF论坛](https://www.bugku.com/) BugkuCTF论坛，入门CTF训练平台，拥有数量庞大的题库，不断更新各类CTF题目，题目难易度均衡，适合各阶段网络安全爱好者。
 - [CTFever](https://ctfever.uniiem.com) - A Toolkit for CTF fevers. [github](https://github.com/UniiemStudio/CTFever)
+- [信息安全与对抗技术竞赛（ISCC：Information Security and Countermeasures Contest）](https://www.isclab.org.cn/)
 
 ### Cyber Security
-<a id="markdown-cyber-security" name="cyber-security"></a>
 
 
 - [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
@@ -1163,9 +1175,9 @@ unpkg.com/:package@:version/:file
 - [The Honeynet Project](https://www.honeynet.org/) is a leading international 501(c)(3) non-profit security research organization, dedicated to investigating the latest attacks and developing open source security tools to improve Internet security. With chapters around the world, our volunteers have contributed to fight against malware (such as Confickr), discovering new attacks and creating security tools used by businesses and government agencies all over the world.
   - [The Honeynet Project Workshop 2024](https://www.honeynet.org/2023/12/07/the-honeynet-project-workshop-2024-in-copenhagen-denmark/)
 - Founded in 1997, [Black Hat](https://www.blackhat.com) is an internationally recognized cybersecurity event series providing the most technical and relevant information security research. Grown from a single annual conference to the most respected information security event series internationally, these multi-day events provide the security community with the latest cutting-edge research, developments, and trends.
+- https://securityaffairs.com/
 
 #### metasploit
-<a id="markdown-metasploit" name="metasploit"></a>
 
 
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) <https://www.metasploit.com/>
@@ -1173,7 +1185,6 @@ unpkg.com/:package@:version/:file
 - [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
 ## opencode
-<a id="markdown-opencode" name="opencode"></a>
 
 
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
@@ -1201,7 +1212,6 @@ unpkg.com/:package@:version/:file
 - [月光软件站](https://www.moon-soft.com/)-专业的技术开发编程源代码网站,提供:php,asp,vb等源程序代码下载及编程指南,开发文档等
 
 ### opensource
-<a id="markdown-opensource" name="opensource"></a>
 
 
 - [Cygwin](https://www.cygwin.com/) [中文站点](http://www.cygwin.cn/)
@@ -1232,7 +1242,6 @@ unpkg.com/:package@:version/:file
   - SUSE Linux Enterprise
 
 ## 电子电路
-<a id="markdown-%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF" name="%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF"></a>
 
 
 - [EDN](https://www.edn.com/) is an electronics community for engineers, by engineers, with the information, tools, courses, and professional connections you need to get your job done and get your ideas from concept to reality as quickly as possible.
@@ -1240,7 +1249,6 @@ unpkg.com/:package@:version/:file
 - [电子发烧友网](https://www.elecfans.com/)：领先的电子工程师技术社区，为工程师创造价值。电子发烧友网 联手全球半导体产业领先企业，为中国电子研发工程师及开发者，提供全面的技术、产业和供应链资讯和在线社区交流服务的平台。
 
 ## 开源硬件
-<a id="markdown-%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6" name="%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6"></a>
 
 
 - [Arduino](https://www.arduino.cc/)
@@ -1251,13 +1259,11 @@ unpkg.com/:package@:version/:file
 - [.NET nanoFramework](https://www.nanoframework.net/): makes it easy for C# developers to write embedded applications on microcontrollers units (MCU) with the tools, debugging and features they are used to.This is a free and Open-Source platform for constrained embedded devices. As a developer, you can use your powerful and familiar tools like Microsoft Visual Studio IDE and your .NET C# skills to write code on a microcontroller. Partners offer support and services for professional and commercial users. And some Hardware Manufacturers offer premium support .NET nanoFramework.We have ports for several STM32 series, ESP32, M5Stack, TI, NXP and more are coming.[GitHub](https://github.com/nanoframework)
 
 ## 机器人/Robotic
-<a id="markdown-%E6%9C%BA%E5%99%A8%E4%BA%BA%2Frobotic" name="%E6%9C%BA%E5%99%A8%E4%BA%BA%2Frobotic"></a>
 
 
 - [Robocode](https://robocode.sourceforge.io/) is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java. The robot battles are running in real-time and on-screen. [Build the best - destroy the rest!](https://github.com/robo-code/robocode)
 
 ## 论坛
-<a id="markdown-%E8%AE%BA%E5%9D%9B" name="%E8%AE%BA%E5%9D%9B"></a>
 
 
 - [硬盘基地](https://www.intohard.com/)
@@ -1267,7 +1273,6 @@ unpkg.com/:package@:version/:file
 - [卡饭论坛](https://bbs.kafan.cn)
 
 ## 软件
-<a id="markdown-%E8%BD%AF%E4%BB%B6" name="%E8%BD%AF%E4%BB%B6"></a>
 
 
 - [MAC萌新网](https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
@@ -1298,7 +1303,6 @@ unpkg.com/:package@:version/:file
   - [Universal Extractor](https://www.legroom.net/software/uniextract)
 
 ### 在线工具
-<a id="markdown-%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7" name="%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7"></a>
 
 
 - [帮小忙, 万能工具宝藏](https://tool.browser.qq.com/) 腾讯出品，轻松办公，工具助你一臂之力。功能一应俱全、简单好用的线上工具宝
@@ -1319,9 +1323,21 @@ unpkg.com/:package@:version/:file
 - html2markdown
 - [开发者武器库](https://devtool.tech/)
 - [MyIP - A Better IP Toolbox](https://github.com/jason5ng32/MyIP)Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。 [demo](https://ipcheck.ing/)
+- [ip.im](https://ip.im/) online free ip address lookup tool
+<a href="https://ip.im">  <img src="https://ip.im/img" alt="My IP Address" width="215" height="70" /></a>
+```
+curl ip.im
+curl ipv4.im
+curl ip.im/info
+curl ip.im/8.8.8.8
+```
+
+- [w.is](https://w.is/) whois lookup tool
+- [dns.is](https://dns.is/) Querying DNS Resolution Results in Different Regions Worldwide.
+
+- [在线生成透明ICO图标](https://www.ico51.cn/)
 
 ### API接口
-<a id="markdown-api%E6%8E%A5%E5%8F%A3" name="api%E6%8E%A5%E5%8F%A3"></a>
 
 - [awesome-console-services](https://github.com/chubin/awesome-console-services): A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
@@ -1329,11 +1345,19 @@ unpkg.com/:package@:version/:file
 - DeepLX 是一个开源项目，它基于 DeepL 免费服务，将其转换为本地 API，提供给第三次程序使用，如沉浸式翻译、BOb。DeepLX 在 [GitHub](https://github.com/OwO-Network/DeepLX/) 开源，不限制请求次数（但 DeepL 可能会限制 IP）默认情况下监听本地 1188 端口。DeepL 本身提供了免费的有额度限制的 API，但注册很困难，如果你能注册到，那么直接使用官方 API 即可。
 
 #### 天气
-<a id="markdown-%E5%A4%A9%E6%B0%94" name="%E5%A4%A9%E6%B0%94"></a>
 
-
+- [yaoqs](https://yaoqs.github.io/Lab)
+- [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
+- [wego](https://github.com/schachmat/wego)  is a weather client for the terminal.
+- [实时地球](https://zoom.earth/) 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+- [全球天气](https://earth.nullschool.net/) 一个全球天气状况的视觉化网站
+- [彩云天气 API 一览表](https://open.caiyunapp.com/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94_API_%E4%B8%80%E8%A7%88%E8%A1%A8):TAkhjf8d1nlSlspN 是个例子，请使用你的 token
+  - 通用预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/weather.json
+  - 实况天气接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/realtime.json
+  - 分钟级降雨预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/minutely.json
+  - 小时级预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/hourly.json
+  - 天级预报接口：https://api.caiyunapp.com/v2.5/TAkhjf8d1nlSlspN/121.6544,25.1552/daily.json
 - [天地图](https://www.tianditu.gov.cn/) 国家地理信息公共服务平台 天地图
-- wttr.in
 - [更友好的全球化天气预报API接口](http://tianqiapi.com/)
   - [免费实时天气预报api接口](https://cloud.tencent.com/developer/article/2421349)
   - [微信小程序仿ios天气app 天气预报源码分享](https://blog.csdn.net/qq_38832501/article/details/124094699)
@@ -1347,19 +1371,26 @@ unpkg.com/:package@:version/:file
   - [天气现象表](https://lbs.amap.com/api/webservice/guide/tools/weather-code)
 
 ### 开发
-<a id="markdown-%E5%BC%80%E5%8F%91" name="%E5%BC%80%E5%8F%91"></a>
 
 
 - [aardio](https://www.aardio.com/) 桌面软件开发。属于易用性极强的动态语言，但也是一种混合语言，可以罕见地、非常方便地操作静态类型，因此可以直接调用 C语言、C++ 等等静态语言的 API 接口函数( 不需要像VB那样先声明API )，aardio 可以支持非常多的API调用约定，**胶水能力极强**。可以嵌入非常多的浏览器控件，也提供可视化开发工具，可以方便地通过拖拉传统控件创建程序，也可以用于开发网站，aardio 可以直接支持与 PHP 类似的 HTML 模板语法，提供语言级别的模板解析...
 - [Visual Studio](https://visualstudio.microsoft.com)
 - [Visual Studio Code](https://code.visualstudio.com/)  轻量级的文件格式化编辑器，支持 XML 与JSON 等多种文件。
+- [Cursor](https://www.cursor.com/) AI 代码编辑器,旨在让你获得超凡的生产力，Cursor 是使用 AI 编写代码的最佳方式。
+- [Lapce](https://lap.dev/lapce/) Lightning-fast and Powerful Code Editor written in Rust. [Github](https://github.com/lapce/lapce)
+- [micro](https://micro-editor.github.io/) is A modern and intuitive terminal-based text editor
 - [Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/)
+- [InsCode](https://inscode.csdn.net/)让你的灵感快速落地！InsCode 是一个无需安装的编程、协作和分享社区。
+- An IDE built on top of a canvas, [Haystack](https://haystackeditor.com/) takes care of the tedious and confusing parts of coding for you.Navigate and refactor your code with ease.[github](https://github.com/haystackeditor/haystack-editor)
 - [Visual Assist](https://www.wholetomato.com/)
 - [Visual Leak Detector for Visual C++ 2019](https://github.com/oneiric/vld)
 - [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 - [JetBrains](https://www.jetbrains.com) 软件开发人员和团队的必备工具 [JetBrains on GitHub](https://github.com/JetBrains) [全家桶可以说是当今最受程序员青睐的开发编程 IDE 系列工具之一了，旗下的 IntelliJ IDEA、PhpStorm、PyCharm、WebStorm、CLion 等都是业界一流的编程软件。](https://www.iplaysoft.com/jetbrains.html)系列软件包含了 IntelliJ IDEA (Java)、PyCharm (Python)、PhpStorm (PHP)、WebStorm (JavaScript / 网页)、GoLand (Go)、CLion (C/C++)、AppCode (iOS / Mac)、DataGrip (SQL)、RubyMine (Ruby)、Rider (.NET) 等多款专业级 IDE 开发工具
+  - [WebStorm](https://www.jetbrains.com/webstorm/)是 JetBrains 旗下专为 JavaScript 及 Web 相关技术栈开发的 IDE 集成开发环境。不仅支持 JS、TypeScript、Node.js 还对 HTML 和 CSS 等前端技术提供了强大的支持。WebStorm 强大之处在于其整合了智能的代码补全、实时错误检查、强大的调试工具以及方便的重构功能。这些先进的功能让开发者能够更加高效地一站式完成项目，提升了开发体验。同时，JetBrains 系列的开发工具与 VSCode 一样，跨平台支持 Windows、Mac、Linux 系统，同时都拥有相当丰富的第三方插件可使用。以常用的豆包 MarsCode、百度文心快码等 AI 智能代码助手插件为例，它们都有提供 JetBrains 版本的插件，在插件生态上还是很丰富的。WebStorm 还与当前流行的框架如 React、Vue 和 Angular 深度集成，此外，Git、GitHub 等版本控制工具的无缝对接也为开发者提供了极大的便利。无论你是前端开发还是全栈开发，WebStorm 都是一个不可或缺的工程利器。
+  - [Rider](https://www.jetbrains.com/rider/)是一款功能强大的 .NET 和游戏开发 IDE 工具，能够在 Windows、macOS 和 Linux 各大平台上帮助您进行 .NET、ASP.NET、.NET Core、Xamarin、Unity、虚幻引擎的应用程序开发。
 - [ReSharper C++](https://www.jetbrains.com/resharper-cpp/) The Visual Studio Extension for C++ Developers
 - [Qt](https://www.qt.io/)
+  - [QCustomPlot](https://www.qcustomplot.com/) is a Qt C++ widget for plotting and data visualization. It has no further dependencies and is well documented. This plotting library focuses on making good looking, publication quality 2D plots, graphs and charts, as well as offering high performance for realtime visualization applications. Have a look at the Setting Up and the Basic Plotting tutorials to get started.QCustomPlot can export to various formats such as vectorized PDF files and rasterized images like PNG, JPG and BMP. QCustomPlot is the solution for displaying of realtime data inside the application as well as producing high quality plots for other media.
 - [uni-app](https://uniapp.dcloud.net.cn/) A cross-platform framework using Vue.js 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。[github](https://github.com/dcloudio/uni-app)
   - [HBuilderX](https://www.dcloud.io/hbuilderx.html)
 - [NasmIDE](https://sourceforge.net/projects/nasmide/)
@@ -1407,8 +1438,10 @@ unpkg.com/:package@:version/:file
     - VisualHDL is an IDE for rapid development for FPGAs. It supports THDL++ - a C++-like language inheriting fully parallel semantics from VHDL We use VisualHDL internally to develop massively parallel FPGA-accelerated solutions with the productivity and flexibility of C++ software.
     - Windows Service Manager is a small tool that simplifies all common tasks related to Windows services. It can create services (both Win32 and Legacy Driver) without restarting Windows, delete existing services and change service configuration. It has both GUI and Command-line modes. It can also be used to run arbitrary Win32 applications as services (when such service is stopped, main application window is closed automatically). SrvMan works on both x86 and x64 machines.
 
-#### 科研
-<a id="markdown-%E7%A7%91%E7%A0%94" name="%E7%A7%91%E7%A0%94"></a>
+- [RenderDoc](https://renderdoc.org/)是一种图形调试器，目前可用于 Windows、Linux、Android、Stadia 和 Nintendo Switch TM 上的 Vulkan、D3D11、D3D12、OpenGL 和 OpenGL ES 开发。[Github](https://github.com/baldurk/renderdoc)
+  - [Renderdoc快速入门](https://zhuanlan.zhihu.com/p/404576672)
+
+### 科研
 
 
 - [matlab](https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
@@ -1438,37 +1471,39 @@ built on top of the Python programming language.
   - [教程](https://www.runoob.com/pandas/pandas-tutorial.html)
 - [cnki E-study](http://elearning.cnki.net/ )  集文献检索、下载、管理、笔记、写作、投稿于一体，为学习和研究提供全过程支持。它支持PC和Mac平台，为用户提供5G免费存储空间。
 - [endnote](https://www.jb51.net/softs/665052.html) 文献管理软件.endnote x9.1 汉化特别版(附安装教程)
+- [苏州同元](https://www.tongyuan.cc/)
+  - 系统建模仿真平台MWORKS.Sysplore
+  - 科学计算平台MWORKS.Syslab
+  - 系统协同建模与模型数据管理环境MWORKS.Syslink
+  - 工具箱MWORKS.Toolbox
+  - MWORKS.Library
 
 ### 建站
-<a id="markdown-%E5%BB%BA%E7%AB%99" name="%E5%BB%BA%E7%AB%99"></a>
 
 
 - ~~114la~~
 - [懒人建站](https://www.51xuediannao.com/)提供网页素材下载，提供网站模板素材、图片素材、ps素材、素材库等，服务于【个人站长】【网页设计师】和【web开发从业者】的代码素材与设计素材网站。
 
 ### 文件传送
-<a id="markdown-%E6%96%87%E4%BB%B6%E4%BC%A0%E9%80%81" name="%E6%96%87%E4%BB%B6%E4%BC%A0%E9%80%81"></a>
 
 
 - [奶牛快传](https://cowtransfer.com/) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务)
 - [FireFox Send](https://send.firefox.com/) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间)
 - [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/) 免费發送大宗文件-安全文件傳輸
 - [微信文件传输助手](https://szfilehelper.weixin.qq.com/)
+- [Transfer.zip](https://transfer.zip/)Ultrafast, secure and limitless file transfers - all without size limits or tracking cookies.[Github](https://github.com/robinkarlberg/transfer.zip-web)
 
 ### 图床
-<a id="markdown-%E5%9B%BE%E5%BA%8A" name="%E5%9B%BE%E5%BA%8A"></a>
 
 
 - <https://www.rmdown.com/>
 - <https://sm.ms/>
 
 ### 前端
-<a id="markdown-%E5%89%8D%E7%AB%AF" name="%E5%89%8D%E7%AB%AF"></a>
 
 - [CodePen](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ### 效率软件
-<a id="markdown-%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6" name="%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6"></a>
 
 
 - [异次元软件世界](https://www.iplaysoft.com)
@@ -1483,28 +1518,24 @@ built on top of the Python programming language.
 - [Quick Fix 工具](https://iknow.lenovo.com.cn/tool) 联想的快速修复工具
 
 #### Adobe 全家桶
-<a id="markdown-adobe-%E5%85%A8%E5%AE%B6%E6%A1%B6" name="adobe-%E5%85%A8%E5%AE%B6%E6%A1%B6"></a>
 
 
 #### Free Open Source Windows Operating System Kernels Softwar
-<a id="markdown-free-open-source-windows-operating-system-kernels-softwar" name="free-open-source-windows-operating-system-kernels-softwar"></a>
 
 
 - [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
 - [WSL2-Linux-Kernel](https://sourceforge.net/projects/wsl2-linux-kernel.mirror/) The source for the Linux kernel used in Windows Subsystem for Linux 2
 
 #### Android linux
-<a id="markdown-android-linux" name="android-linux"></a>
 
 
 - [AidLux](https://aidlux.com/) 基于ARM架构的跨生态（Android/鸿蒙+Linux）一站式AIoT应用开发和部署平台
 - [AidLearning](https://github.com/aidlearning/AidLearning-Framework) is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
 
 #### Microsoft
-<a id="markdown-microsoft" name="microsoft"></a>
 
-
-- Windows 终端
+- https://github.com/microsoft
+- [Windows Terminal](https://github.com/microsoft/terminal)
 - [微软 PowerToys 小工具合集](https://github.com/microsoft/PowerToys) - 免费给 Win11/10 加装各种增强新功能的效率利器
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) 微软系统维护免费小工具合集
   - [Sysinternals on Github](https://github.com/Sysinternals)
@@ -1520,12 +1551,12 @@ built on top of the Python programming language.
 - Sysinternals Live 是一项服务，支持你直接从 Web 运行 Sysinternals 工具，而无需手动下载它们。
   - 在 Windows 资源管理器中将工具的 Sysinternals Live 路径输入为 ```live.sysinternals.com/<toolname>```或 ```\\live.sysinternals.com\tools\<toolname>```。 在命令提示符处使用 ```\\live.sysinternals.com\tools\<toolname>```。
   - 可以访问 <https://live.sysinternals.com/> 以在浏览器或 Windows 资源管理器中查看整个 Sysinternals Live 工具目录。
-- PowerShell
+- [winget-cli](https://github.com/microsoft/winget-cli) 是一个 Windows 包管理器，可让你轻松安装和更新 Windows 软件。
+- [PowerShell](https://github.com/PowerShell/PowerShell)
   - [Ps tips](https://www.pstips.ne)
-- FastGithub
+- [FastGithub](https://github.com/shiftwinting/FastGithub)
 
 #### ssh/终端/FTP文件管理工具
-<a id="markdown-ssh%2F%E7%BB%88%E7%AB%AF%2Fftp%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7" name="ssh%2F%E7%BB%88%E7%AB%AF%2Fftp%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7"></a>
 
 
 - 千帆阅尽才发现最朴素的最好：ssh
@@ -1545,10 +1576,10 @@ built on top of the Python programming language.
 - [OpenSSH](https://www.openssh.com/) is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks. In addition, OpenSSH provides a large suite of secure tunneling capabilities, several authentication methods, and sophisticated configuration options.
 - The [OpenSSL](https://www.openssl.org/) Project develops and maintains the OpenSSL software - a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication. The project’s technical decision making is managed by the OpenSSL Technical Committee (OTC) and the project governance is managed by the OpenSSL Management Committee (OMC).
 - [Xterminal](https://www.terminal.icu/) - [集成 AI 免费跨平台 SSH 终端工具 (服务器文件管理 / 状态监控 / AI 命令解释补全)](https://www.iplaysoft.com/xterminal.html)
-- xshell
+- [xshell](https://www.xshell.com/)
+- [Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.[Github](https://github.com/ghostty-org/ghostty)
 
 #### 远程管理
-<a id="markdown-%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86" name="%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86"></a>
 
 
 - mstsc 微软自带远程管理工具
@@ -1562,9 +1593,8 @@ built on top of the Python programming language.
 - [AVNC](https://github.com/gujjwal00/avnc) is a VNC client for Android.
 
 #### 内网穿透
-<a id="markdown-%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F" name="%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F"></a>
 
-
+- 看雪安全接入[Kanxue Security Access](https://ksa.kanxue.com/)无需公网IP,远程接入内网
 - [花生壳](https://hsk.oray.com/) [快速入门](https://service.oray.com/category/192_1.html)
 - [nat123](http://www.nat123.com/) 免费内网穿透工具.端口映射软件.动态域名解析
 - [openfrp](https://www.openfrp.net/) 开放映射 免费、高效、便捷
@@ -1575,14 +1605,17 @@ built on top of the Python programming language.
 - **[NetBird](https://netbird.io/) 是一个建立在WireGuard之上的开源网络管理平台，它允许计算机、设备和服务器通过快速加密隧道直接连接，无需配置或中央VPN服务器。它使专用网络变得安全，并创建了一个专用网络，在没有手动配置和专家的情况下应用安全实践。NetBird网络普遍适用于云、本地、边缘和容器环境，省去了打开端口、复杂防火墙规则和VPN网关的麻烦。NetBird 没有集中式 VPN 服务器，您的计算机、设备、机器和服务器直接通过快速加密隧道相互连接。NetBird只需点击几下即可连接在任何地方运行的机器。使用NetBird部署安全的点对点VPN只需不到5分钟。它与 Tailscale 很像，但是区别也比较明显。Tailscale 是在用户态实现了 WireGuard 协议，无法使用 WireGuard 原生的命令行工具来进行管理。而 NetBird 直接使用了内核态的 WireGuard，可以使用命令行工具 wg 来查看和管理。<https://github.com/netbirdio/netbird>:Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.**
 - [Netmaker](https://github.com/gravitl/netmaker) 是一个用来配置 WireGuard 全互联模式的可视化工具，它的功能非常强大，不仅支持 UDP 打洞、NAT 穿透、多租户，还可以使用 Kubernetes 配置清单来部署，客户端几乎适配了所有平台，包括 Linux, Mac 和 Windows，还可以通过 WireGuard 原生客户端连接 iPhone 和 Android。Netmaker 使用的是 C/S 架构，即客户端/服务器架构。Netmaker Server 包含两个核心组件：用来管理网络的可视化界面，以及与客户端通信的 gRPC Server。你也可以可以选择部署DNS服务器（CoreDNS）来管理私有DNS。客户端（netclient）是一个二进制文件，可以在绝大多数 Linux 客户端以及 macOS 和 Windows 客户端运行，它的功能就是自动管理 WireGuard，动态更新 Peer 的配置。<https://github.com/gravitl/netmaker>:Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
+#### NAS
+- [NAS](https://yaoqs.github.io/NAS/)
+- [鲁大师 AiNAS](https://ainas.ludashi.com/)零成本让你的电脑变成内建 AI 的个人私有云服务器
+- [飞牛云 fnOS](https://www.fnnas.com/) 是基于开源的「Debian」深度开发的一款国产 NAS 专用操作系统，稳定性极佳，兼容主流的 x86 硬件。这意味着，你可以轻松地把闲置的电脑、笔记本重新利用起来，来打造个人的私有云。安装 fnOS 之后，通过浏览器即可访问到 fnOS 的系统桌面，可以看到界面非常简约，和群晖的 DSM 布局非常类似，上手非常容易，也很直观。[飞牛 fnOS - 免费 NAS 系统新黑马 ！自建比黑群晖更好用 (支持 Docker / 影视库)](https://www.iplaysoft.com/fnos.html)
+
 #### 手机调试
-<a id="markdown-%E6%89%8B%E6%9C%BA%E8%B0%83%E8%AF%95" name="%E6%89%8B%E6%9C%BA%E8%B0%83%E8%AF%95"></a>
 
 
 - [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
 
 #### 网络相关工具
-<a id="markdown-%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7" name="%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E5%B7%A5%E5%85%B7"></a>
 
 
 - [PE Network Manager](https://www.penetworkmanager.de/)
@@ -1606,9 +1639,11 @@ built on top of the Python programming language.
 - [Sandcat Browser 7](https://www.syhunt.com/sandcat/index.php) brings unique features that are useful for pen-testers and web developers. Sandcat is built on top of webview2/Chromium and uses the Lua programming language to provide extensions and scripting support.黑客渗透测试专用工具
 - [Windows Packet Divert (WinDivert)](https://reqrypt.org/windivert.html) is a user-mode packet capture-and-divert package for Windows 10, Windows 11, and Windows Server. [Github](https://github.com/basil00/Divert)
 - [HiJackThis Files](https://sourceforge.net/projects/hjt/)
+- [NETworkManager](https://borntoberoot.net/NETworkManager/)A powerful tool for managing networks and troubleshoot network problems![GitHub](https://github.com/BornToBeRoot/NETworkManager)
+
+- simplewall
 
 #### 梯子/科学上网
-<a id="markdown-%E6%A2%AF%E5%AD%90%2F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91" name="%E6%A2%AF%E5%AD%90%2F%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91"></a>
 
 
 - PC
@@ -1630,7 +1665,6 @@ built on top of the Python programming language.
   - [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) A rule-based tunnel for Android.
 
 #### 文本编辑器
-<a id="markdown-%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8" name="%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8"></a>
 
 
 - ~~[Notepad++](https://notepad-plus-plus.org/download)  :轻量级文件编辑器，支持多种格式的文件，打开文件快速。~~
@@ -1642,23 +1676,25 @@ built on top of the Python programming language.
 - [WindEdit](https://kingtoolbox.github.io/) A high performace text editor for huge file and long line. [WindEdit on Github](https://github.com/kingToolbox/WindEdit)
 - [Typecho](https://typecho.org/) [Github](https://github.com/typecho/typecho) A PHP Blogging Platform. Simple and Powerful.
 
+- [Qalculate](https://github.com/Qalculate/qalculate-qt)! is a multi-purpose cross-platform desktop calculator. It is simple to use but provides power and versatility normally reserved for complicated math packages, as well as useful tools for everyday needs (such as currency conversion and percent calculation). Features include a large library of customizable functions, unit calculations and conversion, symbolic calculations (including integrals and equations), arbitrary precision, uncertainty propagation, interval arithmetic, plotting, and a user-friendly interface (GTK, Qt, and CLI).
+- [libqalculate](https://github.com/Qalculate/libqalculate) Qalculate! library and CLI
+
 #### Office
-<a id="markdown-office" name="office"></a>
 
 
-- Microsoft Office
+- [Microsoft Office](https://products.office.com/)
+  - 「[Office Installer](https://msfree.su/index.php?threads/705)」是一款Office的安装软件，它与同类软件Office Tool Plus以及Office C2R Install类似，均是基于微软官方部署工具ODT，可以在线部署安装Office，支持Office 2016~2024、Office 365。除此之外还包括Office 更新、卸载功能，以及Office许可证和密钥管理功能。「Office Installer」分为两个版本，文件名中含有“+”的版本多了一个KMS激活功能，其余功能无区别。
 - [WPS](https://www.wps.com/)
 - [万彩办公大师](http://www.wofficebox.com/) [「办公必备」的免费绿色实用小工具百宝箱软件合集](https://www.iplaysoft.com/wofficebox.html) 内置了 70 多款无广告无插件的绿色办公小工具，涵盖办公上的各种应用，比如 PDF 工具集 (PDF 格式相互转换、PDF 合并分割)；文档 / 音视频 / 图片转换工具集；识别工具集；屏幕录制工具集；图片处理工具集；文件处理工具集等。
 - [我的ABC软件工具箱](https://www.wodeabc.com/) 简单高效的批量处理办公助手，集成近百种批量处理文件的功能，如：批量查找替换 Word、Excel、PPT、PDF 和文本文件的内容、重命名、格式转换、文档水印、图片编辑和压缩、文件整理编号、生成文件、拆分合并文档等等。
+- [iSlide](https://www.islide.cc/) 让PPT设计简单起来。PPT模板下载平台。
 
 #### 邮箱客户端
-<a id="markdown-%E9%82%AE%E7%AE%B1%E5%AE%A2%E6%88%B7%E7%AB%AF" name="%E9%82%AE%E7%AE%B1%E5%AE%A2%E6%88%B7%E7%AB%AF"></a>
 
 
 - [DM Pro](http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！
 
 #### 笔记/知识管理
-<a id="markdown-%E7%AC%94%E8%AE%B0%2F%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86" name="%E7%AC%94%E8%AE%B0%2F%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86"></a>
 
 
 - [为知笔记 Wiz]( https://www.wiz.cn/zh-cn ) :高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。
@@ -1666,7 +1702,6 @@ built on top of the Python programming language.
 - [TreeLine](https://treeline.bellz.org/) 是一款强大的树状、大纲式的开源信息管理工具，可储存包括纯文本、富文本、HTML、数字、日期、时间、布尔值、URL 等各种形式的信息。每个节点相当于一个迷你数据库，而树状的信息组织结构可帮助你维持事物的有序。支持 Windows、Linux，以及 macOS（第三方）
 
 #### 安全
-<a id="markdown-%E5%AE%89%E5%85%A8" name="%E5%AE%89%E5%85%A8"></a>
 
 
 - [火绒安全软件](https://www.huorong.cn/)  小巧简洁高效的安全软件
@@ -1677,14 +1712,28 @@ built on top of the Python programming language.
 
 - [API Monitor](http://www.rohitab.com/apimonitor) is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
 
+##### hips
+- [冰盾](https://trustsing.com/)
+  - [Github](https://github.com/wecooperate)
+  - 冰盾 · 主动防御系统：一款基于场景模式的终端、主机主动防御系统。可以帮助您拦截漏洞攻击、免疫勒索病毒、防御高级威胁、抵制流氓软件、保护隐私安全、提高工作效率
+  - 冰镜 · 终端行为分析系统：一款提供了对进程、文件、注册表、网络等系统行为的监控的软件，安全分析人员的必备工具
+  - 冰鉴 · 软件使用分析系统：是一款专门分析电脑各种软件、文档操作、聊天工具使用情况的工具
+  - 冰云安全U盘：一款可以将移动U盘、文件磁盘、虚拟内存注册成可以映射到虚拟磁盘、文件目录的多功能磁盘加密工具
+  - 开发套件
+    - iMonitorSDK 终端监控开发套件
+    - iRecorderSDK 软件使用监控开发套件
+    - iSwordSDK 内核调用穿透开发套件
+    - iSUDiskSDK 安全U盘开发套件
+    - iFoundation 冰塔终端快速开发框架
+
 #### 效率
-<a id="markdown-%E6%95%88%E7%8E%87" name="%E6%95%88%E7%8E%87"></a>
 
 
 - [Everything](https://www.voidtools.com/downloads/) : 能够以毫秒级的速度搜索到所有硬盘的文件/目录。
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) [微软系统维护免费小工具合集- 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) [Sysinternals on Github](https://github.com/Sysinternals)
 - [FileGee Backup & Sync Personal Edition](http://filegee.net/download.html) 文件备份、同步工具，功能强大。个人版免费。企业版收费
 - [Total Commander](https://www.ghisler.com/)  : 功能强大的文件管理工具
+- [Universal Viewer](https://uvviewsoft.com/uviewer/) 万能文件查看器
 - [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
 - FileGee
 - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
@@ -1705,9 +1754,10 @@ built on top of the Python programming language.
 - [Tai](https://github.com/Planshit/Tai):在Windows上统计软件使用时长和网站浏览时长
 - [Shion](https://github.com/shion-app/shion) is a time tracking software that records fragments of your daily life
 - [非线性游戏存档管理器](https://www.appinn.com/nonlinear-backup/)提供了一种全新的以非线性的树形结构来管理存档的工作/游戏范式。如果有一款软件，能够像 Git 那样记录提交历史，自由切换分支，并可随时查看各个存档的依赖关系，回退历史版本。那无疑能帮助创作者降低大量心智负担，鼓励他们进行更多探索和尝试。存档原理：每次新建备份时，程序会校验当前游戏或工作源目录下的文件相比上次备份是否发生修改，若无变化，将提示用户当前已是最新存档，并询问是否需要重命名。[Gitee](https://gitee.com/wolray/nonlinear-backup)
+- [Pomotroid](https://splode.github.io/pomotroid/) A simple, configurable and visually pleasing Pomodoro timer.[Pomotroid](https://github.com/Splode/pomotroid) is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.Pomotroid is in its early stages, so feedback and contributions are welcome and appreciated!
+- [Kite 待办](https://kite.kitlib.cn/)是一款按天规划的待办应用。极简主义的待办应用，轻量精简，无广告，无需登录即可使用。注重隐私，数据离线存储在本地。支持番茄时钟、倒计时、导出 Markdown 等功能。
 
 #### 安装卸载工具
-<a id="markdown-%E5%AE%89%E8%A3%85%E5%8D%B8%E8%BD%BD%E5%B7%A5%E5%85%B7" name="%E5%AE%89%E8%A3%85%E5%8D%B8%E8%BD%BD%E5%B7%A5%E5%85%B7"></a>
 - [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)：HiBit Uninstaller is the perfect solution for uninstalling Windows software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface. Completely Uninstall Stubborn Software, Windows Apps & Browser Extension.
 - HiBit Startup Manager：HiBit Startup Manager is a powerful Startup utility that Manage autostart programs by adding or removing apps, editing their properties and also Manage process, services, task scheduler and context menu.
 - [GEEK UNINSTALLER](https://geekuninstaller.com/)：Efficient and Fast, Small and Portable. 100% Free. Geek Uninstaller is a powerful tool for uninstalling software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface. It is a small and portable application that can be installed on any Windows system. It is a complete solution for uninstalling software, including Windows Apps, Browser Extensions, and Stubborn Software.
@@ -1739,7 +1789,6 @@ built on top of the Python programming language.
   - [Driver Easy](https://www.drivereasy.com/update-display-drivers/)：Watch Driver Easy update all the missing and outdated drivers on a PC.
 
 #### 下载工具
-<a id="markdown-%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7" name="%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7"></a>
 
 
 - IDM: internet download manager
@@ -1755,20 +1804,12 @@ built on top of the Python programming language.
   - <https://www.emule-project.com>
 
 #### 投屏
-<a id="markdown-%E6%8A%95%E5%B1%8F" name="%E6%8A%95%E5%B1%8F"></a>
 
 
 - [蓝莓投屏](http://deeprd.com/) - 无线/有线投屏方案开发。AirPlay DLNA Miracast For Android Linux Windows。蓝莓投屏，手机投屏电视电脑，电脑投屏电视的投屏神器。免费的电视投屏软件。支持500多个音视频app投屏。投屏玩法：手机视频
 投屏，手机游戏投屏，百度网盘投屏、手机斗鱼等直播投屏，手机微信抖音投屏。PC无线投屏电视，开会投屏，PPT投屏等。 支持dlna，airplay 投屏协议 [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
 
-#### AI工具箱
-<a id="markdown-ai%E5%B7%A5%E5%85%B7%E7%AE%B1" name="ai%E5%B7%A5%E5%85%B7%E7%AE%B1"></a>
-
-
-- [Paper2GUI](https://xiaobaituai.com/) 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术.一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。 [on Github](https://github.com/Baiyuetribe/paper2gui)
-
 #### 多媒体
-<a id="markdown-%E5%A4%9A%E5%AA%92%E4%BD%93" name="%E5%A4%9A%E5%AA%92%E4%BD%93"></a>
 
 
 - [FFmpeg](https://ffmpeg.org) A complete, cross-platform solution to record, convert and stream audio and video.
@@ -1794,6 +1835,9 @@ built on top of the Python programming language.
 - 图形图像
   - Photoshop
   - CorelDRAW
+  - [光影魔术手](https://www.gymss.cn/)专业调色、像素磨皮、高效批量处理、发丝级抠图
+    - 光影证件照(Android)
+    - [光影看图](https://www.gymss.cn/kantu#)
   - [XnView](https://www.xnview.com/en/xnview/) 支持超过500种图片格式。强烈推荐！！！
   - Eagle:智能图片管理器（Windows/Mac）
   - BLENDER是一款开源免费的，可xxx的跨平台三维软件。[斑斓中国](https://www.blendercn.org/)
@@ -1803,7 +1847,6 @@ built on top of the Python programming language.
   - [QQ音乐]
 
 #### 虚拟机
-<a id="markdown-%E8%99%9A%E6%8B%9F%E6%9C%BA" name="%E8%99%9A%E6%8B%9F%E6%9C%BA"></a>
 
 
 - [Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)  Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool.
@@ -1815,7 +1858,6 @@ built on top of the Python programming language.
   - [Sandboxie](https://www.sandboxie.com/SandboxieInstall.exe)   Docker 容器软件的 Windows 版本。
 
 #### 数据库管理工具
-<a id="markdown-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7" name="%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7"></a>
 
 
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
@@ -1826,7 +1868,6 @@ built on top of the Python programming language.
 - SQLite
 
 #### 浏览器
-<a id="markdown-%E6%B5%8F%E8%A7%88%E5%99%A8" name="%E6%B5%8F%E8%A7%88%E5%99%A8"></a>
 
 
 - [chrome]
@@ -1867,7 +1908,6 @@ built on top of the Python programming language.
     > 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。  今天我们要介绍的第10款脚本  就是这样一个根据你当前访问的站点  自动为你推荐适用的脚本工具  Userscript+  <https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs>
 
 #### 反编译工具
-<a id="markdown-%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7" name="%E5%8F%8D%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7"></a>
 
 
 - [OllyDebug](http://www.ollydbg.de/) [中文站](http://ollydbg.net/)  a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 <https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip>
@@ -1882,14 +1922,12 @@ built on top of the Python programming language.
 - [Dr. Watson](https://www.computerhope.com/software/drwatson.htm) is a software utility included with Microsoft Windows that helps detect, decode, and log errors that are encountered while Windows or Windows programs are running.
 
 #### 压缩工具
-<a id="markdown-%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7" name="%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7"></a>
 
 
 - [WinRAR](https://rarlab.com/download.htm) 知名压缩软件
 - [7z](https://www.7-zip.org/)    一款拥有极高压缩比的开源压缩软件
 
 #### js
-<a id="markdown-js" name="js"></a>
 
 
 - [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
@@ -1902,7 +1940,6 @@ built on top of the Python programming language.
 - Materialize: a modern responsive front-end framework based on Material Design <https://materializecss.com/>
 
 #### IM/协同办公
-<a id="markdown-im%2F%E5%8D%8F%E5%90%8C%E5%8A%9E%E5%85%AC" name="im%2F%E5%8D%8F%E5%90%8C%E5%8A%9E%E5%85%AC"></a>
 
 
 - [slack](https://slack.com/intl/en-cn/)   国外非常流行的团队协作工具
@@ -1911,7 +1948,6 @@ built on top of the Python programming language.
 - [微信]一个为智能终端提供即时通讯服务的免费应用程序，一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。 ... 群聊，也能视频聊天。
 
 #### 版本控制
-<a id="markdown-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6" name="%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6"></a>
 
 
 - [Git](https://git-scm.com/)  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理
@@ -1921,28 +1957,24 @@ built on top of the Python programming language.
 - [ugit](https://ugit.qq.com) 腾讯自研Git客户端
 
 #### pdf阅读器/编辑器
-<a id="markdown-pdf%E9%98%85%E8%AF%BB%E5%99%A8%2F%E7%BC%96%E8%BE%91%E5%99%A8" name="pdf%E9%98%85%E8%AF%BB%E5%99%A8%2F%E7%BC%96%E8%BE%91%E5%99%A8"></a>
 
 
 - [福昕foxit]
 - [Adobe Acrobat]
 
 #### 桌面环境
-<a id="markdown-%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83" name="%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83"></a>
 
 
 - [Xfce Desktop Environment](https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 - [lively](https://github.com/rocksdanister/lively) About Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 #### 模拟器
-<a id="markdown-%E6%A8%A1%E6%8B%9F%E5%99%A8" name="%E6%A8%A1%E6%8B%9F%E5%99%A8"></a>
 
 
 - Ryujinx 龙神模拟器 - [免费在电脑 PC 和 Mac 上玩任天堂 Switch 游戏 (塞尔达/马里奥等)](https://www.iplaysoft.com/ryujinx.html) 是一个完全免费开源的任天堂 Switch 游戏主机模拟器软件，它能让你跨平台在 Windows、Linux、macOS 等系统上流畅运行各种 Switch 游戏。经过多年的开发改进和优化，其性能和兼容性已十分出色，能在大多数的电脑上完美模拟运行马里奥、塞尔达传说、宝可梦、异度神剑等各种热门游戏大作！
 - Yuzu 柚子模拟器 - [在电脑 PC 上玩 Switch 塞尔达传说王国之泪 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) 是一款完全免费的开源的任天堂 Switch 游戏主机模拟器软件，它基于 C++ 开发，跨平台支持 Windows 和 Linux 系统，拥有相当不错的性能和兼容性，可以流畅在主流显卡配置的主机上流畅运行如马里奥、塞尔达传说、宝可梦、异度神剑、火焰纹章等游戏大作！
 
 #### Windows安装/部署工具
-<a id="markdown-windows%E5%AE%89%E8%A3%85%2F%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7" name="windows%E5%AE%89%E8%A3%85%2F%E9%83%A8%E7%BD%B2%E5%B7%A5%E5%85%B7"></a>
 
 
 - WinNTSetup
@@ -1952,8 +1984,19 @@ built on top of the Python programming language.
 - EasyUEFI
 - EasyBCD
 
+#### window换机
+
+- [联想电脑管家·智能换机](https://iknow.lenovo.com.cn/detail/26633.html)
+- [荣耀换机克隆](https://www.honor.com/cn/tech/clone/)
+- [华硕管家MyASUS - 华硕迁移助手](https://www.asus.com.cn/store/article-hot-809.html)
+  - [如何利用华硕电脑的MyASUS轻松转移数据、应用程序和设置](https://zhuanlan.zhihu.com/p/446235462)
+- 华为 [PC克隆](https://consumer.huawei.com/cn/support/pc-clone/)
+  - [计算机如何使用PC克隆进行数据迁移](https://consumer.huawei.com/cn/support/content/zh-cn15907241/)
+- [小米 PC 换机助手](https://www.mi.com/huanji)
+  - [小米 PC 换机助手上线：一键迁移 QQ 微信记录及浏览器书签、最高传输速率 90MB/s](https://www.ithome.com/0/751/308.htm)
+- [微软官方“换机助手”：Win11“迁移”应用曝光，助力 PC 数据转移](https://www.ithome.com/0/831/644.htm)
+
 #### 操作系统
-<a id="markdown-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" name="%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"></a>
 
 
 - Tiny11 - [极限精简的 Windows 11 系统镜像！支持苹果 M 芯片 Mac 安装 (ARM 精简版)](https://www.iplaysoft.com/tiny11.html)
@@ -1964,7 +2007,6 @@ built on top of the Python programming language.
 - [MenuetOS](https://sourceforge.net/projects/menuet/) a fully 32 assembly written OS for x86, is an operating system in development for PC, written completely in 64bit assembly language. Features include pre-emptive and real-time multitasking with multiprocessor support and Graphical User Interface. Menuet64 is released under License and Menuet32 under GPL. Menuet supports assembly programming for much faster, smaller and less resource hungry applications.Menuet kernel is written in assembly, which gives speed advantages over systems written in other languages. For example, GUI with transparency is calculated in main x86-64 cpu, avoiding compatibility problems with graphics cards.Menuet's application structure isn't specifically reserved for asm programming since the header can be produced with practically any other language. However, the overall application programming design is intended for 64/32 bit asm programming. Menuet programming is fast and easy to learn. Menuet's responsive GUI is easy to handle with assembly language. And Menuet64 is capable of running Menuet32 applications. [home page](http://menuetos.net/).
 
 #### PE
-<a id="markdown-pe" name="pe"></a>
 
 
 - [微PE工具箱](https://www.wepe.com.cn/) - 超好用的WinPE装机维护工具，[大家都说好用的纯净 WinPE 启动盘/ U盘重装系统工具](https://www.iplaysoft.com/wepe.html)
@@ -2003,14 +2045,12 @@ built on top of the Python programming language.
       > 只适用于群联主控的U盘使用，不限制U盘品牌，ChipGenius可检测主控类型。一样的会把你的U盘分出一个加密分区，这个分区的大小在你使用工具的时候可以随意的用滑块来划分，自行决定加密分区的大小，加密后公共区域要把这个加密软件放入，加密分区里就放你的重要文件即可，软件就2个按钮，一个加密，一个解密。
 
 #### 硬件
-<a id="markdown-%E7%A1%AC%E4%BB%B6" name="%E7%A1%AC%E4%BB%B6"></a>
 
 
 - [Device Monitoring Studio](https://www.hhdsoftware.com/) Simply the Best way to monitor your serial, USB and network devices!
   - [USB Sniffer](https://www.hhdsoftware.com/usb-sniffer) Non-intrusive software-based USB sniffer, data logger & USB protocol analyzer for Windows.
 
 #### web服务
-<a id="markdown-web%E6%9C%8D%E5%8A%A1" name="web%E6%9C%8D%E5%8A%A1"></a>
 
 
 - [NGINX](https://www.nginx.com/)
@@ -2018,7 +2058,6 @@ built on top of the Python programming language.
 - php
 
 #### 包管理器
-<a id="markdown-%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8" name="%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8"></a>
 
 
 - [nuget](https://www.nuget.org/)
@@ -2027,7 +2066,6 @@ built on top of the Python programming language.
   - [Chocolatey](https://chocolatey.org/) Software Management Automation
 
 #### 常用cd虚拟光驱软件
-<a id="markdown-%E5%B8%B8%E7%94%A8cd%E8%99%9A%E6%8B%9F%E5%85%89%E9%A9%B1%E8%BD%AF%E4%BB%B6" name="%E5%B8%B8%E7%94%A8cd%E8%99%9A%E6%8B%9F%E5%85%89%E9%A9%B1%E8%BD%AF%E4%BB%B6"></a>
 
 
 - Alcohol120:是一款功能强大的刻录软件，结合虚拟光驱与刻录两大功能，可以直接将映像文件刻录到空白光盘上，不再需要虚拟后再整盘拷贝。也是推荐级的神器。收费
@@ -2044,7 +2082,6 @@ built on top of the Python programming language.
 - LevinISO
 
 #### 硬盘
-<a id="markdown-%E7%A1%AC%E7%9B%98" name="%E7%A1%AC%E7%9B%98"></a>
 
 
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) 磁盘加密工具，保护数据安全，文件和目录均可
@@ -2059,7 +2096,6 @@ built on top of the Python programming language.
 - [ACE Lab](https://www.acelab.eu.com/)- Professional Hardware-Software Solutions for Data Recovery & Digital Forensics
 
 ### Android
-<a id="markdown-android" name="android"></a>
 
 
 - [Android Studio](https://developer.android.com/studio)
@@ -2075,11 +2111,9 @@ built on top of the Python programming language.
 - [Apk.1 安装器](https://github.com/Ium-Lab/Apk.1-Installer/tree/master) – 特色安卓应用：无需改名，直接安装 QQ、微信收到的 apk.1 文件
 
 ## 百科
-<a id="markdown-%E7%99%BE%E7%A7%91" name="%E7%99%BE%E7%A7%91"></a>
 
 
 ### 地理
-<a id="markdown-%E5%9C%B0%E7%90%86" name="%E5%9C%B0%E7%90%86"></a>
 
 
 - 实时地球 网址：<https://zoom.earth/>
@@ -2180,7 +2214,6 @@ Google 地图，可查看国际空间站内部环境
 提供高清、可下载的世界地图，有各种版本，如行政图、世界地形、交通等
 
 ### 博物馆
-<a id="markdown-%E5%8D%9A%E7%89%A9%E9%A6%86" name="%E5%8D%9A%E7%89%A9%E9%A6%86"></a>
 
 
 - 陕西博物馆 360 度实景浏览 网址：<https://www.sxhm.com/online.html>
