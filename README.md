@@ -6,7 +6,7 @@
 
 [![GitHub license](https://badgen.net/github/license/yaoqs/resource-navigator)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/resource-navigator.svg)](https://github.com/yaoqs/resource-navigator/blob/master/LICENSE)
 
-- 版权声明：Copyright © 2021-2025 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 版权声明：Copyright © 2021-2025 要庆生. All rights reserved. 转载时请注明出处。
 - 来源：网络及个人搜集及整理，瓜不保熟
 - 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>告知；如需补充其他相关信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
@@ -18,11 +18,12 @@
 1. [LordYao: FUTURE \& CIVILIZATION: Natural/Social Philosophy \& Infomation Sciences](#lordyao-future--civilization-naturalsocial-philosophy--infomation-sciences)
 2. [License \& Copyright](#license--copyright)
 3. [Stargazers over time](#stargazers-over-time)
-4. [Lord Yao](#lord-yao)
+4. [Yao](#yao)
    1. [Social account](#social-account)
    2. [主题页](#主题页)
 5. [版权保护](#版权保护)
-6. [服务](#服务)
+6. [公共服务](#公共服务)
+   1. [数据](#数据)
 7. [常用](#常用)
    1. [临时邮件](#临时邮件)
    2. [Community/社区](#community社区)
@@ -30,7 +31,9 @@
    4. [Fellows](#fellows)
    5. [Organizations](#organizations)
    6. [blog/一些不错的blog](#blog一些不错的blog)
-   7. [Code](#code)
+   7. [Code learning](#code-learning)
+      1. [手机编程App，让你随时随地写代码](#手机编程app让你随时随地写代码)
+      2. [编程游戏](#编程游戏)
    8. [代码仓](#代码仓)
    9. [云服务](#云服务)
    10. [免费服务器](#免费服务器)
@@ -41,35 +44,42 @@
    15. [CDN](#cdn)
    16. [网盘](#网盘)
    17. [开源镜像](#开源镜像)
-   18. [AI/大模型](#ai大模型)
-       1. [智能体](#智能体)
-       2. [IDE](#ide)
-       3. [AI工具箱](#ai工具箱)
-       4. [自然语言处理](#自然语言处理)
-       5. [Machine Learning](#machine-learning)
-8. [哲学](#哲学)
+   18. [医疗](#医疗)
+8. [AI/大模型及其衍生体](#ai大模型及其衍生体)
+   1. [AI Search](#ai-search)
+   2. [智能体](#智能体)
+   3. [IDE](#ide)
+   4. [AI工具箱](#ai工具箱)
+   5. [自然语言处理](#自然语言处理)
+   6. [Machine Learning](#machine-learning)
+9. [哲学](#哲学)
    1. [玄学](#玄学)
-9. [人文](#人文)
-10. [English news](#english-news)
+10. [人文](#人文)
+11. [English news](#english-news)
     1. [technews](#technews)
     2. [Lab](#lab)
-11. [教育](#教育)
+12. [教育](#教育)
     1. [高等教育](#高等教育)
-    2. [公开课](#公开课)
-    3. [英语](#英语)
-    4. [考试](#考试)
-    5. [竞赛](#竞赛)
-12. [数据](#数据)
+    2. [教材](#教材)
+    3. [教育软件](#教育软件)
+    4. [公开课](#公开课)
+    5. [英语](#英语)
+    6. [考试](#考试)
+    7. [竞赛](#竞赛)
 13. [教程](#教程)
 14. [电子书/ebook](#电子书ebook)
     1. [小说](#小说)
     2. [诸子百家](#诸子百家)
-    3. [中医](#中医)
-    4. [天文](#天文)
-15. [美好生活](#美好生活)
+    3. [阅读app](#阅读app)
+15. [中医](#中医)
+16. [美好生活](#美好生活)
     1. [知识分享社区](#知识分享社区)
     2. [rss](#rss)
-16. [影视资源网站](#影视资源网站)
+17. [休闲/游戏](#休闲游戏)
+    1. [在线小游戏](#在线小游戏)
+    2. [编程游戏](#编程游戏-1)
+    3. [黑客网络 Hacknet](#黑客网络-hacknet)
+18. [影视资源网站](#影视资源网站)
     1. [综合](#综合)
     2. [music/音乐](#music音乐)
     3. [壁纸/wallpaper](#壁纸wallpaper)
@@ -80,42 +90,42 @@
     8. [在线](#在线)
     9. [电视直播软件](#电视直播软件)
     10. [资源搜索](#资源搜索)
-        1. [day](#day)
+        1. [0day](#0day)
     11. [ed2k](#ed2k)
     12. [游戏/Game](#游戏game)
-17. [安全相关网站](#安全相关网站)
+19. [安全相关网站](#安全相关网站)
     1. [CTF](#ctf)
     2. [Cyber Security](#cyber-security)
        1. [metasploit](#metasploit)
-18. [opencode](#opencode)
-19. [电子电路](#电子电路)
-20. [开源硬件](#开源硬件)
-21. [机器人/Robotic](#机器人robotic)
-22. [论坛](#论坛)
-23. [软件](#软件)
+20. [opencode](#opencode)
+21. [电子电路](#电子电路)
+22. [开源硬件](#开源硬件)
+23. [机器人/Robotic](#机器人robotic)
+24. [论坛](#论坛)
+25. [软件](#软件)
     1. [在线工具](#在线工具)
     2. [API接口](#api接口)
-       1. [天气](#天气)
-    3. [开发](#开发)
-    4. [opensource](#opensource)
-    5. [科研](#科研)
-    6. [建站](#建站)
-    7. [文件传送](#文件传送)
-    8. [图床](#图床)
-    9. [前端](#前端)
-    10. [效率软件](#效率软件)
+    3. [天气](#天气)
+    4. [开发](#开发)
+    5. [opensource](#opensource)
+    6. [科研](#科研)
+    7. [建站](#建站)
+    8. [文件传送](#文件传送)
+    9. [图床](#图床)
+    10. [前端](#前端)
+    11. [效率软件](#效率软件)
         1. [Adobe 全家桶](#adobe-全家桶)
-        2. [Free Open Source Windows Operating System Kernels Softwar](#free-open-source-windows-operating-system-kernels-softwar)
-        3. [Android linux](#android-linux)
-        4. [Microsoft](#microsoft)
-        5. [ssh/终端/FTP文件管理工具](#ssh终端ftp文件管理工具)
-        6. [远程管理](#远程管理)
-        7. [内网穿透](#内网穿透)
-        8. [NAS](#nas)
-        9. [手机调试](#手机调试)
-        10. [网络相关工具](#网络相关工具)
-        11. [梯子/科学上网](#梯子科学上网)
-        12. [文本编辑器](#文本编辑器)
+        2. [Microsoft](#microsoft)
+        3. [ssh/终端/FTP文件管理工具](#ssh终端ftp文件管理工具)
+        4. [远程管理](#远程管理)
+        5. [内网穿透](#内网穿透)
+        6. [NAS](#nas)
+        7. [手机调试](#手机调试)
+        8. [网络相关工具](#网络相关工具)
+        9. [梯子/科学上网](#梯子科学上网)
+        10. [文本编辑器](#文本编辑器)
+        11. [OCR](#ocr)
+        12. [计算器](#计算器)
         13. [Office](#office)
         14. [邮箱客户端](#邮箱客户端)
         15. [笔记/知识管理](#笔记知识管理)
@@ -129,6 +139,7 @@
         22. [虚拟机](#虚拟机)
         23. [数据库管理工具](#数据库管理工具)
         24. [浏览器](#浏览器)
+            1. [插件](#插件)
         25. [反编译工具](#反编译工具)
         26. [压缩工具](#压缩工具)
         27. [js](#js)
@@ -139,19 +150,65 @@
         32. [模拟器](#模拟器)
         33. [Windows安装/部署工具](#windows安装部署工具)
         34. [window换机](#window换机)
-        35. [操作系统](#操作系统)
-        36. [PE](#pe)
-        37. [硬件](#硬件)
-        38. [web服务](#web服务)
-        39. [包管理器](#包管理器)
-        40. [常用cd虚拟光驱软件](#常用cd虚拟光驱软件)
-        41. [硬盘](#硬盘)
-    11. [Android](#android)
-24. [百科](#百科)
+        35. [Windows优化](#windows优化)
+        36. [操作系统](#操作系统)
+        37. [Free Open Source Windows Operating System Kernels Softwar](#free-open-source-windows-operating-system-kernels-softwar)
+        38. [PE](#pe)
+        39. [U盘加密工具](#u盘加密工具)
+        40. [硬件](#硬件)
+        41. [web服务](#web服务)
+        42. [包管理器](#包管理器)
+        43. [常用cd虚拟光驱软件](#常用cd虚拟光驱软件)
+        44. [硬盘](#硬盘)
+    12. [天文](#天文)
+    13. [Android](#android)
+        1. [Android linux](#android-linux)
+        2. [App](#app)
+26. [百科](#百科)
     1. [地理](#地理)
     2. [博物馆](#博物馆)
+27. [Trending](#trending)
+28. [173lib](#173lib)
+29. [Awesome](#awesome)
+    1. [jobbole/伯乐在线](#jobbole伯乐在线)
+30. [Microsoft](#microsoft-1)
+31. [online刊物](#online刊物)
+32. [计算机编程书籍](#计算机编程书籍)
+33. [OpenCourse](#opencourse)
+34. [算法](#算法)
+35. [数学](#数学)
+36. [操作系统](#操作系统-1)
+37. [Docker](#docker)
+38. [中华文化精粹](#中华文化精粹)
+    1. [中华古诗词数据库](#中华古诗词数据库)
+39. [前端](#前端-1)
+40. [html/css](#htmlcss)
+41. [javascript](#javascript)
+    1. [nodejs](#nodejs)
+    2. [vue3](#vue3)
+42. [树莓派/Raspberry Pi](#树莓派raspberry-pi)
+43. [Termux](#termux)
+44. [metasploit](#metasploit-1)
+45. [编程语言](#编程语言)
+    1. [C/C++](#cc)
+       1. [ui](#ui)
+       2. [Qt](#qt)
+    2. [C sharp](#c-sharp)
+       1. [WPF](#wpf)
+       2. [.NET Core](#net-core)
+    3. [python](#python)
+    4. [Taichi](#taichi)
+46. [OpenCv](#opencv)
+47. [Android](#android-1)
+48. [图形图像/Computer Vision](#图形图像computer-vision)
+49. [Machine Learning](#machine-learning-1)
+50. [RSS](#rss-1)
+51. [Google](#google)
+    1. [Chromium](#chromium)
+52. [游戏](#游戏)
+53. [其他](#其他)
 
-## Lord Yao
+## Yao
 
 ### [Social account](https://github.com/yaoqs)
 
@@ -172,25 +229,39 @@
 
 - [国家知识产权公共服务平台](https://ggfw.cnipa.gov.cn/)
 - [中国版权保护中心](https://www.ccopyright.com.cn/)
-- [国家知识产权局-专利](https://www.cnipa.gov.cn/col/col1510/)
+- [国家知识产权局-专利](https://cponline.cnipa.gov.cn/)
+- [专利检索及分析](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)
+- [中国及多国专利审查信息查询](https://cpquery.cponline.cnipa.gov.cn/chinesepatent/index)
 
-## 服务
+## 公共服务
 
 - [全国标准信息公共服务平台](https://std.samr.gov.cn/)
 - [国家标准全文公开系统](https://openstd.samr.gov.cn/)
 - [中国裁判文书网](https://wenshu.court.gov.cn/)
+- [中国执行信息公开网](https://zxgk.court.gov.cn/)
+- [国家企业信用信息公示系统等企业信息网](https://www.gsxt.gov.cn/)
 - [信用中国](https://www.creditchina.gov.cn/)
 - [中国人民银行征信中心](https://ipcrs.pbccrc.org.cn/)
 - [ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)
+- [国家智慧教育公共服务平台](https://www.smartedu.cn/)
+	- [国家职业教育](https://vocational.smartedu.cn/NationalHome)
 
 - The IERS was established in 1987 by the International Astronomical Union and the International Union of Geodesy and Geophysics. According to the Terms of Reference, the IERS accomplishes its mission through the following components: Technique Centres, Product Centres, Combination Centres, Analysis Coordinator, Central Bureau, Directing Board. [IERS](https://www.iers.org/)
+
+### 数据
+
+- [国家数据局](https://www.nda.gov.cn/sjj/index_pc.html)
+- [国家公共数据资源登记平台](https://sjdj.nda.gov.cn/)
+- [官方权威统计数据](https://github.com/yiliyassh/authority-data) 统计年签，统计公报，互联网行业报告，工信部数据，ICT报告等 Official authoritative data (Chinese)
+- [全球贸易数据分析](http://globe.cid.harvard.edu) 这个网站可以看到全球每一个国家在贸易方面的数据
+- [OEC.world](https://oec.world) 查询每个国家或地区的贸易数据，并用图文进行通俗解释
 
 ## 常用
 
 ### 临时邮件
 
-- 10分钟邮箱 <http://10minutemail.com/>
-- 临时邮箱、临时邮、临时电子邮箱、24小时邮箱 <http://24mail.chacuo.net/>
+- [10分钟邮箱](http://10minutemail.com)
+- [临时邮箱、临时邮、临时电子邮箱、24小时邮箱](http://24mail.chacuo.net/)
 - [Cloudflare 临时邮件](https://mr.email/)
 
 ### Community/社区
@@ -226,8 +297,8 @@ unsorted
 - [陈皓（左耳朵耗子）](https://coolshell.cn) [csdn](https://blog.csdn.net/haoel) R.I.P
 
 - [中国区GitHub用户排行榜](https://china-ranking.aolifu.org/)
-### Organizations
 
+### Organizations
 
 - [The Apache Software Foundation](https://github.com/apache)
 - [Microsoft](https://github.com/microsoft)
@@ -272,14 +343,41 @@ unsorted
 
 - [Fourmilab](https://www.fourmilab.ch/)This site is developed and maintained by John Walker, founder of Autodesk, Inc. and co-author of AutoCAD. A variety of documents, images, software for various machines, and interactive Web resources are available here; click on entries in the frame to the left to display a table of contents for that topic. Items which span more than one category are listed in all.
 
-### Code
+### Code learning
 
 - [leetcode](https://leetcode.com/)
 - [力扣](https://leetcode-cn.com/)
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code/) Coding articles to level up your development skills. [website](https://www.30secondsofcode.org/)
 
-### 代码仓
+#### 手机编程App，让你随时随地写代码
+- [Deuter IDE](https://play.google.com/store/apps/details?id=com.didactic.DeuterIDE):一款基于移动开发的文本编辑器，在线编译器，内置支持Android的集成开发环境。它的虚拟按键可提供常用的编程符号和语法高亮功能，并支持超过40种编程语言。
+- [DroidEdit](https://play.google.com/store/apps/details?id=com.aor.droidedit&feature=also_installed):是一款支持Android平板和手机的文本和源代码编辑器（类似gedit），具有以下功能，支持一些编程语言（C、C++、C＃、Java、HTML、CSS、JavaScript、Python、Ruby、Lua、LaTeX、SQL…）的语法高亮。
+- [Code Peeker](https://play.google.com/store/apps/details?id=twig.nguyen.codepeeker):在阅读源代码时使用语法高亮、查找片段和快速解决方法.是一款小巧的代码阅读器。
+- [Code Me Silly](https://play.google.com/store/apps/details?id=com.hoodwebmedia.hello):不是一个"所见即所得"的编辑器……它是一款语法高亮的HTML、CSS、JavaScript和PHP编辑器。此应用程序还支持Python、Java、C、C++、CoffeeScript、Haskel、Clojure和Groovy，但主要是用于Web开发。Code Me Silly提供查找/替换、撤消、重做功能。
+- [Java Code Viewer](https://play.google.com/store/apps/details?id=org.codein.codeviewer):是一款文本查看器，Java查看器，C＃查看器和其他支持Android的编程语言查看器。支持Java、C＃、C / C ++、CSS、PHP、ASP和JavaScript的语法高亮显示。
+- [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui)—Android IDE—Java，C ++:是一款支持直接在Android设备上开发真正的Android应用程序的集成开发环境（IDE）。通过一步步流程让你成为app开发专家。功能有：可视的设计应用，多功能实现代码的代码编辑器，实时错误检查，重构和智能代码导航，以及单击运行应用程序。
+- [JavaIDEdroid](https://play.google.com/store/apps/details?id=com.t_arn.JavaIDEdroid&feature=also_installed):并不适合新手程序员。它的作用和AIDE相似，能让你直接在Android设备上创建Android应用程序。更适合着重功能忽略外观的用户。
+- [Terminal IDE](https://play.google.com/store/apps/details?id=com.spartacusrex.spartacuside):是一款可扩展的终端应用，一个能在Android设备上运行的完整的Java / C / C ++ / HTML / Android开发工具包。它使用命令行，配有许多强大和耐用的开源应用程序，再加上屏幕上自定义的ASCII"软"键盘（您需要在设备的主键盘设置上启用它），并且还有广泛通用的外部"硬"键盘键映射。CTRL / ALT / ESC等方式都可以访问。
+- [C4droid](https://play.google.com/store/apps/details?id=com.n0n3m4.droidc)—C / C ++ comliler&IDE:是一个典型的C编译器，可在Android设备上使用。它使用gcc编译器，一款通常在Unix上使用的编译器。在安装C4droid的时候会有点棘手，所以请做好心理准备。
+- [MobileC](https://play.google.com/store/apps/details?id=GDE.Main)（Offline Compiler）:C/C ++编译器是一款C/C ++编译器。但是，实际上它只能编译C代码，而不包含C++。C编译器运作良好。
+- [C＃To Go](https://play.google.com/store/apps/details?id=com.gregshackles.csharptogo):是一款小型的C＃编译器。
+- [C++, Java Programs & Reference](https://play.google.com/store/apps/details?id=in.nishitp.aiuto&hl=en)：准备测试和面试的最佳程序和参考的集合。此应用程序包含Java、C++和Intel8086集合的参考。 Aiuto是一款免费的参考应用。
 
+- [Android Web Developer（AWD）](https://play.google.com/store/apps/details?id=org.kidinov.awd)—PHP / HTML / CSS / JS IDE：是一款支持web开发的IDE（集成开发环境）。支持下列语言和格式：PHP，CSS，JS，HTML，JSON。
+
+- [Quoda Code Editor](https://play.google.com/store/apps/details?id=com.henrythompson.quoda&hl=en)：是一款复杂但易于使用的源代码编辑器，也是配备了一些强大功能的IDE——主题语法高亮，跨会话编辑，代码完成，制表位和变量的片段，等等。
+- [920 Text Editor](https://play.google.com/store/apps/details?id=com.jecelyin.editor)：是一款运行在Android手机上的功能强大的文本编辑器，还可以将它当作电子书阅读器打开TXT小说。
+
+
+#### 编程游戏
+- [codeingame](https://www.codingame.com/) 一边玩游戏，一边挑战编程难题。支持包括 PHP、c、JavaScript 在内的 20 多种编程语言。用户界面功能强大。
+- [CodeCombat](https://codecombat.cn/) 是一款网页编程游戏。游戏剧情十分丰富网站外观看起来就像是一个魔兽争霸风格的线上游戏，搭配了程序语言的学习。
+- [CodeMonkey](https://www.codemonkey.com/) 以游戏闯关的方式进行教学，总共有300 多个关卡，涉及到编程的各种概念
+- [Check iO](https://checkio.org/) 是一个基于浏览器的游戏，你需要使用 Python 或JavaScript 来解决问题才能将游戏进行下去（需要登录）。
+- [codewars](https://www.codewars.com/)：Achieve mastery through challenge。Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+### 代码仓
 
 - [Github](https://github.com/) 免费版支持无限私有仓库 (微软收购)
 - [linear.app](https://linear.app/) is a purpose-built tool for planning and building products. Meet the system for modern software development. Streamline issues, projects, and product roadmaps.
@@ -298,7 +396,6 @@ unsorted
 - [CodePen](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ### 云服务
-
 
 - [csdn云](https://dev.csdn.net)
 - [华为云](https://www.huaweicloud.com/)
@@ -331,7 +428,6 @@ unsorted
 
 ### Cloud Operating System
 
-
 - [SealOS](https://sealos.io/) Kubernetes as the kernel Cloud Operating System.Abstracting the entire data center as a singular server, where everything is an application. You can use Sealos as seamlessly as operating a personal computer.
 - [sealos国内网站](https://sealos.run/)以 Kubernetes 为内核的云操作系统: Sealos。整个数据中心抽象成一台服务器，一切皆应用，像使用个人电脑一样使用 Sealos！
 
@@ -357,6 +453,7 @@ unsorted
   - [EU.org](https://nic.eu.org/), free domain names since 1996
 
 ### DNS
+
 - [免费公共 DNS 服务器大全](https://dns.icoa.cn/)
   - Google
     - Google IPv4 DNS
@@ -435,7 +532,6 @@ unsorted
 
 ### CDN
 
-
 - ~~[jsdelivr](https://www.jsdelivr.com/) A free, fast, and reliable CDN for JS and Open Source~~
 - [cdnjs](https://cdnjs.com/) the #1 free and open source CDN built to make life easier for developers
 - ~~[staticfile.org](https://www.staticfile.org/)~~供应链攻击风险较高，已被墙
@@ -452,8 +548,7 @@ unsorted
 
 ### 网盘
 
-
-- [alist](https://alist.nn.ci/) [alist on github](https://github.com/alist-org/alist)
+- [alist](https://alistgo.com/) [alist on github](https://github.com/AlistGo/alist)
 - [OpenList](https://github.com/OpenListTeam/OpenList)： 是一个开源的网盘聚合工具，从 AList 分叉而来，支持在一个网页界面中操作多个网盘文件，可以进行文件管理、视频播放等。
 - [AlistHelper](https://github.com/Xmarmalade/alisthelper) is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [百度网盘](https://pan.baidu.com)
@@ -484,7 +579,11 @@ unsorted
 - [上海交通大学](http://ftp.sjtu.edu.cn/)
 - [西安交通大学](http://mirrors.xjtu.edu.cn/)
 
-### AI/大模型
+### 医疗
+
+- [默沙东诊疗手册](https://www.msdmanuals.cn/) 是一个涵盖了医学所有领域成千上万主题的广泛医学信息来源。它们作为免费的公众服务提供给医疗专业人士和普罗大众。
+
+## AI/大模型及其衍生体
 
 - [DeepSeek](https://www.deepseek.com/)
   - [被吹爆的 DeepSeek！拥有“东方神秘力量”强大推理能力的 ChatGPT 国产替代品](https://www.iplaysoft.com/deepseek.html):DeepSeek 是开源 AI 大模型的一个超级新星，用极低成本训练成世界级 AI 的壮举，一下把全球 AI 用户甚至是圈内大佬都震惊了，可谓是国产之光！它提供了 R1“深度思考”模型，支持联网搜索，不仅适用于日常的写作、翻译、问答，其出色的推理思考能力还让其在编程、解题、文献解读以及复杂问题规划等多种领域用途上表现亮眼！而 V3 模型则适合更广泛的应用场景。
@@ -501,7 +600,8 @@ unsorted
 - 阿里云 [通义千问](https://tongyi.aliyun.com/)
 - Claude 3
   - [Claude 3 注册使用教程 - 全面超越 ChatGPT (GPT4) 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html)可免费使用！并且已经脱离了之前的 Slack 平台，直接访问官网网页版即可使用！
-- [低调~ 免费无限白嫖 GPT4 方法！Coze 扣子 - 字节出品的超强 AI Bot 工具教程](https://www.iplaysoft.com/coze.html)
+- [扣子 coze](https://www.coze.cn/)
+	- [低调~ 免费无限白嫖 GPT4 方法！Coze 扣子 - 字节出品的超强 AI Bot 工具教程](https://www.iplaysoft.com/coze.html)
 - [kimi](https://kimi.moonshot.cn/)
   - [Kimi (月之暗面 Moonshot AI) - 爆火的免费国产大模型 (超长文 / 兼容 ChatGPT API)](https://www.iplaysoft.com/moonshot-kimi.html)
 - [豆包](https://www.doubao.com/)：字节跳动旗下AI智能助手
@@ -510,7 +610,7 @@ unsorted
 
 - [cline](https://app.cline.bot/)：Transform your engineering team with a fully collaborative AI partner. Open source, fully extensible, and built to amplify developer impact.
 
-- GitHub Copilot
+- [GitHub Copilot](https://github.com/copilot)
 - [Biadu Comate](https://comate.baidu.com/) 已对个人用户开发者免费开放 [百度 Comate 代码 AI 编程助手 - 个人永久免费](https://www.iplaysoft.com/p/baidu-comate)
 - [通义灵码](https://developer.aliyun.com/topic/lingma/activities/202405) - [免费的 AI 智能编程助手插件！阿里云国内 GitHub Copilot 替代品](https://www.iplaysoft.com/tongyi-lingma.html) 对个人开发者免费
 - [Codeium](https://codeium.com/) - [让 AI 帮你编程！免费 Github Copilot 替代品 / 自动代码补全 / 智能编程插件](https://www.iplaysoft.com/codeium.html) 对个人开发者是永久完全免费的
@@ -538,40 +638,43 @@ unsorted
 > - GPT-4o 用于语音模式
 > - Deepseek R1 和通义千问，因为我们热爱开源
 
-#### 智能体
+### AI Search
+
+- [夸克](https://ai.quark.cn/)
+- [MemFree](https://www.memfree.me/) - Hybrid AI Search Engine & AI Page Generator。 [Github](https://github.com/memfreeme/memfree)
+
+### 智能体
+
 - [manus](https://manus.im/) 一个开源的智能体编程语言，可以用来创建自己的智能体。
 - [OpenManus](https://github.com/mannaandpoem/OpenManus) An open-source framework for building general AI agents.
 - [Second Me](https://www.secondme.io/) Train your AI self, amplify you, bridge the world. [Github](https://github.com/mindverse/Second-Me)
 
-#### IDE
+### IDE
 
 - [Trae](https://www.trae.com.cn/)：AI原生IDE，slogan：致力于成为真正的 AI 工程师（The Real Al Engineer）。Trae 旗下新一代 AI 编程助手（原 MarsCode 编程助手），以插件形态集成在你的本地 IDE 之中，兼容性强、使用灵活。无需改变原有工作环境，即可轻松享受 AI 带来的全新协作开发体验。提供传统的 IDE 功能，包括代码编写、项目管理、插件管理、源代码管理等。
 - [Cursor](https://www.cursor.com/) AI 代码编辑器,旨在让你获得超凡的生产力，Cursor 是使用 AI 编写代码的最佳方式。
 - [void](https://github.com/voideditor/void)是一款开源的 Cursor 替代品，支持自定义 API Key，基于 VS Code，可以让 AI 帮你写代码，完整各种编程任务
 - [Oomol Studio](https://oomol.com/) 通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离.AI 可编程工作流平台
+- [Windsurf](https://windsurf.com/)  is a next-generation AI IDE built to keep you in the flow, is an AI toolkit that empowers developers to dream bigger and write more code using tools like Cascade, Autocomplete, Chat, Command, and more.
 
-#### AI工具箱
+### AI工具箱
 
 - [ChatALL](https://github.com/ai-shifu/ChatALL) Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ChatWise](https://www.iplaysoft.com/chatwise.html) - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)
 - [边界AICHAT](https://tg.ai1foo.com/) 集百家AI模型于一身 [小众软件](https://www.appinn.com/aichat4-0/)
 - [Paper2GUI](https://xiaobaituai.com/) 🚀🚀🌟: 让每个人都简单方便的使用前沿人工智能技术.一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。 [on Github](https://github.com/Baiyuetribe/paper2gui)
 
-- [NoteGen](https://github.com/codexu/note-gen) is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-
 - [exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices.
 
-#### 自然语言处理
-
+### 自然语言处理
 
 - [我爱自然语言处理 I Love Natural Language Processing](https://www.52nlp.cn)
 
-#### Machine Learning
+### Machine Learning
 
 - [Machine-learning-Related](https://yaoqs.github.io/Machine-learning-Related/)
 
 ## 哲学
-
 
 西方人通常指“爱智慧”或“智慧之学”，中国人解释为通晓事理、使人聪明的学问。哲学是关于世界观的学问，是理论化和系统化的世界观，任何哲学都是世界观与方法论的统一。哲学是关于自然知识、社会知识和思维知识的概括和总结，研究自然、社会和思维领域中最一般的规律，各具体科学则研究客观世界某一领域或某一局部的特殊规律.
 
@@ -601,10 +704,7 @@ unsorted
 
 ## 人文
 
-- [地图书编辑器](https://www.ditushu.com/di-map-editor/)：面向人文领域的专题地图绘制工具
-
 ## English news
-
 
 - [人民日报英文](http://en.people.cn)
 - [chinadaily global](https://global.chinadaily.com.cn/)
@@ -621,9 +721,9 @@ unsorted
 - [hehonghui /the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - Dictionary by [Merriam-Webster](https://www.merriam-webster.com/): America's most-trusted online dictionary
 - [NPR](https://www.npr.org/) - Breaking News, Analysis, Music, Arts & Podcasts : NPR
+- [English News In Levels](https://englishnewsinlevels.com/) 面向英语学习者的每日新闻分级阅读网站
 
 ### technews
-
 
 - [ACM TechNews](https://technews.acm.org/), providing timely information for IT professionals three times a week.
 - [MIT Technology Review](https://www.technologyreview.com/)
@@ -631,26 +731,36 @@ unsorted
 
 ### Lab
 
-
 - [AMPLab](https://amplab.cs.berkeley.edu/) – UC Berkeley Algorithms, Machines and People Lab
 
 ## 教育
 
+- [国家智慧教育公共服务平台](https://www.smartedu.cn/)
+	- [国家职业教育](https://vocational.smartedu.cn/NationalHome)
+	- [国家中小学智慧教育平台](https://basic.smartedu.cn/)
+
+### 高等教育
+
+- [中国高等教育学生信息网（学信网）](https://www.chsi.com.cn/)
+- [考研帮](https://www.kaoyan.com/)
+- [研究生招生信息网_研招信息网_研招网_考研帮（kaoyan.com）](https://yz.kaoyan.com/)
+
+### 教材
+
+- [ChinaTextbook – 41.53 GB，中国小学、初中、高中、大学 PDF 教材](https://www.appinn.com/chinatextbook/) [Github](https://github.com/TapXWorld/ChinaTextbook/)
+- [国家中小学智慧教育平台 电子课本下载工具](https://github.com/happycola233/tchMaterial-parser)
+
+### 教育软件
+
+- [GeoGebra](https://www.geogebra.org/) 并非仅仅是一套免费的数学工具, 它更是一个平台. 这个平台旨在连接满怀热情的教师与学生, 为他们提供一种崭新的数学探索与学习方式.
+	- [GeoGebra - 数学教学软件](https://mat.geogebra.org/) 用于 2D 及 3D 图形, 几何, 代数, 微积分和统计的数学应用.用于学习与教学的动态数学软件
 - [ClassIsland](https://classisland.tech) 一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。
   - [GitHub](https://github.com/ClassIsland/ClassIsland)
   - 丰富的信息显示功能
   - 强大的课表管理系统：可以便捷地导入、编辑和调换课表。
   - 提醒：ClassIsland 可以在上课、下课等重要时间点发出提醒。除此之外，ClassIsland支持使用一系列方法强调提醒效果。
 
-### 高等教育
-
-
-- [中国高等教育学生信息网（学信网）](https://www.chsi.com.cn/)
-- [考研帮](https://www.kaoyan.com/)
-- [研究生招生信息网_研招信息网_研招网_考研帮（kaoyan.com）](https://yz.kaoyan.com/)
-
 ### 公开课
-
 
 - [慕课网-程序员的梦工厂](https://www.imooc.com/)
 - [MIT OpenCourseWare / Free Online Course Materials](https://ocw.mit.edu)
@@ -744,7 +854,6 @@ unsorted
 
 ### 英语
 
-
 - [IELTS](https://www.ielts.org/) IELTS is the high stakes English test for international study, migration and work. Open a world of opportunity with IELTS.
 - [教育部教育考试院 雅思报名网站](https://ielts.neea.edu.cn/)
 - [柯林斯词典](https://www.collinsdictionary.com/zh/)
@@ -754,11 +863,9 @@ unsorted
 
 ### 考试
 
-
 - [我要模考](http://www.51mokao.com/)
 
 ### 竞赛
-
 
 - [acm国际大学生程序设计竞赛](http://acm.cumt.edu.cn/)
 - [The International Obfuscated C Code Contest](https://www.ioccc.org)
@@ -768,16 +875,7 @@ unsorted
 - [全国高校密码数学挑战赛](http://www.cmsecc.com/)是面向全国大学生的一项公益性科技活动，旨在通过挑战赛的形式精准地发现和及早培养在数学、密码和网络安全领域有特殊才能的创新型人才，以满足国家发展需求；推动高校应用数学及交叉学科课程的教学内容和教学方法的改革；强化大学生的创新意识，提升大学生应用数学知识解决实践问题的能力，培养团队合作精神。
 - [信息安全与对抗技术竞赛（ISCC：Information Security and Countermeasures Contest）](https://www.isclab.org.cn/)
 
-## 数据
-
-- [国家数据局](https://www.nda.gov.cn/sjj/index_pc.html)
-- [国家公共数据资源登记平台](https://sjdj.nda.gov.cn/)
-- [官方权威统计数据](https://github.com/yiliyassh/authority-data) 统计年签，统计公报，互联网行业报告，工信部数据，ICT报告等 Official authoritative data (Chinese)
-- 全球贸易数据分析 网址：<http://globe.cid.harvard.edu/>这个网站可以看到全球每一个国家在贸易方面的数据
-- OEC.world 网址：<https://oec.world/> 查询每个国家或地区的贸易数据，并用图文进行通俗解释
-
 ## 教程
-
 
 - [菜鸟教程 - 学的不仅是技术，更是梦想！](https://www.runoob.com/)
 - [W3school](https://www.w3school.com.cn)
@@ -789,7 +887,6 @@ unsorted
 - [Programming DIY / Blog about programming for beginners and beyond](https://demin.ws/english/)
 
 ## 电子书/ebook
-
 
 - [O’Reilly](https://www.oreilly.com/) [cn](http://www.oreilly.com.cn/)
 - [图灵社区](https://www.ituring.com.cn/)
@@ -878,7 +975,6 @@ unsorted
 
 ### 小说
 
-
 - [努努书坊 - 小说在线阅读](https://www.kanunu8.com/)
 - [中国古典文学 - 国学经典,中国古代文学作品在线阅读](http://www.zggdwx.com/)
 - [英文小说网](http://novel.tingroom.com/)
@@ -894,7 +990,6 @@ unsorted
 
 ### 诸子百家
 
-
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
 - [中国哲学书电子化计划](https://ctext.org/zhs) 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化，用交叉索引等技术充分利用电脑的功能，给中外的学者提供更方便的方式来学习和研究这些古书。
 - [Chinese Text Project](https://ctext.org/)
@@ -903,17 +998,16 @@ unsorted
 - [古诗文网](https://www.gushiwen.cn/)
 - [经典文学网](http://www.ccview.net/)
 
-### 中医
+### 阅读app
 
+- [微信读书](https://weread.qq.com/)
+- [Legado / 开源阅读](https://github.com/gedoor/legado) is a free and open source novel reader for Android. Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+## 中医
 
 - [A+](http://www.a-hospital.com)医学百科是一个开放的在线医学百科全书网站
 - [黄帝内经](https://ctext.org/huangdi-neijing/zhs)
 - [汉唐中医倪海厦网站-倪海厦](https://www.jingfangjia.cn/) 介绍了倪海厦个人资料及简介，分享人纪中医，天纪紫薇斗数+易经知识，提供书籍，视频，电子书，讲义，软件等辅助学习品。
-
-### 天文
-
-- [Stellarium](https://stellarium.org/zh_CN/) 是一款开源的天象模拟软件。它以3D形式展示了极为逼真的星空，就像你在真实世界使用裸眼，双筒望远镜或天文望远镜看到的一样。
-  - [web](https://stellarium-web.org/)
 
 ## 美好生活
 
@@ -931,37 +1025,59 @@ unsorted
   - [github](https://github.com/RSSNext/Follow)
 - [摸摸鱼热榜](https://momoyu.cc/) 摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！
 
+## 休闲/游戏
+
+### 在线小游戏
+
+- [Game](https://yaoqs.github.io/Game)
+- [What Games Play - 免费网页小游戏平台](https://whatgamesplay.com/)
+- [小游戏平台](https://sz-games.online/)
+- [survivor](http://www.schillmania.com/survivor/)
+- [armor-alley](http://www.schillmania.com/armor-alley/)
+- [拼图游戏网站](http://www.puzzle8.com)
+
+### 编程游戏
+
+- [codeingame](https://www.codingame.com/) 一边玩游戏，一边挑战编程难题。支持包括 PHP、c、JavaScript 在内的 20 多种编程语言。用户界面功能强大。
+- [CodeCombat](https://codecombat.cn/) 是一款网页编程游戏。游戏剧情十分丰富网站外观看起来就像是一个魔兽争霸风格的线上游戏，搭配了程序语言的学习。
+- [CodeMonkey](https://www.codemonkey.com/) 以游戏闯关的方式进行教学，总共有300 多个关卡，涉及到编程的各种概念
+- [Check iO](https://checkio.org/) 是一个基于浏览器的游戏，你需要使用 Python 或JavaScript 来解决问题才能将游戏进行下去（需要登录）。
+- [codewars](https://www.codewars.com/)：Achieve mastery through challenge。Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+### 黑客网络 Hacknet
+
+- EA 在 [GitHub](https://github.com/electronicarts) 上开源了：
+  - [命令与征服：重制版合集（CnC_Remastered_Collection）](https://github.com/electronicarts/CnC_Remastered_Collection)
+  - [命令与征服：将军 – 零点行动（CnC_Generals_Zero_Hour）](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
+  - [命令与征服：叛逆者（CnC_Renegade）](https://github.com/electronicarts/CnC_Renegade)
+  - [命令与征服：红色警戒（CnC_Red_Alert）](https://github.com/electronicarts/CnC_Red_Alert)
+  - [命令与征服：泰伯利亚黎明（CnC_Tiberian_Dawn）](https://github.com/electronicarts/CnC_Tiberian_Dawn)
+  - [命令与征服：模组支持（CnC_Modding_Support）](https://github.com/electronicarts/CnC_Modding_Support)
 
 ## 影视资源网站
 
-
 ### 综合
-
 
 - [ZEEF](https://zeef.com/) In the ZEEF Curated Directory, passionate people create top lists of links about their favourite topics. They have sifted and ranked the best results for you.
 
 ### music/音乐
-
 
 - [Tree.FM – 收听世界各地的森林之音](https://www.tree.fm)
 - [Download mp3 music online. Best music collection in a format mp3. Buy music albums.](https://mp3fiesta.com/)
 - [预谋邂逅 - 豆瓣FM](https://douban.fm/)
 - [mp3fiesta](https://mp3fiesta.com/)
 - [youtube](https://www.youtube.com)
-- 古典音乐 网址：<https://www.kunstderfuge.com/>
-免费下载古典音乐（MIDI 格式），可按音乐家名称查询
-- <http://Archive.org> Serendipity 网址：<https://www.locserendipity.com/PushPlay.html>
-收集了很多过了版权保护期的音乐作品，按一下按钮，就会随机播放一段音乐
+- [古典音乐](https://www.kunstderfuge.com/) 免费下载（MIDI 格式），可按音乐家名称查询
+- <http://Archive.org> Serendipity 网址：<https://www.locserendipity.com/PushPlay.html> 收集了很多过了版权保护期的音乐作品，按一下按钮，就会随机播放一段音乐
 
 ### 壁纸/wallpaper
-
 
 - [极简壁纸](https://bz.zzzmh.cn) 海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站
 - [Pixabay](https://pixabay.com/zh/) 免费正版图片素材下载
 - [backiee 壁纸库](https://backiee.com) 海量壁纸，支持全平台客户端
 
 ### design
-
 
 - [『Leica中文摄影杂志』](http://www.leica.org.cn/)
 - Web Design Blog, Tutorials and Inspiration [Web Design Ledger](http://webdesignledger.com/)
@@ -971,7 +1087,6 @@ unsorted
 - [Alphadesigner](https://alphadesigner.com/)
 
 ### 高清下载
-
 
 - [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
 - [中国高清网 - 高清电影网 720P/1080P/蓝光原盘-磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
@@ -986,16 +1101,14 @@ unsorted
 
 ### 美剧
 
-
 - [YYeTs 人人影视-字幕组官方下载站](http://www.zmz2019.com/) 永久域名：RRYS.TV
 - [美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！](https://www.meijutt.com/)
 - ~~美剧百度网盘资源 <https://v.wxbxkx.com/>~~
 - 美剧迅雷链接<https://www.uump4.net/>
 - ~~美剧在线看  <https://m.meijutt.tv/>~~
-- 字幕下载：   <http://zimuku.org/>
+- [字幕下载](http://zimuku.org/)
 
 ### 漫画下载网站
-
 
 - <http://m.vol.moe/>
 - <http://readcomiconline.to>
@@ -1026,11 +1139,9 @@ unsorted
 
 ### 电视直播软件
 
-
 - [my-tv](https://lyrics.run/my-tv.html)我的电视 电视直播软件，安装即可使用 [github](https://github.com/lizongying/my-tv)
 
 ### 资源搜索
-
 
 - 海盗湾 The Pirate Bay:
   - <https://www.pirate-bay.net/>
@@ -1048,14 +1159,12 @@ unsorted
 - 学霸盘<https://www.alipansou.com>百度网盘搜索
 - [磁力天堂 一个好用的磁力资源导航网站，一站在手资源我有!](https://btlm.cc/)
 
-#### day
-
+#### 0day
 
 - <https://www.0daymusic.biz>
 - W0day.org
 
 ### ed2k
-
 
 - ~~[ED2000资源共享,电驴下载,eD2k,BT种子](https://www.ed2000.com/)~~
 - [VeryCD电驴大全](http://www.verycd.com/)
@@ -1073,7 +1182,6 @@ unsorted
 ```
 
 ### 游戏/Game
-
 
 - [独立精神 indienova 独立游戏](https://indienova.com/)
 - [中文 DOS 游戏](https://dos.lol/) 中文 DOS 游戏合集，目前共有 1898 款游戏。
@@ -1140,7 +1248,6 @@ unsorted
 
 - [offensive-security/exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits)This is the official repository of [The Exploit Database](http://www.exploit-db.com/), a project sponsored by [Offensive Security](https://www.offensive-security.com/).The Exploit Database is an archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. Its aim is to serve as the most comprehensive collection of exploits gathered through direct submissions, mailing lists, and other public sources, and present them in a freely-available and easy-to-navigate database. The Exploit Database is a repository for exploits and proof-of-concepts rather than advisories, making it a valuable resource for those who need actionable data right away.This repository is updated daily with the most recently added submissions. Any additional resources can be found in our [binary sploits repository](https://github.com/offensive-security/exploit-database-bin-sploits).The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb-bin-sploits
 
-
 ### CTF
 
 - [看雪CTF](https://ctf.pediy.com/)
@@ -1150,7 +1257,6 @@ unsorted
 - [信息安全与对抗技术竞赛（ISCC：Information Security and Countermeasures Contest）](https://www.isclab.org.cn/)
 
 ### Cyber Security
-
 
 - [Cyber Challenge Australia](https://cyberchallenge.com.au/) :CySCA is a ‘hacking’ competition run by an alliance of Australian Government, business and academic professionals who are committed to finding the next generation of Australian cyber security talent.
 - <https://xfocus.org>
@@ -1162,13 +1268,11 @@ unsorted
 
 #### metasploit
 
-
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) <https://www.metasploit.com/>
 - [metasploitable3](https://github.com/rapid7/metasploitable3) Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
 ## opencode
-
 
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
@@ -1194,17 +1298,13 @@ unsorted
 - [DOMXPath::query Hot Examples - Source Code Usage Examples Aggregator](https://cpp.hotexamples.com/)
 - [月光软件站](https://www.moon-soft.com/)-专业的技术开发编程源代码网站,提供:php,asp,vb等源程序代码下载及编程指南,开发文档等
 
-
-
 ## 电子电路
-
 
 - [EDN](https://www.edn.com/) is an electronics community for engineers, by engineers, with the information, tools, courses, and professional connections you need to get your job done and get your ideas from concept to reality as quickly as possible.
 - [与非网](https://www.eefocus.com/) - 国内领先的电子工程师设计技术门户网站。与非网(eefocus)定位为电子技术门户网站和信息服务平台，专注于电子及半导体产业的市场动态和前沿技术，为相关厂商提供信息发布、技术社区等定制化服务，为电子工程师提供产业资讯、新品信息、技术资料和深度市场分析等精品内容。
 - [电子发烧友网](https://www.elecfans.com/)：领先的电子工程师技术社区，为工程师创造价值。电子发烧友网 联手全球半导体产业领先企业，为中国电子研发工程师及开发者，提供全面的技术、产业和供应链资讯和在线社区交流服务的平台。
 
 ## 开源硬件
-
 
 - [Arduino](https://www.arduino.cc/)
 - [树莓派](https://github.com/yaoqs/Raspberry-Pi-config)
@@ -1215,11 +1315,9 @@ unsorted
 
 ## 机器人/Robotic
 
-
 - [Robocode](https://robocode.sourceforge.io/) is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java. The robot battles are running in real-time and on-screen. [Build the best - destroy the rest!](https://github.com/robo-code/robocode)
 
 ## 论坛
-
 
 - [硬盘基地](https://www.intohard.com/)
 - [批处理之家](http://www.bathome.net)
@@ -1228,7 +1326,6 @@ unsorted
 - [卡饭论坛](https://bbs.kafan.cn)
 
 ## 软件
-
 
 - [MAC萌新网](https://www.macxin.com/)   [萌新云盘](https://pan.macxin.com/)
 - [小众软件](https://www.appinn.com/)
@@ -1259,7 +1356,6 @@ unsorted
 
 ### 在线工具
 
-
 - [帮小忙, 万能工具宝藏](https://tool.browser.qq.com/) 腾讯出品，轻松办公，工具助你一臂之力。功能一应俱全、简单好用的线上工具宝
 - [Handy toolts for developers](https://oschina.com/)
 - [JSON在线 - JSON解析格式化—SO JSON在线](https://www.sojson.com/)
@@ -1279,18 +1375,37 @@ unsorted
 - [开发者武器库](https://devtool.tech/)
 - [MyIP - A Better IP Toolbox](https://github.com/jason5ng32/MyIP)Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!  🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。 [demo](https://ipcheck.ing/)
 - [ip.im](https://ip.im/) online free ip address lookup tool
-<a href="https://ip.im">  <img src="https://ip.im/img" alt="My IP Address" width="215" height="70" /></a>
-```
-curl ip.im
-curl ipv4.im
-curl ip.im/info
-curl ip.im/8.8.8.8
-```
+
+	<a href="https://ip.im">  <img src="https://ip.im/img" alt="My IP Address" width="215" height="70" /></a>
+
+	```
+	curl ip.im
+	curl ipv4.im
+	curl ip.im/info
+	curl ip.im/8.8.8.8
+	```
+- [PING0](https://ping0.cc/)
+	```
+	curl ping0.cc
+	curl -4 ping0.cc
+	curl -6 ping0.cc
+	curl ipv6.ping0.cc
+	# curl 获取本机 ip 详细信息
+	# 输出结果共4行，第一行为ip地址，第二行为位置信息，第三行为AS号码，第四行为商家名称
+	curl ping0.cc/geo
+	# curl 获取本机 ipv4 详细信息
+	curl -4 ping0.cc/geo
+	# curl 获取本机 ipv6 详细信息
+	curl -6 ping0.cc/geo
+	curl ipv6.ping0.cc/geo
+	```
 
 - [w.is](https://w.is/) whois lookup tool
 - [dns.is](https://dns.is/) Querying DNS Resolution Results in Different Regions Worldwide.
 
 - [在线生成透明ICO图标](https://www.ico51.cn/)
+
+- [Setup Check](https://www.setupcheck.tech/)是一个专业的设备检测平台，帮助用户快速检测摄像头、麦克风、扬声器、键盘、鼠标和网络质量，确保在线会议和游戏设备的最佳性能。
 
 ### API接口
 
@@ -1299,7 +1414,7 @@ curl ip.im/8.8.8.8
 - [WebApiClient](https://github.com/dotnetcore/WebApiClient) 使用C#接口描述你的http接口
 - DeepLX 是一个开源项目，它基于 DeepL 免费服务，将其转换为本地 API，提供给第三次程序使用，如沉浸式翻译、BOb。DeepLX 在 [GitHub](https://github.com/OwO-Network/DeepLX/) 开源，不限制请求次数（但 DeepL 可能会限制 IP）默认情况下监听本地 1188 端口。DeepL 本身提供了免费的有额度限制的 API，但注册很困难，如果你能注册到，那么直接使用官方 API 即可。
 
-#### 天气
+### 天气
 
 - [yaoqs](https://yaoqs.github.io/Lab)
 - [wttr.in](https://wttr.in/) [on github](https://github.com/chubin/wttr.in) [more](https://www.ruanyifeng.com/blog/2019/12/github_actions.html)...
@@ -1333,6 +1448,7 @@ curl ip.im/8.8.8.8
   - 每小时预测
   - 月度预测
   - 手机应用
+- [Zoom Earth](https://zoom.earth/) 是一款交互式全球天气地图与飓风追踪工具，支持查看实时卫星云图、降水、风速、温度等多种气象要素。它最大的亮点是 逐点天气查询 🌍：用户可以直接点击地图上的任意具体位置，获取该点的当前天气和短期预报，而不是仅限于城市的平均气象数据。
 
 ### 开发
 
@@ -1373,6 +1489,10 @@ curl ip.im/8.8.8.8
 - [python](https://www.python.org/)
   - [spyder](https://www.spyder-ide.org/)is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.[github](https://github.com/spyder-ide/spyder)
   - [pygame](https://www.pygame.org)
+  - [pyenv](https://github.com/pyenv/pyenv)是一个Python版本管理工具，允许用户在同一台机器上安装并切换多个Python版本。它通过修改环境变量实现版本隔离，适用于开发、测试或兼容性需求。[Windows版本](https://github.com/pyenv-win/pyenv-win)
+  - PyQt
+	- [官网](https://riverbankcomputing.com/)
+	- [教程](https://www.runoob.com/python3/python-pyqt.html)
 
 - [Sysprogs](https://sysprogs.com/)
   - [VisualGDB](https://visualgdb.com/): makes cross-platform development with Visual Studio easy and comfortable.It supports:
@@ -1413,9 +1533,9 @@ curl ip.im/8.8.8.8
 
 - [RenderDoc](https://renderdoc.org/)是一种图形调试器，目前可用于 Windows、Linux、Android、Stadia 和 Nintendo Switch TM 上的 Vulkan、D3D11、D3D12、OpenGL 和 OpenGL ES 开发。[Github](https://github.com/baldurk/renderdoc)
   - [Renderdoc快速入门](https://zhuanlan.zhihu.com/p/404576672)
+- 【[Superluminal](https://superluminal.eu/) - a new performance profiler for Windows】Superluminal -Windows的新性能分析器。搞Windows系统开发童鞋们必备神器！
 
 ### opensource
-
 
 - [Cygwin](https://www.cygwin.com/) [中文站点](http://www.cygwin.cn/)
   Cygwin is a Linux-like environment for Windows
@@ -1446,7 +1566,6 @@ curl ip.im/8.8.8.8
 
 ### 科研
 
-
 - [matlab](https://www.mathworks.com/products/matlab.html)  MATLAB是美国MathWorks公司出品的商业数学软件，用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境，主要包括MATLAB和Simulink两大部分。
 - [GNU Octave](https://octave.org/)Scientific Programming Language：The Octave syntax is largely compatible with Matlab. The Octave interpreter can be run in GUI mode, as a console, or invoked as part of a shell script.
   - Powerful mathematics-oriented syntax with built-in 2D/3D plotting and visualization tools
@@ -1467,8 +1586,7 @@ curl ip.im/8.8.8.8
     - [官网](https://matplotlib.org/)
     - [源代码](https://github.com/matplotlib/matplotlib)
     - [教程](https://www.runoob.com/matplotlib/matplotlib-tutorial.html)
-  - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
-built on top of the Python programming language.
+  - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
   - [官网](https://pandas.pydata.org/)
   - [源代码](https://github.com/pandas-dev/pandas)
   - [教程](https://www.runoob.com/pandas/pandas-tutorial.html)
@@ -1483,13 +1601,12 @@ built on top of the Python programming language.
 
 ### 建站
 
-
 - ~~114la~~
 - [懒人建站](https://www.51xuediannao.com/)提供网页素材下载，提供网站模板素材、图片素材、ps素材、素材库等，服务于【个人站长】【网页设计师】和【web开发从业者】的代码素材与设计素材网站。
 
 ### 文件传送
 
-
+- [FilePizza](https://file.pizza/) Peer-to-peer file transfers in your browser.与传统网盘有所不同，它无需注册、无需安装、 无需等待上传，直接在浏览器间点对点传输， 不需要经过任何中间服务器，保证了文件分享既快速又安全。[Github](https://github.com/kern/filepizza)
 - [奶牛快传](https://cowtransfer.com/) 不限制大小不限速度的免费临时文件分享网盘 (文件传输服务)
 - [FireFox Send](https://send.firefox.com/) 火狐免费个人文件分享网盘服务 (加密传输 / 设置密码 / 限制时间)
 - [傳送大型檔案 - 快、簡單、安全!](https://www.filemail.com/) 免费發送大宗文件-安全文件傳輸
@@ -1497,7 +1614,6 @@ built on top of the Python programming language.
 - [Transfer.zip](https://transfer.zip/)Ultrafast, secure and limitless file transfers - all without size limits or tracking cookies.[Github](https://github.com/robinkarlberg/transfer.zip-web)
 
 ### 图床
-
 
 - <https://www.rmdown.com/>
 - <https://sm.ms/>
@@ -1507,7 +1623,6 @@ built on top of the Python programming language.
 - [CodePen](https://codepen.io/) is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
 
 ### 效率软件
-
 
 - [异次元软件世界](https://www.iplaysoft.com)
 - [小众软件](https://www.appinn.com/)
@@ -1519,21 +1634,9 @@ built on top of the Python programming language.
   - [researchtools](http://www.xiaolvji.com/u/researchtools): 学术科研导航
 - ~~[书签地球](https://www.bookmarkearth.com/): 中国首家浏览器书签共享搜索引擎平台~~
 - [Quick Fix 工具](https://iknow.lenovo.com.cn/tool) 联想的快速修复工具
+- ~~UZER.me 是一个无需下载安装，就可以刘览器中使用各种企业级大型软件（比如 Office 系列， PS ，Au t0CAD ）。你无需安剁由件，也不会占很多内存，打开网页就可以体验使用，而目几乎没有卡顿。你还可以通过分享，和同事朋友一起实时编辄除了网页版，它还有专门的 App ，只是和网页版相比稍微逊色点·云端的数据都是加密的，还支持下载，只读等权限·唯一的要求就是网速不能太慢。~~
 
 #### Adobe 全家桶
-
-
-#### Free Open Source Windows Operating System Kernels Softwar
-
-
-- [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
-- [WSL2-Linux-Kernel](https://sourceforge.net/projects/wsl2-linux-kernel.mirror/) The source for the Linux kernel used in Windows Subsystem for Linux 2
-
-#### Android linux
-
-
-- [AidLux](https://aidlux.com/) 基于ARM架构的跨生态（Android/鸿蒙+Linux）一站式AIoT应用开发和部署平台
-- [AidLearning](https://github.com/aidlearning/AidLearning-Framework) is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
 
 #### Microsoft
 
@@ -1549,7 +1652,7 @@ built on top of the Python programming language.
   - 观看 Mark 在 [YouTube 上的 Sysinternals 更新视频](https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_)
   - 观看 Mark 最受欢迎的《[无法解释的案例](https://learn.microsoft.com/zh-cn/sysinternals/resources/webcasts)》故障排除演示文稿和其他网络广播
   - 阅读 [Mark](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) 的博客，其中重点介绍了如何使用工具解决实际问题
-  - 查看 Sysinternals“[学习资源](https://learn.microsoft.com/zh-cn/sysinternals/resources/)”页
+  - 查看 Sysinternals"[学习资源](https://learn.microsoft.com/zh-cn/sysinternals/resources/)"页
   - 在 Sysinternals [论坛](https://aka.ms/sysint-forums)中发布问题
 - Sysinternals Live 是一项服务，支持你直接从 Web 运行 Sysinternals 工具，而无需手动下载它们。
   - 在 Windows 资源管理器中将工具的 Sysinternals Live 路径输入为 ```live.sysinternals.com/<toolname>```或 ```\\live.sysinternals.com\tools\<toolname>```。 在命令提示符处使用 ```\\live.sysinternals.com\tools\<toolname>```。
@@ -1560,7 +1663,6 @@ built on top of the Python programming language.
 - [FastGithub](https://github.com/shiftwinting/FastGithub)
 
 #### ssh/终端/FTP文件管理工具
-
 
 - 千帆阅尽才发现最朴素的最好：ssh
 - [FileZilla](https://filezilla-project.org/ ) :The free FTP solution for both client and server. **Filezilla** is open source software distributed free of charge
@@ -1579,11 +1681,11 @@ built on top of the Python programming language.
 - [OpenSSH](https://www.openssh.com/) is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks. In addition, OpenSSH provides a large suite of secure tunneling capabilities, several authentication methods, and sophisticated configuration options.
 - The [OpenSSL](https://www.openssl.org/) Project develops and maintains the OpenSSL software - a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication. The project’s technical decision making is managed by the OpenSSL Technical Committee (OTC) and the project governance is managed by the OpenSSL Management Committee (OMC).
 - [Xterminal](https://www.terminal.icu/) - [集成 AI 免费跨平台 SSH 终端工具 (服务器文件管理 / 状态监控 / AI 命令解释补全)](https://www.iplaysoft.com/xterminal.html)
+- [HexHub](https://www.hexhub.cn/) 是一款功能强大、界面友好的多合一桌面客户端软件，专为开发者和系统管理员设计。它集成了数据库管理、Docker容器操作、SSH远程连接以及SFTP文件传输等核心功能，让您能够在一个应用中轻松处理各种服务器和数据库相关任务。无论您是需要管理复杂的数据库结构、部署Docker容器、远程操作服务器还是进行安全的文件传输，HexHub都能满足您的需求，大大提高工作效率。干净清爽的全功能SSH客户端/支持隧道，SFTP，X11转发，跳板机，分屏广播输入，LRZSZ，TRZSZ，SCP...
 - [xshell](https://www.xshell.com/)
 - [Ghostty](https://ghostty.org/) is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.[Github](https://github.com/ghostty-org/ghostty)
 
 #### 远程管理
-
 
 - mstsc 微软自带远程管理工具
 - [TeamViewer](https://www.teamviewer.cn/cn/) :  Solutions for a Secure, Connected Workplace. TeamViewer is the world’s #1 brand for remote connectivity solutions.
@@ -1609,17 +1711,16 @@ built on top of the Python programming language.
 - [Netmaker](https://github.com/gravitl/netmaker) 是一个用来配置 WireGuard 全互联模式的可视化工具，它的功能非常强大，不仅支持 UDP 打洞、NAT 穿透、多租户，还可以使用 Kubernetes 配置清单来部署，客户端几乎适配了所有平台，包括 Linux, Mac 和 Windows，还可以通过 WireGuard 原生客户端连接 iPhone 和 Android。Netmaker 使用的是 C/S 架构，即客户端/服务器架构。Netmaker Server 包含两个核心组件：用来管理网络的可视化界面，以及与客户端通信的 gRPC Server。你也可以可以选择部署DNS服务器（CoreDNS）来管理私有DNS。客户端（netclient）是一个二进制文件，可以在绝大多数 Linux 客户端以及 macOS 和 Windows 客户端运行，它的功能就是自动管理 WireGuard，动态更新 Peer 的配置。<https://github.com/gravitl/netmaker>:Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
 #### NAS
+
 - [NAS](https://yaoqs.github.io/NAS/)
 - [鲁大师 AiNAS](https://ainas.ludashi.com/)零成本让你的电脑变成内建 AI 的个人私有云服务器
 - [飞牛云 fnOS](https://www.fnnas.com/) 是基于开源的「Debian」深度开发的一款国产 NAS 专用操作系统，稳定性极佳，兼容主流的 x86 硬件。这意味着，你可以轻松地把闲置的电脑、笔记本重新利用起来，来打造个人的私有云。安装 fnOS 之后，通过浏览器即可访问到 fnOS 的系统桌面，可以看到界面非常简约，和群晖的 DSM 布局非常类似，上手非常容易，也很直观。[飞牛 fnOS - 免费 NAS 系统新黑马 ！自建比黑群晖更好用 (支持 Docker / 影视库)](https://www.iplaysoft.com/fnos.html)
 
 #### 手机调试
 
-
 - [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
 
 #### 网络相关工具
-
 
 - [PE Network Manager](https://www.penetworkmanager.de/)
 - [sscom5.13.1.exe](http://www.daxia.com/) :  新版安全可靠强大，包含串口调试、tcp及udp通讯调试
@@ -1643,13 +1744,14 @@ built on top of the Python programming language.
 - [Windows Packet Divert (WinDivert)](https://reqrypt.org/windivert.html) is a user-mode packet capture-and-divert package for Windows 10, Windows 11, and Windows Server. [Github](https://github.com/basil00/Divert)
 - [HiJackThis Files](https://sourceforge.net/projects/hjt/)
 - [NETworkManager](https://borntoberoot.net/NETworkManager/)A powerful tool for managing networks and troubleshoot network problems![GitHub](https://github.com/BornToBeRoot/NETworkManager)
+- [Fatbeans(肥豆)](https://www.fatbeans.cn/)是一款专业的Windows网络调试工具，工作在网络层，无需注入目标进程即可实现TCP抓包、协议分析、数据拦截、内容修改和自定义发包等全能操作。 广泛应用于网络协议开发、接口调试、安全分析、性能优化等场景，是开发者和网络工程师的得力助手。
 
-- simplewall
+- [simplewall](https://github.com/henrypp/simplewall) Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 
 #### 梯子/科学上网
 
-
 - PC
+  - [Mozilla VPN](https://www.mozilla.org/zh-CN/products/vpn)
   - [v2fly.org](https://www.v2fly.org/) [on Github](https://github.com/v2fly)
   - [v2ray](https://github.com/2dust/v2rayN)
   - [v2rayA](https://github.com/v2rayA/v2rayA) v2rayA is a V2Ray Linux client supporting global transparent proxy, compatible with SS, SSR, Trojan(trojan-go), PingTunnel protocols.
@@ -1669,21 +1771,30 @@ built on top of the Python programming language.
 
 #### 文本编辑器
 
-
+- [EmEditor](https://zh-cn.emeditor.com/) 是一款快速、轻巧、可扩展、易于使用的文本编辑器，集代码编辑器、CSV 编辑器、大文件查看器和 Markdown 编辑器于一体，适用于 Windows。EmEditor 文本编辑器支持宏，Unicode，还能处理大数据以及 CSV 文件。
+- [WinMerge](https://winmerge.org/) is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.[Github](https://github.com/WinMerge/winmerge/)
 - ~~[Notepad++](https://notepad-plus-plus.org/download)  :轻量级文件编辑器，支持多种格式的文件，打开文件快速。~~
 - [Notepad--](https://gitee.com/cxasm/notepad--) [(又名 NDD) 是一款使用 C++ 开发的免费开源的国产文本+代码编辑器，致力成为比 Notepad++ 更简洁好用的替代品。它支持代码高亮、支持文本对比、支持批量查找/替换等等，拥有一款代码编辑器所应该具备的基本功能，能满足大多数人写作、办公与编程的需求。Notepad-- 完全免费开源并提供了源代码，加上支持 Win、Mac、Linux 跨平台，相信未来随着更多人的加入和贡献，这款国产编辑器应该会有不错的发展的。](https://www.iplaysoft.com/notepad-ndd.html)
-- [typora](https://typora.io/) :a markdown editor, markdown reader.
-- [Beyond Compare]  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
+- [Beyond Compare](https://www.scootersoftware.com/)  一套由Scooter Software推出的文件比较工具。主要用途是对比两个文件夹或者文件，并将差异以颜色标示。比较范围包括目录，文档内容等。
 - GNU-Nano
 - [WinHex](http://www.winhex.com/winhex/)  Computer Forensics& Data Recovery Software, Hex Editor & Disk Editor
 - [WindEdit](https://kingtoolbox.github.io/) A high performace text editor for huge file and long line. [WindEdit on Github](https://github.com/kingToolbox/WindEdit)
 - [Typecho](https://typecho.org/) [Github](https://github.com/typecho/typecho) A PHP Blogging Platform. Simple and Powerful.
+- [NoteGen](https://github.com/codexu/note-gen) is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [Quarkdown](https://quarkdown.com/) is a modern Markdown-based typesetting system, designed around the key concept of versatility, by seamlessly compiling a project into a print-ready book or an interactive presentation. All through an incredibly powerful Turing-complete extension of Markdown, ensuring your ideas flow automatically into paper.[Github](https://github.com/iamgio/quarkdown)
+- [typora](https://typora.io/) :a markdown editor, markdown reader.
+
+#### OCR
+
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 文字识别工具. OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+- [wcocr](https://github.com/swigger/wechat-ocr): demonstrate how to use WeChatOCR.exe
+
+#### 计算器
 
 - [Qalculate](https://github.com/Qalculate/qalculate-qt)! is a multi-purpose cross-platform desktop calculator. It is simple to use but provides power and versatility normally reserved for complicated math packages, as well as useful tools for everyday needs (such as currency conversion and percent calculation). Features include a large library of customizable functions, unit calculations and conversion, symbolic calculations (including integrals and equations), arbitrary precision, uncertainty propagation, interval arithmetic, plotting, and a user-friendly interface (GTK, Qt, and CLI).
 - [libqalculate](https://github.com/Qalculate/libqalculate) Qalculate! library and CLI
 
 #### Office
-
 
 - [Microsoft Office](https://products.office.com/)
   - 「[Office Installer](https://msfree.su/index.php?threads/705)」是一款Office的安装软件，它与同类软件Office Tool Plus以及Office C2R Install类似，均是基于微软官方部署工具ODT，可以在线部署安装Office，支持Office 2016~2024、Office 365。除此之外还包括Office 更新、卸载功能，以及Office许可证和密钥管理功能。「Office Installer」分为两个版本，文件名中含有“+”的版本多了一个KMS激活功能，其余功能无区别。
@@ -1694,18 +1805,15 @@ built on top of the Python programming language.
 
 #### 邮箱客户端
 
-
 - [DM Pro](http://www.cy-email.com/ ) :DreamMail Pro（DM Pro）邮箱客户端，集邮箱管理，邮件收发、批量群发、阅读追踪，客户管理于一身！
 
 #### 笔记/知识管理
-
 
 - [为知笔记 Wiz]( https://www.wiz.cn/zh-cn ) :高效率工作笔记，主打工作笔记的移动应用，是目前国内一款“工作笔记”的云笔记类产品。
 - [印象笔记](https://www.yinxiang.com/) 高效率工作笔记协作平台
 - [TreeLine](https://treeline.bellz.org/) 是一款强大的树状、大纲式的开源信息管理工具，可储存包括纯文本、富文本、HTML、数字、日期、时间、布尔值、URL 等各种形式的信息。每个节点相当于一个迷你数据库，而树状的信息组织结构可帮助你维持事物的有序。支持 Windows、Linux，以及 macOS（第三方）
 
 #### 安全
-
 
 - [火绒安全软件](https://www.huorong.cn/)  小巧简洁高效的安全软件
 - 渗透
@@ -1716,6 +1824,7 @@ built on top of the Python programming language.
 - [API Monitor](http://www.rohitab.com/apimonitor) is a free software that lets you monitor and control API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
 
 ##### hips
+
 - [冰盾](https://trustsing.com/)
   - [Github](https://github.com/wecooperate)
   - 冰盾 · 主动防御系统：一款基于场景模式的终端、主机主动防御系统。可以帮助您拦截漏洞攻击、免疫勒索病毒、防御高级威胁、抵制流氓软件、保护隐私安全、提高工作效率
@@ -1731,13 +1840,11 @@ built on top of the Python programming language.
 
 #### 效率
 
-
 - [Everything](https://www.voidtools.com/downloads/) : 能够以毫秒级的速度搜索到所有硬盘的文件/目录。
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) [微软系统维护免费小工具合集- 70 多款实用绿色 Windows 系统维护软件](https://www.iplaysoft.com/windows-sysinternals-suite.html) [Sysinternals on Github](https://github.com/Sysinternals)
 - [FileGee Backup & Sync Personal Edition](http://filegee.net/download.html) 文件备份、同步工具，功能强大。个人版免费。企业版收费
 - [Total Commander](https://www.ghisler.com/)  : 功能强大的文件管理工具
 - [Universal Viewer](https://uvviewsoft.com/uviewer/) 万能文件查看器
-- [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
 - FileGee
 - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
 - [FreeFilesSync](https://freefilesync.org/)  数据安全备份，镜像，增量同步。
@@ -1747,6 +1854,11 @@ built on top of the Python programming language.
 - [uTools](https://www.u-tools.cn/) - [让你效率倍增的快速启动软件 / 强大小工具合集 (插件功能扩展)](https://www.iplaysoft.com/utools.html)，是一款极简、插件化、跨平台、现代化的桌面增强效率软件，它为用户提供了一个可以随时呼出的“看似简单”的输入框 (搜索框)，但这个输入框却蕴含了近乎“无限”的能力
 - 微软 PowerToys 小工具合集 - [免费给 Win11/10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html) [Powertoys on Github](https://github.com/microsoft/PowerToys)
 - piriform
+	- [CCleaner Free](https://www.ccleaner.com/ccleaner) 可释放硬盘上的存储空间，提高共享 PC 上的隐私保护。
+	- [Defraggler®](https://www.ccleaner.com/defraggler) Defrag entire hard drives or individual files. Works with HDD and SSD and supports NTFS and FAT32 file systems!
+	- [Speccy](https://www.ccleaner.com/speccy) Fast, lightweight, advanced system information tool for your PC.
+	- [Recuva®](https://www.ccleaner.com/recuva) Recover your deleted files quickly and easily.
+	- [kamo](https://www.ccleaner.com/kamo) Stop online tracking and enjoy more privacy with Kamo。With WireGuard VPN protocol — up to 35% faster Private Connection!*
 - [CCleaner](https://www.ccleaner.com/ccleaner/download/standard)  备受好评的系统清理工具，有免费版，但免费版的功能限制较多。
 - [优效日历](https://www.youxiao.cn/) – [专业的多功能日历应用（排班、抢票、节日、订阅等）发布 Android、iPhone 客户端](https://www.appinn.com/youxiao-calendar-2/)
 - [TreeSheets](https://strlen.com/treesheets/) – [神仙级笔记软件：开源的分层电子表格工具](https://www.appinn.com/treesheets/)
@@ -1759,9 +1871,10 @@ built on top of the Python programming language.
 - [非线性游戏存档管理器](https://www.appinn.com/nonlinear-backup/)提供了一种全新的以非线性的树形结构来管理存档的工作/游戏范式。如果有一款软件，能够像 Git 那样记录提交历史，自由切换分支，并可随时查看各个存档的依赖关系，回退历史版本。那无疑能帮助创作者降低大量心智负担，鼓励他们进行更多探索和尝试。存档原理：每次新建备份时，程序会校验当前游戏或工作源目录下的文件相比上次备份是否发生修改，若无变化，将提示用户当前已是最新存档，并询问是否需要重命名。[Gitee](https://gitee.com/wolray/nonlinear-backup)
 - [Pomotroid](https://splode.github.io/pomotroid/) A simple, configurable and visually pleasing Pomodoro timer.[Pomotroid](https://github.com/Splode/pomotroid) is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.Pomotroid is in its early stages, so feedback and contributions are welcome and appreciated!
 - [Kite 待办](https://kite.kitlib.cn/)是一款按天规划的待办应用。极简主义的待办应用，轻量精简，无广告，无需登录即可使用。注重隐私，数据离线存储在本地。支持番茄时钟、倒计时、导出 Markdown 等功能。
-- Directory Opus 是一款老牌多功能文件管理器，能很好地接管 Windows 资源管理器。
+- [Directory Opus](https://directory-opus.com/) 是一款老牌多功能文件管理器，能很好地接管 Windows 资源管理器。
 
 #### 安装卸载工具
+
 - [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)：HiBit Uninstaller is the perfect solution for uninstalling Windows software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface. Completely Uninstall Stubborn Software, Windows Apps & Browser Extension.
 - HiBit Startup Manager：HiBit Startup Manager is a powerful Startup utility that Manage autostart programs by adding or removing apps, editing their properties and also Manage process, services, task scheduler and context menu.
 - [GEEK UNINSTALLER](https://geekuninstaller.com/)：Efficient and Fast, Small and Portable. 100% Free. Geek Uninstaller is a powerful tool for uninstalling software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface. It is a small and portable application that can be installed on any Windows system. It is a complete solution for uninstalling software, including Windows Apps, Browser Extensions, and Stubborn Software.
@@ -1794,10 +1907,10 @@ built on top of the Python programming language.
 
 #### 下载工具
 
-
-- IDM: internet download manager
+- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/) is a download accelerator to increase download speeds by up to 8 times, resume, organize and schedule downloads.
+- [网络传送带 (影音传送带 / Net Transport / NetTransport)](http://www.xi-soft.com/) 是中国第一个实现 MMS、RTSP、PNM、HTTP、HTTPS、FTP、FTPS、SFTP和BT、电驴的下载利器。它协议支持之多，至今在国际上依然罕见。流下载是它的主要特点，同时下载普通文件及点对点的速度也堪称一流，站点管理近乎完美。
 - [Motrix](https://motrix.app) - [清爽开源免费的全能下载工具 (跨平台 Aria2 客户端 / 支持 BT / 磁力链 / 百度网盘)](https://www.iplaysoft.com/motrix.html)
-- 迅雷
+- [迅雷](https://www.xunlei.com/)
 - [文件蜈蚣](http://www.filecxx.com):文件蜈蚣是一个全能网络文件上传/下载器, BitTorrent客户端, WebDAV客户端, FTP客户端, 和SSH客户端.它快速, 可定制, 用户友好, 多协议支持, 同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos. WebDAV client, FTP client, SSH client.
 - emule
   - [xtreme-mod](http://www.xtreme-mod.net/)
@@ -1811,12 +1924,9 @@ built on top of the Python programming language.
 
 #### 投屏
 
-
-- [蓝莓投屏](http://deeprd.com/) - 无线/有线投屏方案开发。AirPlay DLNA Miracast For Android Linux Windows。蓝莓投屏，手机投屏电视电脑，电脑投屏电视的投屏神器。免费的电视投屏软件。支持500多个音视频app投屏。投屏玩法：手机视频
-投屏，手机游戏投屏，百度网盘投屏、手机斗鱼等直播投屏，手机微信抖音投屏。PC无线投屏电视，开会投屏，PPT投屏等。 支持dlna，airplay 投屏协议 [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
+- [蓝莓投屏](http://deeprd.com/) - 无线/有线投屏方案开发。AirPlay DLNA Miracast For Android Linux Windows。蓝莓投屏，手机投屏电视电脑，电脑投屏电视的投屏神器。免费的电视投屏软件。支持500多个音视频app投屏。投屏玩法：手机视频投屏，手机游戏投屏，百度网盘投屏、手机斗鱼等直播投屏，手机微信抖音投屏。PC无线投屏电视，开会投屏，PPT投屏等。 支持dlna，airplay 投屏协议 [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
 
 #### 多媒体
-
 
 - [FFmpeg](https://ffmpeg.org) A complete, cross-platform solution to record, convert and stream audio and video.
 - 播放器
@@ -1825,8 +1935,9 @@ built on top of the Python programming language.
   - [QQ影音](https://player.qq.com/)     由腾讯公司推出的一款支持任何格式影片和音乐文件的本地播放器
   - [GIMP](https://www.gimp.org/)  The Free & Open Source Image Editor 对标Photoshop
   - [MPC-BE](https://sourceforge.net/projects/mpcbe/)   a free and open source audio and video player for Windows
-  - Potplayer
-  - VLC PC mobile
+  - [Potplayer](https://potplayer.tv/)
+  - [VLC](https://www.videolan.org/) (PC mobile)是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
+  - [VideoLAN Movie Creator](https://www.videolan.org/vlmc/) is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X!
   - GridPlayer – [同时播放 X 部影片，就问你够不够？](https://www.appinn.com/gridplayer/). [github](https://github.com/vzhd1701/gridplayer)
   - [CODECS](https://www.free-codecs.com/)
 - 影音编辑
@@ -1834,30 +1945,37 @@ built on top of the Python programming language.
   - [ShareX](https://getsharex.com/) 录屏截屏图像编辑
   - [openshot](https://www.openshot.org/) 切割分离方便
   - [shotcut](https://www.shotcut.org/) 简单易用，兼顾专业
-  - DaVinci_Resolve_Studio
+  - DaVinci Resolve Studio
   - Free Video Trim
   - [HandBrake](https://handbrake.fr/) [作为一款视频压缩/视频编码处理软件是足够专业且功能足够丰富的。加上免费、开源、跨平台支持，也使得它成为当之无愧的装机必备万能视频转码利器](https://www.iplaysoft.com/handbrake.html)。
   - [魔力玄(Medlexo)](https://medlexo.is-an.app/cn.php) – 只有 3MB 的 FFmpeg 图形界面工具：视频格式转换、.ts 视频合并、音视频合并、视频压缩、提取音轨
 - 图形图像
-  - Photoshop
-  - CorelDRAW
+  - [Adobe](https://www.adobe.com/)
+	- mobile
+	- Photoshop: 编辑、合成和创建精美的图像、图形，实现更 具辨识度的平面创意设计
+	- Illustrator: 持续扩展图形创作边界，释放图形更多可能
+	- Premiere Pro
+	- After Effects
+	- Audition
+  - [CorelDRAW](https://www.corel.com/) Professional graphics software for designers on a deadline
   - [光影魔术手](https://www.gymss.cn/)专业调色、像素磨皮、高效批量处理、发丝级抠图
     - 光影证件照(Android)
     - [光影看图](https://www.gymss.cn/kantu#)
   - [XnView](https://www.xnview.com/en/xnview/) 支持超过500种图片格式。强烈推荐！！！
-  - Eagle:智能图片管理器（Windows/Mac）
+  - [Eagle](https://eagle.cool/):智能图片管理器（Windows/Mac）,使用 Eagle 轻松收集及整理“案例、灵感、截图、图片、视频、音频、情绪板”等各种素材，激发更多创意灵感，让工作变得更有效率！
   - BLENDER是一款开源免费的，可xxx的跨平台三维软件。[斑斓中国](https://www.blendercn.org/)
   - [Paper2GUI](https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com) - [开源免费的“AI 黑科技”工具箱！十几款上手即用的人工智能软件合集](https://www.iplaysoft.com/paper2gui.html) 一款面向普通人的 AI 桌面 APP 工具箱，免安装即开即用，已支持 40+AI 模型，内容涵盖 AI 绘画、语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR 识别等领域。支持 Windows、Mac、Linux 系统。
 - 音乐
-  - [网易云音乐]
-  - [QQ音乐]
+  - [网易云音乐](http://music.163.com/)
+  - [QQ音乐](https://y.qq.com/)
+  - [咪咕音乐](https://music.migu.cn/)
+  - [酷狗](https://www.kugou.com/)
 
 #### 虚拟机
 
-
 - [Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)  Sandbox security software for Windows. Install and run programs in a virtual sandbox environment without writing to the hard drive. Sophos is excited to announce that we are making Sandboxie a free tool, with plans to transition it to an open source tool.
-- [virualbox]
-- [vmware]
+- [virualbox](https://www.virtualbox.org/)
+- [vmware](https://www.vmware.com/)
 - [Bochs](https://bochs.sourceforge.io/) is a highly portable open source IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS. Bochs can be compiled to emulate many different x86 CPUs, from early 386 to the most recent x86-64 Intel and AMD processors which may even not reached the market yet.Bochs is capable of running most Operating Systems inside the emulation including Linux, DOS or Microsoft Windows. Bochs was originally written by Kevin Lawton and is currently maintained by this project.Bochs can be compiled and used in a variety of modes, some which are still in development. The 'typical' use of bochs is to provide complete x86 PC emulation, including the x86 processor, hardware devices, and memory. This allows you to run OS's and software within the emulator on your workstation, much like you have a machine inside of a machine. For instance, let's say your workstation is a Unix/X11 workstation, but you want to run Win'95 applications. Bochs will allow you to run Win 95 and associated software on your Unix/X11 workstation, displaying a window on your workstation, simulating a monitor on a PC.
 - [QEMU](https://www.qemu.org/) A generic and open source machine emulator and virtualizer.[QEMU Binaries for Windows (64 bit)](https://qemu.weilnetz.de/w64/)
 - 沙箱/sandbox
@@ -1865,56 +1983,55 @@ built on top of the Python programming language.
 
 #### 数据库管理工具
 
-
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)  一款数据库管理工具,是一个可多重连线资料库的管理工具，它可以让你以单一程式同时连线到 MySQL、SQLite、Oracle 及 PostgreSQL 资料库，让管理不同类型的资料库更加的方便
-- MongoDB
-- SQLServer
-- MySQL
-- SQLite
+- [MongoDB](https://www.mongodb.org/)
+- [SQLServer](https://www.microsoft.com/zh-cn/sql-server)
+- [MySQL](https://www.mysql.com/)
+- [SQLite](https://www.sqlite.org/)
+- [Chat2DB](https://chat2db.ai/) is an intelligent, universal SQL client and data reporting tool that integrates AI capabilities. Chat2DB helps you write SQL queries faster, manage databases, generate reports, explore data, and interact with multiple databases. Chat2DB is an open-source project, and we welcome your contributions.🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.[Github](https://github.com/CodePhiliaX/Chat2DB)
 
 #### 浏览器
 
-
 - [Chrome](https://github.com/GoogleChrome)
-- [Tor Browser]
-- [Firefox](https://github.com/mozilla-firefox/firefox)
-  - [油猴] Tampermonkey
-    - Github 增强 - 高速下载
-    > 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载  <https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD>
+- [Tor Browser](https://www.torproject.org/) 洋葱匿名浏览器
+- [Firefox](https://www.firefox.com/)
+	- [Github](https://github.com/mozilla-firefox/firefox)
+	- [ftp](https://ftp.mozilla.org/)
+	- [Firefox 开发者版](https://www.firefox.com/zh-CN/channel/desktop/developer/)
+	- [Zen Browser](https://zen-browser.app/) [Github](https://github.com/zen-browser/desktop)
+- [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)
+- [夸克 Quark](https://www.quark.cn/) AI浏览器
 
-    - 豆瓣资源下载大师：1秒搞定豆瓣电影/音乐/图书下载
-    > 聚合数百家资源网站，通过右侧边栏1秒告诉你哪些网站能下载豆瓣页面上的电影/电视剧/纪录片/综艺/动画/音乐/图书等，有资源的网站显示绿色，没资源的网站显示黄色，就这么直观！所有豆瓣条目均提供在线播放/阅读、字幕/歌词下载及PT/NZB/BT/磁力/百度盘/115网盘等下载链接，爱看电影的，爱下载电影的，安装它这一个脚本就够了。  <https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD>
 
-    - Instagram 下载器
-    > 方便用户下载 Instagram 的图片和视频，将鼠标移动到图片或者视频上，即可看到下载按钮。  <https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button>
+##### 插件
 
-    - 网盘自动填写密码【威力加强版】
-    > 智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。  <https://greasyfork.org/zh-CN/scripts/29762-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E8%AE%BF%E9%97%AE%E7%A0%81-%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88>
-
-    - 番号快速搜索，老司机都懂：
-    > <https://sleazyfork.org/zh-CN/scripts/423350-%E6%A0%B9%E6%8D%AE%E7%95%AA%E5%8F%B7%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2>
-
-    - 【电脑 && 手机 全网唯一全自动脚本】VIP会员视频自动解析
-    > <https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90>
-
-    - 网页限制解除(改)
-    > 在访问一些网站时，有时候网站方为了保护内容，会禁止访客的一些操作，比如复制、使用邮件菜单、选择文本等，如果想要收藏部分内容就非常麻烦，此时，你可以安装这款叫做网页解除限制的油猴脚本，可以解除网页对于用户的限制  <https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified>
-
-    - My Novel Reader
-    > 小说阅读脚本，它可以将许多小说网站的阅读样式统一，并且去除内容中夹杂的广告，还有修正拼音字、段落整理，自动下一页等功能。  用起点中文网的阅读页面举个例子（当然起点的界面本身就很漂亮，而其他的网站就不一定了），点击右下角启用脚本的阅读模式后，是这样的：  很整洁对不对，想象一下那些乱七八糟的小说网站，都能变成这样的阅读模式，而且这个脚本还可以自定义字体，样式，包括一些其他的高级设置，体验简直是好了不止一个档次啊！  <https://greasyfork.org/zh-CN/scripts/292-my-novel-reader>
-
-    - JAV老司机
-    > 它简直就是老司机的神器,支持各Jav老司机站点。拥有高效浏览Jav的页面排版，JAV高清预览大图，JAV列表无限滚动自动加载，自动获取JAV磁链接，一键自动115离线下载。。。。没时间解释了，赶紧上传，下载链接我会放在视频下方,在这个网站上下载的脚本，都是无法描述的  <https://sleazyfork.org/zh-CN/scripts/25781-jav%E8%80%81%E5%8F%B8%E6%9C%BA>
-
-    - Search by Image
-     > 安装后，重启浏览器或者刷新网页，然后在网页图片中按住Ctrl键的同时点击鼠标右键，可以看到突然多了很多以图搜图的选项！  <https://greasyfork.org/zh-CN/scripts/2998-search-by-image>
-
-    - Userscript+ 油猴脚本推荐
-    > 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。  今天我们要介绍的第10款脚本  就是这样一个根据你当前访问的站点  自动为你推荐适用的脚本工具  Userscript+  <https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs>
+- [FireBreath](https://github.com/firebreath/FireBreath)是一个跨平台和跨浏览器的插件开发框架，允许开发者编写可以在Windows、Linux和Mac操作系统上的IE、Firefox、Chrome、Opera和Safari等浏览器上运行的插件。
+- [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [语鲸](https://lingowhale.com/)
+- [极客侧边栏 GeekSideBar](https://www.geeksidebar.com/)是集成AI助手和书签智能管理的效率工具
+- [夸克](https://b.quark.cn/apps/quark_ai_extension/routes/install)
+- [Adblock Plus](https://adblockplus.org/en/)
+- [Automa](https://github.com/AutomaApp/automa) is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want to do with this extension.
+- [Omni](https://github.com/alyssaxuu/omni)是一款综合性的页面管理工具，它能够通过简单的命令界面管理标签页、书签、浏览器历史记录，并执行各种操作，使用户能够更高效地使用浏览器。
+- [ScriptCat 脚本猫](https://scriptcat.org/zh-CN/)，一个可以执行用户脚本的浏览器扩展，万物皆可脚本化，让你的浏览器可以做更多的事情！[Github](https://github.com/scriptscat/scriptcat)
+- [油猴 Tampermonkey](https://www.tampermonkey.net/)
+- [油猴开发指南](https://learn.scriptcat.org/)
+- 脚本
+	- [脚本列表](https://scriptcat.org/zh-CN/search)
+	- [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD): 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载
+	- [豆瓣资源下载大师](https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)：1秒搞定豆瓣电影/音乐/图书下载:聚合数百家资源网站，通过右侧边栏1秒告诉你哪些网站能下载豆瓣页面上的电影/电视剧/纪录片/综艺/动画/音乐/图书等，有资源的网站显示绿色，没资源的网站显示黄色，就这么直观！所有豆瓣条目均提供在线播放/阅读、字幕/歌词下载及PT/NZB/BT/磁力/百度盘/115网盘等下载链接，爱看电影的，爱下载电影的，安装它这一个脚本就够了。
+	- [Instagram 下载器](https://greasyfork.org/zh-CN/scripts/406535-instagram-download-button):方便用户下载 Instagram 的图片和视频，将鼠标移动到图片或者视频上，即可看到下载按钮。
+	- [网盘自动填写密码【威力加强版】](https://greasyfork.org/zh-CN/scripts/29762-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E8%AE%BF%E9%97%AE%E7%A0%81-%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88):智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。
+	- [番号快速搜索](https://sleazyfork.org/zh-CN/scripts/423350-%E6%A0%B9%E6%8D%AE%E7%95%AA%E5%8F%B7%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2)，老司机都懂
+	- [【电脑 && 手机 全网唯一全自动脚本】VIP会员视频自动解析](https://greasyfork.org/zh-CN/scripts/413063-%E7%94%B5%E8%84%91-%E6%89%8B%E6%9C%BA-%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC-vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E8%A7%A3%E6%9E%90)
+	- [网页限制解除(改)](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified): 在访问一些网站时，有时候网站方为了保护内容，会禁止访客的一些操作，比如复制、使用邮件菜单、选择文本等，如果想要收藏部分内容就非常麻烦，此时，你可以安装这款叫做网页解除限制的油猴脚本，可以解除网页对于用户的限制
+	- [My Novel Reader](https://greasyfork.org/zh-CN/scripts/292-my-novel-reader): 小说阅读脚本，它可以将许多小说网站的阅读样式统一，并且去除内容中夹杂的广告，还有修正拼音字、段落整理，自动下一页等功能。  用起点中文网的阅读页面举个例子（当然起点的界面本身就很漂亮，而其他的网站就不一定了），点击右下角启用脚本的阅读模式后，是这样的：  很整洁对不对，想象一下那些乱七八糟的小说网站，都能变成这样的阅读模式，而且这个脚本还可以自定义字体，样式，包括一些其他的高级设置，体验简直是好了不止一个档次啊！
+	- [JAV老司机](https://sleazyfork.org/zh-CN/scripts/25781-jav%E8%80%81%E5%8F%B8%E6%9C%BA):它简直就是老司机的神器,支持各Jav老司机站点。拥有高效浏览Jav的页面排版，JAV高清预览大图，JAV列表无限滚动自动加载，自动获取JAV磁链接，一键自动115离线下载。。。。没时间解释了，赶紧上传，下载链接我会放在视频下方,在这个网站上下载的脚本，都是无法描述的
+	- [Search by Image](https://greasyfork.org/zh-CN/scripts/2998-search-by-image):安装后，重启浏览器或者刷新网页，然后在网页图片中按住Ctrl键的同时点击鼠标右键，可以看到突然多了很多以图搜图的选项！
+	- [Userscript+ 油猴脚本推荐](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs): 常言道，”授人以鱼，不如授人以渔“。  好用的脚本数不胜数，每个人都有自己独特的使用需求。就是这样一个根据你当前访问的站点,自动为你推荐适用的脚本工具
 
 #### 反编译工具
-
 
 - [OllyDebug](http://www.ollydbg.de/) [中文站](http://ollydbg.net/)  a 32-bit assembler level analysing debugger for Microsoft® Windows®.一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了 <https://down.52pojie.cn/Tools/Debuggers/OllyDbg%20v2.01.zip>
   - [插件](https://down.52pojie.cn/Tools/OllyDbg_Plugin/)
@@ -1929,12 +2046,10 @@ built on top of the Python programming language.
 
 #### 压缩工具
 
-
 - [WinRAR](https://rarlab.com/download.htm) 知名压缩软件
 - [7z](https://www.7-zip.org/)    一款拥有极高压缩比的开源压缩软件
 
 #### js
-
 
 - [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
 - [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
@@ -1950,14 +2065,12 @@ built on top of the Python programming language.
 
 #### IM/协同办公
 
-
 - [slack](https://slack.com/intl/en-cn/)   国外非常流行的团队协作工具
 - [TIM](https://office.qq.com/) QQ办公简洁版，是一款专注于团队办公协作的跨平台沟通工具。
 - [钉钉](https://www.dingtalk.com/) 钉钉（DingTalk）是中国领先的智能移动办公平台，由阿里巴巴集团开发，免费提供给所有中国企业，用于商务沟通和工作协同
 - [微信]一个为智能终端提供即时通讯服务的免费应用程序，一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。 ... 群聊，也能视频聊天。
 
 #### 版本控制
-
 
 - [Git](https://git-scm.com/)  一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理
 - [GitHub desktop](https://desktop.github.com/)
@@ -1967,24 +2080,25 @@ built on top of the Python programming language.
 
 #### pdf阅读器/编辑器
 
-
-- [福昕foxit]
-- [Adobe Acrobat]
+- [福昕foxit](https://www.foxitsoftware.cn/)
+	- pdf阅读器
+	- pdf编辑器
+	- pdf转word
+	- 福昕翻译
+	- 福昕录屏大师
+- [Adobe Acrobat](https://www.adobe.com/acrobat.html) Do it all with Acrobat.Create and edit PDFs. Collaborate with ease. E-sign documents and collect signatures.
 
 #### 桌面环境
-
 
 - [Xfce Desktop Environment](https://www.xfce.org/)  Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 - [lively](https://github.com/rocksdanister/lively) About Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 #### 模拟器
 
-
 - Ryujinx 龙神模拟器 - [免费在电脑 PC 和 Mac 上玩任天堂 Switch 游戏 (塞尔达/马里奥等)](https://www.iplaysoft.com/ryujinx.html) 是一个完全免费开源的任天堂 Switch 游戏主机模拟器软件，它能让你跨平台在 Windows、Linux、macOS 等系统上流畅运行各种 Switch 游戏。经过多年的开发改进和优化，其性能和兼容性已十分出色，能在大多数的电脑上完美模拟运行马里奥、塞尔达传说、宝可梦、异度神剑等各种热门游戏大作！
 - Yuzu 柚子模拟器 - [在电脑 PC 上玩 Switch 塞尔达传说王国之泪 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) 是一款完全免费的开源的任天堂 Switch 游戏主机模拟器软件，它基于 C++ 开发，跨平台支持 Windows 和 Linux 系统，拥有相当不错的性能和兼容性，可以流畅在主流显卡配置的主机上流畅运行如马里奥、塞尔达传说、宝可梦、异度神剑、火焰纹章等游戏大作！
 
 #### Windows安装/部署工具
-
 
 - WinNTSetup
 - Ghost
@@ -2004,9 +2118,13 @@ built on top of the Python programming language.
 - [小米 PC 换机助手](https://www.mi.com/huanji)
   - [小米 PC 换机助手上线：一键迁移 QQ 微信记录及浏览器书签、最高传输速率 90MB/s](https://www.ithome.com/0/751/308.htm)
 - [微软官方“换机助手”：Win11“迁移”应用曝光，助力 PC 数据转移](https://www.ithome.com/0/831/644.htm)
+#### Windows优化
+
+- [Dism++](https://www.chuyu.me/zh-Hans/)  轻量且免费的垃圾清理工具
+- [Windows11轻松设置](https://www.appinn.com/windows11-easy-setup-tools-download/)是一款第三方的系统优化小工具，由 oyksoft 发布。它可以禁用系统还原、搜索热点、小组件、Windows 更新、UAC、内存完整、系统杀毒，还能卸载 Windows 自带应用，一键安装常用软件，修改 edge 设置、隐私设置等非常多的功能，堪称 Windows 折腾小能手必备工具。[发布页](https://www.bilibili.com/opus/904672369138729017)
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat)： A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. Win11Debloat 是一个开源脚本，它可以一键帮你安全的删除多达 90+ 款 Windows 11 自带应用（支持 Windows 10），包括 50 多个微软自带应用和超过 40 个第三方预装软件。除了节省空间，还能带来巨大的性能提升。
 
 #### 操作系统
-
 
 - Tiny11 - [极限精简的 Windows 11 系统镜像！支持苹果 M 芯片 Mac 安装 (ARM 精简版)](https://www.iplaysoft.com/tiny11.html)
 - Tiny10 (23H1) - [极限精简版 Windows 10 系统镜像下载 / 支持安装中文语言](https://www.iplaysoft.com/tiny10.html)
@@ -2015,8 +2133,12 @@ built on top of the Python programming language.
 - [Operating System From Scratch](https://github.com/yyu/osfs00) : learn OS by practice
 - [MenuetOS](https://sourceforge.net/projects/menuet/) a fully 32 assembly written OS for x86, is an operating system in development for PC, written completely in 64bit assembly language. Features include pre-emptive and real-time multitasking with multiprocessor support and Graphical User Interface. Menuet64 is released under License and Menuet32 under GPL. Menuet supports assembly programming for much faster, smaller and less resource hungry applications.Menuet kernel is written in assembly, which gives speed advantages over systems written in other languages. For example, GUI with transparency is calculated in main x86-64 cpu, avoiding compatibility problems with graphics cards.Menuet's application structure isn't specifically reserved for asm programming since the header can be produced with practically any other language. However, the overall application programming design is intended for 64/32 bit asm programming. Menuet programming is fast and easy to learn. Menuet's responsive GUI is easy to handle with assembly language. And Menuet64 is capable of running Menuet32 applications. [home page](http://menuetos.net/).
 
-#### PE
+#### Free Open Source Windows Operating System Kernels Softwar
 
+- [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
+- [WSL2-Linux-Kernel](https://sourceforge.net/projects/wsl2-linux-kernel.mirror/) The source for the Linux kernel used in Windows Subsystem for Linux 2
+
+#### PE
 
 - [微PE工具箱](https://www.wepe.com.cn/) - 超好用的WinPE装机维护工具，[大家都说好用的纯净 WinPE 启动盘/ U盘重装系统工具](https://www.iplaysoft.com/wepe.html)
 - [CowPE - 基于 Win11 纯净好用无捆绑的 PE 系统 (U盘启动盘 / 装机必备)](https://www.iplaysoft.com/cowpe.html)
@@ -2027,7 +2149,8 @@ built on top of the Python programming language.
   - [rufus](https://rufus.ie/) [中文绿色版 - 简单快速制作 USB 启动盘软件 (U盘安装 Windows / Linux 系统)](https://www.iplaysoft.com/rufus.html) 是一个开源免费的快速制作 U 盘系统启动盘和格式化 USB 的实用小工具，它可以快速把 ISO 格式的系统镜像文件快速制作成可引导的 USB 启动安装盘，支持 Windows 或 Linux 启动。Rufus 小巧玲珑，软件体积仅几百多 KB，然而麻雀虽小，它却五脏俱全，而且速度极快……它的特点就是速度极快且兼容性极佳！根官方宣称，Rufus 在制作 USB 启动盘时速度相比同类软件 微软 Win11 媒体创建工具、 Win7 USB Download tool、UNetbootin、Universal USB Installer 等大约能快2倍，绝对给力！而且它对各种主流操作系统的兼容性极佳！是无制作各种系统的 U 盘启动盘工具首选。而且，Rufus 完全免费开源，支持中文，官方还提供了经过微软数字签名的「绿色版」，可以不需要安装直接点开即用，非常方便。同时，它之所以广受推荐，还因为它专门针对热门的 Windows 11 等系统加入“跳过 TPM 检测、移除安全启动限制”之类的人性化增强选项。
   - [Free Open Source Windows Boot Software](https://sourceforge.net/directory/system-administration/boot/os:windows/)
   - [优启通 EasyU](https://www.itsk.com/thread-416335-1-1.html) - [好用无广告纯净版 WinPE 系统启动盘 / U盘重装系统工具](https://www.iplaysoft.com/easyu.html)
-- U盘加密工具
+
+#### U盘加密工具
   - [usbdriveinfo](http://www.antspec.com/usbflashinfo/f/38B8C713-A7B4-416C-8F29-937724764216/usbdriveinfo.zip) <http://www.antspec.com/usbflashinfo/>
   - 通用加密软件
     - Wondershare USB加密软件\ Wondershare USB Encryption绿色汉化破解版V1.0.0(最好的U盘加密/SD、移动硬盘、TF卡加密)
@@ -2055,43 +2178,40 @@ built on top of the Python programming language.
 
 #### 硬件
 
-
 - [Device Monitoring Studio](https://www.hhdsoftware.com/) Simply the Best way to monitor your serial, USB and network devices!
   - [USB Sniffer](https://www.hhdsoftware.com/usb-sniffer) Non-intrusive software-based USB sniffer, data logger & USB protocol analyzer for Windows.
 
 #### web服务
 
-
 - [NGINX](https://www.nginx.com/)
-- apache
-- php
+- [apache](https://httpd.apache.org/)The Apache HTTP Server ("httpd") Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
+- [php](https://www.php.net/) is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.
+- [MiniWeb](https://sourceforge.net/projects/miniweb/)​ 是一款超轻量的 HTTP 服务器工具，无需复杂配置即可快速搭建本地测试环境或静态资源服务器，适合开发者临时调试、项目演示或学习 Web 基础。MiniWeb用 C 语言编写，具有 系统资源消耗低、效率高、灵活性好、 可移植性。它能够用单个线程为多个客户端提供服务， 支持 GET 和 POST 方法、身份验证、动态内容（动态 Web page 和 page 变量替换）和文件上传。
 
 #### 包管理器
 
-
-- [nuget](https://www.nuget.org/)
-- vcpkg
+- [NuGet](https://www.nuget.org/) is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+- [vcpkg](https://github.com/microsoft/vcpkg) 是由 Microsoft 和 C++ 社区维护的免费开源 C/C++ 包管理器，可在 Windows、macOS 和 Linux 上运行。 它是核心的 C++ 工具，使用 C++ 和 CMake 脚本编写。 它旨在解决管理 C/C++ 库的独特难题。
 - The **package manager** for Windows
-  - [Chocolatey](https://chocolatey.org/) Software Management Automation
+  - [Chocolatey](https://chocolatey.org/)  是 Windows 上的一个命令行包管理器，类似于 Linux 系统中的 apt-get (Debian/Ubuntu) 或 yum (RHEL/CentOS)。它让 Windows 用户能够通过命令行快速安装、更新和管理软件
+  - [WinGet](https://github.com/microsoft/winget-cli/) 是一种命令行工具，使用户能够在 Windows 10、Windows 11 和 Windows Server 2025 计算机上发现、安装、升级、删除和配置应用程序。 此工具是 Windows 程序包管理器服务的客户端接口。
 
 #### 常用cd虚拟光驱软件
 
-
-- Alcohol120:是一款功能强大的刻录软件，结合虚拟光驱与刻录两大功能，可以直接将映像文件刻录到空白光盘上，不再需要虚拟后再整盘拷贝。也是推荐级的神器。收费
-- Daemon tools:也是一个很好的免费虚拟光驱，支持ps，支持加密光盘。安装重启。先进的模拟备份并且合并保护盘的软件，可以备份safedisc保护的软件。可以打开cue、iso和ccd等这些虚拟光驱的镜像文件。
-- ImgBurn:一款简单易用的而且免费的cd/dvd镜像文件刻录软件，支持dvd双层镜像
-- Nero:不得不说的软件刻录软件。支持所有标准的cd-rom格式，包括iso标准1和2、双字节joliet模式、混合模式、iso模式1和xa模式
-- PowerISO:收费软件。一款强大的cd/DVD映像文件处理工具。使用方便，支持ISO、bin、nrg、img等几乎所有常见的映像文件。可以建立、编辑、解压、转换、压缩、加密和分割ISO/bin映像文件，具有shell集成，剪贴板和拖放操作等功能
-- SetupCloneCD
-- UltraISO:软碟通 可以直接编辑软碟文件和从软碟文件中提取文件。可从cd-rom直接制作软碟或者将硬盘上的文件制成iso文件。 （缺憾就是不能压制大于cd容量的iso文件。）可以用于将iso文件量产到u盘等写硬盘操作。许多优秀功能，还很小巧，值得推荐
-- WADrive
-- WINISO:可以压制大于cd容量的iso文件
-- WinMount:不能压制、编辑iso文件。仅是一个虚拟光驱，不过功能很好，免费。具有压缩、解压、浏览压缩包的功能，也有挂载dvd、cd、虚拟机硬盘镜像的功能。最大的特色就是在于其首创读取压缩包理念mount，可以将压缩包挂载到虚拟盘中使用，无需解压，省时省空间。值得装备
+- [Alcohol120](https://www.alcohol-soft.com/):是一款功能强大的刻录软件，结合虚拟光驱与刻录两大功能，可以直接将映像文件刻录到空白光盘上，不再需要虚拟后再整盘拷贝。也是推荐级的神器。收费
+- [Daemon tools](https://www.daemon-tools.cc/):也是一个很好的免费虚拟光驱，支持ps，支持加密光盘。安装重启。先进的模拟备份并且合并保护盘的软件，可以备份safedisc保护的软件。可以打开cue、iso和ccd等这些虚拟光驱的镜像文件。
+- [ImgBurn](https://www.imgburn.com/):一款简单易用的而且免费的cd/dvd镜像文件刻录软件，支持dvd双层镜像
+- [Nero](https://www.nero.com/):不得不说的软件刻录软件。支持所有标准的cd-rom格式，包括iso标准1和2、双字节joliet模式、混合模式、iso模式1和xa模式
+- [PowerISO](https://www.poweriso.com/):收费软件。一款强大的cd/DVD映像文件处理工具。使用方便，支持ISO、bin、nrg、img等几乎所有常见的映像文件。可以建立、编辑、解压、转换、压缩、加密和分割ISO/bin映像文件，具有shell集成，剪贴板和拖放操作等功能
+- [CloneBD](https://www.clonebd.com/) is a complete multimedia solution to copy/rip/backup/burn Blu-ray/DVD movies, as well as convert videos/audios, download YouTube videos. With 8 powerful and useful multimedia software in one pack: Blu-ray Copy, Blu-ray Ripper, Blu-ray Creator, DVD Copy, DVD Ripper, DVD Creator, Video Converter and YouTube Downloader.
+- [UltraISO](https://cn.ultraiso.net/):软碟通 可以直接编辑软碟文件和从软碟文件中提取文件。可从cd-rom直接制作软碟或者将硬盘上的文件制成iso文件。 （缺憾就是不能压制大于cd容量的iso文件。）可以用于将iso文件量产到u盘等写硬盘操作。许多优秀功能，还很小巧，值得推荐
+- WADrive的主要功能是将RAR等压缩文件直接转化为可挂载的虚拟光盘，让用户能够直接在虚拟光驱中访问文件。这种方式避免了解压缩过程，节省了时间和硬盘空间。特别是对于大容量的压缩文件，如软件安装包、游戏镜像等，用户可以直接通过虚拟光驱进行安装，既快速又方便。
+- [WINISO](https://winiso.com/):A fast and convenient ISO image file editor,可以压制大于cd容量的iso文件
+- [WinMount](http://www.winmount.com/):不能压制、编辑iso文件。仅是一个虚拟光驱，不过功能很好，免费。具有压缩、解压、浏览压缩包的功能，也有挂载dvd、cd、虚拟机硬盘镜像的功能。最大的特色就是在于其首创读取压缩包理念mount，可以将压缩包挂载到虚拟盘中使用，无需解压，省时省空间。值得装备
 - clonecd 收费软件。工作于raw模式，因此能真实的1:1复制cd，无论cd是否加密或有保护之类，仍能忠实的将它复制下来。（目前还没有一种软件能像clonecd一样完整的复制cd）
-- LevinISO
+- LevinISO集诸多优点于一身，它选用了UltraISO的核心，支持格式诸多，尤其是支持缩小过的ISZ格式，针对必须U盘随身带的光盘镜像的人确实是太便捷了。LevinISO沒有主界面，运作它以后就在系统托盘出現了它的标志，点鼠标右键便会出現作用莱单。能够在这儿随时随地提升或删除虚拟光驱的总数，数最多另外可建立5个虚拟光驱。
 
 #### 硬盘
-
 
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) 磁盘加密工具，保护数据安全，文件和目录均可
 - Disk
@@ -2104,8 +2224,12 @@ built on top of the Python programming language.
 - KakaSoft.com
 - [ACE Lab](https://www.acelab.eu.com/)- Professional Hardware-Software Solutions for Data Recovery & Digital Forensics
 
-### Android
+### 天文
 
+- [Stellarium](https://stellarium.org/zh_CN/) 是一款开源的天象模拟软件。它以3D形式展示了极为逼真的星空，就像你在真实世界使用裸眼，双筒望远镜或天文望远镜看到的一样。
+  - [web](https://stellarium-web.org/)
+
+### Android
 
 - [Android Studio](https://developer.android.com/studio)
 - [Android SDK Android Developers](http://developer.android.com/sdk/index.html)
@@ -2113,196 +2237,539 @@ built on top of the Python programming language.
 - [kotlin](https://kotlinlang.org/)
   - [Kotlin 教程](https://www.runoob.com/kotlin/kotlin-tutorial.html)
   - [Kotlin 官方文档 中文版](https://book.kotlincn.net/)
-- Termux
+#### Android linux
+
+- [AidLux](https://aidlux.com/) 基于ARM架构的跨生态（Android/鸿蒙+Linux）一站式AIoT应用开发和部署平台
+- [AidLearning](https://github.com/aidlearning/AidLearning-Framework) is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
+
+#### App
+
+- [手机编程App，让你随时随地写代码](https://yaoqs.github.io/resource-navigator/#手机编程App，让你随时随地写代码)
+- [Termux](https://termux.dev/) is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager. [Github](https://github.com/termux/termux-app#github)
+- [JuiceSSH](https://juicessh.com/)Mobile SSH MADE EASY
 - 旧手机工具箱
 - ~~我的电视~~
 - [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) – 实时显示 Android 设备硬件、操作系统信息，无需 root，免费无广告
 - [Apk.1 安装器](https://github.com/Ium-Lab/Apk.1-Installer/tree/master) – 特色安卓应用：无需改名，直接安装 QQ、微信收到的 apk.1 文件
 - [Echo 回声](https://github.com/mafik/echo)是一款开源的安卓应用，它可以让你的手机在后台 24 小时自动循环录音。并随时保存指定时间内的录音内容
+- [BitChat](https://github.com/permissionlesstech/bitchat) 是一款不需要网络就能使用的聊天应用，它基于蓝牙小范围连接，不需要服务器、账户或用户信息，适合在没有网络的情况下使用。
 
 ## 百科
 
-
 ### 地理
 
-
-- 实时地球 网址：<https://zoom.earth/>
-实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
-- 天际网络摄像头 网址：<https://www.skylinewebcams.com/>
-观看世界各地景区的实时摄像头画面
-- 近地轨道可视化 网址：<https://platform.leolabs.space/visualization>
-感受地球低轨道太空的实际状态
-- 全球电力设施地图 网址：<https://openinframap.org/>
-该网站的地图显示全世界电力设施的位置，包括电厂、变电站、输电线等等，甚至还有风力发电机
-- 护照博物馆 网址：<https://www.passportindex.org/>
-这个网站集合了世界各地护照样式 还有办理程序 办理难易程度 等等
-- 随机谷歌街景 网址：<https://randomstreetview.com/>
-这个网站随机展示谷歌街景的照片，世界各地都有
-- World flags 网址：<https://world-flags.org/>
-一个介绍世界各国国旗、含义和起源、国旗的起源和琐事的国旗武士媒体组合项目
-- Dollar Street 网址：<https://www.gapminder.org/dollar-street>
-按照收入展示各个国家中人们的生活
-- 深海 网址：<https://neal.fun/deep-sea/>
-海洋不同深度都有什么生物
-Go nomad 网址：<https://nomadlist.com/>
-这个网站是用来给游民们寻找适合自己的城市做参考，根据各种权威机构数据列出了各项评分
-- 手机博物馆 网址：<https://www.mobilephonemuseum.com/catalogue>
-网站目前拥有来自 200 多个不同品牌的 2200 多个独立型号
-- 钓鱼岛线上博物馆 网址：<http://www.diaoyudao.org.cn/dydbwg.html>
-博物馆展陈内容包括历史图片、视频资料、文献资料、法律文件、实物模拟等
-- 地平说学会协会 网址：<https://www.tfes.org/>
-世界上有一些人认为地球是平面而非球体，这是他们的官网
-- 机械键盘博物馆 网址：<https://scrapbox.io/MECHKEYS/>
-收集了非常多设计独特的机械键盘
-- 全景故宫 网址：<https://pano.dpm.org.cn/>
-线上体验游览故宫，360° 查看各个宫殿，有文字介绍
-- 故宫博物院数字文物库 网址：<https://digicol.dpm.org.cn/>
-在线查看故宫博物院众多藏品，可根据分类和年代浏览
-- 千亿像素看中国 网址：<http://bigpixel.cn/zh-CN.html>
-可浏览千亿像素的全景图片，观看一个城市的面貌
-- 核弹威力 网址：<https://nuclearsecrecy.com/nukemap/>
-选择某个核弹查看爆炸影响的范围大小
-- 地球时间线 网址：<https://timelineofearth.com/>
-滚动屏幕，查看地球从形成到今天的大致时间线
-- ocearch 网址：<https://www.ocearch.org/tracker>
-追踪大白鲨、虎鲸等海洋动物的实时位置
-- Little Big World 网址：<https://www.littlebigworld.de/>
-Little Big World 使用移轴摄影、壮观的无人机摄影和惊人的延时，将地球上最美丽、最有趣的地方变成了可爱的微型模型
-- 地球模型 网址：<https://3d-app.yunser.com/earth>
-网站默认模拟了地球自转运动，同时提供了大量的模拟操作，如查看太阳光照、昼夜平分面黄道面等
-- 极像素 网址：<https://www.sigoo.com/>
-超高像素看世界
-- 地球旧照 网址：<https://3d-app.yunser.com/plateMotion>
-一个可以查看远古时期的地貌、研究板块运动网站
-- The Sea We Breathe 网址：<https://www.bluemarinefoundation.com/the-sea-we-breathe/>
-带你进入海底世界遨游，互动式的体验
-- Webcamtaxi 网址：<https://www.webcamtaxi.com/>
-Youtube 上面有很多24小时的摄像头直播频道，可以看到世界各地的实时状况。该网站就是收集这些频道，按照地区和内容分类
-- Earth Clock 网址：<https://earthclock.cwandt.com/>
-这个网站使用 Google Eerth 卫星照片，显示当前的数字时间
-- 光污染地图 网址：<https://www.lightpollutionmap.info/>
-全球光污染地图，可查看某地光污染各种参数
-- 流星雨 网址：<https://www.meteorshowers.org/>
-以太空视角查看某个时间流星雨的形成
-- 物流艺术 网址：<https://logisticsartproject.com/>
-记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
-- Exploratorium 网址：<https://exploratorium.edu/ronh/age/>
-科普网站，看看你在其它星球的岁数
-- FlightAware 网址：<https://zh.flightaware.com/>
-提供全球实时航班交通以及航空趋势等
-- 世界人口时钟 网址：<https://countrymeters.info/cn>
-网站展示任何国家目前的人口的实时统计，出生，死亡，净迁移和人口增长
-- 观沧海 网址：<https://www.ageeye.cn/>
-以地图为线索，反映中国历史、 军事、 自然、 ⽂化等各⽅面的知识
-- 指尖上 网址：<https://www.zhijianshang.com/>
-海量全面精美的VR全景旅游景点介绍，只需动动指尖就能通过虚拟现实深入景区内部，体验各地的美景风光
-- 全球海底光缆 网址：<https://he.net/3d-map/>
-这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置
-- 天空之城 网址：<https://www.skypixel.com/>
-无人机航拍照片和视频共享平台
-- 环游世界 网址：<https://www.airpano.org.cn/>
-网站提供各个地区的全景图，三百六十度看世界
-- 制服地图 网址：<https://uniform.wingzero.tw/>
-Uniform Map 是一个让使用者可以从 Google 地图去查询学校制服的网站，想知道某所学校所穿的制服，用这网站就能轻松解决
-- 国际空间站 网址：<https://www.google.com/maps/@29.5602853,95.0853914,2a,75y,212.04h,90t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000?shorturl=1>
-Google 地图，可查看国际空间站内部环境
-- 飞机坠毁信息 网址：<http://www.planecrashinfo.com/>
-记录航空事故，包括地点、死亡人数、细节以及不寻常的事故、最后的话等
-- 熊猫频道 网址：<https://www.ipanda.com/>
-央视熊猫频道对大熊猫繁育、日常起居等的情况进行 24 小时近距离视频直播及点播
-- 享有海景的车站 网址：<https://seaside-station.com/>
-网站记录了日本非常多海边的火车站极其周边景色的照片
-- 10 万亿像素的夜空 网址：<https://viewer.legacysurvey.org/>
-浏览一张 10 万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。
-- 星辰协会 网址：<http://thestarsetsociety.org/>
-美国 Starset 乐队科研团队“Starset协会”网站
-- 风网 网址：<https://www.windy.com/>
-台风 暴雨观测
-- 100,000 Stars 网址：<https://stars.chromeexperiments.com/>
-璀璨星河一触即达，宇宙星系在线观赏(来自 Google 实验室)
-- 世界地图 网址：<http://www.onegreen.net/maps/m/world.htm>
-提供高清、可下载的世界地图，有各种版本，如行政图、世界地形、交通等
+- [实时地球](https://zoom.earth/) 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+- [天际网络摄像头](https://www.skylinewebcams.com/) 观看世界各地景区的实时摄像头画面
+- [近地轨道可视化](https://platform.leolabs.space/visualization) 感受地球低轨道太空的实际状态
+- [全球电力设施地图](https://openinframap.org/) 该网站的地图显示全世界电力设施的位置，包括电厂、变电站、输电线等等，甚至还有风力发电机
+- [护照博物馆](https://www.passportindex.org/) 这个网站集合了世界各地护照样式 还有办理程序 办理难易程度 等等
+- [随机谷歌街景](https://randomstreetview.com/) 这个网站随机展示谷歌街景的照片，世界各地都有
+- [World flags](https://world-flags.org/) 一个介绍世界各国国旗、含义和起源、国旗的起源和琐事的国旗武士媒体组合项目
+- [Dollar Street](https://www.gapminder.org/dollar-street) 按照收入展示各个国家中人们的生活
+- [深海](https://neal.fun/deep-sea/) 海洋不同深度都有什么生物
+- [Go nomad](https://nomadlist.com/) 这个网站是用来给游民们寻找适合自己的城市做参考，根据各种权威机构数据列出了各项评分
+- [手机博物馆](https://www.mobilephonemuseum.com/catalogue) 网站目前拥有来自 200 多个不同品牌的 2200 多个独立型号
+- [钓鱼岛线上博物馆](http://www.diaoyudao.org.cn/dydbwg.html) 博物馆展陈内容包括历史图片、视频资料、文献资料、法律文件、实物模拟等
+- [地平说学会协会](https://www.tfes.org/) 世界上有一些人认为地球是平面而非球体，这是他们的官网
+- [机械键盘博物馆](https://scrapbox.io/MECHKEYS/) 收集了非常多设计独特的机械键盘
+- [全景故宫](https://pano.dpm.org.cn/) 线上体验游览故宫，360° 查看各个宫殿，有文字介绍
+- [故宫博物院数字文物库](https://digicol.dpm.org.cn/) 在线查看故宫博物院众多藏品，可根据分类和年代浏览
+- [千亿像素看中国](http://bigpixel.cn/zh-CN.html) 可浏览千亿像素的全景图片，观看一个城市的面貌
+- [核弹威力](https://nuclearsecrecy.com/nukemap/) 选择某个核弹查看爆炸影响的范围大小
+- [地球时间线](https://timelineofearth.com/) 滚动屏幕，查看地球从形成到今天的大致时间线
+- [ocearch](https://www.ocearch.org/tracker) 追踪大白鲨、虎鲸等海洋动物的实时位置
+- [Little Big World](https://www.littlebigworld.de/) 使用移轴摄影、壮观的无人机摄影和惊人的延时，将地球上最美丽、最有趣的地方变成了可爱的微型模型
+- [地球模型](https://3d-app.yunser.com/earth) 网站默认模拟了地球自转运动，同时提供了大量的模拟操作，如查看太阳光照、昼夜平分面黄道面等
+- [极像素](https://www.sigoo.com/) 超高像素看世界
+- [地球旧照](https://3d-app.yunser.com/plateMotion) 一个可以查看远古时期的地貌、研究板块运动网站
+- [The Sea We Breathe](https://www.bluemarinefoundation.com/the-sea-we-breathe/) 带你进入海底世界遨游，互动式的体验
+- [Webcamtaxi](https://www.webcamtaxi.com/) Youtube 上面有很多24小时的摄像头直播频道，可以看到世界各地的实时状况。该网站就是收集这些频道，按照地区和内容分类
+- [Earth Clock](https://earthclock.cwandt.com/) 这个网站使用 Google Eerth 卫星照片，显示当前的数字时间
+- [光污染地图](https://www.lightpollutionmap.info/) 全球光污染地图，可查看某地光污染各种参数
+- [流星雨](https://www.meteorshowers.org/) 以太空视角查看某一地某个时间流星雨的形成
+- [物流艺术](https://logisticsartproject.com/) 记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
+- [Exploratorium](https://exploratorium.edu/ronh/age/) 科普网站，看看你在其它星球的岁数
+- [FlightAware](https://zh.flightaware.com/) 提供全球实时航班交通以及航空趋势等
+- [世界人口时钟](https://countrymeters.info/cn) 网站展示任何国家目前的人口的实时统计，出生，死亡，净迁移和人口增长
+- [观沧海](https://www.ageeye.cn/) 以地图为线索，反映中国历史、 军事、 自然、 ⽂化等各⽅面的知识
+- [指尖上](https://www.zhijianshang.com/) 海量全面精美的VR全景旅游景点介绍，只需动动指尖就能通过虚拟现实深入景区内部，体验各地的美景风光
+- [全球海底光缆](https://he.net/3d-map/) 这个网页提供了一个互动式的地球，上面有全世界海底光缆和骨干机房的位置
+- [天空之城](https://www.skypixel.com/) 无人机航拍照片和视频共享平台
+- [环游世界](https://www.airpano.org.cn/) 网站提供各个地区的全景图，三百六十度看世界
+- [制服地图](https://uniform.wingzero.tw/) Uniform Map 是一个让使用者可以从 Google 地图去查询学校制服的网站，想知道某所学校所穿的制服，用这网站就能轻松解决
+- [国际空间站](https://www.google.com/maps/@29.5602853,95.0853914,2a,75y,212.04h,90t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000?shorturl=1) Google 地图，可查看国际空间站内部环境
+- [飞机坠毁信息](http://www.planecrashinfo.com/) 记录航空事故，包括地点、死亡人数、细节以及不寻常的事故、最后的话等
+- [熊猫频道](https://www.ipanda.com/) 央视熊猫频道对大熊猫繁育、日常起居等的情况进行 24 小时近距离视频直播及点播
+- [享有海景的车站](https://seaside-station.com/) 网站记录了日本非常多海边的火车站极其周边景色的照片
+- [10 万亿像素的夜空](https://viewer.legacysurvey.org/) 浏览一张 10 万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。
+- [星辰协会](http://thestarsetsociety.org/) 美国 Starset 乐队科研团队“Starset协会”网站
+- [风网](https://www.windy.com/) 台风 暴雨观测
+- [100,000 Stars](https://stars.chromeexperiments.com/) 璀璨星河一触即达，宇宙星系在线观赏(来自 Google 实验室)
+- [世界地图](http://www.onegreen.net/maps/m/world.htm) 提供高清、可下载的世界地图，有各种版本，如行政图、世界地形、交通等
 
 ### 博物馆
 
+- [陕西博物馆 360 度实景浏览](https://www.sxhm.com/online.html) 线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。可以网页浏览，也可以 VR 头盔浏览
+- [CyArk](https://www.cyark.org/) 用专业的三维激光扫描技术数字化重现世界上最久远、最著名的古迹
+- [用户界面的历史](https://history.user-interface.io/) 介绍了从 1973 年第一个支持 GUI 的操作系统到目前的 macOS 和 windows 的用户界面
+- [中国历史照片](https://www.hpcbristol.net/) 布里斯托大学开放中国影像数据库，提供 20,000 多张中国近代照片免费浏览
+- [知妖（中国妖怪百集）](http://www.cbaigui.com/) 收集中国古今妖怪
+- [中国纪录片网](http://www.docuchina.cn/) 国家级的纪录片资源，央视出品
+- [波斯波利斯](https://persepolis.getty.edu/) 波斯波利斯是古代波斯帝国的首都，现在已经是一片废墟了。这个页面还原了这座雄伟的帝国都城，重建了 3D 街景，让你在其中漫游
+- [卢浮宫藏品](https://collections.louvre.fr/en/) 卢浮宫超过 48 万藏品电子化，可在线免费浏览
+- [中华珍宝馆](https://g2.ltfc.net) 在线的中国字画的博物馆
+- [木材数据库](https://www.wood-database.com/)  有详细的介绍，包括硬度排行等
+- [无限 3D 美术馆](https://gallery.nowaythis.works/) 目前有180多万件艺术品的 3D 美术馆，每件艺术品都是来自 Reddit 的 r/Art 频道
+- [苏联海报](https://reddirect.ru/) 这个网站收藏了很多苏联时期的海报，很有年代感
+- [Artvee](https://artvee.com/) 浏览和下载高分辨率的公共领域艺术品
+- [中国国家博物馆 VR](http://www.chnmuseum.cn/Portals/0/web/vr/) 线上 360° 体验游览中国国家博物馆
+- [模拟器博物馆](http://www.famicn.com/) 在线运行电脑系统、学习机、游戏机
+- [Arch Daily](https://www.archdaily.cn/cn) 非常多设计奇特的建筑
+- [物种 2000 中国节点](http://sp2000.org.cn/) 该网站建立和维护中国生物物种名录
+- [上海博物馆](https://www.shanghaimuseum.net/mu/frontend/pg/index) 在线浏览上海博物馆的藏品和博物馆内的三维场景，还提供 AR 功能，需下载上博AR App 体验
+- [8values 中文版](https://songyon.github.io/8valuescn/) 是一个政治立场测试
+- [十年前的网页](https://neal.fun/ten-years-ago/) 可以查看十年前美国的十几个著名网站是什么样子
+- [英特尔虚拟博物馆](https://virtualmuseum.intel.com/) 官方网站，3D 虚拟参观英特尔公司的博物馆
+- [铅笔收藏馆](https://brandnamepencils.com/) 网站收藏了几乎全球各地知名品牌的铅笔
+- [IDEA](https://www.dialectsarchive.com/) 全球英语方言档案馆（不同国家不同地区的人说英语是什么口音）
+- [开源人物肖像](http://www.facesofopensource.com/) 那些推动计算机革命的开源程序员的肖像
+- [濒危声音博物馆](http://savethesounds.info/) 收藏了一些消失的声音，比如打字机的击键声、点阵式打印机的打印声、Windows 95 的开机声
+- [韵典网](https://ytenx.org/) 是一个综合的韵书查询工具，包含广韵、中原音韵、洪武正韵笺、分韵撮要和上古音系
+- [Gallerix](https://gallerix.asia/) 在线博物馆，可以按画家或博物馆来查看油画
+- [荷兰国家博物馆](https://www.rijksmuseum.nl/nl) 可在线浏览荷兰国家博物馆大量珍贵的藏品
+- [Conserve the Sound](https://www.conservethesound.de/) 老物件的声音博物馆，你可以听到打字机、手摇咖啡研磨机等物品的声音
+- [科普网站](https://animagraffs.com/) 了解各种产品的原理
+- [百年纪念灯泡](https://www.centennialbulb.org/cam.htm) 展示已经亮了百年的灯泡
+- [四大名著](http://www.sdmz.cn/) 网站提供了四大名著相关的电子书、音频、图片、地图等在线资源
+- [乡音苑](https://phonemica.net/) 收集来自全国各地的网友上传的方言故事，网站提供各种字幕不怕看不懂
+- [搜韵](https://sou-yun.cn/) 共收录约 90 万首古今诗词作品，其中近现代及之前的诗词作品约 83 万。
+- [世界建筑名录](https://www.worldbuildingsdirectory.com/) 浏览来自世界各地的最具创新性的建筑
+- [网站设计博物馆](https://www.webdesignmuseum.org/) 展出 1600 多个网站从 1991 到 2006 年主页的设计
+- [全历史](https://www.allhistory.com) 让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中
+- [世界数字图书馆](https://www.loc.gov/collections/) 网站免费提供使用珍贵图书、地图、影片与照片等服务
+- [蚂蚁网](http://www.ants-china.com/) 东亚、东北亚、南亚及东南亚地区蚂蚁-全球最大的华语中文蚂蚁专业网站
+- [数字敦煌](https://www.e-dunhuang.com/) 在线浏览敦煌，可浏览经典洞窟、经典壁画等
 
-- 陕西博物馆 360 度实景浏览 网址：<https://www.sxhm.com/online.html>
-线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。可以网页浏览，也可以 VR 头盔浏览
-- CyArk 网址：<https://www.cyark.org/>
-用专业的三维激光扫描技术数字化重现世界上最久远、最著名的古迹
-- 用户界面的历史 网址：<https://history.user-interface.io/>
-介绍了从 1973 年第一个支持 GUI 的操作系统到目前的 macOS 和 windows 的用户界面
-- 中国历史照片 网址：<https://www.hpcbristol.net/>
-布里斯托大学开放中国影像数据库，提供 20,000 多张中国近代照片免费浏览
-- 知妖（中国妖怪百集） 网址：<http://www.cbaigui.com/>
-收集中国古今妖怪
-- 中国纪录片网 网址：<http://www.docuchina.cn/>
-国家级的纪录片资源，央视出品
-- 波斯波利斯 网址：<https://persepolis.getty.edu/>
-波斯波利斯是古代波斯帝国的首都，现在已经是一片废墟了。这个页面还原了这座雄伟的帝国都城，重建了 3D 街景，让你在其中漫游
-- 卢浮宫藏品 网址：<https://collections.louvre.fr/en/>
-卢浮宫超过 48 万藏品电子化，可在线免费浏览
-- 中华珍宝馆 网址：<https://g2.ltfc.net>
-在线的中国字画的博物馆
-- 木材数据库 网址：<https://www.wood-database.com/>
-木材数据库。有详细的介绍，包括硬度排行等
-- 无限 3D 美术馆 网址：<https://gallery.nowaythis.works/>
-目前有180多万件艺术品的 3D 美术馆，每件艺术品都是来自 Reddit 的 r/Art 频道
-- 苏联海报 网址：<https://reddirect.ru/>
-这个网站收藏了很多苏联时期的海报，很有年代感
-- Artvee 网址：<https://artvee.com/>
-浏览和下载高分辨率的公共领域艺术品
-- 中国国家博物馆 VR 网址：<http://www.chnmuseum.cn/Portals/0/web/vr/>
-中国国家博物馆提供的 VR 场景，线上 360° 体验游览中国国家博物馆
-- 模拟器博物馆 网址：<http://www.famicn.com/>
-在线运行电脑系统、学习机、游戏机
-- Arch Daily 网址：<https://www.archdaily.cn/cn>
-非常多设计奇特的建筑
-- 物种 2000 中国节点 网址：<http://sp2000.org.cn/>
-该网站建立和维护中国生物物种名录
-- 上海博物馆 网址：<https://www.shanghaimuseum.net/mu/frontend/pg/index>
-在线浏览上海博物馆的藏品和博物馆内的三维场景，还提供 AR 功能，需下载上博AR App 体验
-- 8values 中文版 网址：<https://songyon.github.io/8valuescn/>
-8values 是一个政治立场测试
-- 十年前的网页 网址：<https://neal.fun/ten-years-ago/>
-可以查看十年前美国的十几个著名网站是什么样子
-- 英特尔虚拟博物馆 网址：<https://virtualmuseum.intel.com/>
-官方网站，3D 虚拟参观英特尔公司的博物馆
-- 铅笔收藏馆 网址：<https://brandnamepencils.com/>
-网站收藏了几乎全球各地知名品牌的铅笔
-- IDEA 网址：<https://www.dialectsarchive.com/>
-全球英语方言档案馆（不同国家不同地区的人说英语是什么口音）
-- 开源人物肖像 网址：<http://www.facesofopensource.com/>
-那些推动计算机革命的开源程序员的肖像
-- 濒危声音博物馆 网址：<http://savethesounds.info/>
-收藏了一些消失的声音，比如打字机的击键声、点阵式打印机的打印声、Windows 95 的开机声
-- 韵典网 网址：<https://ytenx.org/>
-韵典网是一个综合的韵书查询工具，包含广韵、中原音韵、洪武正韵笺、分韵撮要和上古音系
-- Gallerix 网址：<https://gallerix.asia/>
-在线博物馆，可以按画家或博物馆来查看油画
-- 荷兰国家博物馆 网址：<https://www.rijksmuseum.nl/nl>
-可在线浏览荷兰国家博物馆大量珍贵的藏品
-- Conserve the Sound 网址：<https://www.conservethesound.de/>
-老物件的声音博物馆，你可以听到打字机、手摇咖啡研磨机等物品的声音
-- 科普网站 网址：<https://animagraffs.com/>
-了解各种产品的原理
-- 百年纪念灯泡 网址：<https://www.centennialbulb.org/cam.htm>
-展示已经亮了百年的灯泡
-- 四大名著 网址：<http://www.sdmz.cn/>
-网站提供了四大名著相关的电子书、音频、图片、地图等在线资源
-- 乡音苑 网址：<https://phonemica.net/>
-收集来自全国各地的网友上传的方言故事，网站提供各种字幕不怕看不懂
-- 搜韵 网址：<https://sou-yun.cn/>
-搜韵网共收录约 90 万首古今诗词作品，其中近现代及之前的诗词作品约 83 万。
-- 世界建筑名录 网址：<https://www.worldbuildingsdirectory.com/>
-浏览来自世界各地的最具创新性的建筑
-- 网站设计博物馆 网址：<https://www.webdesignmuseum.org/>
-展出 1600 多个网站从 1991 到 2006 年主页的设计
-- 全历史 网址：<https://www.allhistory.com>
-让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中
-- 世界数字图书馆 网址：<https://www.loc.gov/collections/> ... ut-this-collection/
-网站免费提供使用珍贵图书、地图、影片与照片等服务
-- 蚂蚁网 网址：<http://www.ants-china.com/>
-东亚、东北亚、南亚及东南亚地区蚂蚁-全球最大的华语中文蚂蚁专业网站
-- 数字敦煌 网址：<https://www.e-dunhuang.com/>
-在线浏览敦煌，可浏览经典洞窟、经典壁画等
+# Awesome Github Roster
+
+## [Trending](https://github.com/trending)
+
+## [173lib](https://github.com/173Lib)
+
+## Awesome
+
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) A curated list of awesome awesomeness
+- [Awesome-Windows /Awesome](https://github.com/Awesome-Windows/Awesome) An awesome & curated list of best applications and tools for Windows
+- [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/) Windows 绝赞应用 [github page](https://github.com/AmazingApps/Amazing-Windows-Apps/tree/master/zh-CN)
+- [sindresorhus /awesome](https://github.com/sindresorhus/awesome)😎 Awesome lists about all kinds of interesting topics
+- [prakhar1989 /awesome-courses](https://github.com/prakhar1989/awesome-courses)📚 List of awesome university courses for learning Computer Science!
+- [vinta /awesome-python](https://github.com/vinta/awesome-python)
+- [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+- [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- [Awesome resources](https://github.com/lyfeyaj/awesome-resources) for coding and learning: open source projects, websites, books e.g.
+
+### [jobbole/伯乐在线](https://github.com/jobbole/)
+
+- [jobbole /awesome-python-cn](https://jobbole.github.io/awesome-python-cn/) Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 [src](https://github.com/jobbole/awesome-python-cn)
+- [akullpp /awesome-java](https://github.com/akullpp/awesome-java)
+- [jobbole /awesome-java-cn](https://github.com/jobbole/awesome-java-cn) Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等
+- [sorrycc /awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [jobbole /awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
+- [avelino /awesome-go](https://github.com/avelino/awesome-Go)
+- [jobbole /awesome-go-cn](https://github.com/jobbole/awesome-go-cn)Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。
+- [ziadoz /awesome-php](https://github.com/ziadoz/awesome-php)
+- [jobbole /awesome-php-cn](https://github.com/jobbole/awesome-php-cn)PHP资源大全中文版，库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具等
+- [quozd /awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+- [jobbole /awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn)DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
+- [koz.ross /awesome-c](https://notabug.org/koz.ross/awesome-c)
+- [jobbole /awesome-c-cn](https://github.com/jobbole/awesome-c-cn)C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+- [awesome-css-group /awesome-css](https://github.com/awesome-css-group/awesome-css)
+- [jobbole /awesome-css-cn](https://github.com/jobbole/awesome-css-cn)CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
+
+- [jobbole /awesome-nodejs-cn](https://github.com/jobbole/awesome-nodejs-cn)Node.js 资源大全中文版，内容包括：命令行工具、日志、调试、HTTP、构建工具、文件系统、模板、Web 框架、流程控制、文本、图片和数据校验等。
+- [fffaraz /awesome-cpp](https://github.com/fffaraz/awesome-cpp) A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [jobbole /awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
+- [awesome-android](https://snowdream.github.io/awesome-android/) src[snowdream /awesome-android](https://github.com/snowdream/awesome-android)
+- [jobbole /awesome-android-cn](https://github.com/jobbole/awesome-android-cn)Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等
+- [kahun /awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [jobbole /awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn)系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
+- [shlomi-noach /awesome-mysql](https://shlomi-noach.github.io/awesome-mysql/) src <https://github.com/shlomi-noach/awesome-mysql>
+- [jobbole /awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
+- [josephmisiti /awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [jobbole /awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+- [vsouza /awesome-ios](https://github.com/vsouza/awesome-ios)
+- [jobbole /awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
+- [jobbole /awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)如果有人让你推荐前端技术书，请让他看这个列表
+- [jobbole /awesome-programming-books](https://github.com/jobbole/awesome-programming-books)经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [jobbole /awesome-design-cn](https://github.com/jobbole/awesome-design-cn)设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
+- [jobbole /awesome-python-books](https://github.com/jobbole/awesome-python-books)
+- [jobbole /java-interview](https://github.com/jobbole/java-interview)Java 面试题合集
+- [OptiKey /OptiKey](https://github.com/OptiKey/OptiKey) Full computer control and speech with your eyes
+- [jobbole /OptiKeyWiki-ZH](https://github.com/jobbole/OptiKeyWiki-ZH)OptiKey Wiki [简体中文翻译]
+
+## [Microsoft](https://github.com/microsoft)
+
+- [MS-DOS](https://github.com/microsoft/MS-DOS)
+- [MS Terminal](https://github.com/microsoft/terminal)
+- [PowerShell](https://github.com/PowerShell/PowerShell)
+- [vscode](https://github.com/microsoft/vscode)
+- [Windows Implementation Library](https://github.com/Microsoft/wil)
+- [Windows Template Library (WTL)](https://sourceforge.net/projects/wtl/)
+- [DirectX Tool Kit for DirectX 11](https://github.com/Microsoft/DirectXTK) The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
+
+## online刊物
+
+- [互联网上的免费书籍](https://github.com/ruanyf/free-books) - 阮一峰
+- [HelloGitHub](https://hellogithub.com/) 分享 GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更新发布，内容包括：有趣、入门级的开源项目、开源书籍、实战项目、企业级项目等，让你用很短时间感受到开源的魅力，爱上开源！[src](https://github.com/521xueweihan/HelloGitHub)
+- [ascoders / weekly](https://github.com/ascoders/weekly) 前端精读周刊。帮你理解最前沿、实用的技术。
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) 科技爱好者周刊，每周五发布
+- [hehonghui /the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
+- [hehonghui /android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
+- [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) Help you discover excellent English projects and get rid of disturbing by other spoken language.
+- [500 Lines or Less](https://github.com/aosabook/500lines) This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
+- [李笑来](https://github.com/xiaolai)
+  - [韭菜的自我修养 / The self-cultivation of leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
+  - [把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
+  - [定投改变命运 —— 让时间陪你慢慢变富](https://onregularinvesting.com/) [github](https://github.com/xiaolai/regular-investing-in-box)
+  - [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
+- [润学](https://github.com/The-Run-Philosophy-Organization/run)全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+## 计算机编程书籍
+
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love/)Papers from the computer science community to read and discuss. Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the Papers We Love site for more info.<https://paperswelove.org/>
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+- [iCSToCS / CSBook](https://github.com/iCSToCS/CSBook) 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+- [CS-Book](https://github.com/iamshuaidi/CS-Book) 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+- [algo-basic](https://github.com/iamshuaidi/algo-basic) 专注于分享算法，计算机基础（包括计算机网络，操作系统，MySQL等），无论是应付面试，还是提升自己地内功，这里都能帮到你
+- [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)免费的计算机编程类中文书籍
+- [imarvinle / awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [itdevbooks / pdf](https://github.com/itdevbooks/pdf)编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+- [CamDavidsonPilon /Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) [mainpage](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)《黑客的贝叶斯方法：以 Python 为例》
+- [DoctorWkt /acwj](https://github.com/DoctorWkt/acwj) A Compiler Writing Journey 教你写 C 语言编译器的实战教程。教程注重实战循序渐进，一步步教你如何用 C 语言写一个可以自己编译自己（自举）、能够在真正的硬件上运行的 C 语言编译器
+- [influential-cs-books](https://github.com/cs-books/influential-cs-books) Most influential books on Computer Science/programming
+- [RE-for-beginners](https://github.com/wangyif2/RE-for-beginners) Quick introduction to reverse engineering for beginners.Compiled versions are:(English) <http://yurichev.com/non-wiki-files/RE_for_beginners-en.pdf> (Russian) <http://yurichev.com/non-wiki-files/RE_for_beginners-ru.pdf>
+- [Reverse_Engineering_For_Beginners](https://github.com/raminfp/Reverse_Engineering_For_Beginners) Tutorial Reverse Engineering
+- 《[ECMAScript 6 入门教程](https://github.com/ruanyf/es6tutorial)》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+- [全栈工程师培训材料](https://github.com/ruanyf/jstraining) 帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
+
+- [计算机数值分析课程](https://github.com/qxr777/NumericalAnalysis)
+- [Numerical Analysis Implementations in Various Languages](https://github.com/ergenekonyigit/Numerical-Analysis-Examples)
+- [18.330: Introduction to Numerical Analysis (Fall 2023)](https://github.com/mitmath/18330)
+- [CS205A Mathematical Methods for Robotics, Vision, and Graphics](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)
+
+## OpenCourse
+
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) Awesome CS Courses 📚 List of awesome university courses for learning Computer Science!
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) [计算机自学指南](https://csdiy.wiki/)
+
+## 算法
+
+- [Algorithmic-Pearls](https://github.com/jameslao/Algorithmic-Pearls)
+- [ampl /gsl](https://github.com/ampl/gsl) (c/c++)This is GSL, the GNU Scientific Library, a collection of numerical routines for scientific computing.GNU Scientific Library with CMake build support and AMPL bindings
+- [g2o](https://github.com/RainerKuemmerle/g2o): A General Framework for Graph Optimization. g2o is an open-source C++ framework for optimizing graph-based nonlinear error functions. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA.A wide range of problems in robotics as well as in computer-vision involve the minimization of a non-linear error function that can be represented as a graph. Typical instances are simultaneous localization and mapping (SLAM) or bundle adjustment (BA). The overall goal in these problems is to find the configuration of parameters or state variables that maximally explain a set of measurements affected by Gaussian noise. g2o is an open-source C++ framework for such nonlinear least squares problems. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA. g2o offers a performance comparable to implementations of state-of-the-art approaches for the specific problems (02/2011).
+- [leetcode](https://github.com/haoel/leetcode) LeetCode Problems' Solutions
+
+## 数学
+
+- [Coq](https://coq.inria.fr/ ) is a formal proof management system. It provides a formal language to write mathematical
+definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](<https://coq.inria.fr/cocorico/List> of Coq PL Projects) (e.g. the [CompCert](http://compcert.inria.fr) compiler certification project, or the [Bedrock](http://plv.csail.mit.edu/bedrock/) verified low-level programming library), the [formalization of mathematics](<https://coq.inria.fr/cocorico/List> of Coq Math Projects) (e.g. the full formalization of the [Feit-Thompson theorem](https://hal.inria.fr/hal-00816699) or [homotopy type theory](http://homotopytypetheory.org/coq/)) and [teaching](https://coq.inria.fr/cocorico/CoqInTheClassroom). GIthub : <https://github.com/coq/coq>
+- The [HOL](https://hol-theorem-prover.org/) interactive theorem prover is a proof assistant for higher-order logic: a programming environment in which theorems can be proved and proof tools implemented. Built-in decision procedures and theorem provers can automatically establish many simple theorems (users may have to prove the hard theorems themselves!) An oracle mechanism gives access to external programs such as SMT and BDD engines. HOL is particularly suitable as a platform for implementing combinations of deduction, execution and property checking. [HOL Guidebook](https://hol-theorem-prover.org/guidebook/)  Github : <https://github.com/HOL-Theorem-Prover/HOL>
+
+## 操作系统
+- [reactos](https://github.com/reactos/reactos) <https://reactos.org/>
+- [Linux](https://github.com/torvalds/linux) kernel source tree
+	- [Tilck](https://github.com/vvaltchev/tilck) is an educational monolithic kernel designed to be Linux-compatible at binary level. It runs on i686 and RISCV64 at the moment. Project's small-scale and simple design makes it the perfect playground for playing in kernel mode while retaining the ability to compare how the very same usermode bits run on the Linux kernel as well.
+- [Free Open Source Windows Operating System Kernels Software](https://sourceforge.net/directory/system-administration/kernels/os:windows/)
+  - [ReactOS](https://sourceforge.net/projects/reactos/) An operating system based on the best Windows NT design principles.ReactOS is an open source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft Windows NT family of operating systems (NT4, 2000, XP, 2003).
+  - [WSL2-Linux-Kernel](https://sourceforge.net/projects/wsl2-linux-kernel.mirror/) The source for the Linux kernel used in Windows Subsystem for Linux 2
+- [yifengyou /The-design-and-implementation-of-a-64-bit-os](https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os) 《一个64位操作系统的设计与实现》读书笔记&随书源码
+- [LMOSEM](https://gitee.com/lmnos/lmosem) （liberty，madness，operating，system，embedded）是一个完全从第一行引导代码开始编写，基于ARM平台，支持多进程、多CPU、内存管理、文件与设备管理的全32位操作系统内核。 LMOSEM总体上分为三大层：HAL层（针对ARM体系，方便移植）、内核功能层（实现内核服务：其中有内存管理、进程管理、驱动模型等）、接口层（提供应用程序接口）。 为了方便操作系统爱好者、初学者：了解、移植、扩展、修改LMOSEM，我亲自编写了《深度探索嵌入式操作系统：从零开始设计、架构和开发》一书。
+- [LEDE](https://github.com/lede-project) Linux Embedded Development Environment <https://openwrt.org/>
+- [OpenWrt Project](https://github.com/lede-project/source) The OpenWrt Project is a Linux operating system targeting embedded devices.
+- [OpenWrt](https://github.com/coolsnowwolf/lede) Lean's OpenWrt source
+
+## [Docker](https://github.com/moby/moby)
+
+## 中华文化精粹
+
+### [中华古诗词数据库](https://github.com/chinese-poetry)
+
+- [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
+
+## 前端
+- [uni-app](https://github.com/dcloudio/uni-app) 是一个使用 Vue.js 开发小程序、H5、App的统一前端框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。官网地址：<https://uniapp.dcloud.io>
+
+## html/css
+
+- [encom-boardroom](https://github.com/arscan/encom-boardroom) An HTML5 recreation of the Boardroom Scene in Disney's Tron: Legacy. It currently displays realtime data from GitHub and Wikipedia to make it a bit more fun. View it in action at <https://www.robscanlon.com/encom-boardroom/> .
+
+## javascript
+
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things
+- [Apache ECharts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库,[github仓](https://github.com/apache/echarts)
+- [30-seconds /30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Short JavaScript code snippets for all your development needs
+- [jsdoc /jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript.
+- [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info):现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+- [CesiumJS](https://github.com/CesiumGS/cesium) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
+- [three.js](https://github.com/mrdoob/three.js) JavaScript 3D Library <https://threejs.org/> <https://github.com/mrdoob/three.js> <http://www.webgl3d.cn/>
+- Babylon.js
+- [D3.js](https://github.com/d3/d3) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <https://d3js.org/> <https://d3js.org.cn/>
+- [ejs](https://github.com/mde/ejs) Embedded JavaScript templates -- <http://ejs.co>
+- [ArtPlayer.js](https://github.com/zhw2590582/ArtPlayer) is a modern and full featured HTML5 video player. is an easy-to-use and feature-rich HTML5 video player, and most of the player's functional controls support customization, which makes it easy to connect with your business logic. In addition, it directly supports .vtt, .ass and .srt subtitle formats. Integration with other dependencies such as flv.js, hls.js, dash.js, etc. is also very simple. The code is highly decoupled, the structure and logic are clear, and it is easy to track errors and add new features.[artplayer.org](https://artplayer.org/)
+
+- [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
+- [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
+
+- [GlobeStream3D](https://github.com/hululuuuuu/GlobeStream3D):基于threejs开发的3D地球2D 地图 js组件，适用所有前端js项目 Building 3D visualization based on three.js, High efficiency component
+
+### nodejs
+
+- [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
+- [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
+- [hexo](https://github.com/hexojs/hexo):A fast, simple & powerful blog framework, powered by Node.js.
+- [next.js](https://github.com/vercel/next.js)
+
+### vue3
+
+- [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) 一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API
+- [vue3-basic-admin](https://github.com/biubiubiu01/vue3-basic-admin)
+
+## 树莓派/Raspberry Pi
+
+- [Raspberry-Pi-config](https://github.com/yaoqs/Raspberry-Pi-config) :关于树莓派安装、配置、使用等的技巧、工具。 About the skills and toolkits of installing, configuring raspbian and handbook for raspberry
+- [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) curated list of projects with raspberry pi
+
+## Termux
+
+- [termux-app](https://github.com/termux/termux-app)Termux - a terminal emulator application for Android OS extendible by variety of packages.<https://f-droid.org/en/packages/com.termux>
+- [Termux-config](https://github.com/yaoqs/Termux-config):Termux Manual
+- [termux-packages](https://github.com/termux/termux-packages)A build system and primary set of packages for Termux.
+
+- [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) 🔥🔥AidLearning is a powerful mobile development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for high performance acceleration...Linux on Android or HarmonyOS. AI，Android，Linux，ARM：基于Android+Linux融合生态的AI应用开发平台。[AidLux](https://docs.aidlux.com) 是一个基于ARM构建，同时支持多生态融合（Android+Linux）环境的AI应用开发和部署平台，为开发者带来强大、简单、无限创意可能的奇妙体验！
+
+## metasploit
+
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) <https://www.metasploit.com/>
+- [metasploitable3](https://github.com/rapid7/metasploitable3) Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+- [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+
+- [SCC](https://github.com/humeafo/scc) A C/C++ shellcode compiler based on llvm/clang technology, make writing and testing shellcode more easier, you can write the code in C++, not only in C, you can use globals(see limitations) and C++ with full compiler syntax checking for APIs.
+- [Dshell](https://github.com/USArmyResearchLab/Dshell) An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
+- [wudimahua /Firewall](https://github.com/wudimahua/Firewall) 美国国家安全局NSA下属方程式黑客组织（Equation Group）被The Shadow Brokers（影子经纪人）hack出来的并免费分享的源码
+
+## 编程语言
+
+- [Programming-Alpha-To-Omega](https://github.com/justjavac/Programming-Alpha-To-Omega) 从零开始学编程 系列汇总（从α到Ω）
+- [Lua-Source-Internal](https://github.com/lichuang/Lua-Source-Internal) 本书已经由图灵出版社正式出版，书名《Lua设计与实现》。
+- [x86-asm-book-source](https://github.com/lichuang/x86-asm-book-source) 带注释的《X86汇编语言-从实模式到保护模式》一书代码
+
+### C/C++
+
+- [Awesome C](https://github.com/oz123/awesome-c) A curated list of C good stuff. This list contains only open source code (as defined by the linked Open Source Definition), and sellers who aren't evil for physical resources.
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.<http://fffaraz.github.io/awesome-cpp/>
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) A collection of resources on modern C++
+- [Awesome Modern C++](https://awesomecpp.com/)
+- [changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) Modern C++ Tutorial: C++11/14/17/20 On the Fly | <https://changkun.de/modern-cpp/>
+- [Light-City /CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) A C++ header-only HTTP/HTTPS server and client library.
+- [Duilib](https://github.com/duilib/duilib) 是一个Windows下免费开源的DirectUI界面库，由于简约易扩展的设计以及稳定高效的实现被各大互联网公司普遍接受，广泛应用于包括IM、视频客户端、股票行情软件、导航软件、手机辅助软件、安全软件等多个行业的众多pc客户端软件。Duilib还在不断的发展中，在文档、例子、动画、渲染引擎等多个方面将持续改进。
+- [root-project /cling](https://github.com/root-project/cling) Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the read-eval-print loop (REPL) concept, in order to leverage rapid application development. Implemented as a small extension to LLVM and Clang, the interpreter reuses their strengths such as the praised concise and expressive compiler diagnostics.
+- [Lwan Web Server](https://github.com/lpereira/lwan) is a high-performance & scalable web server.
+- [cli](https://github.com/daniele77/cli) A library for interactive command line interfaces in modern C++
+- [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey/) is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that has special provision for defining keyboard shortcuts, otherwise known as hotkeys.
+
+- [simplewall](https://github.com/henrypp/simplewall): Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+- The [LLVM](https://llvm.org/) Project is a collection of modular and reusable compiler and toolchain technologies. LLVM 最早是底层虚拟机（Low Level Virtual Machine）的缩写，但由于项目发展过快，底层虚拟机已经不足以介绍项目本身，而它已经发展成为一个包含前端，优化器和后端的完整编译框架，并且全称就叫LLVM，并非任何英文的简称了。其主要由C++编写而成。[Github](https://github.com/llvm/llvm-project)
+- [Clang](http://clang.org/) 是LLVM项目的一个子项目，基于LLVM架构的C/C++/Objective-C编译器前端.
+- [GCC](https://gcc.gnu.org/), the GNU Compiler Collection
+- [Premake](https://github.com/premake/premake-core) is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets like Visual Studio, Xcode, and GNU Make. Premake's scripts are little Lua programs, so the sky's the limit!
+- [SWIG](https://github.com/swig/swig) is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+  - [SWIG](https://www.swig.org/) is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. SWIG is used with different types of target languages including common scripting languages such as Javascript, Perl, PHP, Python, Tcl and Ruby. The list of supported languages also includes non-scripting languages such as C#, D, Go language, Java including Android, Lua, OCaml, Octave, Scilab and R. Also several interpreted and compiled Scheme implementations (Guile, MzScheme/Racket) are supported. SWIG is most commonly used to create high-level interpreted or compiled programming environments, user interfaces, and as a tool for testing and prototyping C/C++ software. SWIG is typically used to parse C/C++ interfaces and generate the 'glue code' required for the above target languages to call into the C/C++ code. SWIG can also export its parse tree in the form of XML. SWIG is free software and the code that SWIG generates is compatible with both commercial and non-commercial projects.
+  - [c++ + swig + lua ，三位一体，组合式开发](https://www.cnblogs.com/suanguade/p/13348216.html)
+  - [一个我自己用的小工具](https://www.cnblogs.com/suanguade/p/8511360.html)
+
+- Dear [ImGui](https://github.com/ocornut/imgui): Bloat-free Graphical User interface for C++ with minimal dependencies
+- [implot](https://github.com/epezent/implot):Immediate Mode Plotting, GPU accelerated plotting library for Dear ImGui. It aims to provide a first-class API that ImGui fans will love. ImPlot is well suited for visualizing program data in real-time or creating interactive plots, and requires minimal code to integrate. Just like ImGui, it does not burden the end user with GUI state management, avoids STL containers and C++ headers, and has no external dependencies except for ImGui itself.
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) :A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework. Diligent Engine is a lightweight cross-platform graphics API abstraction library and rendering framework. It is designed to take full advantage of Direct3D12, Vulkan and Metal, while supporting older platforms via Direct3D11, OpenGL and OpenGLES. Diligent Engine exposes common front-end API and uses HLSL as universal shading language on all platforms and rendering back-ends. Platform-specific shader representations (GLSL, MSL, DX bytecode or SPIRV) can be used with corresponding back-ends. The engine is intended to be used as graphics subsystem in a game engine or any other 3D application. It is distributed under Apache 2.0 license and is free to use.
+
+- [QuickJS-Windows-Build](https://github.com/mengmo/QuickJS-Windows-Build/) Build QuickJS on Windows。QuickJS 是一个小型且可嵌入的 Javascript 引擎。它支持 ES2020 规范，包括模块、异步生成器、代理和 BigInt。 它可选地支持数学扩展，例如大十进制浮点数 (BigDecimal)、大二进制浮点数 (BigFloat) 和运算符重载。主要特点：小且易于嵌入：只有几个 C 文件，没有外部依赖，一个简单的 hello world 程序需要 210 KiB 的 x86 代码。 启动时间极短的快速解释器：在台式 PC 的单核上运行 ECMAScript 测试套件的 75000 次测试大约需要 100 秒。运行时实例的完整生命周期在不到 300 微秒内完成。 几乎完整的 ES2020 支持，包括模块、异步生成器和完整的 Annex B 支持（旧版 Web 兼容性）。 选择 ES2020 功能时，几乎 100% 通过 ECMAScript 测试套件测试。 Test262 报告中提供了摘要。 可以将Javascript 源代码编译为没有外部依赖的可执行文件。使用引用计数（以减少内存使用并具有确定性行为）和循环删除的垃圾收集。 数学扩展：BigDecimal、BigFloat、运算符重载、bigint 模式、数学模式。 在 Javascript 中实现上下文着色的命令行解释器。 带有 C 库包装器的小型内置标准库。
+
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1000FPS.This is an open source library for CNN-based face detection in images. The CNN model has been converted to static variables in C source files. The source code does not depend on any other libraries. What you need is just a C++ compiler. You can compile the source code under Windows, Linux, ARM and any platform with a C++ compiler.
+
+- [permo](https://github.com/zjccsg/permo) cpu\memory\net monitor application 性能监控悬浮窗
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
+- [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) 是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser) is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
+- [Keeper](https://github.com/yuanyuanxiang/Keeper) 一种守护程序，可对Windows控制台或任何可执行程序进行守护，在程序崩溃时立即重启程序， 并可向监控终端（远程控制器：RemoteController.exe）定时上报程序的运行状态，例如 运行时长、线程句柄数、内存使用率、崩溃次数、程序版本等信息。
+- [一种基于QR二维码的彩色二维码编码译码设计及其软件实现](https://github.com/yuanyuanxiang/3DCode)。该彩色二维码提升了普通黑白二维码的防伪性能，并且编码量增大到1.5倍。该软件是首都师范大学数学科学学院研究生毕业设计研究的课题，也是研究生创新创业项目所支持的内容之一。彩色QR码兼容QR码，在QR码的图层上用色彩编码私有信息，借助于隐形光学材料，该QR码在肉眼下与普通二维码无异。目前，在Ver30下编码数据量将达到QR码的3倍。
+- [一个Visual C++调用python tensorflow模型进行目标识别的实例](https://github.com/yuanyuanxiang/ObjDetector)。
+- [DIP_System](https://github.com/yuanyuanxiang/DIP_System) 这是一个基于MFC的数字图像处理程序，主要实现了对图像进行灰度变换（曲线、色阶）、几何变换（缩放、旋转）、滤波（空间滤波、频域滤波、FFT）等功能。
+
+- [Free Download Manager](https://github.com/DayBreakZhang/Free-Download-Manager-vs2010)是一款免费的多点续传下载及管理的软件，支持 HTTP, HTTPS and FTP 的下载功能支持直接浏览 FTP 站台的目录
+- [微盾®防火墙](https://github.com/dekuan/VwFirewall)是一款专为 Windows 服务器而开发的专业防火墙软件，能有效提升服务器安全级别，保护服务器免遭入侵。本软件授权个人免费使用，无任何功能限制。
+
+- [Ceres Solver](https://github.com/ceres-solver/ceres-solver) is an open source C++ library for modeling and solving large, complicated optimization problems. It is a feature rich, mature and performant library which has been used in production at Google since 2010. Ceres Solver can solve two kinds of problems.
+
+- [cinatra](https://github.com/qicosmos/cinatra)--一个高效易用的c++ http框架，它是用modern c++(c++20)开发的，它的目标是提供一个快速开发的c++ http框架。它的主要特点如下：统一而简单的接口,header-only, 跨平台, 高效, 支持面向切面编程.cinatra目前支持了http1.1/1.0, ssl和websocket, 你可以用它轻易地开发一个http服务器，比如常见的数据库访问服务器、文件上传下载服务器、实时消息推送服务器，你也可以基于cinatra开发一个mqtt服务器。 cinatra是世界上性能最好的http服务器之一，性能测试详见性能测试.除此之外，cinatra 还提供了一个基于C++20 协程的http(https) client，包括普通get/post请求、文件上传下载和web socket、redirect、proxy等功能。
+
+- xanasoft.com
+  - [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy/)
+  - [NeoLoader Source Code](https://github.com/NeoLoader/NeoLoader)
+  - [Windows update managemetn tool for windows 10](https://github.com/DavidXanatos/wumgr)
+  - [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) is an advanced Task Manager tool with emphasis on, not just monitoring what applications are running, but on finding out what applications are doing. The UI focuses on expedience and getting real time data of what the processes are doing at any given moment. Relevant data are provided in easy to access (as less clicks as possible) panels, with no need to open windows or windows of sub windows, instead additional information’s for selected entries are shown in the lower half of the panel. Allowing to browse the detailed information’s using arrow keys. And most data are refreshed continuously, as seeing the dynamic of values often grants additional insight.
+  - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the Windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing. Sandboxie allows you to create virtually unlimited sandboxes and run them alone or simultaneously to isolate programs from the host and each other, while also allowing you to run as many programs simultaneously in a single box as you wish.
+
+- [Capstone](https://github.com/capstone-engine/capstone) disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
+
+- The [Computational Geometry Algorithms Library (CGAL)](https://github.com/CGAL/cgal) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
+- [args](https://github.com/Taywee/args) A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
+- [spdlog](https://github.com/gabime/spdlog/):Fast C++ logging library.
+
+#### ui
+
+- [microui](https://github.com/rxi/microui) A tiny, portable, immediate-mode UI library written in ANSI C
+- [WebUI](https://webui.me/) Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.[Github](https://github.com/webui-dev/webui)
+- [Clay](https://github.com/nicbarker/clay) (short for C Layout) is a high performance 2D UI layout library
+
+#### Qt
+
+### C sharp
+
+- **[github上有哪些不错的C# .Net项目？](https://www.zhihu.com/question/40683460?sort=created)**
+- [mono](https://github.com/mono/mono) Mono open source ECMA CLI, C# and .NET implementation. 第三方的跨平台的.NET运行环境,在微软的.net框架还只支持WIN平台的时候，mono就已经开始支持Unix, Windows, MacOS甚至IOS,安卓等操作系统了。Mono由Novell公司(由Ximian发起，并由Miguel de lcaza领导的，一个致力于开创.NET在Linux上使用的开源工程。它包含了一个C#语言的编译器，一个CLR的运行时，和一组类库，并实现了 ADO NET和ASP NET。能够使得开发人员在Linux用C#开发程序。)主持的项目.该项目的目标是创建一系列符合标准ECMA (Ecma-334和Ecma-335)的.Net 工具, 包括C #编译器和共同语言(CL 即 Common Language)执行平台(Platform).与微软的.Net不同, Mono项目不仅可以运行于Windows系统内,还可以运行于Linux, FreeBSD, Unix, Mac OS X和Solaris。
+- [ServiceStack](https://github.com/ServiceStack/ServiceStack) ServiceStack 是能同时运行于 .Net 和 Mono 上的开源web框架，它是开发 Web 服务与 Web 应用的有力替代品：包含高性能 Razor Engine 的 Web 应用框架,支持例如 HTML，XML，JSON，SOAP 等多种格式的基于消息的 Web 服务框架,包含内建 IOC 的容器,若干内建库文件，诸如：Text serializer，Redis Client，ORM 以及 caching providers,除了 ASP.NET Hosting 和 Mono Hosting 之外，还包含 self-hosting 选项
+- [Nancy](https://github.com/NancyFx/Nancy) Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono .Nancy是一个轻量，高效的基于http 服务的框架，它能用来快迅而优雅的处理DELETE,GET,POST,OPTIONS,POST,PUT与PATCH请求。让开发者更加专注于其它业务及更重要的内容。 同样。Nancy能同时运行于.NET与MONO平台。
+- [Hawk](https://github.com/ferventdesert/Hawk) visualized crawler & ETL IDE written with C#/WPF
+- [lively](https://github.com/rocksdanister/lively) Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. <https://www.rocksdanister.com/lively/>
+- [Tai](https://github.com/Planshit/Tai):在Windows上统计软件使用时长和网站浏览时长
+- [Shion](https://github.com/shion-app/shion) is a time tracking software that records fragments of your daily life
+- [OpenTrace](https://github.com/Archeb/opentrace) A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+
+#### WPF
+
+- [HandyControl](https://github.com/HandyOrg/HandyControl)是一套WPF控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件 [gitee](https://gitee.com/handyorg/HandyControl/)
+
+#### .NET Core
+
+- [ASP.NET Core学习项目汇总，入门项目+通用权限管理+超全C#帮助类！！](https://mp.weixin.qq.com/s?__biz=MzIxNjIwNzQ5Mw==&mid=502276804&idx=1&sn=7925d916c13a1ba828c09f8356a60c9f&chksm=0f881b2e38ff9238fd352c7fd3ca00edefec73d7d421754ed5895dc69087c621869a2332b9dd#rd)
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) A collection of awesome .NET libraries, tools, frameworks and software
+- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) Inspired by awesome, awesome-dotnet, awesome-nodejs, frontend-dev-bookmarks.🐝 A collection of awesome .NET core libraries, tools, frameworks and software
+- [awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
+
+### python
+
+- [vinta /awesome-python](https://github.com/vinta/awesome-python)
+- [python / cpython](https://github.com/python/cpython) The Python programming language homepage
+- [spyder-ide /spyder](https://github.com/spyder-ide/spyder) Official repository for Spyder - The Scientific Python Development Environment. For more detail...[homepahe](https://www.spyder-ide.org/)
+- [Minecraft](https://github.com/fogleman/Minecraft) Simple Minecraft-inspired program using Python and Pyglet
+- <https://github.com/chrisalbon/code_py> A collection of well-commented code snippets for data science
+- [pygame](https://www.pygame.org)
+- NumPy
+  - [官网](http://www.numpy.org/)
+  - [源代码](https://github.com/numpy/numpy)
+  - [菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)
+- SciPy
+  - [官网](https://www.scipy.org/)
+  - [源代码](https://github.com/scipy/scipy)
+- matplot
+  - [官网](https://matplotlib.org/)
+  - [源代码](https://github.com/matplotlib/matplotlib)
+  - [教程](https://www.runoob.com/matplotlib/matplotlib-tutorial.html)
+- pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
+  - [官网](https://pandas.pydata.org/)
+  - [源代码](https://github.com/pandas-dev/pandas)
+  - [教程](https://www.runoob.com/pandas/pandas-tutorial.html)
+- [spyder](https://www.spyder-ide.org/)is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.[github](https://github.com/spyder-ide/spyder)
+- [MarkItDown](https://github.com/microsoft/markitdown) Python tool for converting files and office documents to Markdown.
+- [pyenv](https://github.com/pyenv/pyenv)是一个Python版本管理工具，允许用户在同一台机器上安装并切换多个Python版本。它通过修改环境变量实现版本隔离，适用于开发、测试或兼容性需求。[Windows版本](https://github.com/pyenv-win/pyenv-win)
+- PyQt
+  - [官网](https://riverbankcomputing.com/)
+  - [教程](https://www.runoob.com/python3/python-pyqt.html)
+
+### [Taichi](https://www.taichi-lang.org/)
+
+- [Taichi](https://github.com/taichi-dev/taichi) Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.Productive, portable, and performant GPU programming in Python.
+
+## OpenCv
+
+- [opencv](https://github.com/opencv/opencv) Open Source Computer Vision Library
+- [OpenCvSharp](https://github.com/shimat/opencvsharp) OpenCV wrapper for .NET
+- [OpenCvSharp Documented Class Library](https://shimat.github.io/opencvsharp_docs/html/d69c29a1-7fb1-4f78-82e9-79be971c3d03.htm)
+- [OpenCV3编程入门](https://github.com/QianMo/OpenCV3-Intro-Book-Src) 📘《OpenCV3编程入门》书本配套源码 |《Introduction to OpenCV3 Programming》Book Source Code
+- [GOMfcTemplate2](https://github.com/jsxyhelu/GOMfcTemplate2): 编写带界面的图像处理程序，选择opencv+mfc是一种很好的选择
+
+- [aidlearning /AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)AidLearning is a mobile AI development platform that supports all mainstream development frameworks and tools for deep learning and neural networks. It has a unique cpu+gpu acceleration technology, that brings a significant boost on performance of deep-learning algorithm by the built-in tflite_gpu module. At the same time, AidLearning also provides developers with popular development tools, such as VSCode and Jupiter Notebook. 在移动端（Android）上构架了一个支持图形化界面的完整Linux系统，内置了最为流行的深度学习框架caffe/mxnet/keras/pytorch/tensorflow/ncnn/opencv…内置了可视化AI开发编辑器，内置了最为流行的VSCode、Jupyter等编程工具，支持触摸拖拽式界面设计，支持代码动态调试和运行。支持在移动端和PC端用python开发你的AI应用，支持把你的python源码转化为APP（Apk）发布
+
+## [Android](https://github.com/android)
+
+- [termux/termux-app](https://github.com/termux/termux-app)Android terminal and Linux environment - app repository.
+- [Universal Android Music Player Sample](https://github.com/android/uamp) A sample audio app for Android
+- [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) ADB in your browser [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
+- [《第一行代码 第2版》全书源代码](https://github.com/guolindev/booksource)
+
+## 图形图像/Computer Vision
+
+- [andrewssobral /lrslibrary](https://github.com/andrewssobral/lrslibrary)Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. language: matlab
+- [andrewssobral /bgslibrary](https://github.com/andrewssobral/bgslibrary)A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT
+- [GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer) Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
+
+## Machine Learning
+
+- [tutorials](https://github.com/MorvanZhou/tutorials) 机器学习相关教程
+- [sjwhitworth /golearn](https://github.com/sjwhitworth/golearn)Machine Learning for Go
+- [oboticcam /machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
+- [Minerva](https://github.com/dmlc/minerva): a fast and flexible system for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.
+- [libdnn](https://github.com/poweic/libdnn) A lightweight and user friendly C++ library for deep and convolutional neural network with GPU acceleration. libdnn 是一個輕量、好讀、人性化的深層學習函式庫。由 C++ 和 CUDA 撰寫而成，目的是讓開發人員、研究人員、或任何有興趣的人都可以輕鬆體驗並駕馭深層學習所帶來的威力
+- [NeuralTalk](https://github.com/karpathy/neuraltalk)  is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+- [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.<https://mxnet.apache.org/>
+- [DIGITS](https://github.com/NVIDIA/DIGITS)  (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.<https://developer.nvidia.com/digits>
+- [Dlib](http://dlib.net/) is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments. Dlib's open source licensing allows you to use it in any application, free of charge. [Github](https://github.com/davisking/dlib)
+
+## RSS
+
+- [DIYgod /RSSHub](https://github.com/DIYgod/RSSHub) Everything is RSSible.RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容
+- [folo](https://github.com/RSSNext/Folo/)
+
+## Google
+
+### Chromium
+
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
+
+## 游戏
+
+- [Craft](https://github.com/fogleman/Craft) A simple Minecraft clone written in C using modern OpenGL (shaders). <http://www.michaelfogleman.com/craft/> Minecraft clone for Windows, Mac OS X and Linux. Just a few thousand lines of C using modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
+- [QSanguosha](https://github.com/Mogara/QSanguosha) An open source online version of the famous board game Sanguosha. <http://www.qsanguosha.org/>
+- [REDALERT 红警](https://github.com/electronicarts/CnC_Remastered_Collection)
+- [warriorjs](https://github.com/olistic/warriorjs) 🏰 An exciting game of programming and Artificial Intelligence
+- [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. [website](http://powdertoy.co.uk/)
+- [VCMI](https://github.com/vcmi/vcmi) is an open-source recreation of Heroes of Might & Magic III engine, giving it new and extended possibilities. Homepage: https://vcmi.eu/
+
+## 其他
+
+- [malagis-desktop](https://github.com/sailor103/malagis-desktop) 麻辣GIS桌面版-一个小型的GIS原型绘图系统 <http://malagis.com/vc-development-of-gis-systems-tutorial-summary.html>
+
+- [Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理）
+- [MCM-ICM](https://github.com/dick20/MCM-ICM) 2004-2020美赛O奖论文
+- [npgmcm2015](https://github.com/yuanyuanxiang/npgmcm2015) 2015年全国研究生数学建模竞赛B题《数据的多流形结构分析》论文及附件。
+
+- [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
+
+- [Ventoy](https://github.com/ventoy/Ventoy) A new bootable USB solution.Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.<https://www.ventoy.net>
+
+- [sandboxie](https://github.com/sandboxie/sandboxie) The Sandboxie application
+
+- [Redis](https://github.com/redis/redis) is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. <http://redis.io/>
+
+
+
+- [twikoo](https://github.com/imaegoo/twikoo) 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system. demo： <https://twikoo.js.org/>
+
+- [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) 微软系统维护免费小工具合集 [Sysinternals on Github](https://github.com/Sysinternals)
+
+- [x64dbg](https://x64dbg.com/) [on Github](https://github.com/x64dbg/x64dbg)/[on sourceforge.net](https://sourceforge.net/projects/x64dbg/files/snapshots/): An open-source x64/x32 user mode debugger for Windows. Optimized for reverse engineering and malware analysis. [blog](https://x64dbg.com/blog/)
