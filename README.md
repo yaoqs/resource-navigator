@@ -661,6 +661,7 @@ unsorted
 
 ### AI工具箱
 
+- [agent-qa](https://vostride.com/) 自然语言 Web、Android 和 iOS 测试工具，支持 CLI/MCP、memidex 持久记忆、经验证的自我改进与可审查的运行证据。
 - [ChatALL](https://github.com/ai-shifu/ChatALL) Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ChatWise](https://www.iplaysoft.com/chatwise.html) - 小巧速度快！全功能 AI 助手客户端 (支持 DeepSeek / OpenAI 等模型 API)
 - [边界AICHAT](https://tg.ai1foo.com/) 集百家AI模型于一身 [小众软件](https://www.appinn.com/aichat4-0/)
